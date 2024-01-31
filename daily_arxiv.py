@@ -349,20 +349,20 @@ def json_to_md(filename,md_filename,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
+                     f"contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/XuranMeng/"
                      f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/XuranMeng/"
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
+            f.write((f"[forks-url]: https://github.com/XuranMeng/"
                      f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/XuranMeng/"
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
+            f.write((f"[stars-url]: https://github.com/XuranMeng/"
                      f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/XuranMeng/"
                      f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
+            f.write((f"[issues-url]: https://github.com/XuranMeng/"
                      f"cv-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
