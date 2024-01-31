@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "XuranMeng"
-repo_name: "cv-arxiv-daily"
+repo_name: "arxivdaily"
 show_authors: True
 show_links: True
 show_badge: True
@@ -9,7 +9,7 @@ max_results: 100
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
 json_readme_path: './docs/cv-arxiv-daily.json'
