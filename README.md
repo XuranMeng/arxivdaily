@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -128,7 +128,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240202>back to top</a>)</p>
 
 ## Transformer
 
@@ -239,13 +239,13 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240202>back to top</a>)</p>
 
 ## Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|**[link](https://github.com/jaabmar/private-pgd)**|
+|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|null|
 |**2024-01-31**|**Convergence analysis of t-SNE as a gradient flow for point cloud on a manifold**|Seonghyeon Jeong et.al.|[2401.17675](http://arxiv.org/abs/2401.17675)|null|
 |**2024-01-31**|**An attempt to generate new bridge types from latent space of energy-based model**|Hongjun Zhang et.al.|[2401.17657](http://arxiv.org/abs/2401.17657)|**[link](https://github.com/QQ583304953/Bridge-EBM)**|
 |**2024-01-30**|**Step-size Optimization for Continual Learning**|Thomas Degris et.al.|[2401.17401](http://arxiv.org/abs/2401.17401)|null|
@@ -286,7 +286,7 @@
 |**2024-01-20**|**Data-Driven Target Localization: Benchmarking Gradient Descent Using the Cramér-Rao Bound**|Shyam Venkatasubramanian et.al.|[2401.11176](http://arxiv.org/abs/2401.11176)|null|
 |**2024-01-19**|**Early alignment in two-layer networks training is a two-edged sword**|Etienne Boursier et.al.|[2401.10791](http://arxiv.org/abs/2401.10791)|**[link](https://github.com/eboursier/early_alignment)**|
 |**2024-01-19**|**Optimal Sensor Allocation with Multiple Linear Dispersion Processes**|Xinchao Liu et.al.|[2401.10437](http://arxiv.org/abs/2401.10437)|null|
-|**2024-01-22**|**Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning**|Eli Chien et.al.|[2401.10371](http://arxiv.org/abs/2401.10371)|null|
+|**2024-02-01**|**Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning**|Eli Chien et.al.|[2401.10371](http://arxiv.org/abs/2401.10371)|null|
 |**2024-01-18**|**A Kaczmarz-inspired approach to accelerate the optimization of neural network wavefunctions**|Gil Goldshlager et.al.|[2401.10190](http://arxiv.org/abs/2401.10190)|null|
 |**2024-01-17**|**Randomized Kaczmarz with geometrically smoothed momentum**|Seth J. Alderman et.al.|[2401.09415](http://arxiv.org/abs/2401.09415)|null|
 |**2024-01-17**|**Asynchronous Local-SGD Training for Language Modeling**|Bo Liu et.al.|[2401.09135](http://arxiv.org/abs/2401.09135)|**[link](https://github.com/google-deepmind/asyncdiloco)**|
@@ -354,7 +354,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240202>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -462,13 +462,13 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240202>back to top</a>)</p>
 
 ## Machine Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|**[link](https://github.com/jaabmar/private-pgd)**|
+|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|null|
 |**2024-01-31**|**Convergence analysis of t-SNE as a gradient flow for point cloud on a manifold**|Seonghyeon Jeong et.al.|[2401.17675](http://arxiv.org/abs/2401.17675)|null|
 |**2024-01-31**|**An attempt to generate new bridge types from latent space of energy-based model**|Hongjun Zhang et.al.|[2401.17657](http://arxiv.org/abs/2401.17657)|**[link](https://github.com/QQ583304953/Bridge-EBM)**|
 |**2024-01-30**|**Step-size Optimization for Continual Learning**|Thomas Degris et.al.|[2401.17401](http://arxiv.org/abs/2401.17401)|null|
@@ -511,7 +511,7 @@
 |**2024-01-20**|**Data-Driven Target Localization: Benchmarking Gradient Descent Using the Cramér-Rao Bound**|Shyam Venkatasubramanian et.al.|[2401.11176](http://arxiv.org/abs/2401.11176)|null|
 |**2024-01-19**|**Early alignment in two-layer networks training is a two-edged sword**|Etienne Boursier et.al.|[2401.10791](http://arxiv.org/abs/2401.10791)|**[link](https://github.com/eboursier/early_alignment)**|
 |**2024-01-19**|**Optimal Sensor Allocation with Multiple Linear Dispersion Processes**|Xinchao Liu et.al.|[2401.10437](http://arxiv.org/abs/2401.10437)|null|
-|**2024-01-22**|**Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning**|Eli Chien et.al.|[2401.10371](http://arxiv.org/abs/2401.10371)|null|
+|**2024-02-01**|**Langevin Unlearning: A New Perspective of Noisy Gradient Descent for Machine Unlearning**|Eli Chien et.al.|[2401.10371](http://arxiv.org/abs/2401.10371)|null|
 |**2024-01-18**|**A Kaczmarz-inspired approach to accelerate the optimization of neural network wavefunctions**|Gil Goldshlager et.al.|[2401.10190](http://arxiv.org/abs/2401.10190)|null|
 |**2024-01-17**|**SMOOTHIE: A Theory of Hyper-parameter Optimization for Software Analytics**|Rahul Yedida et.al.|[2401.09622](http://arxiv.org/abs/2401.09622)|**[link](https://github.com/yrahul3910/smoothness-hpo)**|
 |**2024-01-17**|**Randomized Kaczmarz with geometrically smoothed momentum**|Seth J. Alderman et.al.|[2401.09415](http://arxiv.org/abs/2401.09415)|null|
@@ -577,7 +577,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|null|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240202>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -605,7 +605,7 @@
 |**2024-01-30**|**Extrinsicaly Rewarded Soft Q Imitation Learning with Discriminator**|Ryoma Furuyama et.al.|[2401.16772](http://arxiv.org/abs/2401.16772)|null|
 |**2024-01-30**|**Gradient-Based Language Model Red Teaming**|Nevan Wichers et.al.|[2401.16656](http://arxiv.org/abs/2401.16656)|**[link](https://github.com/google-research/google-research)**|
 |**2024-01-30**|**Augmenting Replay in World Models for Continual Reinforcement Learning**|Luke Yang et.al.|[2401.16650](http://arxiv.org/abs/2401.16650)|**[link](https://github.com/cerenaut/wmar)**|
-|**2024-01-30**|**IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion**|Bolun Li et.al.|[2401.16637](http://arxiv.org/abs/2401.16637)|**[link](https://github.com/libolun-star/ircoco)**|
+|**2024-02-01**|**IRCoCo: Immediate Rewards-Guided Deep Reinforcement Learning for Code Completion**|Bolun Li et.al.|[2401.16637](http://arxiv.org/abs/2401.16637)|**[link](https://github.com/libolun-star/ircoco)**|
 |**2024-01-30**|**Improving Reinforcement Learning from Human Feedback with Efficient Reward Model Ensemble**|Shun Zhang et.al.|[2401.16635](http://arxiv.org/abs/2401.16635)|null|
 |**2024-01-29**|**A comparison of RL-based and PID controllers for 6-DOF swimming robots: hybrid underwater object tracking**|Faraz Lotfi et.al.|[2401.16618](http://arxiv.org/abs/2401.16618)|**[link](https://github.com/farazlotfi/underwater-object-tracking)**|
 |**2024-01-29**|**Attention-based Reinforcement Learning for Combinatorial Optimization: Application to Job Shop Scheduling Problem**|Jaejin Lee et.al.|[2401.16580](http://arxiv.org/abs/2401.16580)|null|
@@ -621,7 +621,7 @@
 |**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183](http://arxiv.org/abs/2401.16183)|null|
 |**2024-01-31**|**Future Impact Decomposition in Request-level Recommendations**|Xiaobei Wang et.al.|[2401.16108](http://arxiv.org/abs/2401.16108)|null|
 |**2024-01-29**|**Emergence of cooperation under punishment: A reinforcement learning perspective**|Chenyang Zhao et.al.|[2401.16073](http://arxiv.org/abs/2401.16073)|null|
-|**2024-01-29**|**SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning**|Jianlan Luo et.al.|[2401.16013](http://arxiv.org/abs/2401.16013)|null|
+|**2024-02-01**|**SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning**|Jianlan Luo et.al.|[2401.16013](http://arxiv.org/abs/2401.16013)|null|
 |**2024-01-29**|**A Deep Q-Network Based on Radial Basis Functions for Multi-Echelon Inventory Management**|Liqiang Cheng et.al.|[2401.15872](http://arxiv.org/abs/2401.15872)|null|
 |**2024-01-29**|**Look Around! Unexpected gains from training on environments in the vicinity of the target**|Serena Bono et.al.|[2401.15856](http://arxiv.org/abs/2401.15856)|null|
 |**2024-01-29**|**Attentive Convolutional Deep Reinforcement Learning for Optimizing Solar-Storage Systems in Real-Time Electricity Markets**|Jinhao Li et.al.|[2401.15853](http://arxiv.org/abs/2401.15853)|null|
@@ -714,7 +714,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
