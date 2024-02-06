@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.05
+## Updated on 2024.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -157,7 +157,7 @@ layout: default
 |**2024-01-23**|**CIS-UNet: Multi-Class Segmentation of the Aorta in Computed Tomography Angiography via Context-Aware Shifted Window Self-Attention**|Muhammad Imran et.al.|[2401.13049](http://arxiv.org/abs/2401.13049)|null|
 |**2024-01-23**|**EL-VIT: Probing Vision Transformer with Interactive Visualization**|Hong Zhou et.al.|[2401.12666](http://arxiv.org/abs/2401.12666)|null|
 |**2024-01-24**|**Anisotropy Is Inherent to Self-Attention in Transformers**|Nathan Godey et.al.|[2401.12143](http://arxiv.org/abs/2401.12143)|null|
-|**2024-01-22**|**The Bigger the Better? Rethinking the Effective Model Scale in Long-term Time Series Forecasting**|Jinliang Deng et.al.|[2401.11929](http://arxiv.org/abs/2401.11929)|null|
+|**2024-02-03**|**The Bigger the Better? Rethinking the Effective Model Scale in Long-term Time Series Forecasting**|Jinliang Deng et.al.|[2401.11929](http://arxiv.org/abs/2401.11929)|null|
 |**2024-01-24**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859](http://arxiv.org/abs/2401.11859)|**[link](https://github.com/sad192/large-kernel-transformer)**|
 |**2024-01-23**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687](http://arxiv.org/abs/2401.11687)|null|
 |**2024-01-22**|**OnDev-LCT: On-Device Lightweight Convolutional Transformers towards federated learning**|Chu Myaet Thwal et.al.|[2401.11652](http://arxiv.org/abs/2401.11652)|null|
@@ -202,7 +202,7 @@ layout: default
 |**2024-01-08**|**Distilling Temporal Knowledge with Masked Feature Reconstruction for 3D Object Detection**|Haowen Zheng et.al.|[2401.01918](http://arxiv.org/abs/2401.01918)|null|
 |**2024-01-15**|**A Hybrid Neural Network Model For Predicting The Nitrate Concentration In The Recirculating Aquaculture System**|Xiangyu Fan et.al.|[2401.01491](http://arxiv.org/abs/2401.01491)|null|
 |**2024-01-02**|**SwapTransformer: highway overtaking tactical planner model via imitation learning on OSHA dataset**|Alireza Shamsoshoara et.al.|[2401.01425](http://arxiv.org/abs/2401.01425)|**[link](https://github.com/vwieccresearch/swaptransformer)**|
-|**2024-01-02**|**LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning**|Hongye Jin et.al.|[2401.01325](http://arxiv.org/abs/2401.01325)|null|
+|**2024-02-03**|**LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning**|Hongye Jin et.al.|[2401.01325](http://arxiv.org/abs/2401.01325)|null|
 |**2024-01-02**|**YOLO algorithm with hybrid attention feature pyramid network for solder joint defect detection**|Li Ang et.al.|[2401.01214](http://arxiv.org/abs/2401.01214)|null|
 |**2024-01-02**|**Enhancing Automatic Modulation Recognition through Robust Global Feature Extraction**|Yunpeng Qu et.al.|[2401.01056](http://arxiv.org/abs/2401.01056)|null|
 |**2024-01-10**|**Accurate Leukocyte Detection Based on Deformable-DETR and Multi-Level Feature Fusion for Aiding Diagnosis of Blood Diseases**|Yifei Chen et.al.|[2401.00926](http://arxiv.org/abs/2401.00926)|**[link](https://github.com/justlfc03/mfds-detr)**|
@@ -293,7 +293,7 @@ layout: default
 |**2024-01-22**|**A Precise Characterization of SGD Stability Using Loss Surface Geometry**|Gregory Dexter et.al.|[2401.12332](http://arxiv.org/abs/2401.12332)|null|
 |**2024-01-22**|**Accelerating Continuous Variable Coherent Ising Machines via Momentum**|Robin Brown et.al.|[2401.12135](http://arxiv.org/abs/2401.12135)|**[link](https://github.com/secquoia/continuous-cim)**|
 |**2024-01-22**|**The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization**|Matan Schliserman et.al.|[2401.12058](http://arxiv.org/abs/2401.12058)|null|
-|**2024-01-22**|**Low-Tubal-Rank Tensor Recovery via Factorized Gradient Descent**|Zhiyu Liu et.al.|[2401.11940](http://arxiv.org/abs/2401.11940)|null|
+|**2024-02-03**|**Low-Tubal-Rank Tensor Recovery via Factorized Gradient Descent**|Zhiyu Liu et.al.|[2401.11940](http://arxiv.org/abs/2401.11940)|null|
 |**2024-01-22**|**LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning**|Xunkai Li et.al.|[2401.11772](http://arxiv.org/abs/2401.11772)|**[link](https://github.com/xkli-allen/lightdic)**|
 |**2024-01-20**|**Decentralized Optimization in Networks with Arbitrary Delays**|Tomas Ortega et.al.|[2401.11344](http://arxiv.org/abs/2401.11344)|null|
 |**2024-01-20**|**Long-Term Fair Decision Making through Deep Generative Models**|Yaowei Hu et.al.|[2401.11288](http://arxiv.org/abs/2401.11288)|**[link](https://github.com/yaoweihu/generative-models-for-fairness)**|
@@ -531,7 +531,7 @@ layout: default
 |**2024-01-22**|**A Precise Characterization of SGD Stability Using Loss Surface Geometry**|Gregory Dexter et.al.|[2401.12332](http://arxiv.org/abs/2401.12332)|null|
 |**2024-01-22**|**Accelerating Continuous Variable Coherent Ising Machines via Momentum**|Robin Brown et.al.|[2401.12135](http://arxiv.org/abs/2401.12135)|**[link](https://github.com/secquoia/continuous-cim)**|
 |**2024-01-22**|**The Dimension Strikes Back with Gradients: Generalization of Gradient Methods in Stochastic Convex Optimization**|Matan Schliserman et.al.|[2401.12058](http://arxiv.org/abs/2401.12058)|null|
-|**2024-01-22**|**Low-Tubal-Rank Tensor Recovery via Factorized Gradient Descent**|Zhiyu Liu et.al.|[2401.11940](http://arxiv.org/abs/2401.11940)|null|
+|**2024-02-03**|**Low-Tubal-Rank Tensor Recovery via Factorized Gradient Descent**|Zhiyu Liu et.al.|[2401.11940](http://arxiv.org/abs/2401.11940)|null|
 |**2024-01-22**|**LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning**|Xunkai Li et.al.|[2401.11772](http://arxiv.org/abs/2401.11772)|**[link](https://github.com/xkli-allen/lightdic)**|
 |**2024-01-21**|**Understanding the Generalization Benefits of Late Learning Rate Decay**|Yinuo Ren et.al.|[2401.11600](http://arxiv.org/abs/2401.11600)|null|
 |**2024-01-20**|**Decentralized Optimization in Networks with Arbitrary Delays**|Tomas Ortega et.al.|[2401.11344](http://arxiv.org/abs/2401.11344)|null|
@@ -674,7 +674,7 @@ layout: default
 |**2024-01-29**|**A comparison of RL-based and PID controllers for 6-DOF swimming robots: hybrid underwater object tracking**|Faraz Lotfi et.al.|[2401.16618](http://arxiv.org/abs/2401.16618)|**[link](https://github.com/farazlotfi/underwater-object-tracking)**|
 |**2024-01-29**|**Attention-based Reinforcement Learning for Combinatorial Optimization: Application to Job Shop Scheduling Problem**|Jaejin Lee et.al.|[2401.16580](http://arxiv.org/abs/2401.16580)|null|
 |**2024-01-29**|**RL-Based Hyperparameter Selection for Spectrum Sensing With CNNs**|Amir Mehrabian et.al.|[2401.16530](http://arxiv.org/abs/2401.16530)|null|
-|**2024-01-29**|**Context-Former: Stitching via Latent Conditioned Sequence Modeling**|Ziqi Zhang et.al.|[2401.16452](http://arxiv.org/abs/2401.16452)|null|
+|**2024-02-03**|**Context-Former: Stitching via Latent Conditioned Sequence Modeling**|Ziqi Zhang et.al.|[2401.16452](http://arxiv.org/abs/2401.16452)|null|
 |**2024-01-28**|**AI in Energy Digital Twining: A Reinforcement Learning-based Adaptive Digital Twin Model for Green Cities**|Lal Verda Cakir et.al.|[2401.16449](http://arxiv.org/abs/2401.16449)|null|
 |**2024-01-28**|**Enhancing Human Experience in Human-Agent Collaboration: A Human-Centered Modeling Approach Based on Positive Human Gain**|Yiming Gao et.al.|[2401.16444](http://arxiv.org/abs/2401.16444)|null|
 |**2024-01-29**|**Curriculum-Based Reinforcement Learning for Quadrupedal Jumping: A Reference-free Design**|Vassil Atanassov et.al.|[2401.16337](http://arxiv.org/abs/2401.16337)|null|
