@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.06
+## Updated on 2024.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -156,7 +156,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
 
 ## Transformer
 
@@ -277,7 +277,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
 
 ## Optimization
 
@@ -355,7 +355,7 @@
 |**2024-02-01**|**GD doesn't make the cut: Three ways that non-differentiability affects neural network training**|Siddharth Krishna Kumar et.al.|[2401.08426](http://arxiv.org/abs/2401.08426)|null|
 |**2024-01-16**|**Fundamental Convergence Analysis of Sharpness-Aware Minimization**|Pham Duy Khanh et.al.|[2401.08060](http://arxiv.org/abs/2401.08060)|null|
 |**2024-01-18**|**Differentiation of Linear Optical Circuits**|Giovanni de Felice et.al.|[2401.07997](http://arxiv.org/abs/2401.07997)|null|
-|**2024-01-15**|**The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise**|Shuze Liu et.al.|[2401.07844](http://arxiv.org/abs/2401.07844)|null|
+|**2024-02-06**|**The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise**|Shuze Liu et.al.|[2401.07844](http://arxiv.org/abs/2401.07844)|null|
 |**2024-01-15**|**Optimal experimental design via gradient flow**|Ruhui Jin et.al.|[2401.07806](http://arxiv.org/abs/2401.07806)|null|
 |**2024-01-14**|**Stabilizing Sharpness-aware Minimization Through A Simple Renormalization Strategy**|Chengli Tan et.al.|[2401.07250](http://arxiv.org/abs/2401.07250)|null|
 |**2024-01-13**|**An ADRC-Incorporated Stochastic Gradient Descent Algorithm for Latent Factor Analysis**|Jinli Li et.al.|[2401.07012](http://arxiv.org/abs/2401.07012)|null|
@@ -415,7 +415,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -526,7 +526,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -611,7 +611,7 @@
 |**2024-02-01**|**GD doesn't make the cut: Three ways that non-differentiability affects neural network training**|Siddharth Krishna Kumar et.al.|[2401.08426](http://arxiv.org/abs/2401.08426)|null|
 |**2024-01-16**|**Fundamental Convergence Analysis of Sharpness-Aware Minimization**|Pham Duy Khanh et.al.|[2401.08060](http://arxiv.org/abs/2401.08060)|null|
 |**2024-01-18**|**Differentiation of Linear Optical Circuits**|Giovanni de Felice et.al.|[2401.07997](http://arxiv.org/abs/2401.07997)|null|
-|**2024-01-15**|**The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise**|Shuze Liu et.al.|[2401.07844](http://arxiv.org/abs/2401.07844)|null|
+|**2024-02-06**|**The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise**|Shuze Liu et.al.|[2401.07844](http://arxiv.org/abs/2401.07844)|null|
 |**2024-01-15**|**Optimal experimental design via gradient flow**|Ruhui Jin et.al.|[2401.07806](http://arxiv.org/abs/2401.07806)|null|
 |**2024-01-14**|**Stabilizing Sharpness-aware Minimization Through A Simple Renormalization Strategy**|Chengli Tan et.al.|[2401.07250](http://arxiv.org/abs/2401.07250)|null|
 |**2024-01-13**|**An ADRC-Incorporated Stochastic Gradient Descent Algorithm for Latent Factor Analysis**|Jinli Li et.al.|[2401.07012](http://arxiv.org/abs/2401.07012)|null|
@@ -667,7 +667,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|null|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -690,7 +690,7 @@
 |**2024-02-05**|**Deep autoregressive density nets vs neural ensembles for model-based offline reinforcement learning**|Abdelhakim Benechehab et.al.|[2402.02858](http://arxiv.org/abs/2402.02858)|null|
 |**2024-02-05**|**Non-asymptotic Analysis of Biased Adaptive Stochastic Approximation**|Sobihan Surendran et.al.|[2402.02857](http://arxiv.org/abs/2402.02857)|null|
 |**2024-02-05**|**Contrastive Diffuser: Planning Towards High Return States via Contrastive Learning**|Yixiang Shan et.al.|[2402.02772](http://arxiv.org/abs/2402.02772)|null|
-|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|null|
+|**2024-02-05**|**Learning from Teaching Regularization: Generalizable Correlations Should be Easy to Imitate**|Can Jin et.al.|[2402.02769](http://arxiv.org/abs/2402.02769)|**[link](https://github.com/jincan333/lot)**|
 |**2024-02-05**|**Crosstalk Attacks and Defence in a Shared Quantum Computing Environment**|Benjamin Harper et.al.|[2402.02753](http://arxiv.org/abs/2402.02753)|null|
 |**2024-02-05**|**Understanding What Affects Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence**|Jiafei Lyu et.al.|[2402.02701](http://arxiv.org/abs/2402.02701)|null|
 |**2024-02-05**|**Sample Complexity Characterization for Linear Contextual MDPs**|Junze Deng et.al.|[2402.02700](http://arxiv.org/abs/2402.02700)|null|
@@ -894,7 +894,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
