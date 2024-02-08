@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.07
+## Updated on 2024.02.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -160,7 +160,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240208>back to top</a>)</p>
 
 ## Transformer
 
@@ -287,7 +287,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240208>back to top</a>)</p>
 
 ## Optimization
 
@@ -333,7 +333,7 @@
 |**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183](http://arxiv.org/abs/2401.16183)|null|
 |**2024-01-29**|**A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery**|Yuanwei Zhang et.al.|[2401.15925](http://arxiv.org/abs/2401.15925)|null|
 |**2024-01-28**|**Low-resolution Prior Equilibrium Network for CT Reconstruction**|Yijie Yang et.al.|[2401.15663](http://arxiv.org/abs/2401.15663)|null|
-|**2024-01-28**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
+|**2024-02-06**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
 |**2024-01-26**|**Training Differentially Private Ad Prediction Models with Semi-Sensitive Features**|Lynn Chua et.al.|[2401.15246](http://arxiv.org/abs/2401.15246)|null|
 |**2024-02-01**|**Probabilistic Design of Multi-Dimensional Spatially-Coupled Codes**|Canberk İrimağzı et.al.|[2401.15166](http://arxiv.org/abs/2401.15166)|null|
 |**2024-01-25**|**Optimal Potential Shaping on SE(3) via Neural ODEs on Lie Groups**|Yannik P. Wotte et.al.|[2401.15107](http://arxiv.org/abs/2401.15107)|null|
@@ -431,7 +431,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240208>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -542,7 +542,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240208>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -594,7 +594,7 @@
 |**2024-01-29**|**Scalable Reinforcement Learning for Linear-Quadratic Control of Networks**|Johan Olsson et.al.|[2401.16183](http://arxiv.org/abs/2401.16183)|null|
 |**2024-01-29**|**A Single-Mode Quasi Riemannian Gradient Descent Algorithm for Low-Rank Tensor Recovery**|Yuanwei Zhang et.al.|[2401.15925](http://arxiv.org/abs/2401.15925)|null|
 |**2024-01-28**|**Low-resolution Prior Equilibrium Network for CT Reconstruction**|Yijie Yang et.al.|[2401.15663](http://arxiv.org/abs/2401.15663)|null|
-|**2024-01-28**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
+|**2024-02-06**|**Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization**|Yinbin Han et.al.|[2401.15604](http://arxiv.org/abs/2401.15604)|null|
 |**2024-01-26**|**Training Differentially Private Ad Prediction Models with Semi-Sensitive Features**|Lynn Chua et.al.|[2401.15246](http://arxiv.org/abs/2401.15246)|null|
 |**2024-02-01**|**Probabilistic Design of Multi-Dimensional Spatially-Coupled Codes**|Canberk İrimağzı et.al.|[2401.15166](http://arxiv.org/abs/2401.15166)|null|
 |**2024-01-25**|**Optimal Potential Shaping on SE(3) via Neural ODEs on Lie Groups**|Yannik P. Wotte et.al.|[2401.15107](http://arxiv.org/abs/2401.15107)|null|
@@ -692,7 +692,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|null|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240208>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -761,7 +761,7 @@
 |**2024-02-04**|**Towards an Information Theoretic Framework of Context-Based Offline Meta-Reinforcement Learning**|Lanqing Li et.al.|[2402.02429](http://arxiv.org/abs/2402.02429)|null|
 |**2024-02-04**|**Uni-RLHF: Universal Platform and Benchmark Suite for Reinforcement Learning with Diverse Human Feedback**|Yifu Yuan et.al.|[2402.02423](http://arxiv.org/abs/2402.02423)|null|
 |**2024-02-06**|**Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**|Jiaming Ji et.al.|[2402.02416](http://arxiv.org/abs/2402.02416)|null|
-|**2024-02-04**|**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**|Jiacheng Chen et.al.|[2402.02355](http://arxiv.org/abs/2402.02355)|**[link](https://github.com/gmc-drl/symbol)**|
+|**2024-02-07**|**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**|Jiacheng Chen et.al.|[2402.02355](http://arxiv.org/abs/2402.02355)|**[link](https://github.com/gmc-drl/symbol)**|
 |**2024-02-04**|**Interference-Aware Emergent Random Access Protocol for Downlink LEO Satellite Networks**|Chang-Yong Lim et.al.|[2402.02350](http://arxiv.org/abs/2402.02350)|null|
 |**2024-02-04**|**Enhance Reasoning for Large Language Models in the Game Werewolf**|Shuang Wu et.al.|[2402.02330](http://arxiv.org/abs/2402.02330)|null|
 |**2024-02-04**|**INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer**|Han Fang et.al.|[2402.02317](http://arxiv.org/abs/2402.02317)|null|
@@ -947,7 +947,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240207>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240208>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
