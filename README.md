@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -49,7 +49,7 @@
 |**2024-02-02**|**Retrieval Augmented End-to-End Spoken Dialog Models**|Mingqiu Wang et.al.|[2402.01828](http://arxiv.org/abs/2402.01828)|null|
 |**2024-02-01**|**COA-GPT: Generative Pre-trained Transformers for Accelerated Course of Action Development in Military Operations**|Vinicius G. Goecks et.al.|[2402.01786](http://arxiv.org/abs/2402.01786)|null|
 |**2024-01-29**|**Assistive Large Language Model Agents for Socially-Aware Negotiation Dialogues**|Yuncheng Hua et.al.|[2402.01737](http://arxiv.org/abs/2402.01737)|null|
-|**2024-01-25**|**Prompting Large Language Models for Zero-Shot Clinical Prediction with Structured Longitudinal Electronic Health Record Data**|Yinghao Zhu et.al.|[2402.01713](http://arxiv.org/abs/2402.01713)|null|
+|**2024-01-25**|**Prompting Large Language Models for Zero-Shot Clinical Prediction with Structured Longitudinal Electronic Health Record Data**|Yinghao Zhu et.al.|[2402.01713](http://arxiv.org/abs/2402.01713)|**[link](https://github.com/yhzhu99/llm4healthcare)**|
 |**2024-02-02**|**Can MLLMs Perform Text-to-Image In-Context Learning?**|Yuchen Zeng et.al.|[2402.01293](http://arxiv.org/abs/2402.01293)|**[link](https://github.com/uw-madison-lee-lab/cobsat)**|
 |**2024-02-02**|**Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape**|Juno Kim et.al.|[2402.01258](http://arxiv.org/abs/2402.01258)|null|
 |**2024-02-02**|**In-Context Learning for Few-Shot Nested Named Entity Recognition**|Meishan Zhang et.al.|[2402.01182](http://arxiv.org/abs/2402.01182)|null|
@@ -165,7 +165,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 ## Transformer
 
@@ -304,7 +304,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 ## Optimization
 
@@ -332,7 +332,7 @@
 |**2024-02-06**|**Analysis of Linear Mode Connectivity via Permutation-Based Weight Matching**|Akira Ito et.al.|[2402.04051](http://arxiv.org/abs/2402.04051)|null|
 |**2024-02-06**|**Subsampling is not Magic: Why Large Batch Sizes Work for Differentially Private Stochastic Optimisation**|Ossi Räisä et.al.|[2402.03990](http://arxiv.org/abs/2402.03990)|null|
 |**2024-02-06**|**On Convergence of Adam for Stochastic Optimization under Relaxed Assumptions**|Yusu Hong et.al.|[2402.03982](http://arxiv.org/abs/2402.03982)|null|
-|**2024-02-05**|**Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials**|Adam M. Krajewski et.al.|[2402.03528](http://arxiv.org/abs/2402.03528)|null|
+|**2024-02-05**|**Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials**|Adam M. Krajewski et.al.|[2402.03528](http://arxiv.org/abs/2402.03528)|**[link](https://github.com/amkrajewski/nimplex)**|
 |**2024-02-02**|**Stochastic Modified Flows for Riemannian Stochastic Gradient Descent**|Benjamin Gess et.al.|[2402.03467](http://arxiv.org/abs/2402.03467)|null|
 |**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|null|
 |**2024-02-05**|**The Benefits of Reusing Batches for Gradient Descent in Two-Layer Networks: Breaking the Curse of Information and Leap Exponents**|Yatin Dandi et.al.|[2402.03220](http://arxiv.org/abs/2402.03220)|null|
@@ -467,7 +467,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -581,7 +581,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -614,7 +614,7 @@
 |**2024-02-06**|**Subsampling is not Magic: Why Large Batch Sizes Work for Differentially Private Stochastic Optimisation**|Ossi Räisä et.al.|[2402.03990](http://arxiv.org/abs/2402.03990)|null|
 |**2024-02-06**|**On Convergence of Adam for Stochastic Optimization under Relaxed Assumptions**|Yusu Hong et.al.|[2402.03982](http://arxiv.org/abs/2402.03982)|null|
 |**2024-02-06**|**A phase transition between positional and semantic learning in a solvable model of dot-product attention**|Hugo Cui et.al.|[2402.03902](http://arxiv.org/abs/2402.03902)|null|
-|**2024-02-05**|**Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials**|Adam M. Krajewski et.al.|[2402.03528](http://arxiv.org/abs/2402.03528)|null|
+|**2024-02-05**|**Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials**|Adam M. Krajewski et.al.|[2402.03528](http://arxiv.org/abs/2402.03528)|**[link](https://github.com/amkrajewski/nimplex)**|
 |**2024-02-02**|**Stochastic Modified Flows for Riemannian Stochastic Gradient Descent**|Benjamin Gess et.al.|[2402.03467](http://arxiv.org/abs/2402.03467)|null|
 |**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|null|
 |**2024-02-05**|**The Benefits of Reusing Batches for Gradient Descent in Two-Layer Networks: Breaking the Curse of Information and Leap Exponents**|Yatin Dandi et.al.|[2402.03220](http://arxiv.org/abs/2402.03220)|null|
@@ -752,7 +752,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|null|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -766,7 +766,7 @@
 |**2024-02-08**|**When is Mean-Field Reinforcement Learning Tractable and Relevant?**|Batuhan Yardim et.al.|[2402.05757](http://arxiv.org/abs/2402.05757)|null|
 |**2024-02-08**|**Model-Based RL for Mean-Field Games is not Statistically Harder than Single-Agent RL**|Jiawei Huang et.al.|[2402.05724](http://arxiv.org/abs/2402.05724)|null|
 |**2024-02-08**|**Offline Risk-sensitive RL with Partial Observability to Enhance Performance in Human-Robot Teaming**|Giorgio Angelotti et.al.|[2402.05703](http://arxiv.org/abs/2402.05703)|null|
-|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643](http://arxiv.org/abs/2402.05643)|null|
+|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643](http://arxiv.org/abs/2402.05643)|**[link](https://github.com/leor-c/rem)**|
 |**2024-02-08**|**Optimizing Delegation in Collaborative Human-AI Hybrid Teams**|Andrew Fuchs et.al.|[2402.05605](http://arxiv.org/abs/2402.05605)|null|
 |**2024-02-08**|**Offline Actor-Critic Reinforcement Learning Scales to Large Models**|Jost Tobias Springenberg et.al.|[2402.05546](http://arxiv.org/abs/2402.05546)|null|
 |**2024-02-08**|**Reinforcement Learning as a Catalyst for Robust and Fair Federated Learning: Deciphering the Dynamics of Client Contributions**|Jialuo He et.al.|[2402.05541](http://arxiv.org/abs/2402.05541)|null|
@@ -1064,7 +1064,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
