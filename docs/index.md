@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**On the Out-Of-Distribution Generalization of Multimodal Large Language Models**|Xingxuan Zhang et.al.|[2402.06599](http://arxiv.org/abs/2402.06599)|null|
+|**2024-02-09**|**InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning**|Huaiyuan Ying et.al.|[2402.06332](http://arxiv.org/abs/2402.06332)|**[link](https://github.com/internlm/internlm-math)**|
 |**2024-02-08**|**In-Context Learning Can Re-learn Forbidden Tasks**|Sophie Xhonneux et.al.|[2402.05723](http://arxiv.org/abs/2402.05723)|null|
 |**2024-02-08**|**NoisyICL: A Little Noise in Model Parameters Calibrates In-context Learning**|Yufeng Zhao et.al.|[2402.05515](http://arxiv.org/abs/2402.05515)|null|
 |**2024-02-08**|**In-Context Principle Learning from Mistakes**|Tianjun Zhang et.al.|[2402.05403](http://arxiv.org/abs/2402.05403)|null|
@@ -298,6 +300,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**RQP-SGD: Differential Private Machine Learning through Noisy SGD and Randomized Quantization**|Ce Feng et.al.|[2402.06606](http://arxiv.org/abs/2402.06606)|null|
+|**2024-02-09**|**Bandit Convex Optimisation**|Tor Lattimore et.al.|[2402.06535](http://arxiv.org/abs/2402.06535)|null|
+|**2024-02-09**|**On Differentially Private Subspace Estimation Without Distributional Assumptions**|Eliad Tsfadia et.al.|[2402.06465](http://arxiv.org/abs/2402.06465)|null|
+|**2024-02-09**|**On the Convergence Rate of the Stochastic Gradient Descent (SGD) and application to a modified policy gradient for the Multi Armed Bandit**|Stefana Anita et.al.|[2402.06388](http://arxiv.org/abs/2402.06388)|null|
+|**2024-02-09**|**How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers**|Gon Buzaglo et.al.|[2402.06323](http://arxiv.org/abs/2402.06323)|null|
+|**2024-02-09**|**The boundary of neural network trainability is fractal**|Jascha Sohl-Dickstein et.al.|[2402.06184](http://arxiv.org/abs/2402.06184)|**[link](https://github.com/sohl-dickstein/fractal)**|
+|**2024-02-09**|**Prediction-Correction Algorithm for Time-Varying Smooth Non-Convex Optimization**|Hidenori Iwakiri et.al.|[2402.06181](http://arxiv.org/abs/2402.06181)|null|
+|**2024-02-08**|**Optimizing Predictive AI in Physical Design Flows with Mini Pixel Batch Gradient Descent**|Haoyu Yang et.al.|[2402.06034](http://arxiv.org/abs/2402.06034)|null|
 |**2024-02-08**|**How do Transformers perform In-Context Autoregressive Learning?**|Michael E. Sander et.al.|[2402.05787](http://arxiv.org/abs/2402.05787)|null|
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Implicit Bias and Fast Convergence Rates for Self-attention**|Bhavya Vasudeva et.al.|[2402.05738](http://arxiv.org/abs/2402.05738)|null|
@@ -459,6 +469,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers**|Gon Buzaglo et.al.|[2402.06323](http://arxiv.org/abs/2402.06323)|null|
 |**2024-02-08**|**Exploring Learning Complexity for Downstream Data Pruning**|Wenyu Jiang et.al.|[2402.05356](http://arxiv.org/abs/2402.05356)|null|
 |**2024-02-07**|**Towards Understanding Inductive Bias in Transformers: A View From Infinity**|Itay Lavie et.al.|[2402.05173](http://arxiv.org/abs/2402.05173)|null|
 |**2024-02-07**|**Early Stopping of Untrained Convolutional Neural Networks**|Tim Jahn et.al.|[2402.04610](http://arxiv.org/abs/2402.04610)|null|
@@ -571,6 +582,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**RQP-SGD: Differential Private Machine Learning through Noisy SGD and Randomized Quantization**|Ce Feng et.al.|[2402.06606](http://arxiv.org/abs/2402.06606)|null|
+|**2024-02-09**|**Bandit Convex Optimisation**|Tor Lattimore et.al.|[2402.06535](http://arxiv.org/abs/2402.06535)|null|
+|**2024-02-09**|**On Differentially Private Subspace Estimation Without Distributional Assumptions**|Eliad Tsfadia et.al.|[2402.06465](http://arxiv.org/abs/2402.06465)|null|
+|**2024-02-09**|**On the Convergence Rate of the Stochastic Gradient Descent (SGD) and application to a modified policy gradient for the Multi Armed Bandit**|Stefana Anita et.al.|[2402.06388](http://arxiv.org/abs/2402.06388)|null|
+|**2024-02-09**|**How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers**|Gon Buzaglo et.al.|[2402.06323](http://arxiv.org/abs/2402.06323)|null|
+|**2024-02-09**|**The boundary of neural network trainability is fractal**|Jascha Sohl-Dickstein et.al.|[2402.06184](http://arxiv.org/abs/2402.06184)|**[link](https://github.com/sohl-dickstein/fractal)**|
+|**2024-02-09**|**Prediction-Correction Algorithm for Time-Varying Smooth Non-Convex Optimization**|Hidenori Iwakiri et.al.|[2402.06181](http://arxiv.org/abs/2402.06181)|null|
+|**2024-02-08**|**Optimizing Predictive AI in Physical Design Flows with Mini Pixel Batch Gradient Descent**|Haoyu Yang et.al.|[2402.06034](http://arxiv.org/abs/2402.06034)|null|
 |**2024-02-08**|**How do Transformers perform In-Context Autoregressive Learning?**|Michael E. Sander et.al.|[2402.05787](http://arxiv.org/abs/2402.05787)|null|
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Implicit Bias and Fast Convergence Rates for Self-attention**|Bhavya Vasudeva et.al.|[2402.05738](http://arxiv.org/abs/2402.05738)|null|
@@ -740,6 +759,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Predictive representations: building blocks of intelligence**|Wilka Carvalho et.al.|[2402.06590](http://arxiv.org/abs/2402.06590)|null|
+|**2024-02-09**|**Deceptive Path Planning via Reinforcement Learning with Graph Neural Networks**|Michael Y. Fatemi et.al.|[2402.06552](http://arxiv.org/abs/2402.06552)|**[link](https://github.com/myfatemi04/rl-deceptive-graph-planning)**|
+|**2024-02-09**|**ACTER: Diverse and Actionable Counterfactual Sequences for Explaining and Diagnosing RL Policies**|Jasmina Gajcin et.al.|[2402.06503](http://arxiv.org/abs/2402.06503)|null|
+|**2024-02-09**|**Hierarchical Transformers are Efficient Meta-Reinforcement Learners**|Gresa Shala et.al.|[2402.06402](http://arxiv.org/abs/2402.06402)|null|
+|**2024-02-09**|**High-Precision Geosteering via Reinforcement Learning and Particle Filters**|Ressi Bonti Muhammad et.al.|[2402.06377](http://arxiv.org/abs/2402.06377)|null|
+|**2024-02-09**|**Dynamic Q-planning for Online UAV Path Planning in Unknown and Complex Environments**|Lidia Gianne Souza da Rocha et.al.|[2402.06297](http://arxiv.org/abs/2402.06297)|null|
+|**2024-02-09**|**Value function interference and greedy action selection in value-based multi-objective reinforcement learning**|Peter Vamplew et.al.|[2402.06266](http://arxiv.org/abs/2402.06266)|null|
+|**2024-02-09**|**Reinforcement Learning for Blind Stair Climbing with Legged and Wheeled-Legged Robots**|Simon Chamorro et.al.|[2402.06143](http://arxiv.org/abs/2402.06143)|null|
+|**2024-02-08**|**Real-World Fluid Directed Rigid Body Control via Deep Reinforcement Learning**|Mohak Bhardwaj et.al.|[2402.06102](http://arxiv.org/abs/2402.06102)|null|
+|**2024-02-08**|**Scaling Artificial Intelligence for Digital Wargaming in Support of Decision-Making**|Scotty Black et.al.|[2402.06075](http://arxiv.org/abs/2402.06075)|null|
+|**2024-02-08**|**Intelligent Mode-switching Framework for Teleoperation**|Burak Kizilkaya et.al.|[2402.06047](http://arxiv.org/abs/2402.06047)|null|
+|**2024-02-08**|**Decision Theory-Guided Deep Reinforcement Learning for Fast Learning**|Zelin Wan et.al.|[2402.06023](http://arxiv.org/abs/2402.06023)|**[link](https://github.com/wan-zl/dt-drl)**|
 |**2024-02-08**|**Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games**|Hafez Ghaemi et.al.|[2402.05906](http://arxiv.org/abs/2402.05906)|**[link](https://github.com/hafezgh/risk-sensitive-marl-namg)**|
 |**2024-02-08**|**Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices**|Jiin Woo et.al.|[2402.05876](http://arxiv.org/abs/2402.05876)|null|
 |**2024-02-08**|**Discovering Temporally-Aware Reinforcement Learning Algorithms**|Matthew Thomas Jackson et.al.|[2402.05828](http://arxiv.org/abs/2402.05828)|**[link](https://github.com/EmptyJackson/groove)**|
@@ -774,7 +805,7 @@ layout: default
 |**2024-02-07**|**Non-Markovian Quantum Control via Model Maximum Likelihood Estimation and Reinforcement Learning**|Tanmay Neema et.al.|[2402.05084](http://arxiv.org/abs/2402.05084)|null|
 |**2024-02-07**|**Extending the Reach of First-Order Algorithms for Nonconvex Min-Max Problems with Cohypomonotonicity**|Ahmet Alacaoglu et.al.|[2402.05071](http://arxiv.org/abs/2402.05071)|null|
 |**2024-02-07**|**Exploration Without Maps via Zero-Shot Out-of-Distribution Deep Reinforcement Learning**|Shathushan Sivashangaran et.al.|[2402.05066](http://arxiv.org/abs/2402.05066)|null|
-|**2024-02-07**|**Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing**|Jannis Weil et.al.|[2402.05027](http://arxiv.org/abs/2402.05027)|**[link](https://github.com/jw3il/graph-marl)**|
+|**2024-02-09**|**Towards Generalizability of Multi-Agent Reinforcement Learning in Graphs with Recurrent Message Passing**|Jannis Weil et.al.|[2402.05027](http://arxiv.org/abs/2402.05027)|**[link](https://github.com/jw3il/graph-marl)**|
 |**2024-02-07**|**Pedagogical Alignment of Large Language Models**|Shashank Sonkar et.al.|[2402.05000](http://arxiv.org/abs/2402.05000)|null|
 |**2024-02-07**|**A Bayesian Approach to Online Learning for Contextual Restless Bandits with Applications to Public Health**|Biyonka Liang et.al.|[2402.04933](http://arxiv.org/abs/2402.04933)|**[link](https://github.com/biyonka/bcor)**|
 |**2024-02-07**|**Deep Reinforcement Learning with Dynamic Graphs for Adaptive Informative Path Planning**|Apoorva Vashisth et.al.|[2402.04894](http://arxiv.org/abs/2402.04894)|**[link](https://github.com/dmar-bonn/ipp-rl-3d)**|
