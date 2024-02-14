@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.13
+## Updated on 2024.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -817,7 +817,7 @@ layout: default
 |**2024-02-11**|**More Benefits of Being Distributional: Second-Order Bounds for Reinforcement Learning**|Kaiwen Wang et.al.|[2402.07198](http://arxiv.org/abs/2402.07198)|null|
 |**2024-02-11**|**Divide and Conquer: Provably Unveiling the Pareto Front with Multi-Objective Reinforcement Learning**|Willem Röpke et.al.|[2402.07182](http://arxiv.org/abs/2402.07182)|null|
 |**2024-02-11**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2402.07157](http://arxiv.org/abs/2402.07157)|null|
-|**2024-02-11**|**Echoes of Socratic Doubt: Embracing Uncertainty in Calibrated Evidential Reinforcement Learning**|Alex Christopher Stutts et.al.|[2402.07107](http://arxiv.org/abs/2402.07107)|null|
+|**2024-02-13**|**Echoes of Socratic Doubt: Embracing Uncertainty in Calibrated Evidential Reinforcement Learning**|Alex Christopher Stutts et.al.|[2402.07107](http://arxiv.org/abs/2402.07107)|null|
 |**2024-02-11**|**Future Prediction Can be a Strong Evidence of Good History Representation in Partially Observable Environments**|Jeongyeol Kwon et.al.|[2402.07102](http://arxiv.org/abs/2402.07102)|null|
 |**2024-02-11**|**Refined Sample Complexity for Markov Games with Independent Linear Function Approximation**|Yan Dai et.al.|[2402.07082](http://arxiv.org/abs/2402.07082)|null|
 |**2024-02-11**|**Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine**|Shayan Meshkat Alsadat et.al.|[2402.07069](http://arxiv.org/abs/2402.07069)|null|

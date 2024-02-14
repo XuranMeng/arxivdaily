@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.13
+## Updated on 2024.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -175,7 +175,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
 
 ## Transformer
 
@@ -319,7 +319,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
 
 ## Optimization
 
@@ -501,7 +501,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -618,7 +618,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -808,7 +808,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|null|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -835,7 +835,7 @@
 |**2024-02-11**|**More Benefits of Being Distributional: Second-Order Bounds for Reinforcement Learning**|Kaiwen Wang et.al.|[2402.07198](http://arxiv.org/abs/2402.07198)|null|
 |**2024-02-11**|**Divide and Conquer: Provably Unveiling the Pareto Front with Multi-Objective Reinforcement Learning**|Willem Röpke et.al.|[2402.07182](http://arxiv.org/abs/2402.07182)|null|
 |**2024-02-11**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2402.07157](http://arxiv.org/abs/2402.07157)|null|
-|**2024-02-11**|**Echoes of Socratic Doubt: Embracing Uncertainty in Calibrated Evidential Reinforcement Learning**|Alex Christopher Stutts et.al.|[2402.07107](http://arxiv.org/abs/2402.07107)|null|
+|**2024-02-13**|**Echoes of Socratic Doubt: Embracing Uncertainty in Calibrated Evidential Reinforcement Learning**|Alex Christopher Stutts et.al.|[2402.07107](http://arxiv.org/abs/2402.07107)|null|
 |**2024-02-11**|**Future Prediction Can be a Strong Evidence of Good History Representation in Partially Observable Environments**|Jeongyeol Kwon et.al.|[2402.07102](http://arxiv.org/abs/2402.07102)|null|
 |**2024-02-11**|**Refined Sample Complexity for Markov Games with Independent Linear Function Approximation**|Yan Dai et.al.|[2402.07082](http://arxiv.org/abs/2402.07082)|null|
 |**2024-02-11**|**Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine**|Shayan Meshkat Alsadat et.al.|[2402.07069](http://arxiv.org/abs/2402.07069)|null|
@@ -1167,7 +1167,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240213>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
