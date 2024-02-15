@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -90,7 +90,7 @@
 |**2024-01-22**|**In-Context Learning for Extreme Multi-Label Classification**|Karel D'Oosterlinck et.al.|[2401.12178](http://arxiv.org/abs/2401.12178)|**[link](https://github.com/kareldo/xmc.dspy)**|
 |**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097](http://arxiv.org/abs/2401.12097)|null|
 |**2024-01-22**|**Revisiting Demonstration Selection Strategies in In-Context Learning**|Keqin Peng et.al.|[2401.12087](http://arxiv.org/abs/2401.12087)|null|
-|**2024-01-23**|**In-context Learning with Retrieved Demonstrations for Language Models: A Survey**|Man Luo et.al.|[2401.11624](http://arxiv.org/abs/2401.11624)|null|
+|**2024-02-13**|**In-context Learning with Retrieved Demonstrations for Language Models: A Survey**|Man Luo et.al.|[2401.11624](http://arxiv.org/abs/2401.11624)|null|
 |**2024-01-20**|**Analyzing Task-Encoding Tokens in Large Language Models**|Yu Bai et.al.|[2401.11323](http://arxiv.org/abs/2401.11323)|null|
 |**2024-01-18**|**Beyond Reference-Based Metrics: Analyzing Behaviors of Open LLMs on Data-to-Text Generation**|Zdeněk Kasner et.al.|[2401.10186](http://arxiv.org/abs/2401.10186)|null|
 |**2024-01-18**|**Leveraging Biases in Large Language Models: "bias-kNN'' for Effective Few-Shot Learning**|Yong Zhang et.al.|[2401.09783](http://arxiv.org/abs/2401.09783)|null|
@@ -178,7 +178,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 ## Transformer
 
@@ -220,7 +220,7 @@
 |**2024-02-02**|**Self-Attention through Kernel-Eigen Pair Sparse Variational Gaussian Processes**|Yingyi Chen et.al.|[2402.01476](http://arxiv.org/abs/2402.01476)|null|
 |**2024-02-01**|**Improving Semantic Control in Discrete Latent Spaces with Transformer Quantized Variational Autoencoders**|Yingji Zhang et.al.|[2402.00723](http://arxiv.org/abs/2402.00723)|null|
 |**2024-02-01**|**A Manifold Representation of the Key in Vision Transformers**|Li Meng et.al.|[2402.00534](http://arxiv.org/abs/2402.00534)|null|
-|**2024-02-06**|**Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling**|Mingze Wang et.al.|[2402.00522](http://arxiv.org/abs/2402.00522)|null|
+|**2024-02-14**|**Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling**|Mingze Wang et.al.|[2402.00522](http://arxiv.org/abs/2402.00522)|null|
 |**2024-01-31**|**HyperZ $\cdot$Z$\cdot$ W Operator Connects Slow-Fast Networks for Full Context Interaction**|Harvie Zhang et.al.|[2401.17948](http://arxiv.org/abs/2401.17948)|null|
 |**2024-01-30**|**Multiple Yield Curve Modeling and Forecasting using Deep Learning**|Ronald Richman et.al.|[2401.16985](http://arxiv.org/abs/2401.16985)|null|
 |**2024-01-30**|**LATENTPATCH: A Non-Parametric Approach for Face Generation and Editing**|Benjamin Samuth et.al.|[2401.16830](http://arxiv.org/abs/2401.16830)|null|
@@ -326,7 +326,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 ## Optimization
 
@@ -513,7 +513,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -630,7 +630,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -825,7 +825,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|null|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -873,10 +873,10 @@
 |**2024-02-11**|**Using Large Language Models to Automate and Expedite Reinforcement Learning with Reward Machine**|Shayan Meshkat Alsadat et.al.|[2402.07069](http://arxiv.org/abs/2402.07069)|null|
 |**2024-02-10**|**Bayesian Optimization with Adaptive Kernels for Robot Control**|Ruben Martinez-Cantin et.al.|[2402.07021](http://arxiv.org/abs/2402.07021)|null|
 |**2024-02-10**|**Informativeness of Reward Functions in Reinforcement Learning**|Rati Devidze et.al.|[2402.07019](http://arxiv.org/abs/2402.07019)|**[link](https://github.com/machine-teaching-group/aamas2024-informativeness-of-reward-functions)**|
-|**2024-02-10**|**Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks**|Jiacheng Wang et.al.|[2402.06942](http://arxiv.org/abs/2402.06942)|null|
+|**2024-02-10**|**Toward Scalable Generative AI via Mixture of Experts in Mobile Edge Networks**|Jiacheng Wang et.al.|[2402.06942](http://arxiv.org/abs/2402.06942)|**[link](https://github.com/hongyangdu/net4moe)**|
 |**2024-02-10**|**Solving Deep Reinforcement Learning Benchmarks with Linear Policy Networks**|Annie Wong et.al.|[2402.06912](http://arxiv.org/abs/2402.06912)|null|
 |**2024-02-10**|**Principled Penalty-based Methods for Bilevel Reinforcement Learning and RLHF**|Han Shen et.al.|[2402.06886](http://arxiv.org/abs/2402.06886)|null|
-|**2024-02-09**|**Monitored Markov Decision Processes**|Simone Parisi et.al.|[2402.06819](http://arxiv.org/abs/2402.06819)|**[link](https://github.com/amiithinks/mon_mdp_aamas24)**|
+|**2024-02-13**|**Monitored Markov Decision Processes**|Simone Parisi et.al.|[2402.06819](http://arxiv.org/abs/2402.06819)|**[link](https://github.com/amiithinks/mon_mdp_aamas24)**|
 |**2024-02-09**|**Learn to Teach: Improve Sample Efficiency in Teacher-student Learning for Sim-to-Real Transfer**|Feiyang Wu et.al.|[2402.06783](http://arxiv.org/abs/2402.06783)|null|
 |**2024-02-09**|**Corruption Robust Offline Reinforcement Learning with Human Feedback**|Debmalya Mandal et.al.|[2402.06734](http://arxiv.org/abs/2402.06734)|null|
 |**2024-02-09**|**Entropy-Regularized Token-Level Policy Optimization for Large Language Models**|Muning Wen et.al.|[2402.06700](http://arxiv.org/abs/2402.06700)|null|
@@ -1199,7 +1199,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
