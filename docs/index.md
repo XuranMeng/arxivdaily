@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.15
+## Updated on 2024.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -842,9 +842,9 @@ layout: default
 |**2024-02-14**|**Measuring Exploration in Reinforcement Learning via Optimal Transport in Policy Space**|Reabetswe M. Nkhumise et.al.|[2402.09113](http://arxiv.org/abs/2402.09113)|null|
 |**2024-02-14**|**Exploiting Estimation Bias in Deep Double Q-Learning for Actor-Critic Methods**|Alberto Sinigaglia et.al.|[2402.09078](http://arxiv.org/abs/2402.09078)|null|
 |**2024-02-14**|**Steady-State Error Compensation for Reinforcement Learning with Quadratic Rewards**|Liyao Wang et.al.|[2402.09075](http://arxiv.org/abs/2402.09075)|null|
-|**2024-02-14**|**FGeo-DRL: Deductive Reasoning for Geometric Problems through Deep Reinforcement Learning**|Jia Zou et.al.|[2402.09051](http://arxiv.org/abs/2402.09051)|null|
+|**2024-02-15**|**FGeo-DRL: Deductive Reasoning for Geometric Problems through Deep Reinforcement Learning**|Jia Zou et.al.|[2402.09051](http://arxiv.org/abs/2402.09051)|null|
 |**2024-02-14**|**DRL-Based Orchestration of Multi-User MISO Systems with Stacked Intelligent Metasurfaces**|Hao Liu et.al.|[2402.09006](http://arxiv.org/abs/2402.09006)|null|
-|**2024-02-14**|**Towards Robust Model-Based Reinforcement Learning Against Adversarial Corruption**|Chenlu Ye et.al.|[2402.08991](http://arxiv.org/abs/2402.08991)|null|
+|**2024-02-15**|**Towards Robust Model-Based Reinforcement Learning Against Adversarial Corruption**|Chenlu Ye et.al.|[2402.08991](http://arxiv.org/abs/2402.08991)|null|
 |**2024-02-14**|**Learning-enabled Flexible Job-shop Scheduling for Scalable Smart Manufacturing**|Sihoon Moon et.al.|[2402.08979](http://arxiv.org/abs/2402.08979)|null|
 |**2024-02-14**|**MaxMin-RLHF: Towards Equitable Alignment of Large Language Models with Diverse Human Preferences**|Souradip Chakraborty et.al.|[2402.08925](http://arxiv.org/abs/2402.08925)|null|
 |**2024-02-13**|**Hybrid Inverse Reinforcement Learning**|Juntao Ren et.al.|[2402.08848](http://arxiv.org/abs/2402.08848)|**[link](https://github.com/jren03/garage)**|
@@ -888,7 +888,7 @@ layout: default
 |**2024-02-11**|**ML Framework for Wireless MAC Protocol Design**|Navid Keshtiarast et.al.|[2402.07208](http://arxiv.org/abs/2402.07208)|null|
 |**2024-02-11**|**More Benefits of Being Distributional: Second-Order Bounds for Reinforcement Learning**|Kaiwen Wang et.al.|[2402.07198](http://arxiv.org/abs/2402.07198)|null|
 |**2024-02-11**|**Divide and Conquer: Provably Unveiling the Pareto Front with Multi-Objective Reinforcement Learning**|Willem Röpke et.al.|[2402.07182](http://arxiv.org/abs/2402.07182)|null|
-|**2024-02-11**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2402.07157](http://arxiv.org/abs/2402.07157)|null|
+|**2024-02-14**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2402.07157](http://arxiv.org/abs/2402.07157)|null|
 |**2024-02-13**|**Echoes of Socratic Doubt: Embracing Uncertainty in Calibrated Evidential Reinforcement Learning**|Alex Christopher Stutts et.al.|[2402.07107](http://arxiv.org/abs/2402.07107)|null|
 |**2024-02-11**|**Future Prediction Can be a Strong Evidence of Good History Representation in Partially Observable Environments**|Jeongyeol Kwon et.al.|[2402.07102](http://arxiv.org/abs/2402.07102)|null|
 |**2024-02-11**|**Refined Sample Complexity for Markov Games with Independent Linear Function Approximation**|Yan Dai et.al.|[2402.07082](http://arxiv.org/abs/2402.07082)|null|
