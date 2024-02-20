@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.19
+## Updated on 2024.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -25,7 +25,7 @@ layout: default
 |**2024-02-15**|**Prompt-Based Bias Calibration for Better Zero/Few-Shot Learning of Language Models**|Kang He et.al.|[2402.10353](http://arxiv.org/abs/2402.10353)|null|
 |**2024-02-15**|**Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189](http://arxiv.org/abs/2402.10189)|**[link](https://github.com/lingchen0331/uq_icl)**|
 |**2024-02-15**|**Self-Augmented In-Context Learning for Unsupervised Word Translation**|Yaoyiran Li et.al.|[2402.10024](http://arxiv.org/abs/2402.10024)|null|
-|**2024-02-15**|**Crafting a Good Prompt or Providing Exemplary Dialogues? A Study of In-Context Learning for Persona-based Dialogue Generation**|Jiashu Pu et.al.|[2402.09954](http://arxiv.org/abs/2402.09954)|null|
+|**2024-02-17**|**Crafting a Good Prompt or Providing Exemplary Dialogues? A Study of In-Context Learning for Persona-based Dialogue Generation**|Jiashu Pu et.al.|[2402.09954](http://arxiv.org/abs/2402.09954)|null|
 |**2024-02-15**|**Beyond Imitation: Generating Human Mobility from Context-aware Reasoning with Large Language Models**|Chenyang Shao et.al.|[2402.09836](http://arxiv.org/abs/2402.09836)|null|
 |**2024-02-15**|**QuRating: Selecting High-Quality Data for Training Language Models**|Alexander Wettig et.al.|[2402.09739](http://arxiv.org/abs/2402.09739)|**[link](https://github.com/princeton-nlp/qurating)**|
 |**2024-02-14**|**Large Language Model-Based Interpretable Machine Learning Control in Building Energy Systems**|Liang Zhang et.al.|[2402.09584](http://arxiv.org/abs/2402.09584)|null|
@@ -98,7 +98,7 @@ layout: default
 |**2024-01-30**|**In-Context Language Learning: Architectures and Algorithms**|Ekin Akyürek et.al.|[2401.12973](http://arxiv.org/abs/2401.12973)|**[link](https://github.com/berlino/seq_icl)**|
 |**2024-01-22**|**Enhancing In-context Learning via Linear Probe Calibration**|Momin Abbas et.al.|[2401.12406](http://arxiv.org/abs/2401.12406)|**[link](https://github.com/mominabbass/linc)**|
 |**2024-01-22**|**In-Context Learning for Extreme Multi-Label Classification**|Karel D'Oosterlinck et.al.|[2401.12178](http://arxiv.org/abs/2401.12178)|**[link](https://github.com/kareldo/xmc.dspy)**|
-|**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097](http://arxiv.org/abs/2401.12097)|null|
+|**2024-02-17**|**An Empirical Study of In-context Learning in LLMs for Machine Translation**|Pranjal A. Chitale et.al.|[2401.12097](http://arxiv.org/abs/2401.12097)|null|
 |**2024-01-22**|**Revisiting Demonstration Selection Strategies in In-Context Learning**|Keqin Peng et.al.|[2401.12087](http://arxiv.org/abs/2401.12087)|null|
 |**2024-02-13**|**In-context Learning with Retrieved Demonstrations for Language Models: A Survey**|Man Luo et.al.|[2401.11624](http://arxiv.org/abs/2401.11624)|null|
 |**2024-02-16**|**Identifying and Analyzing Task-Encoding Tokens in Large Language Models**|Yu Bai et.al.|[2401.11323](http://arxiv.org/abs/2401.11323)|null|
@@ -899,7 +899,7 @@ layout: default
 |**2024-02-10**|**Simple, unified analysis of Johnson-Lindenstrauss with applications**|Yingru Li et.al.|[2402.10232](http://arxiv.org/abs/2402.10232)|null|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
-|**2024-02-15**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184](http://arxiv.org/abs/2402.10184)|null|
+|**2024-02-17**|**Rethinking Information Structures in RLHF: Reward Generalization from a Graph Theory Perspective**|Tianyi Qiu et.al.|[2402.10184](http://arxiv.org/abs/2402.10184)|null|
 |**2024-02-15**|**Large Scale Constrained Clustering With Reinforcement Learning**|Benedikt Schesch et.al.|[2402.10177](http://arxiv.org/abs/2402.10177)|null|
 |**2024-02-15**|**GraphCBAL: Class-Balanced Active Learning for Graph Neural Networks via Reinforcement Learning**|Chengcheng Yu et.al.|[2402.10074](http://arxiv.org/abs/2402.10074)|null|
 |**2024-02-15**|**RS-DPO: A Hybrid Rejection Sampling and Direct Preference Optimization Method for Alignment of Large Language Models**|Saeed Khaki et.al.|[2402.10038](http://arxiv.org/abs/2402.10038)|null|
