@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.25
+## Updated on 2024.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -1031,7 +1031,7 @@ layout: default
 |**2024-02-21**|**Learning to Model Diverse Driving Behaviors in Highly Interactive Autonomous Driving Scenarios with Multi-Agent Reinforcement Learning**|Liu Weiwei et.al.|[2402.13481](http://arxiv.org/abs/2402.13481)|null|
 |**2024-02-21**|**ED-Copilot: Reduce Emergency Department Wait Time with Language Model Diagnostic Assistance**|Liwen Sun et.al.|[2402.13448](http://arxiv.org/abs/2402.13448)|null|
 |**2024-02-21**|**A Neuro-Symbolic Approach to Multi-Agent RL for Interpretability and Probabilistic Decision Making**|Chitra Subramanian et.al.|[2402.13440](http://arxiv.org/abs/2402.13440)|null|
-|**2024-02-20**|**Deep Hedging with Market Impact**|Andrei Neagu et.al.|[2402.13326](http://arxiv.org/abs/2402.13326)|null|
+|**2024-02-22**|**Deep Hedging with Market Impact**|Andrei Neagu et.al.|[2402.13326](http://arxiv.org/abs/2402.13326)|null|
 |**2024-02-20**|**Rigor with Machine Learning from Field Theory to the Poincaré Conjecture**|Sergei Gukov et.al.|[2402.13321](http://arxiv.org/abs/2402.13321)|null|
 |**2024-02-20**|**Evolutionary Reinforcement Learning: A Systematic Review and Future Directions**|Yuanguo Lin et.al.|[2402.13296](http://arxiv.org/abs/2402.13296)|null|
 |**2024-02-17**|**Implementation of a Model of the Cortex Basal Ganglia Loop**|Naoya Arakawa et.al.|[2402.13275](http://arxiv.org/abs/2402.13275)|null|
