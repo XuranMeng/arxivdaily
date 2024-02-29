@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.28
+## Updated on 2024.02.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -531,7 +531,7 @@ layout: default
 |**2024-02-07**|**Asymptotics of feature learning in two-layer networks after one gradient-step**|Hugo Cui et.al.|[2402.04980](http://arxiv.org/abs/2402.04980)|**[link](https://github.com/spoc-group/onestepgd_asymptotics)**|
 |**2024-02-07**|**Margin Propagation based XOR-SAT Solvers for Decoding of LDPC Codes**|Ankita Nandi et.al.|[2402.04959](http://arxiv.org/abs/2402.04959)|null|
 |**2024-02-07**|**Spectral Preconditioning for Gradient Methods on Graded Non-convex Functions**|Nikita Doikov et.al.|[2402.04843](http://arxiv.org/abs/2402.04843)|null|
-|**2024-02-26**|**Closing the Gap Between SGP4 and High-Precision Propagation via Differentiable Programming**|Giacomo Acciarini et.al.|[2402.04830](http://arxiv.org/abs/2402.04830)|null|
+|**2024-02-27**|**Closing the Gap Between SGP4 and High-Precision Propagation via Differentiable Programming**|Giacomo Acciarini et.al.|[2402.04830](http://arxiv.org/abs/2402.04830)|null|
 |**2024-02-07**|**Stochastic Data-Driven Bouligand Landweber Method for Solving Non-smooth Inverse Problems**|Harshit Bajpai et.al.|[2402.04772](http://arxiv.org/abs/2402.04772)|null|
 |**2024-02-13**|**Learning Operators with Stochastic Gradient Descent in General Hilbert Spaces**|Lei Shi et.al.|[2402.04691](http://arxiv.org/abs/2402.04691)|null|
 |**2024-02-07**|**G-NAS: Generalizable Neural Architecture Search for Single Domain Generalization Object Detection**|Fan Wu et.al.|[2402.04672](http://arxiv.org/abs/2402.04672)|**[link](https://github.com/wufan-cse/g-nas)**|
@@ -1158,7 +1158,7 @@ layout: default
 |**2024-02-21**|**Synthesis of Hierarchical Controllers Based on Deep Reinforcement Learning Policies**|Florent Delgrange et.al.|[2402.13785](http://arxiv.org/abs/2402.13785)|null|
 |**2024-02-21**|**Weakly supervised localisation of prostate cancer using reinforcement learning for bi-parametric MR images**|Martynas Pocius et.al.|[2402.13778](http://arxiv.org/abs/2402.13778)|null|
 |**2024-02-26**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|null|
-|**2024-02-21**|**Reinforcement learning-assisted quantum architecture search for variational quantum algorithms**|Akash Kundu et.al.|[2402.13754](http://arxiv.org/abs/2402.13754)|null|
+|**2024-02-27**|**Reinforcement learning-assisted quantum architecture search for variational quantum algorithms**|Akash Kundu et.al.|[2402.13754](http://arxiv.org/abs/2402.13754)|null|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
 |**2024-02-21**|**Improving a Proportional Integral Controller with Reinforcement Learning on a Throttle Valve Benchmark**|Paul Daoudi et.al.|[2402.13654](http://arxiv.org/abs/2402.13654)|null|
 |**2024-02-21**|**Learning Dual-arm Object Rearrangement for Cartesian Robots**|Shishun Zhang et.al.|[2402.13634](http://arxiv.org/abs/2402.13634)|null|
