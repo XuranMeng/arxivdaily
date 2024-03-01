@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.29
+## Updated on 2024.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -742,7 +742,7 @@ layout: default
 |**2024-02-20**|**Prediction of Tropical Pacific Rain Rates with Over-parameterized Neural Networks**|Hojun You et.al.|[2309.14358](http://arxiv.org/abs/2309.14358)|null|
 |**2023-09-23**|**A Unified Scheme of ResNet and Softmax**|Zhao Song et.al.|[2309.13482](http://arxiv.org/abs/2309.13482)|null|
 |**2023-09-20**|**SPFQ: A Stochastic Algorithm and Its Error Analysis for Neural Network Quantization**|Jinjie Zhang et.al.|[2309.10975](http://arxiv.org/abs/2309.10975)|null|
-|**2023-09-19**|**Sparser Random Networks Exist: Enforcing Communication-Efficient Federated Learning via Regularization**|Mohamad Mestoukirdi et.al.|[2309.10834](http://arxiv.org/abs/2309.10834)|null|
+|**2024-02-28**|**Communication-Efficient Federated Learning via Regularized Sparse Random Networks**|Mohamad Mestoukirdi et.al.|[2309.10834](http://arxiv.org/abs/2309.10834)|null|
 |**2023-09-12**|**Optimization Guarantees of Unfolded ISTA and ADMM Networks With Smooth Soft-Thresholding**|Shaik Basheeruddin Shah et.al.|[2309.06195](http://arxiv.org/abs/2309.06195)|null|
 |**2023-09-06**|**SWAP: Exploiting Second-Ranked Logits for Adversarial Attacks on Time Series**|Chang George Dong et.al.|[2309.02752](http://arxiv.org/abs/2309.02752)|null|
 |**2024-02-22**|**Transformers as Support Vector Machines**|Davoud Ataee Tarzanagh et.al.|[2308.16898](http://arxiv.org/abs/2308.16898)|**[link](https://github.com/umich-sota/tf-as-svm)**|
