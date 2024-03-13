@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**In-context learning enables multimodal large language models to classify cancer pathology images**|Dyke Ferber et.al.|[2403.07407](http://arxiv.org/abs/2403.07407)|null|
+|**2024-03-12**|**Knowledge Graph Large Language Model (KG-LLM) for Link Prediction**|Dong Shu et.al.|[2403.07311](http://arxiv.org/abs/2403.07311)|null|
 |**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
 |**2024-03-12**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|null|
 |**2024-03-11**|**In-context Exploration-Exploitation for Reinforcement Learning**|Zhenwen Dai et.al.|[2403.06826](http://arxiv.org/abs/2403.06826)|null|
@@ -32,7 +34,7 @@
 |**2024-03-08**|**A Benchmark of Domain-Adapted Large Language Models for Generating Brief Hospital Course Summaries**|Asad Aali et.al.|[2403.05720](http://arxiv.org/abs/2403.05720)|null|
 |**2024-03-08**|**DP-TabICL: In-Context Learning with Differentially Private Tabular Data**|Alycia N. Carey et.al.|[2403.05681](http://arxiv.org/abs/2403.05681)|null|
 |**2024-03-08**|**InstructGIE: Towards Generalizable Image Editing**|Zichong Meng et.al.|[2403.05018](http://arxiv.org/abs/2403.05018)|null|
-|**2024-03-05**|**JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models**|Arefa et.al.|[2403.04798](http://arxiv.org/abs/2403.04798)|null|
+|**2024-03-05**|**JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models**|Arefa et.al.|[2403.04798](http://arxiv.org/abs/2403.04798)|**[link](https://github.com/cmooncs/semeval-2024_multimodal_ecpe)**|
 |**2024-03-07**|**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error**|Boshi Wang et.al.|[2403.04746](http://arxiv.org/abs/2403.04746)|**[link](https://github.com/microsoft/simulated-trial-and-error)**|
 |**2024-03-08**|**How Far Are We from Intelligent Visual Deductive Reasoning?**|Yizhe Zhang et.al.|[2403.04732](http://arxiv.org/abs/2403.04732)|**[link](https://github.com/apple/ml-rpm-bench)**|
 |**2024-03-07**|**Where does In-context Translation Happen in Large Language Models**|Suzanna Sia et.al.|[2403.04510](http://arxiv.org/abs/2403.04510)|null|
@@ -293,6 +295,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers**|Changsheng Quan et.al.|[2403.07675](http://arxiv.org/abs/2403.07675)|null|
+|**2024-03-12**|**A Survey of Vision Transformers in Autonomous Driving: Current Trends and Future Directions**|Quoc-Vinh Lai-Dang et.al.|[2403.07542](http://arxiv.org/abs/2403.07542)|null|
+|**2024-03-12**|**Learning Correction Errors via Frequency-Self Attention for Blind Image Super-Resolution**|Haochen Sun et.al.|[2403.07390](http://arxiv.org/abs/2403.07390)|null|
+|**2024-03-12**|**Gabor-guided transformer for single image deraining**|Sijin He et.al.|[2403.07380](http://arxiv.org/abs/2403.07380)|null|
+|**2024-03-12**|**Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention**|Jinhong Wang et.al.|[2403.07332](http://arxiv.org/abs/2403.07332)|**[link](https://github.com/wjh892521292/lma-unet)**|
+|**2024-03-12**|**Towards Zero-shot Human-Object Interaction Detection via Vision-Language Integration**|Weiying Xue et.al.|[2403.07246](http://arxiv.org/abs/2403.07246)|null|
 |**2024-03-11**|**Explainable Transformer Prototypes for Medical Diagnoses**|Ugur Demir et.al.|[2403.06961](http://arxiv.org/abs/2403.06961)|**[link](https://github.com/nubagcilab/r2r_proto)**|
 |**2024-03-12**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|null|
 |**2024-03-11**|**Advancing Graph Neural Networks with HL-HGAT: A Hodge-Laplacian and Attention Mechanism Approach for Heterogeneous Graph-Structured Data**|Jinghan Huang et.al.|[2403.06687](http://arxiv.org/abs/2403.06687)|null|
@@ -530,6 +538,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Fairness Feedback Loops: Training on Synthetic Data Amplifies Bias**|Sierra Wyllie et.al.|[2403.07857](http://arxiv.org/abs/2403.07857)|null|
+|**2024-03-12**|**A Stochastic GDA Method With Backtracking For Solving Nonconvex (Strongly) Concave Minimax Problems**|Qiushui Xu et.al.|[2403.07806](http://arxiv.org/abs/2403.07806)|null|
+|**2024-03-12**|**On the Last-Iterate Convergence of Shuffling Gradient Methods**|Zijian Liu et.al.|[2403.07723](http://arxiv.org/abs/2403.07723)|null|
+|**2024-03-12**|**Scalable Spatiotemporal Prediction with Bayesian Neural Fields**|Feras Saad et.al.|[2403.07657](http://arxiv.org/abs/2403.07657)|**[link](https://github.com/google/bayesnf)**|
+|**2024-03-11**|**Stochastic gradient descent-based inference for dynamic network models with attractors**|Hancong Pan et.al.|[2403.07124](http://arxiv.org/abs/2403.07124)|null|
+|**2024-03-09**|**Non-Intrusive Load Monitoring with Missing Data Imputation Based on Tensor Decomposition**|DengYu Shi et.al.|[2403.07012](http://arxiv.org/abs/2403.07012)|null|
 |**2024-03-11**|**Benign overfitting in leaky ReLU networks with moderate input dimension**|Kedar Karhadkar et.al.|[2403.06903](http://arxiv.org/abs/2403.06903)|null|
 |**2024-03-11**|**Post-Training Attribute Unlearning in Recommender Systems**|Chaochao Chen et.al.|[2403.06737](http://arxiv.org/abs/2403.06737)|null|
 |**2024-03-11**|**Feasibility study on solving the Helmholtz equation in 3D with PINNs**|Stefan Schoder et.al.|[2403.06623](http://arxiv.org/abs/2403.06623)|null|
@@ -956,6 +970,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Fairness Feedback Loops: Training on Synthetic Data Amplifies Bias**|Sierra Wyllie et.al.|[2403.07857](http://arxiv.org/abs/2403.07857)|null|
+|**2024-03-12**|**A Stochastic GDA Method With Backtracking For Solving Nonconvex (Strongly) Concave Minimax Problems**|Qiushui Xu et.al.|[2403.07806](http://arxiv.org/abs/2403.07806)|null|
+|**2024-03-12**|**On the Last-Iterate Convergence of Shuffling Gradient Methods**|Zijian Liu et.al.|[2403.07723](http://arxiv.org/abs/2403.07723)|null|
+|**2024-03-12**|**Scalable Spatiotemporal Prediction with Bayesian Neural Fields**|Feras Saad et.al.|[2403.07657](http://arxiv.org/abs/2403.07657)|**[link](https://github.com/google/bayesnf)**|
+|**2024-03-12**|**Unknown Domain Inconsistency Minimization for Domain Generalization**|Seungjae Shin et.al.|[2403.07329](http://arxiv.org/abs/2403.07329)|null|
+|**2024-03-11**|**Stochastic gradient descent-based inference for dynamic network models with attractors**|Hancong Pan et.al.|[2403.07124](http://arxiv.org/abs/2403.07124)|null|
+|**2024-03-09**|**Non-Intrusive Load Monitoring with Missing Data Imputation Based on Tensor Decomposition**|DengYu Shi et.al.|[2403.07012](http://arxiv.org/abs/2403.07012)|null|
 |**2024-03-11**|**Benign overfitting in leaky ReLU networks with moderate input dimension**|Kedar Karhadkar et.al.|[2403.06903](http://arxiv.org/abs/2403.06903)|null|
 |**2024-03-11**|**Unveiling the Significance of Toddler-Inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2403.06880](http://arxiv.org/abs/2403.06880)|null|
 |**2024-03-11**|**Post-Training Attribute Unlearning in Recommender Systems**|Chaochao Chen et.al.|[2403.06737](http://arxiv.org/abs/2403.06737)|null|
@@ -1282,6 +1303,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
+|**2024-03-12**|**Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards**|Wei Shen et.al.|[2403.07708](http://arxiv.org/abs/2403.07708)|null|
+|**2024-03-12**|**Symmetric Q-learning: Reducing Skewness of Bellman Error in Online Reinforcement Learning**|Motoki Omura et.al.|[2403.07704](http://arxiv.org/abs/2403.07704)|null|
+|**2024-03-12**|**Optimizing Negative Prompts for Enhanced Aesthetics and Fidelity in Text-To-Image Generation**|Michael Ogezi et.al.|[2403.07605](http://arxiv.org/abs/2403.07605)|null|
+|**2024-03-12**|**An Improved Strategy for Blood Glucose Control Using Multi-Step Deep Reinforcement Learning**|Weiwei Gu et.al.|[2403.07566](http://arxiv.org/abs/2403.07566)|null|
+|**2024-03-12**|**Ensembling Prioritized Hybrid Policies for Multi-agent Pathfinding**|Huijie Tang et.al.|[2403.07559](http://arxiv.org/abs/2403.07559)|null|
+|**2024-03-12**|**Constrained Optimal Fuel Consumption of HEV: A Constrained Reinforcement Learning Approach**|Shuchang Yan et.al.|[2403.07503](http://arxiv.org/abs/2403.07503)|null|
+|**2024-03-12**|**Optimization of Pressure Management Strategies for Geological CO2 Sequestration Using Surrogate Model-based Reinforcement Learning**|Jungang Chen et.al.|[2403.07360](http://arxiv.org/abs/2403.07360)|null|
+|**2024-03-12**|**Reinforced Sequential Decision-Making for Sepsis Treatment: The POSNEGDM Framework with Mortality Classifier and Transformer**|Dipesh Tamboli et.al.|[2403.07309](http://arxiv.org/abs/2403.07309)|**[link](https://github.com/dipeshtamboli/posnegdm-reinforced-sequential-decision-making-for-sepsis-treatment)**|
+|**2024-03-12**|**Advantage-Aware Policy Optimization for Offline Reinforcement Learning**|Yunpeng Qing et.al.|[2403.07262](http://arxiv.org/abs/2403.07262)|null|
+|**2024-03-12**|**Disentangling Policy from Offline Task Representation Learning via Adversarial Data Augmentation**|Chengxing Jia et.al.|[2403.07261](http://arxiv.org/abs/2403.07261)|**[link](https://github.com/lamda-rl/reda)**|
+|**2024-03-12**|**Adaptive Gain Scheduling using Reinforcement Learning for Quadcopter Control**|Mike Timmerman et.al.|[2403.07216](http://arxiv.org/abs/2403.07216)|null|
+|**2024-03-11**|**$\mathbf{(N,K)}$ -Puzzle: A Cost-Efficient Testbed for Benchmarking Reinforcement Learning Algorithms in Generative Language Model**|Yufeng Zhang et.al.|[2403.07191](http://arxiv.org/abs/2403.07191)|null|
+|**2024-03-11**|**On the Limited Representational Power of Value Functions and its Links to Statistical (In)Efficiency**|David Cheikhi et.al.|[2403.07136](http://arxiv.org/abs/2403.07136)|null|
+|**2024-03-11**|**Bigraph Matching Weighted with Learnt Incentive Function for Multi-Robot Task Allocation**|Steve Paul et.al.|[2403.07131](http://arxiv.org/abs/2403.07131)|null|
+|**2024-03-11**|**Learning-Aided Control of Robotic Tether-Net with Maneuverable Nodes to Capture Large Space Debris**|Achira Boonrath et.al.|[2403.07125](http://arxiv.org/abs/2403.07125)|null|
+|**2024-03-11**|**An Efficient Learning-based Solver Comparable to Metaheuristics for the Capacitated Arc Routing Problem**|Runze Guo et.al.|[2403.07028](http://arxiv.org/abs/2403.07028)|null|
+|**2024-03-09**|**Mathematics of multi-agent learning systems at the interface of game theory and artificial intelligence**|Long Wang et.al.|[2403.07017](http://arxiv.org/abs/2403.07017)|null|
+|**2024-03-08**|**Multi-Agent Reinforcement Learning with a Hierarchy of Reward Machines**|Xuejing Zheng et.al.|[2403.07005](http://arxiv.org/abs/2403.07005)|null|
 |**2024-03-11**|**Acquiring Diverse Skills using Curriculum Reinforcement Learning with Mixture of Experts**|Onur Celik et.al.|[2403.06966](http://arxiv.org/abs/2403.06966)|null|
 |**2024-03-11**|**Unveiling the Significance of Toddler-Inspired Reward Transition in Goal-Oriented Reinforcement Learning**|Junseok Park et.al.|[2403.06880](http://arxiv.org/abs/2403.06880)|null|
 |**2024-03-11**|**Quantifying the Sensitivity of Inverse Reinforcement Learning to Misspecification**|Joar Skalse et.al.|[2403.06854](http://arxiv.org/abs/2403.06854)|null|
