@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -934,7 +934,7 @@ layout: default
 |**2023-09-12**|**Optimization Guarantees of Unfolded ISTA and ADMM Networks With Smooth Soft-Thresholding**|Shaik Basheeruddin Shah et.al.|[2309.06195](http://arxiv.org/abs/2309.06195)|null|
 |**2023-09-06**|**SWAP: Exploiting Second-Ranked Logits for Adversarial Attacks on Time Series**|Chang George Dong et.al.|[2309.02752](http://arxiv.org/abs/2309.02752)|null|
 |**2024-02-22**|**Transformers as Support Vector Machines**|Davoud Ataee Tarzanagh et.al.|[2308.16898](http://arxiv.org/abs/2308.16898)|**[link](https://github.com/umich-sota/tf-as-svm)**|
-|**2023-11-27**|**Uncovering the Hidden Cost of Model Compression**|Diganta Misra et.al.|[2308.14969](http://arxiv.org/abs/2308.14969)|**[link](https://github.com/landskape-ai/reprogram_lt)**|
+|**2024-03-15**|**Uncovering the Hidden Cost of Model Compression**|Diganta Misra et.al.|[2308.14969](http://arxiv.org/abs/2308.14969)|**[link](https://github.com/landskape-ai/reprogram_lt)**|
 |**2023-09-01**|**Diversified Ensemble of Independent Sub-Networks for Robust Self-Supervised Representation Learning**|Amirhossein Vahidi et.al.|[2308.14705](http://arxiv.org/abs/2308.14705)|null|
 |**2023-08-20**|**Representation Disparity-aware Distillation for 3D Object Detection**|Yanjing Li et.al.|[2308.10308](http://arxiv.org/abs/2308.10308)|null|
 |**2023-08-17**|**A comprehensive study of spike and slab shrinkage priors for structurally sparse Bayesian neural networks**|Sanket Jantre et.al.|[2308.09104](http://arxiv.org/abs/2308.09104)|null|
@@ -1414,7 +1414,7 @@ layout: default
 |**2024-03-12**|**Reinforced Sequential Decision-Making for Sepsis Treatment: The POSNEGDM Framework with Mortality Classifier and Transformer**|Dipesh Tamboli et.al.|[2403.07309](http://arxiv.org/abs/2403.07309)|**[link](https://github.com/dipeshtamboli/posnegdm-reinforced-sequential-decision-making-for-sepsis-treatment)**|
 |**2024-03-12**|**Advantage-Aware Policy Optimization for Offline Reinforcement Learning**|Yunpeng Qing et.al.|[2403.07262](http://arxiv.org/abs/2403.07262)|null|
 |**2024-03-12**|**Disentangling Policy from Offline Task Representation Learning via Adversarial Data Augmentation**|Chengxing Jia et.al.|[2403.07261](http://arxiv.org/abs/2403.07261)|**[link](https://github.com/lamda-rl/reda)**|
-|**2024-03-12**|**Adaptive Gain Scheduling using Reinforcement Learning for Quadcopter Control**|Mike Timmerman et.al.|[2403.07216](http://arxiv.org/abs/2403.07216)|null|
+|**2024-03-12**|**Adaptive Gain Scheduling using Reinforcement Learning for Quadcopter Control**|Mike Timmerman et.al.|[2403.07216](http://arxiv.org/abs/2403.07216)|**[link](https://github.com/MikeTimmerman-ae/RL_Drone_Control)**|
 |**2024-03-11**|**$\mathbf{(N,K)}$ -Puzzle: A Cost-Efficient Testbed for Benchmarking Reinforcement Learning Algorithms in Generative Language Model**|Yufeng Zhang et.al.|[2403.07191](http://arxiv.org/abs/2403.07191)|null|
 |**2024-03-11**|**On the Limited Representational Power of Value Functions and its Links to Statistical (In)Efficiency**|David Cheikhi et.al.|[2403.07136](http://arxiv.org/abs/2403.07136)|null|
 |**2024-03-11**|**Bigraph Matching Weighted with Learnt Incentive Function for Multi-Robot Task Allocation**|Steve Paul et.al.|[2403.07131](http://arxiv.org/abs/2403.07131)|null|
@@ -1428,7 +1428,7 @@ layout: default
 |**2024-03-11**|**In-context Exploration-Exploitation for Reinforcement Learning**|Zhenwen Dai et.al.|[2403.06826](http://arxiv.org/abs/2403.06826)|null|
 |**2024-03-11**|**ε-Neural Thompson Sampling of Deep Brain Stimulation for Parkinson Disease Treatment**|Hao-Lun Hsu et.al.|[2403.06814](http://arxiv.org/abs/2403.06814)|null|
 |**2024-03-11**|**From Factor Models to Deep Learning: Machine Learning in Reshaping Empirical Asset Pricing**|Junyi Ye et.al.|[2403.06779](http://arxiv.org/abs/2403.06779)|null|
-|**2024-03-11**|**ALaRM: Align Language Models via Hierarchical Rewards Modeling**|Yuhang Lai et.al.|[2403.06754](http://arxiv.org/abs/2403.06754)|null|
+|**2024-03-16**|**ALaRM: Align Language Models via Hierarchical Rewards Modeling**|Yuhang Lai et.al.|[2403.06754](http://arxiv.org/abs/2403.06754)|null|
 |**2024-03-11**|**Generalising Multi-Agent Cooperation through Task-Agnostic Communication**|Dulhan Jayalath et.al.|[2403.06750](http://arxiv.org/abs/2403.06750)|**[link](https://github.com/proroklab/task-agnostic-comms)**|
 |**2024-03-11**|**Enhancing Image Caption Generation Using Reinforcement Learning with Human Feedback**|Adarsh N L et.al.|[2403.06735](http://arxiv.org/abs/2403.06735)|null|
 |**2024-03-11**|**Large Model driven Radiology Report Generation with Clinical Quality Reinforcement Learning**|Zijian Zhou et.al.|[2403.06728](http://arxiv.org/abs/2403.06728)|null|
@@ -1442,10 +1442,10 @@ layout: default
 |**2024-03-12**|**DeepSafeMPC: Deep Learning-Based Model Predictive Control for Safe Multi-Agent Reinforcement Learning**|Xuefeng Wang et.al.|[2403.06397](http://arxiv.org/abs/2403.06397)|null|
 |**2024-03-11**|**Finite-Time Error Analysis of Soft Q-Learning: Switching System Approach**|Narim Jeong et.al.|[2403.06366](http://arxiv.org/abs/2403.06366)|null|
 |**2024-03-10**|**Transferable Reinforcement Learning via Generalized Occupancy Models**|Chuning Zhu et.al.|[2403.06328](http://arxiv.org/abs/2403.06328)|null|
-|**2024-03-10**|**ACM MMSys 2024 Bandwidth Estimation in Real Time Communications Challenge**|Sami Khairy et.al.|[2403.06324](http://arxiv.org/abs/2403.06324)|**[link](https://github.com/microsoft/rl4bandwidthestimationchallenge)**|
+|**2024-03-15**|**ACM MMSys 2024 Bandwidth Estimation in Real Time Communications Challenge**|Sami Khairy et.al.|[2403.06324](http://arxiv.org/abs/2403.06324)|**[link](https://github.com/microsoft/rl4bandwidthestimationchallenge)**|
 |**2024-03-10**|**Risk-Sensitive RL with Optimized Certainty Equivalents via Reduction to Standard RL**|Kaiwen Wang et.al.|[2403.06323](http://arxiv.org/abs/2403.06323)|null|
 |**2024-03-10**|**Optimal Policy Sparsification and Low Rank Decomposition for Deep Reinforcement Learning**|Vikram Goddla et.al.|[2403.06313](http://arxiv.org/abs/2403.06313)|null|
-|**2024-03-10**|**Fish-inspired tracking of underwater turbulent plumes**|Peter Gunnarson et.al.|[2403.06091](http://arxiv.org/abs/2403.06091)|null|
+|**2024-03-15**|**Fish-inspired tracking of underwater turbulent plumes**|Peter Gunnarson et.al.|[2403.06091](http://arxiv.org/abs/2403.06091)|null|
 |**2024-03-09**|**Reinforcement Learning Paycheck Optimization for Multivariate Financial Goals**|Melda Alaluf et.al.|[2403.06011](http://arxiv.org/abs/2403.06011)|null|
 |**2024-03-09**|**Dissecting Deep RL with High Update Ratios: Combatting Value Overestimation and Divergence**|Marcel Hussing et.al.|[2403.05996](http://arxiv.org/abs/2403.05996)|null|
 |**2024-03-09**|**Enhancing Classification Performance via Reinforcement Learning for Feature Selection**|Younes Ghazagh Jahed et.al.|[2403.05979](http://arxiv.org/abs/2403.05979)|null|
