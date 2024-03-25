@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.24
+## Updated on 2024.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -32,7 +32,7 @@ layout: default
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
 |**2024-03-18**|**PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency**|Zhishuai Li et.al.|[2403.09732](http://arxiv.org/abs/2403.09732)|null|
 |**2024-03-08**|**Concept-aware Data Construction Improves In-context Learning of Language Models**|Michal Štefánik et.al.|[2403.09703](http://arxiv.org/abs/2403.09703)|null|
-|**2024-03-19**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
+|**2024-03-22**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
 |**2024-03-15**|**WavCraft: Audio Editing and Generation with Natural Language Prompts**|Jinhua Liang et.al.|[2403.09527](http://arxiv.org/abs/2403.09527)|**[link](https://github.com/jinhualiang/wavcraft)**|
 |**2024-03-14**|**Rectifying Demonstration Shortcut in In-Context Learning**|Joonwon Jang et.al.|[2403.09488](http://arxiv.org/abs/2403.09488)|null|
 |**2024-03-14**|**Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity**|Zhuo Zhi et.al.|[2403.09428](http://arxiv.org/abs/2403.09428)|null|
@@ -76,7 +76,7 @@ layout: default
 |**2024-03-01**|**DFIN-SQL: Integrating Focused Schema with DIN-SQL for Superior Accuracy in Large-Scale Databases**|Shai Volvovsky et.al.|[2403.00872](http://arxiv.org/abs/2403.00872)|null|
 |**2024-02-29**|**ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph**|Xukun Liu et.al.|[2403.00839](http://arxiv.org/abs/2403.00839)|null|
 |**2024-03-01**|**LLMs for Targeted Sentiment in News Headlines: Exploring Different Levels of Prompt Prescriptiveness**|Jana Juroš et.al.|[2403.00418](http://arxiv.org/abs/2403.00418)|null|
-|**2024-03-01**|**Cross-Lingual Learning vs. Low-Resource Fine-Tuning: A Case Study with Fact-Checking in Turkish**|Recep Firat Cekinel et.al.|[2403.00411](http://arxiv.org/abs/2403.00411)|**[link](https://github.com/firatcekinel/fctr)**|
+|**2024-03-22**|**Cross-Lingual Learning vs. Low-Resource Fine-Tuning: A Case Study with Fact-Checking in Turkish**|Recep Firat Cekinel et.al.|[2403.00411](http://arxiv.org/abs/2403.00411)|**[link](https://github.com/firatcekinel/fctr)**|
 |**2024-02-29**|**Training Dynamics of Multi-Head Softmax Attention for In-Context Learning: Emergence, Convergence, and Optimality**|Siyu Chen et.al.|[2402.19442](http://arxiv.org/abs/2402.19442)|null|
 |**2024-02-29**|**Teaching Large Language Models an Unseen Language on the Fly**|Chen Zhang et.al.|[2402.19167](http://arxiv.org/abs/2402.19167)|**[link](https://github.com/luciusssss/zhuangbench)**|
 |**2024-02-29**|**Dual Operating Modes of In-Context Learning**|Ziqian Lin et.al.|[2402.18819](http://arxiv.org/abs/2402.18819)|null|
@@ -332,7 +332,7 @@ layout: default
 |**2024-03-18**|**AGRNav: Efficient and Energy-Saving Autonomous Navigation for Air-Ground Robots in Occlusion-Prone Environments**|Junming Wang et.al.|[2403.11607](http://arxiv.org/abs/2403.11607)|**[link](https://github.com/jmwang0117/agrnav)**|
 |**2024-03-17**|**Fast Personalized Text-to-Image Syntheses With Attention Injection**|Yuxuan Zhang et.al.|[2403.11284](http://arxiv.org/abs/2403.11284)|null|
 |**2024-03-17**|**NeoNeXt: Novel neural network operator and architecture based on the patch-wise matrix multiplications**|Vladimir Korviakov et.al.|[2403.11251](http://arxiv.org/abs/2403.11251)|null|
-|**2024-03-17**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
+|**2024-03-22**|**Spiking Wavelet Transformer**|Yuetong Fang et.al.|[2403.11138](http://arxiv.org/abs/2403.11138)|null|
 |**2024-03-16**|**StableGarment: Garment-Centric Generation via Stable Diffusion**|Rui Wang et.al.|[2403.10783](http://arxiv.org/abs/2403.10783)|null|
 |**2024-03-15**|**Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**|Hongyuan Yu et.al.|[2403.10413](http://arxiv.org/abs/2403.10413)|**[link](https://github.com/marvinyu1995/hyctas)**|
 |**2024-03-15**|**PASTA: Towards Flexible and Efficient HDR Imaging Via Progressively Aggregated Spatio-Temporal Aligment**|Xiaoning Liu et.al.|[2403.10376](http://arxiv.org/abs/2403.10376)|null|
@@ -366,13 +366,13 @@ layout: default
 |**2024-03-08**|**PrimeComposer: Faster Progressively Combined Diffusion for Image Composition with Attention Steering**|Yibin Wang et.al.|[2403.05053](http://arxiv.org/abs/2403.05053)|**[link](https://github.com/codegoat24/primecomposer)**|
 |**2024-03-14**|**A 28.6 mJ/iter Stable Diffusion Processor for Text-to-Image Generation with Patch Similarity-based Sparsity Augmentation and Text-based Mixed-Precision**|Jiwon Choi et.al.|[2403.04982](http://arxiv.org/abs/2403.04982)|null|
 |**2024-03-08**|**StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models**|Lezhong Wang et.al.|[2403.04965](http://arxiv.org/abs/2403.04965)|null|
-|**2024-03-07**|**Faster Neighborhood Attention: Reducing the O(n^2) Cost of Self Attention at the Threadblock Level**|Ali Hassani et.al.|[2403.04690](http://arxiv.org/abs/2403.04690)|**[link](https://github.com/shi-labs/natten)**|
+|**2024-03-22**|**Faster Neighborhood Attention: Reducing the O(n^2) Cost of Self Attention at the Threadblock Level**|Ali Hassani et.al.|[2403.04690](http://arxiv.org/abs/2403.04690)|**[link](https://github.com/shi-labs/natten)**|
 |**2024-03-07**|**Understanding the PULSAR Effect in Combined Radiotherapy and Immunotherapy through Attention Mechanisms with a Transformer Model**|Hao Peng et.al.|[2403.04175](http://arxiv.org/abs/2403.04175)|null|
 |**2024-03-06**|**Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding**|Mengying Jiang et.al.|[2403.03465](http://arxiv.org/abs/2403.03465)|**[link](https://github.com/mengyingjiang/gcn-sa)**|
 |**2024-03-06**|**Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing**|Bingyan Liu et.al.|[2403.03431](http://arxiv.org/abs/2403.03431)|null|
 |**2024-03-06**|**CrossNet: Leveraging Global, Cross-Band, Narrow-Band, and Positional Encoding for Single- and Multi-Channel Speaker Separation**|Vahid Ahmadi Kalkhorani et.al.|[2403.03411](http://arxiv.org/abs/2403.03411)|null|
 |**2024-03-05**|**ARNN: Attentive Recurrent Neural Network for Multi-channel EEG Signals to Identify Epileptic Seizures**|Salim Rukhsar et.al.|[2403.03276](http://arxiv.org/abs/2403.03276)|**[link](https://github.com/salim-lysiun/arnn)**|
-|**2024-03-11**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|null|
+|**2024-03-21**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|null|
 |**2024-03-05**|**TaylorShift: Shifting the Complexity of Self-Attention from Squared to Linear (and Back) using Taylor-Softmax**|Tobias Christian Nauen et.al.|[2403.02920](http://arxiv.org/abs/2403.02920)|**[link](https://github.com/tobna/taylorshift)**|
 |**2024-03-05**|**Quantum Mixed-State Self-Attention Network**|Fu Chen et.al.|[2403.02871](http://arxiv.org/abs/2403.02871)|null|
 |**2024-03-05**|**Enhancing Weakly Supervised 3D Medical Image Segmentation through Probabilistic-aware Learning**|Zhaoxin Fan et.al.|[2403.02566](http://arxiv.org/abs/2403.02566)|**[link](https://github.com/runminjiang/pw4medseg)**|
@@ -408,7 +408,7 @@ layout: default
 |**2024-02-25**|**PIDformer: Transformer Meets Control Theory**|Tam Nguyen et.al.|[2402.15989](http://arxiv.org/abs/2402.15989)|null|
 |**2024-02-24**|**Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**|Chi-Sheng Chen et.al.|[2402.15761](http://arxiv.org/abs/2402.15761)|**[link](https://github.com/chishengchen/resvmamba)**|
 |**2024-02-23**|**Training Nonlinear Transformers for Efficient In-Context Learning: A Theoretical Learning and Generalization Analysis**|Hongkang Li et.al.|[2402.15607](http://arxiv.org/abs/2402.15607)|null|
-|**2024-02-23**|**ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition**|Lu Ye et.al.|[2402.15220](http://arxiv.org/abs/2402.15220)|null|
+|**2024-03-22**|**ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition**|Lu Ye et.al.|[2402.15220](http://arxiv.org/abs/2402.15220)|null|
 |**2024-02-21**|**SISSA: Real-time Monitoring of Hardware Functional Safety and Cybersecurity with In-vehicle SOME/IP Ethernet Traffic**|Qi Liu et.al.|[2402.14862](http://arxiv.org/abs/2402.14862)|**[link](https://github.com/jamesnulliu/sissa)**|
 |**2024-02-22**|**Consolidating Attention Features for Multi-view Image Editing**|Or Patashnik et.al.|[2402.14792](http://arxiv.org/abs/2402.14792)|null|
 |**2024-02-22**|**How Transformers Learn Causal Structure with Gradient Descent**|Eshaan Nichani et.al.|[2402.14735](http://arxiv.org/abs/2402.14735)|null|
