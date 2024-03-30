@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.29
+## Updated on 2024.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -20,7 +20,7 @@ layout: default
 |**2024-03-28**|**Automated Black-box Prompt Engineering for Personalized Text-to-Image Generation**|Yutong He et.al.|[2403.19103](http://arxiv.org/abs/2403.19103)|null|
 |**2024-03-26**|**Large Language Models Enhanced Collaborative Filtering**|Zhongxiang Sun et.al.|[2403.17688](http://arxiv.org/abs/2403.17688)|null|
 |**2024-03-26**|**Language Models for Text Classification: Is In-Context Learning Enough?**|Aleksandra Edwards et.al.|[2403.17661](http://arxiv.org/abs/2403.17661)|null|
-|**2024-03-26**|**Naive Bayes-based Context Extension for Large Language Models**|Jianlin Su et.al.|[2403.17552](http://arxiv.org/abs/2403.17552)|null|
+|**2024-03-26**|**Naive Bayes-based Context Extension for Large Language Models**|Jianlin Su et.al.|[2403.17552](http://arxiv.org/abs/2403.17552)|**[link](https://github.com/amurtadha/nbce-master)**|
 |**2024-03-26**|**ILLUMINER: Instruction-tuned Large Language Models as Few-shot Intent Classifier and Slot Filler**|Paramita Mirza et.al.|[2403.17536](http://arxiv.org/abs/2403.17536)|**[link](https://github.com/opengptx/illuminer)**|
 |**2024-03-25**|**A Comprehensive Study of the Capabilities of Large Language Models for Vulnerability Detection**|Benjamin Steenhoek et.al.|[2403.17218](http://arxiv.org/abs/2403.17218)|null|
 |**2024-03-25**|**MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models**|Kailai Yang et.al.|[2403.17141](http://arxiv.org/abs/2403.17141)|null|
@@ -724,7 +724,7 @@ layout: default
 |**2024-03-08**|**Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems trained with Gradient Descent**|Nathan Buskulic et.al.|[2403.05395](http://arxiv.org/abs/2403.05395)|null|
 |**2024-03-08**|**Leveraging Continuous Time to Understand Momentum When Training Diagonal Linear Networks**|Hristo Papazov et.al.|[2403.05293](http://arxiv.org/abs/2403.05293)|null|
 |**2024-03-08**|**Stacking as Accelerated Gradient Descent**|Naman Agarwal et.al.|[2403.04978](http://arxiv.org/abs/2403.04978)|null|
-|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|**[link](https://github.com/amberyzheng/bloomgml)**|
 |**2024-03-06**|**Directional Smoothness and Gradient Methods: Convergence and Adaptivity**|Aaron Mishkin et.al.|[2403.04081](http://arxiv.org/abs/2403.04081)|null|
 |**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867](http://arxiv.org/abs/2403.03867)|null|
 |**2024-03-06**|**Denoising Gradient Descent in Variational Quantum Algorithms**|Lars Simon et.al.|[2403.03826](http://arxiv.org/abs/2403.03826)|null|
@@ -1178,7 +1178,7 @@ layout: default
 |**2024-03-21**|**Reinforcement Learning Design for Quickest Change Detection**|Austin Cooper et.al.|[2403.14109](http://arxiv.org/abs/2403.14109)|null|
 |**2024-03-20**|**Accelerated Objective Gap and Gradient Norm Convergence for Gradient Descent via Long Steps**|Benjamin Grimmer et.al.|[2403.14045](http://arxiv.org/abs/2403.14045)|null|
 |**2024-03-20**|**Analysing heavy-tail properties of Stochastic Gradient Descent by means of Stochastic Recurrence Equations**|Ewa Damek et.al.|[2403.13868](http://arxiv.org/abs/2403.13868)|null|
-|**2024-03-20**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|null|
+|**2024-03-20**|**M-HOF-Opt: Multi-Objective Hierarchical Output Feedback Optimization via Multiplier Induced Loss Landscape Scheduling**|Xudong Sun et.al.|[2403.13728](http://arxiv.org/abs/2403.13728)|**[link](https://github.com/marrlab/domainlab)**|
 |**2024-03-23**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
 |**2024-03-19**|**Understanding the training of infinitely deep and wide ResNets with Conditional Optimal Transport**|Raphaël Barboni et.al.|[2403.12887](http://arxiv.org/abs/2403.12887)|null|
 |**2024-03-18**|**Gradient-based Fuzzy System Optimisation via Automatic Differentiation -- FuzzyR as a Use Case**|Chao Chen et.al.|[2403.12308](http://arxiv.org/abs/2403.12308)|null|
@@ -1235,7 +1235,7 @@ layout: default
 |**2024-03-08**|**Recovery Guarantees of Unsupervised Neural Networks for Inverse Problems trained with Gradient Descent**|Nathan Buskulic et.al.|[2403.05395](http://arxiv.org/abs/2403.05395)|null|
 |**2024-03-08**|**Leveraging Continuous Time to Understand Momentum When Training Diagonal Linear Networks**|Hristo Papazov et.al.|[2403.05293](http://arxiv.org/abs/2403.05293)|null|
 |**2024-03-08**|**Stacking as Accelerated Gradient Descent**|Naman Agarwal et.al.|[2403.04978](http://arxiv.org/abs/2403.04978)|null|
-|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|null|
+|**2024-03-07**|**BloomGML: Graph Machine Learning through the Lens of Bilevel Optimization**|Amber Yijia Zheng et.al.|[2403.04763](http://arxiv.org/abs/2403.04763)|**[link](https://github.com/amberyzheng/bloomgml)**|
 |**2024-03-07**|**Privacy-preserving Fine-tuning of Large Language Models through Flatness**|Tiejin Chen et.al.|[2403.04124](http://arxiv.org/abs/2403.04124)|null|
 |**2024-03-06**|**Directional Smoothness and Gradient Methods: Convergence and Adaptivity**|Aaron Mishkin et.al.|[2403.04081](http://arxiv.org/abs/2403.04081)|null|
 |**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867](http://arxiv.org/abs/2403.03867)|null|
