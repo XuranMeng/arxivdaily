@@ -51,11 +51,11 @@ layout: default
 |**2024-03-15**|**Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models**|Tian Meng et.al.|[2403.10287](http://arxiv.org/abs/2403.10287)|null|
 |**2024-03-15**|**Team Trifecta at Factify5WQA: Setting the Standard in Fact Verification with Fine-Tuning**|Shang-Hsuan Chiang et.al.|[2403.10281](http://arxiv.org/abs/2403.10281)|**[link](https://github.com/andychiangsh/pre-cofactv3)**|
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
-|**2024-03-29**|**PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency**|Zhishuai Li et.al.|[2403.09732](http://arxiv.org/abs/2403.09732)|null|
+|**2024-03-29**|**PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency**|Zhishuai Li et.al.|[2403.09732](http://arxiv.org/abs/2403.09732)|**[link](https://github.com/zhshlii/petsql)**|
 |**2024-03-08**|**Concept-aware Data Construction Improves In-context Learning of Language Models**|Michal Štefánik et.al.|[2403.09703](http://arxiv.org/abs/2403.09703)|null|
 |**2024-03-22**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
 |**2024-03-15**|**WavCraft: Audio Editing and Generation with Natural Language Prompts**|Jinhua Liang et.al.|[2403.09527](http://arxiv.org/abs/2403.09527)|**[link](https://github.com/jinhualiang/wavcraft)**|
-|**2024-03-29**|**Rectifying Demonstration Shortcut in In-Context Learning**|Joonwon Jang et.al.|[2403.09488](http://arxiv.org/abs/2403.09488)|null|
+|**2024-03-29**|**Rectifying Demonstration Shortcut in In-Context Learning**|Joonwon Jang et.al.|[2403.09488](http://arxiv.org/abs/2403.09488)|**[link](https://github.com/lainshower/in-context-calibration)**|
 |**2024-03-26**|**Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity**|Zhuo Zhi et.al.|[2403.09428](http://arxiv.org/abs/2403.09428)|**[link](https://github.com/ZhuoZHI-UCL/ICL_multimodal)**|
 |**2024-03-14**|**Unveiling the Generalization Power of Fine-Tuned Large Language Models**|Haoran Yang et.al.|[2403.09162](http://arxiv.org/abs/2403.09162)|**[link](https://github.com/lhryang/generalization_of_ft-llm)**|
 |**2024-03-14**|**Large Language Models are Parallel Multilingual Learners**|Yongyu Mu et.al.|[2403.09073](http://arxiv.org/abs/2403.09073)|**[link](https://github.com/takagi97/llms-are-parallel-multilingual-learners)**|
@@ -1971,7 +1971,7 @@ layout: default
 |**2024-03-05**|**Robust Policy Learning via Offline Skill Diffusion**|Woo Kyung Kim et.al.|[2403.00225](http://arxiv.org/abs/2403.00225)|null|
 |**2024-03-01**|**Efficient Reinforcement Learning for Global Decision Making in the Presence of Local Agents at Scale**|Emile Anand et.al.|[2403.00222](http://arxiv.org/abs/2403.00222)|null|
 |**2024-03-01**|**Improving Socratic Question Generation using Data Augmentation and Preference Optimization**|Nischal Ashok Kumar et.al.|[2403.00199](http://arxiv.org/abs/2403.00199)|null|
-|**2024-02-29**|**Learning to walk in confined spaces using 3D representation**|Takahiro Miki et.al.|[2403.00187](http://arxiv.org/abs/2403.00187)|null|
+|**2024-02-29**|**Learning to walk in confined spaces using 3D representation**|Takahiro Miki et.al.|[2403.00187](http://arxiv.org/abs/2403.00187)|**[link](https://github.com/leggedrobotics/terrain-generator)**|
 |**2024-02-29**|**Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control**|Zhiyu An et.al.|[2403.00172](http://arxiv.org/abs/2403.00172)|**[link](https://github.com/ryeii/veri_hvac)**|
 |**2024-02-29**|**From Flies to Robots: Inverted Landing in Small Quadcopters with Dynamic Perching**|Bryan Habas et.al.|[2403.00128](http://arxiv.org/abs/2403.00128)|null|
 |**2024-02-29**|**Curiosity-driven Red-teaming for Large Language Models**|Zhang-Wei Hong et.al.|[2402.19464](http://arxiv.org/abs/2402.19464)|**[link](https://github.com/improbable-ai/curiosity_redteam)**|
@@ -2112,7 +2112,7 @@ layout: default
 |**2024-02-21**|**Dealing with unbounded gradients in stochastic saddle-point optimization**|Gergely Neu et.al.|[2402.13903](http://arxiv.org/abs/2402.13903)|null|
 |**2024-02-21**|**Synthesis of Hierarchical Controllers Based on Deep Reinforcement Learning Policies**|Florent Delgrange et.al.|[2402.13785](http://arxiv.org/abs/2402.13785)|null|
 |**2024-02-21**|**Weakly supervised localisation of prostate cancer using reinforcement learning for bi-parametric MR images**|Martynas Pocius et.al.|[2402.13778](http://arxiv.org/abs/2402.13778)|null|
-|**2024-02-26**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|null|
+|**2024-02-26**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|**[link](https://github.com/lucascjysdl/dgms-for-offline-policy-learning)**|
 |**2024-02-27**|**Reinforcement learning-assisted quantum architecture search for variational quantum algorithms**|Akash Kundu et.al.|[2402.13754](http://arxiv.org/abs/2402.13754)|null|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
 |**2024-02-21**|**Improving a Proportional Integral Controller with Reinforcement Learning on a Throttle Valve Benchmark**|Paul Daoudi et.al.|[2402.13654](http://arxiv.org/abs/2402.13654)|null|
@@ -2427,7 +2427,7 @@ layout: default
 |**2024-02-06**|**Aligner: Achieving Efficient Alignment through Weak-to-Strong Correction**|Jiaming Ji et.al.|[2402.02416](http://arxiv.org/abs/2402.02416)|null|
 |**2024-02-07**|**Symbol: Generating Flexible Black-Box Optimizers through Symbolic Equation Learning**|Jiacheng Chen et.al.|[2402.02355](http://arxiv.org/abs/2402.02355)|**[link](https://github.com/gmc-drl/symbol)**|
 |**2024-02-04**|**Interference-Aware Emergent Random Access Protocol for Downlink LEO Satellite Networks**|Chang-Yong Lim et.al.|[2402.02350](http://arxiv.org/abs/2402.02350)|null|
-|**2024-02-04**|**Enhance Reasoning for Large Language Models in the Game Werewolf**|Shuang Wu et.al.|[2402.02330](http://arxiv.org/abs/2402.02330)|null|
+|**2024-02-04**|**Enhance Reasoning for Large Language Models in the Game Werewolf**|Shuang Wu et.al.|[2402.02330](http://arxiv.org/abs/2402.02330)|**[link](https://github.com/boluoweifenda/werewolf)**|
 |**2024-02-04**|**INViT: A Generalizable Routing Problem Solver with Invariant Nested View Transformer**|Han Fang et.al.|[2402.02317](http://arxiv.org/abs/2402.02317)|null|
 |**2024-02-03**|**Towards Optimal Adversarial Robust Q-learning with Bellman Infinity-error**|Haoran Li et.al.|[2402.02165](http://arxiv.org/abs/2402.02165)|null|
 |**2024-02-03**|**Emergency Computing: An Adaptive Collaborative Inference Method Based on Hierarchical Reinforcement Learning**|Weiqi Fu et.al.|[2402.02146](http://arxiv.org/abs/2402.02146)|null|
