@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**Discourse-Aware In-Context Learning for Temporal Expression Normalization**|Akash Kumar Gautam et.al.|[2404.07775](http://arxiv.org/abs/2404.07775)|null|
+|**2024-04-11**|**Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning**|Quanyu Long et.al.|[2404.07546](http://arxiv.org/abs/2404.07546)|null|
 |**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
 |**2024-04-10**|**What needs to go right for an induction head? A mechanistic study of in-context learning circuits and their formation**|Aaditya K. Singh et.al.|[2404.07129](http://arxiv.org/abs/2404.07129)|**[link](https://github.com/aadityasingh/icl-dynamics)**|
 |**2024-04-10**|**What's Mine becomes Yours: Defining, Annotating and Detecting Context-Dependent Paraphrases in News Interview Dialogs**|Anna Wegmann et.al.|[2404.06670](http://arxiv.org/abs/2404.06670)|null|
@@ -383,6 +386,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**TBSN: Transformer-Based Blind-Spot Network for Self-Supervised Image Denoising**|Junyi Li et.al.|[2404.07846](http://arxiv.org/abs/2404.07846)|**[link](https://github.com/nagejacob/tbsn)**|
 |**2024-04-10**|**GraSAME: Injecting Token-Level Structural Information to Pretrained Language Models via Graph-guided Self-Attention Mechanism**|Shuzhou Yuan et.al.|[2404.06911](http://arxiv.org/abs/2404.06911)|null|
 |**2024-04-10**|**Adapting LLaMA Decoder to Vision Transformer**|Jiahao Wang et.al.|[2404.06773](http://arxiv.org/abs/2404.06773)|null|
 |**2024-04-09**|**QueSTMaps: Queryable Semantic Topological Maps for 3D Scene Understanding**|Yash Mehan et.al.|[2404.06442](http://arxiv.org/abs/2404.06442)|null|
@@ -747,6 +752,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Diagram Analysis of Iterative Algorithms**|Chris Jones et.al.|[2404.07881](http://arxiv.org/abs/2404.07881)|null|
+|**2024-04-11**|**On the convergence analysis of one-shot inversion methods**|Marcella Bonazzoli et.al.|[2404.07526](http://arxiv.org/abs/2404.07526)|null|
 |**2024-04-10**|**Learning of deep convolutional network image classifiers via stochastic gradient descent and over-parametrization**|Michael Kohler et.al.|[2404.07128](http://arxiv.org/abs/2404.07128)|null|
 |**2024-04-10**|**Towards Learning Stochastic Population Models by Gradient Descent**|Justin N. Kreikemeyer et.al.|[2404.07049](http://arxiv.org/abs/2404.07049)|null|
 |**2024-04-10**|**Gradient Descent is Pareto-Optimal in the Oracle Complexity and Memory Tradeoff for Feasibility Problems**|Moise Blanchard et.al.|[2404.06720](http://arxiv.org/abs/2404.06720)|null|
@@ -1288,6 +1295,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Towards Faster Training of Diffusion Models: An Inspiration of A Consistency Phenomenon**|Tianshuo Xu et.al.|[2404.07946](http://arxiv.org/abs/2404.07946)|null|
+|**2024-04-11**|**Diagram Analysis of Iterative Algorithms**|Chris Jones et.al.|[2404.07881](http://arxiv.org/abs/2404.07881)|null|
+|**2024-04-11**|**On the convergence analysis of one-shot inversion methods**|Marcella Bonazzoli et.al.|[2404.07526](http://arxiv.org/abs/2404.07526)|null|
 |**2024-04-10**|**Learning of deep convolutional network image classifiers via stochastic gradient descent and over-parametrization**|Michael Kohler et.al.|[2404.07128](http://arxiv.org/abs/2404.07128)|null|
 |**2024-04-10**|**Towards Learning Stochastic Population Models by Gradient Descent**|Justin N. Kreikemeyer et.al.|[2404.07049](http://arxiv.org/abs/2404.07049)|null|
 |**2024-04-10**|**Gradient Descent is Pareto-Optimal in the Oracle Complexity and Memory Tradeoff for Feasibility Problems**|Moise Blanchard et.al.|[2404.06720](http://arxiv.org/abs/2404.06720)|null|
@@ -1728,6 +1738,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**High-Dimension Human Value Representation in Large Language Models**|Samuel Cahyawijaya et.al.|[2404.07900](http://arxiv.org/abs/2404.07900)|null|
+|**2024-04-11**|**Data-Driven System Identification of Quadrotors Subject to Motor Delays**|Jonas Eschmann et.al.|[2404.07837](http://arxiv.org/abs/2404.07837)|null|
+|**2024-04-11**|**On the Sample Efficiency of Abstractions and Potential-Based Reward Shaping in Reinforcement Learning**|Giuseppe Canonaco et.al.|[2404.07826](http://arxiv.org/abs/2404.07826)|null|
+|**2024-04-11**|**An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization**|Minshuo Chen et.al.|[2404.07771](http://arxiv.org/abs/2404.07771)|null|
+|**2024-04-11**|**Differentially Private Reinforcement Learning with Self-Play**|Dan Qiao et.al.|[2404.07559](http://arxiv.org/abs/2404.07559)|null|
+|**2024-04-11**|**Enhancing Policy Gradient with the Polyak Step-Size Adaption**|Yunxiang Li et.al.|[2404.07525](http://arxiv.org/abs/2404.07525)|null|
+|**2024-04-11**|**Generative Probabilistic Planning for Optimizing Supply Chain Networks**|Hyung-il Ahn et.al.|[2404.07511](http://arxiv.org/abs/2404.07511)|null|
+|**2024-04-11**|**Neural Fault Injection: Generating Software Faults from Natural Language**|Domenico Cotroneo et.al.|[2404.07491](http://arxiv.org/abs/2404.07491)|null|
+|**2024-04-11**|**Leveraging Domain-Unlabeled Data in Offline Reinforcement Learning across Two Domains**|Soichiro Nishimori et.al.|[2404.07465](http://arxiv.org/abs/2404.07465)|null|
+|**2024-04-11**|**UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning**|Saichao Liu et.al.|[2404.07453](http://arxiv.org/abs/2404.07453)|null|
+|**2024-04-11**|**Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning**|Jiahui Li et.al.|[2404.07450](http://arxiv.org/abs/2404.07450)|null|
+|**2024-04-10**|**A Transformer-Based Model for the Prediction of Human Gaze Behavior on Videos**|Suleyman Ozdel et.al.|[2404.07351](http://arxiv.org/abs/2404.07351)|null|
+|**2024-04-10**|**Structured Reinforcement Learning for Media Streaming at the Wireless Edge**|Archana Bura et.al.|[2404.07315](http://arxiv.org/abs/2404.07315)|null|
+|**2024-04-10**|**Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity**|Vahid Balazadeh et.al.|[2404.07266](http://arxiv.org/abs/2404.07266)|null|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
 |**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
 |**2024-04-10**|**How Consistent are Clinicians? Evaluating the Predictability of Sepsis Disease Progression with Dynamics Models**|Unnseo Park et.al.|[2404.07148](http://arxiv.org/abs/2404.07148)|**[link](https://github.com/cmudig/ai-clinician-mimiciv)**|
