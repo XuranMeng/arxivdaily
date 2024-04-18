@@ -22,6 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225](http://arxiv.org/abs/2404.11225)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
+|**2024-04-17**|**Position Engineering: Boosting Large Language Models through Positional Information Manipulation**|Zhiyuan He et.al.|[2404.11216](http://arxiv.org/abs/2404.11216)|null|
+|**2024-04-17**|**Many-Shot In-Context Learning**|Rishabh Agarwal et.al.|[2404.11018](http://arxiv.org/abs/2404.11018)|null|
+|**2024-04-16**|**Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning**|Moghis Fereidouni et.al.|[2404.10887](http://arxiv.org/abs/2404.10887)|null|
 |**2024-04-16**|**Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning**|Xiao Wang et.al.|[2404.10552](http://arxiv.org/abs/2404.10552)|null|
 |**2024-04-15**|**Memory Sharing for Large Language Model based Agents**|Hang Gao et.al.|[2404.09982](http://arxiv.org/abs/2404.09982)|null|
 |**2024-04-15**|**Evolving Interpretable Visual Classifiers with Large Language Models**|Mia Chiquier et.al.|[2404.09941](http://arxiv.org/abs/2404.09941)|null|
@@ -394,9 +398,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**|Xinghan Wang et.al.|[2404.11375](http://arxiv.org/abs/2404.11375)|null|
+|**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273](http://arxiv.org/abs/2404.11273)|null|
+|**2024-04-17**|**LongVQ: Long Sequence Modeling with Vector Quantization on Structured Memory**|Zicheng Liu et.al.|[2404.11163](http://arxiv.org/abs/2404.11163)|null|
+|**2024-04-16**|**Tao: Re-Thinking DL-based Microarchitecture Simulation**|Santosh Pandey et.al.|[2404.10921](http://arxiv.org/abs/2404.10921)|null|
 |**2024-04-16**|**Referring Flexible Image Restoration**|Runwei Guan et.al.|[2404.10342](http://arxiv.org/abs/2404.10342)|null|
 |**2024-04-16**|**Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs**|Woomin Song et.al.|[2404.10308](http://arxiv.org/abs/2404.10308)|**[link](https://github.com/alinlab/homer)**|
 |**2024-04-16**|**Anomaly Correction of Business Processes Using Transformer Autoencoder**|Ziyou Gong et.al.|[2404.10211](http://arxiv.org/abs/2404.10211)|null|
+|**2024-04-17**|**Vision Augmentation Prediction Autoencoder with Attention Design (VAPAAD)**|Yiqiao Yin et.al.|[2404.10096](http://arxiv.org/abs/2404.10096)|null|
 |**2024-04-15**|**Design and Analysis of Efficient Attention in Transformers for Social Group Activity Recognition**|Masato Tamura et.al.|[2404.09964](http://arxiv.org/abs/2404.09964)|null|
 |**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695](http://arxiv.org/abs/2404.09695)|null|
 |**2024-04-15**|**State Space Model for New-Generation Network Alternative to Transformers: A Survey**|Xiao Wang et.al.|[2404.09516](http://arxiv.org/abs/2404.09516)|**[link](https://github.com/event-ahu/mamba_state_space_model_paper_list)**|
@@ -775,6 +784,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**A New Algorithm With Lower Complexity for Bilevel Optimization**|Haimei Huo et.al.|[2404.11377](http://arxiv.org/abs/2404.11377)|null|
+|**2024-04-17**|**Distributed Fractional Bayesian Learning for Adaptive Optimization**|Yaqun Yang et.al.|[2404.11354](http://arxiv.org/abs/2404.11354)|null|
+|**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225](http://arxiv.org/abs/2404.11225)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
+|**2024-04-17**|**Self-adaptive PSRO: Towards an Automatic Population-based Game Solver**|Pengdeng Li et.al.|[2404.11144](http://arxiv.org/abs/2404.11144)|null|
+|**2024-04-17**|**You do not have to train Graph Neural Networks at all on text-attributed graphs**|Kaiwen Dong et.al.|[2404.11019](http://arxiv.org/abs/2404.11019)|null|
+|**2024-04-17**|**Online Algorithms with Limited Data Retention**|Nicole Immorlica et.al.|[2404.10997](http://arxiv.org/abs/2404.10997)|null|
+|**2024-04-17**|**Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies**|Qiang Li et.al.|[2404.10995](http://arxiv.org/abs/2404.10995)|null|
+|**2024-04-16**|**Binder: Hierarchical Concept Representation through Order Embedding of Binary Vectors**|Croix Gyurek et.al.|[2404.10924](http://arxiv.org/abs/2404.10924)|null|
 |**2024-04-16**|**Spline-Interpolated Model Predictive Path Integral Control with Stein Variational Inference for Reactive Navigation**|Takato Miura et.al.|[2404.10395](http://arxiv.org/abs/2404.10395)|null|
 |**2024-04-16**|**OptiGrad: A Fair and more Efficient Price Elasticity Optimization via a Gradient Based Learning**|Vincent Grari et.al.|[2404.10275](http://arxiv.org/abs/2404.10275)|null|
 |**2024-04-15**|**Communication-Efficient Hybrid Federated Learning for E-health with Horizontal and Vertical Data Partitioning**|Chong Yu et.al.|[2404.10110](http://arxiv.org/abs/2404.10110)|null|
@@ -1330,6 +1347,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**A New Algorithm With Lower Complexity for Bilevel Optimization**|Haimei Huo et.al.|[2404.11377](http://arxiv.org/abs/2404.11377)|null|
+|**2024-04-17**|**Distributed Fractional Bayesian Learning for Adaptive Optimization**|Yaqun Yang et.al.|[2404.11354](http://arxiv.org/abs/2404.11354)|null|
+|**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225](http://arxiv.org/abs/2404.11225)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
+|**2024-04-17**|**Self-adaptive PSRO: Towards an Automatic Population-based Game Solver**|Pengdeng Li et.al.|[2404.11144](http://arxiv.org/abs/2404.11144)|null|
+|**2024-04-17**|**You do not have to train Graph Neural Networks at all on text-attributed graphs**|Kaiwen Dong et.al.|[2404.11019](http://arxiv.org/abs/2404.11019)|null|
+|**2024-04-17**|**Online Algorithms with Limited Data Retention**|Nicole Immorlica et.al.|[2404.10997](http://arxiv.org/abs/2404.10997)|null|
+|**2024-04-17**|**Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies**|Qiang Li et.al.|[2404.10995](http://arxiv.org/abs/2404.10995)|null|
+|**2024-04-16**|**Binder: Hierarchical Concept Representation through Order Embedding of Binary Vectors**|Croix Gyurek et.al.|[2404.10924](http://arxiv.org/abs/2404.10924)|null|
 |**2024-04-16**|**Spline-Interpolated Model Predictive Path Integral Control with Stein Variational Inference for Reactive Navigation**|Takato Miura et.al.|[2404.10395](http://arxiv.org/abs/2404.10395)|null|
 |**2024-04-16**|**OptiGrad: A Fair and more Efficient Price Elasticity Optimization via a Gradient Based Learning**|Vincent Grari et.al.|[2404.10275](http://arxiv.org/abs/2404.10275)|null|
 |**2024-04-15**|**Communication-Efficient Hybrid Federated Learning for E-health with Horizontal and Vertical Data Partitioning**|Chong Yu et.al.|[2404.10110](http://arxiv.org/abs/2404.10110)|null|
@@ -1785,6 +1810,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
+|**2024-04-17**|**Deep Policy Optimization with Temporal Logic Constraints**|Ameesh Shah et.al.|[2404.11578](http://arxiv.org/abs/2404.11578)|null|
+|**2024-04-17**|**VC Theory for Inventory Policies**|Yaqi Xie et.al.|[2404.11509](http://arxiv.org/abs/2404.11509)|null|
+|**2024-04-17**|**Learn to Tour: Operator Design For Solution Feasibility Mapping in Pickup-and-delivery Traveling Salesman Problem**|Bowen Fang et.al.|[2404.11458](http://arxiv.org/abs/2404.11458)|null|
+|**2024-04-17**|**What-if Analysis Framework for Digital Twins in 6G Wireless Network Management**|Elif Ak et.al.|[2404.11394](http://arxiv.org/abs/2404.11394)|null|
+|**2024-04-17**|**Convergence of Policy Gradient for Stochastic Linear-Quadratic Control Problem in Infinite Horizon**|Xinpei Zhang et.al.|[2404.11382](http://arxiv.org/abs/2404.11382)|null|
+|**2024-04-17**|**Following the Human Thread in Social Navigation**|Luca Scofano et.al.|[2404.11327](http://arxiv.org/abs/2404.11327)|**[link](https://github.com/l-scofano/sda)**|
+|**2024-04-17**|**On Learning Parities with Dependent Noise**|Noah Golowich et.al.|[2404.11325](http://arxiv.org/abs/2404.11325)|null|
+|**2024-04-17**|**Physics-informed Actor-Critic for Coordination of Virtual Inertia from Power Distribution Systems**|Simon Stock et.al.|[2404.11149](http://arxiv.org/abs/2404.11149)|null|
+|**2024-04-17**|**Towards Multi-agent Reinforcement Learning based Traffic Signal Control through Spatio-temporal Hypergraphs**|Kang Wang et.al.|[2404.11014](http://arxiv.org/abs/2404.11014)|null|
+|**2024-04-17**|**Function Approximation for Reinforcement Learning Controller for Energy from Spread Waves**|Soumyendu Sarkar et.al.|[2404.10991](http://arxiv.org/abs/2404.10991)|null|
+|**2024-04-17**|**Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2404.10976](http://arxiv.org/abs/2404.10976)|null|
+|**2024-04-16**|**Uncertainty-Based Abstention in LLMs Improves Safety and Reduces Hallucinations**|Christian Tomani et.al.|[2404.10960](http://arxiv.org/abs/2404.10960)|null|
+|**2024-04-16**|**What Hides behind Unfairness? Exploring Dynamics Fairness in Reinforcement Learning**|Zhihong Deng et.al.|[2404.10942](http://arxiv.org/abs/2404.10942)|null|
+|**2024-04-16**|**Towards a Research Community in Interpretable Reinforcement Learning: the InterpPol Workshop**|Hector Kohler et.al.|[2404.10906](http://arxiv.org/abs/2404.10906)|null|
+|**2024-04-16**|**Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning**|Moghis Fereidouni et.al.|[2404.10887](http://arxiv.org/abs/2404.10887)|null|
+|**2024-04-16**|**Automated Discovery of Functional Actual Causes in Complex Environments**|Caleb Chuck et.al.|[2404.10883](http://arxiv.org/abs/2404.10883)|null|
+|**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|null|
+|**2024-04-16**|**Sample Complexity of the Linear Quadratic Regulator: A Reinforcement Learning Lens**|Amirreza Neshaei Moghaddam et.al.|[2404.10851](http://arxiv.org/abs/2404.10851)|null|
+|**2024-04-16**|**Sustainability of Data Center Digital Twins with Reinforcement Learning**|Soumyendu Sarkar et.al.|[2404.10786](http://arxiv.org/abs/2404.10786)|**[link](https://github.com/hewlettpackard/dc-rl)**|
 |**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
 |**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
 |**2024-04-16**|**Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning**|Hao-Lun Hsu et.al.|[2404.10728](http://arxiv.org/abs/2404.10728)|null|
