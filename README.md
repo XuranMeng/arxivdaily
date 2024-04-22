@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.21
+## Updated on 2024.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -118,7 +118,7 @@
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
 |**2024-03-29**|**PET-SQL: A Prompt-enhanced Two-stage Text-to-SQL Framework with Cross-consistency**|Zhishuai Li et.al.|[2403.09732](http://arxiv.org/abs/2403.09732)|**[link](https://github.com/zhshlii/petsql)**|
 |**2024-03-08**|**Concept-aware Data Construction Improves In-context Learning of Language Models**|Michal Štefánik et.al.|[2403.09703](http://arxiv.org/abs/2403.09703)|null|
-|**2024-03-22**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
+|**2024-04-18**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
 |**2024-03-15**|**WavCraft: Audio Editing and Generation with Natural Language Prompts**|Jinhua Liang et.al.|[2403.09527](http://arxiv.org/abs/2403.09527)|**[link](https://github.com/jinhualiang/wavcraft)**|
 |**2024-04-15**|**Rectifying Demonstration Shortcut in In-Context Learning**|Joonwon Jang et.al.|[2403.09488](http://arxiv.org/abs/2403.09488)|**[link](https://github.com/lainshower/in-context-calibration)**|
 |**2024-03-26**|**Borrowing Treasures from Neighbors: In-Context Learning for Multimodal Learning with Missing Modalities and Data Scarcity**|Zhuo Zhi et.al.|[2403.09428](http://arxiv.org/abs/2403.09428)|**[link](https://github.com/ZhuoZHI-UCL/ICL_multimodal)**|
@@ -394,7 +394,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## Transformer
 
@@ -403,7 +403,7 @@
 |**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378](http://arxiv.org/abs/2404.12378)|**[link](https://github.com/continental/6img-to-3d)**|
 |**2024-04-18**|**When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out**|Tristan Piater et.al.|[2404.12295](http://arxiv.org/abs/2404.12295)|null|
 |**2024-04-18**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|Weikang Yu et.al.|[2404.12081](http://arxiv.org/abs/2404.12081)|**[link](https://github.com/ericyu97/maskcd)**|
-|**2024-04-18**|**Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture**|Sonit Singh et.al.|[2404.11843](http://arxiv.org/abs/2404.11843)|null|
+|**2024-04-19**|**Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture**|Sonit Singh et.al.|[2404.11843](http://arxiv.org/abs/2404.11843)|null|
 |**2024-04-18**|**SNP: Structured Neuron-level Pruning to Preserve Attention Scores**|Kyunghwan Shim et.al.|[2404.11630](http://arxiv.org/abs/2404.11630)|null|
 |**2024-04-17**|**Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**|Xinghan Wang et.al.|[2404.11375](http://arxiv.org/abs/2404.11375)|null|
 |**2024-04-17**|**Training Transformer Models by Wavelet Losses Improves Quantitative and Visual Performance in Single Image Super-Resolution**|Cansu Korkmaz et.al.|[2404.11273](http://arxiv.org/abs/2404.11273)|null|
@@ -455,7 +455,7 @@
 |**2024-04-04**|**Towards Automated Movie Trailer Generation**|Dawit Mureja Argaw et.al.|[2404.03477](http://arxiv.org/abs/2404.03477)|null|
 |**2024-04-04**|**On the Theoretical Expressive Power and the Design Space of Higher-Order Graph Transformers**|Cai Zhou et.al.|[2404.03380](http://arxiv.org/abs/2404.03380)|null|
 |**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368](http://arxiv.org/abs/2404.03368)|null|
-|**2024-04-04**|**Enhancing the Performance of Aspect-Based Sentiment Analysis Systems**|Chen Li et.al.|[2404.03259](http://arxiv.org/abs/2404.03259)|null|
+|**2024-04-19**|**Enhancing the Performance of Aspect-Based Sentiment Analysis Systems**|Chen Li et.al.|[2404.03259](http://arxiv.org/abs/2404.03259)|null|
 |**2024-04-04**|**LeGrad: An Explainability Method for Vision Transformers via Feature Formation Sensitivity**|Walid Bousselham et.al.|[2404.03214](http://arxiv.org/abs/2404.03214)|**[link](https://github.com/walbouss/legrad)**|
 |**2024-04-06**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204](http://arxiv.org/abs/2404.03204)|null|
 |**2024-04-03**|**Optimizing the Deployment of Tiny Transformers on Low-Power MCUs**|Victor J. B. Jung et.al.|[2404.02945](http://arxiv.org/abs/2404.02945)|**[link](https://github.com/pulp-platform/pulp-transformer)**|
@@ -785,7 +785,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## Optimization
 
@@ -1221,7 +1221,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -1355,7 +1355,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -1366,7 +1366,7 @@
 |**2024-04-18**|**Singular-limit analysis of gradient descent with noise injection**|Anna Shalova et.al.|[2404.12293](http://arxiv.org/abs/2404.12293)|null|
 |**2024-04-18**|**Investigating Variance Definitions for Mirror Descent with Relative Smoothness**|Hadrien Hendrikx et.al.|[2404.12213](http://arxiv.org/abs/2404.12213)|null|
 |**2024-04-17**|**Constrained Stochastic Recursive Momentum Successive Convex Approximation**|Basil M. Idrees et.al.|[2404.11790](http://arxiv.org/abs/2404.11790)|null|
-|**2024-04-17**|**QGen: On the Ability to Generalize in Quantization Aware Training**|MohammadHossein AskariHemmat et.al.|[2404.11769](http://arxiv.org/abs/2404.11769)|null|
+|**2024-04-19**|**QGen: On the Ability to Generalize in Quantization Aware Training**|MohammadHossein AskariHemmat et.al.|[2404.11769](http://arxiv.org/abs/2404.11769)|null|
 |**2024-04-17**|**Improved Generalization Bounds for Communication Efficient Federated Learning**|Peyman Gholami et.al.|[2404.11754](http://arxiv.org/abs/2404.11754)|null|
 |**2024-04-17**|**Implementation and Evaluation of a Gradient Descent-Trained Defensible Blackboard Architecture System**|Jordan Milbrath et.al.|[2404.11714](http://arxiv.org/abs/2404.11714)|null|
 |**2024-04-17**|**A New Algorithm With Lower Complexity for Bilevel Optimization**|Haimei Huo et.al.|[2404.11377](http://arxiv.org/abs/2404.11377)|null|
@@ -1826,7 +1826,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -1839,7 +1839,7 @@
 |**2024-04-18**|**Privacy-Preserving UCB Decision Process Verification via zk-SNARKs**|Xikun Jiang et.al.|[2404.12186](http://arxiv.org/abs/2404.12186)|null|
 |**2024-04-18**|**Aligning language models with human preferences**|Tomasz Korbak et.al.|[2404.12150](http://arxiv.org/abs/2404.12150)|**[link](https://github.com/tomekkorbak/pretraining-with-human-feedback)**|
 |**2024-04-17**|**SDIP: Self-Reinforcement Deep Image Prior Framework for Image Processing**|Ziyu Shu et.al.|[2404.12142](http://arxiv.org/abs/2404.12142)|null|
-|**2024-04-18**|**Robust and Adaptive Deep Reinforcement Learning for Enhancing Flow Control around a Square Cylinder with Varying Reynolds Numbers**|Wang Jia et.al.|[2404.12123](http://arxiv.org/abs/2404.12123)|null|
+|**2024-04-19**|**Robust and Adaptive Deep Reinforcement Learning for Enhancing Flow Control around a Square Cylinder with Varying Reynolds Numbers**|Wang Jia et.al.|[2404.12123](http://arxiv.org/abs/2404.12123)|null|
 |**2024-04-18**|**X-Light: Cross-City Traffic Signal Control Using Transformer on Transformer as Meta Multi-Agent Reinforcement Learner**|Haoyuan Jiang et.al.|[2404.12090](http://arxiv.org/abs/2404.12090)|**[link](https://github.com/anonymousid-submission/x-light)**|
 |**2024-04-18**|**Trajectory Planning for Autonomous Vehicle Using Iterative Reward Prediction in Reinforcement Learning**|Hyunwoo Park et.al.|[2404.12079](http://arxiv.org/abs/2404.12079)|null|
 |**2024-04-18**|**Exploring the landscape of large language models: Foundations, techniques, and challenges**|Milad Moradi et.al.|[2404.11973](http://arxiv.org/abs/2404.11973)|null|
@@ -1866,7 +1866,7 @@
 |**2024-04-16**|**Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning**|Moghis Fereidouni et.al.|[2404.10887](http://arxiv.org/abs/2404.10887)|null|
 |**2024-04-16**|**Automated Discovery of Functional Actual Causes in Complex Environments**|Caleb Chuck et.al.|[2404.10883](http://arxiv.org/abs/2404.10883)|null|
 |**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|null|
-|**2024-04-16**|**Sample Complexity of the Linear Quadratic Regulator: A Reinforcement Learning Lens**|Amirreza Neshaei Moghaddam et.al.|[2404.10851](http://arxiv.org/abs/2404.10851)|null|
+|**2024-04-18**|**Sample Complexity of the Linear Quadratic Regulator: A Reinforcement Learning Lens**|Amirreza Neshaei Moghaddam et.al.|[2404.10851](http://arxiv.org/abs/2404.10851)|null|
 |**2024-04-16**|**Sustainability of Data Center Digital Twins with Reinforcement Learning**|Soumyendu Sarkar et.al.|[2404.10786](http://arxiv.org/abs/2404.10786)|**[link](https://github.com/hewlettpackard/dc-rl)**|
 |**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
 |**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
@@ -3173,7 +3173,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240422>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
