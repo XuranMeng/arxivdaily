@@ -2215,11 +2215,11 @@
 |**2024-04-17**|**Function Approximation for Reinforcement Learning Controller for Energy from Spread Waves**|Soumyendu Sarkar et.al.|[2404.10991](http://arxiv.org/abs/2404.10991)|null|
 |**2024-04-20**|**Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2404.10976](http://arxiv.org/abs/2404.10976)|**[link](https://github.com/Wei9711/GACG)**|
 |**2024-04-16**|**Uncertainty-Based Abstention in LLMs Improves Safety and Reduces Hallucinations**|Christian Tomani et.al.|[2404.10960](http://arxiv.org/abs/2404.10960)|null|
-|**2024-04-16**|**What Hides behind Unfairness? Exploring Dynamics Fairness in Reinforcement Learning**|Zhihong Deng et.al.|[2404.10942](http://arxiv.org/abs/2404.10942)|null|
+|**2024-04-16**|**What Hides behind Unfairness? Exploring Dynamics Fairness in Reinforcement Learning**|Zhihong Deng et.al.|[2404.10942](http://arxiv.org/abs/2404.10942)|**[link](https://github.com/familyld/insightfair)**|
 |**2024-04-16**|**Towards a Research Community in Interpretable Reinforcement Learning: the InterpPol Workshop**|Hector Kohler et.al.|[2404.10906](http://arxiv.org/abs/2404.10906)|null|
 |**2024-04-16**|**Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning**|Moghis Fereidouni et.al.|[2404.10887](http://arxiv.org/abs/2404.10887)|null|
 |**2024-04-16**|**Automated Discovery of Functional Actual Causes in Complex Environments**|Caleb Chuck et.al.|[2404.10883](http://arxiv.org/abs/2404.10883)|null|
-|**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|null|
+|**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|**[link](https://github.com/jibril-frej/jcrec)**|
 |**2024-04-18**|**Sample Complexity of the Linear Quadratic Regulator: A Reinforcement Learning Lens**|Amirreza Neshaei Moghaddam et.al.|[2404.10851](http://arxiv.org/abs/2404.10851)|null|
 |**2024-04-16**|**Sustainability of Data Center Digital Twins with Reinforcement Learning**|Soumyendu Sarkar et.al.|[2404.10786](http://arxiv.org/abs/2404.10786)|**[link](https://github.com/hewlettpackard/dc-rl)**|
 |**2024-04-16**|**Settling Constant Regrets in Linear Markov Decision Processes**|Weitong Zhang et.al.|[2404.10745](http://arxiv.org/abs/2404.10745)|null|
@@ -2295,7 +2295,7 @@
 |**2024-04-16**|**Structured Reinforcement Learning for Media Streaming at the Wireless Edge**|Archana Bura et.al.|[2404.07315](http://arxiv.org/abs/2404.07315)|null|
 |**2024-04-10**|**Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity**|Vahid Balazadeh et.al.|[2404.07266](http://arxiv.org/abs/2404.07266)|**[link](https://github.com/vdblm/ExPerior)**|
 |**2024-04-16**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
-|**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|null|
+|**2024-04-10**|**Adaptive behavior with stable synapses**|Cristiano Capone et.al.|[2404.07150](http://arxiv.org/abs/2404.07150)|**[link](https://github.com/cristianocapone/abss)**|
 |**2024-04-10**|**How Consistent are Clinicians? Evaluating the Predictability of Sepsis Disease Progression with Dynamics Models**|Unnseo Park et.al.|[2404.07148](http://arxiv.org/abs/2404.07148)|**[link](https://github.com/cmudig/ai-clinician-mimiciv)**|
 |**2024-04-10**|**Rethinking Out-of-Distribution Detection for Reinforcement Learning: Advancing Methods for Evaluation and Detection**|Linas Nasvytis et.al.|[2404.07099](http://arxiv.org/abs/2404.07099)|**[link](https://github.com/linasnas/dexter)**|
 |**2024-04-10**|**Improving Language Model Reasoning with Self-motivated Learning**|Yunlong Feng et.al.|[2404.07017](http://arxiv.org/abs/2404.07017)|null|
