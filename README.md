@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -438,7 +438,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Transformer
 
@@ -494,7 +494,7 @@
 |**2024-04-19**|**Transformer-Based Classification Outcome Prediction for Multimodal Stroke Treatment**|Danqing Ma et.al.|[2404.12634](http://arxiv.org/abs/2404.12634)|null|
 |**2024-04-18**|**6Img-to-3D: Few-Image Large-Scale Outdoor Driving Scene Reconstruction**|Théo Gieruc et.al.|[2404.12378](http://arxiv.org/abs/2404.12378)|**[link](https://github.com/continental/6img-to-3d)**|
 |**2024-04-18**|**When Medical Imaging Met Self-Attention: A Love Story That Didn't Quite Work Out**|Tristan Piater et.al.|[2404.12295](http://arxiv.org/abs/2404.12295)|null|
-|**2024-04-22**|**AccidentBlip2: Accident Detection With Multi-View MotionBlip2**|Yihua Shao et.al.|[2404.12149](http://arxiv.org/abs/2404.12149)|**[link](https://github.com/yihuajerry/accidentblip2)**|
+|**2024-05-07**|**AccidentBlip2: Accident Detection With Multi-View MotionBlip2**|Yihua Shao et.al.|[2404.12149](http://arxiv.org/abs/2404.12149)|**[link](https://github.com/yihuajerry/accidentblip2)**|
 |**2024-04-18**|**MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification**|Weikang Yu et.al.|[2404.12081](http://arxiv.org/abs/2404.12081)|**[link](https://github.com/ericyu97/maskcd)**|
 |**2024-04-19**|**Computer-Aided Diagnosis of Thoracic Diseases in Chest X-rays using hybrid CNN-Transformer Architecture**|Sonit Singh et.al.|[2404.11843](http://arxiv.org/abs/2404.11843)|null|
 |**2024-04-18**|**SNP: Structured Neuron-level Pruning to Preserve Attention Scores**|Kyunghwan Shim et.al.|[2404.11630](http://arxiv.org/abs/2404.11630)|null|
@@ -878,7 +878,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Optimization
 
@@ -1373,7 +1373,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -1511,7 +1511,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -2049,7 +2049,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -2142,7 +2142,7 @@
 |**2024-05-01**|**UCB-driven Utility Function Search for Multi-objective Reinforcement Learning**|Yucheng Shi et.al.|[2405.00410](http://arxiv.org/abs/2405.00410)|**[link](https://github.com/sycamore-1/ucb-moppo)**|
 |**2024-05-01**|**Employing Federated Learning for Training Autonomous HVAC Systems**|Fredrik Hagström et.al.|[2405.00389](http://arxiv.org/abs/2405.00389)|null|
 |**2024-05-01**|**Learning Tactile Insertion in the Real World**|Daniel Palenicek et.al.|[2405.00383](http://arxiv.org/abs/2405.00383)|null|
-|**2024-05-01**|**iMTSP: Solving Min-Max Multiple Traveling Salesman Problem with Imperative Learning**|Yifan Guo et.al.|[2405.00285](http://arxiv.org/abs/2405.00285)|**[link](https://github.com/sair-lab/imtsp)**|
+|**2024-05-06**|**iMTSP: Solving Min-Max Multiple Traveling Salesman Problem with Imperative Learning**|Yifan Guo et.al.|[2405.00285](http://arxiv.org/abs/2405.00285)|**[link](https://github.com/sair-lab/imtsp)**|
 |**2024-05-01**|**MF-OML: Online Mean-Field Reinforcement Learning with Occupation Measures for Large Population Games**|Anran Hu et.al.|[2405.00282](http://arxiv.org/abs/2405.00282)|null|
 |**2024-04-30**|**Principled RLHF from Heterogeneous Feedback via Personalization and Preference Aggregation**|Chanwoo Park et.al.|[2405.00254](http://arxiv.org/abs/2405.00254)|null|
 |**2024-04-30**|**A Meta-Game Evaluation Framework for Deep Multiagent Reinforcement Learning**|Zun Li et.al.|[2405.00243](http://arxiv.org/abs/2405.00243)|null|
@@ -3625,7 +3625,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
