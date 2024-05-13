@@ -604,7 +604,7 @@ layout: default
 |**2024-03-24**|**Emotion Recognition from the perspective of Activity Recognition**|Savinay Nagendra et.al.|[2403.16263](http://arxiv.org/abs/2403.16263)|null|
 |**2024-03-24**|**Salience DETR: Enhancing Detection Transformer with Hierarchical Salience Filtering Refinement**|Xiuquan Hou et.al.|[2403.16131](http://arxiv.org/abs/2403.16131)|**[link](https://github.com/xiuqhou/Salience-DETR)**|
 |**2024-03-24**|**EVA: Zero-shot Accurate Attributes and Multi-Object Video Editing**|Xiangpeng Yang et.al.|[2403.16111](http://arxiv.org/abs/2403.16111)|null|
-|**2024-03-24**|**VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections**|Dongqi Fu et.al.|[2403.16030](http://arxiv.org/abs/2403.16030)|null|
+|**2024-03-24**|**VCR-Graphormer: A Mini-batch Graph Transformer via Virtual Connections**|Dongqi Fu et.al.|[2403.16030](http://arxiv.org/abs/2403.16030)|**[link](https://github.com/dongqifu/vcr-graphormer)**|
 |**2024-03-23**|**3D-TransUNet for Brain Metastases Segmentation in the BraTS2023 Challenge**|Siwei Yang et.al.|[2403.15735](http://arxiv.org/abs/2403.15735)|null|
 |**2024-03-23**|**Technical Report: Masked Skeleton Sequence Modeling for Learning Larval Zebrafish Behavior Latent Embeddings**|Lanxin Xu et.al.|[2403.15693](http://arxiv.org/abs/2403.15693)|null|
 |**2024-03-22**|**GTC: GNN-Transformer Co-contrastive Learning for Self-supervised Heterogeneous Graph Representation**|Yundong Sun et.al.|[2403.15520](http://arxiv.org/abs/2403.15520)|**[link](https://github.com/phd-lanyu/gtc)**|
@@ -786,7 +786,7 @@ layout: default
 |**2024-01-30**|**Towards Precise 3D Human Pose Estimation with Multi-Perspective Spatial-Temporal Relational Transformers**|Jianbin Jiao et.al.|[2401.16700](http://arxiv.org/abs/2401.16700)|**[link](https://github.com/wujinhuan/3d-human-pose)**|
 |**2024-01-27**|**SkipViT: Speeding Up Vision Transformers with a Token-Level Skip Connection**|Foozhan Ataiefard et.al.|[2401.15293](http://arxiv.org/abs/2401.15293)|null|
 |**2024-01-26**|**Deep Learning with Tabular Data: A Self-supervised Approach**|Tirth Kiranbhai Vyas et.al.|[2401.15238](http://arxiv.org/abs/2401.15238)|**[link](https://github.com/tirthvyas-tk-labs/deep-learning-with-tabular-data-a-self-supervised-approach)**|
-|**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|null|
+|**2024-01-26**|**CascadedGaze: Efficiency in Global Context Extraction for Image Restoration**|Amirhosein Ghasemabadi et.al.|[2401.15235](http://arxiv.org/abs/2401.15235)|**[link](https://github.com/Ascend-Research/CascadedGaze)**|
 |**2024-01-22**|**Accelerating Material Property Prediction using Generically Complete Isometry Invariants**|Jonathan Balasingham et.al.|[2401.15089](http://arxiv.org/abs/2401.15089)|**[link](https://github.com/jonathanbalasingham/periodic-set-transformer)**|
 |**2024-01-26**|**Endowing Protein Language Models with Structural Knowledge**|Dexiong Chen et.al.|[2401.14819](http://arxiv.org/abs/2401.14819)|**[link](https://github.com/borgwardtlab/pst)**|
 |**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|**[link](https://github.com/deepsoftwareanalytics/sparsecoder)**|
@@ -802,7 +802,7 @@ layout: default
 |**2024-01-24**|**Anisotropy Is Inherent to Self-Attention in Transformers**|Nathan Godey et.al.|[2401.12143](http://arxiv.org/abs/2401.12143)|null|
 |**2024-02-03**|**The Bigger the Better? Rethinking the Effective Model Scale in Long-term Time Series Forecasting**|Jinliang Deng et.al.|[2401.11929](http://arxiv.org/abs/2401.11929)|null|
 |**2024-01-24**|**LKFormer: Large Kernel Transformer for Infrared Image Super-Resolution**|Feiwei Qin et.al.|[2401.11859](http://arxiv.org/abs/2401.11859)|**[link](https://github.com/sad192/large-kernel-transformer)**|
-|**2024-01-23**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687](http://arxiv.org/abs/2401.11687)|null|
+|**2024-01-23**|**TIM: An Efficient Temporal Interaction Module for Spiking Transformer**|Sicheng Shen et.al.|[2401.11687](http://arxiv.org/abs/2401.11687)|**[link](https://github.com/braincog-x/brain-cog)**|
 |**2024-01-22**|**OnDev-LCT: On-Device Lightweight Convolutional Transformers towards federated learning**|Chu Myaet Thwal et.al.|[2401.11652](http://arxiv.org/abs/2401.11652)|null|
 |**2024-01-22**|**Streaming Bilingual End-to-End ASR model using Attention over Multiple Softmax**|Aditya Patil et.al.|[2401.11645](http://arxiv.org/abs/2401.11645)|null|
 |**2024-01-22**|**Friends Across Time: Multi-Scale Action Segmentation Transformer for Surgical Phase Recognition**|Bokai Zhang et.al.|[2401.11644](http://arxiv.org/abs/2401.11644)|null|
@@ -1351,7 +1351,7 @@ layout: default
 |**2024-01-06**|**Understanding Representation Learnability of Nonlinear Self-Supervised Learning**|Ruofeng Yang et.al.|[2401.03214](http://arxiv.org/abs/2401.03214)|**[link](https://github.com/wanshuiyin/AAAI-2023-The-Learnability-of-Nonlinear-SSL)**|
 |**2024-01-06**|**Data-Dependent Stability Analysis of Adversarial Training**|Yihan Wang et.al.|[2401.03156](http://arxiv.org/abs/2401.03156)|null|
 |**2024-01-05**|**Guaranteed Nonconvex Factorization Approach for Tensor Train Recovery**|Zhen Qin et.al.|[2401.02592](http://arxiv.org/abs/2401.02592)|null|
-|**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|null|
+|**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|**[link](https://github.com/jaiprakash1824/vlm_adv_attack)**|
 |**2024-01-04**|**Spatiotemporal Monitoring of Epidemics via Solution of a Coefficient Inverse Problem**|Michael V. Klibanov et.al.|[2401.02070](http://arxiv.org/abs/2401.02070)|null|
 |**2024-01-03**|**On the hardness of learning under symmetries**|Bobak T. Kiani et.al.|[2401.01869](http://arxiv.org/abs/2401.01869)|null|
 |**2024-01-03**|**Gradient-Based Optimization of Lattice Quantizers**|Erik Agrell et.al.|[2401.01799](http://arxiv.org/abs/2401.01799)|null|
@@ -2037,7 +2037,7 @@ layout: default
 |**2024-01-06**|**Understanding Representation Learnability of Nonlinear Self-Supervised Learning**|Ruofeng Yang et.al.|[2401.03214](http://arxiv.org/abs/2401.03214)|**[link](https://github.com/wanshuiyin/AAAI-2023-The-Learnability-of-Nonlinear-SSL)**|
 |**2024-01-06**|**Data-Dependent Stability Analysis of Adversarial Training**|Yihan Wang et.al.|[2401.03156](http://arxiv.org/abs/2401.03156)|null|
 |**2024-01-05**|**Guaranteed Nonconvex Factorization Approach for Tensor Train Recovery**|Zhen Qin et.al.|[2401.02592](http://arxiv.org/abs/2401.02592)|null|
-|**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|null|
+|**2024-01-08**|**Vulnerabilities Unveiled: Adversarially Attacking a Multimodal Vision Language Model for Pathology Imaging**|Jai Prakash Veerla et.al.|[2401.02565](http://arxiv.org/abs/2401.02565)|**[link](https://github.com/jaiprakash1824/vlm_adv_attack)**|
 |**2024-01-04**|**Spatiotemporal Monitoring of Epidemics via Solution of a Coefficient Inverse Problem**|Michael V. Klibanov et.al.|[2401.02070](http://arxiv.org/abs/2401.02070)|null|
 |**2024-01-03**|**On the hardness of learning under symmetries**|Bobak T. Kiani et.al.|[2401.01869](http://arxiv.org/abs/2401.01869)|null|
 |**2024-01-03**|**Gradient-Based Optimization of Lattice Quantizers**|Erik Agrell et.al.|[2401.01799](http://arxiv.org/abs/2401.01799)|null|
@@ -2406,7 +2406,7 @@ layout: default
 |**2024-04-14**|**Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts**|Jing-Cheng Pang et.al.|[2404.09248](http://arxiv.org/abs/2404.09248)|null|
 |**2024-04-14**|**Advanced Intelligent Optimization Algorithms for Multi-Objective Optimal Power Flow in Future Power Systems: A Review**|Yuyan Li et.al.|[2404.09203](http://arxiv.org/abs/2404.09203)|null|
 |**2024-04-14**|**On Joint Convergence of Traffic State and Weight Vector in Learning-Based Dynamic Routing with Value Function Approximation**|Yidan Wu et.al.|[2404.09188](http://arxiv.org/abs/2404.09188)|null|
-|**2024-04-16**|**Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation**|Ruixin Yang et.al.|[2404.09127](http://arxiv.org/abs/2404.09127)|null|
+|**2024-04-16**|**Confidence Calibration and Rationalization for LLMs via Multi-Agent Deliberation**|Ruixin Yang et.al.|[2404.09127](http://arxiv.org/abs/2404.09127)|**[link](https://github.com/minnesotanlp/collaborative-calibration)**|
 |**2024-04-13**|**Safe Reinforcement Learning on the Constraint Manifold: Theory and Applications**|Puze Liu et.al.|[2404.09080](http://arxiv.org/abs/2404.09080)|null|
 |**2024-04-13**|**CodeCloak: A Method for Evaluating and Mitigating Code Leakage by LLM Code Assistants**|Amit Finkman et.al.|[2404.09066](http://arxiv.org/abs/2404.09066)|null|
 |**2024-04-13**|**Active Learning for Control-Oriented Identification of Nonlinear Systems**|Bruce D. Lee et.al.|[2404.09030](http://arxiv.org/abs/2404.09030)|null|
@@ -2760,7 +2760,7 @@ layout: default
 |**2024-03-19**|**Understanding Training-free Diffusion Guidance: Mechanisms and Limitations**|Yifei Shen et.al.|[2403.12404](http://arxiv.org/abs/2403.12404)|null|
 |**2024-03-19**|**Stochastic Halpern iteration in normed spaces and applications to reinforcement learning**|Mario Bravo et.al.|[2403.12338](http://arxiv.org/abs/2403.12338)|null|
 |**2024-03-18**|**Reinforcement Learning from Delayed Observations via World Models**|Armin Karamzade et.al.|[2403.12309](http://arxiv.org/abs/2403.12309)|null|
-|**2024-03-18**|**Efficient Transformer-based Hyper-parameter Optimization for Resource-constrained IoT Environments**|Ibrahim Shaer et.al.|[2403.12237](http://arxiv.org/abs/2403.12237)|null|
+|**2024-03-18**|**Efficient Transformer-based Hyper-parameter Optimization for Resource-constrained IoT Environments**|Ibrahim Shaer et.al.|[2403.12237](http://arxiv.org/abs/2403.12237)|**[link](https://github.com/Western-OC2-Lab/TRL-HPO)**|
 |**2024-03-18**|**Decomposing Control Lyapunov Functions for Efficient Reinforcement Learning**|Antonio Lopez et.al.|[2403.12210](http://arxiv.org/abs/2403.12210)|**[link](https://github.com/clearoboticslab/dclf-rl)**|
 |**2024-03-18**|**Bootstrapping Reinforcement Learning with Imitation for Vision-Based Agile Flight**|Jiaxu Xing et.al.|[2403.12203](http://arxiv.org/abs/2403.12203)|null|
 |**2024-03-18**|**Continual Domain Randomization**|Josip Josifovski et.al.|[2403.12193](http://arxiv.org/abs/2403.12193)|null|
@@ -3193,7 +3193,7 @@ layout: default
 |**2024-02-20**|**Rigor with Machine Learning from Field Theory to the Poincaré Conjecture**|Sergei Gukov et.al.|[2402.13321](http://arxiv.org/abs/2402.13321)|null|
 |**2024-02-20**|**Evolutionary Reinforcement Learning: A Systematic Review and Future Directions**|Yuanguo Lin et.al.|[2402.13296](http://arxiv.org/abs/2402.13296)|null|
 |**2024-02-17**|**Implementation of a Model of the Cortex Basal Ganglia Loop**|Naoya Arakawa et.al.|[2402.13275](http://arxiv.org/abs/2402.13275)|null|
-|**2024-02-20**|**Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies**|Ammar N. Abbas et.al.|[2402.13219](http://arxiv.org/abs/2402.13219)|null|
+|**2024-02-20**|**Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies**|Ammar N. Abbas et.al.|[2402.13219](http://arxiv.org/abs/2402.13219)|**[link](https://github.com/ammar-n-abbas/drl-based-decision-support)**|
 |**2024-02-20**|**Bayesian Reward Models for LLM Alignment**|Adam X. Yang et.al.|[2402.13210](http://arxiv.org/abs/2402.13210)|null|
 |**2024-02-20**|**SONATA: Self-adaptive Evolutionary Framework for Hardware-aware Neural Architecture Search**|Halima Bouzidi et.al.|[2402.13204](http://arxiv.org/abs/2402.13204)|null|
 |**2024-02-20**|**Tiny Reinforcement Learning for Quadruped Locomotion using Decision Transformers**|Orhan Eren Akgün et.al.|[2402.13201](http://arxiv.org/abs/2402.13201)|**[link](https://github.com/dagabo98/dt-quadruped-locomotion)**|
@@ -3276,7 +3276,7 @@ layout: default
 |**2024-02-15**|**Risk-Sensitive Soft Actor-Critic for Robust Deep Reinforcement Learning under Distribution Shifts**|Tobias Enders et.al.|[2402.09992](http://arxiv.org/abs/2402.09992)|**[link](https://github.com/tumbais/risksensitivesacforrobustdrlunderdistshifts)**|
 |**2024-02-15**|**Enhancing Courier Scheduling in Crowdsourced Last-Mile Delivery through Dynamic Shift Extensions: A Deep Reinforcement Learning Approach**|Zead Saleh et.al.|[2402.09961](http://arxiv.org/abs/2402.09961)|null|
 |**2024-02-15**|**Revisiting Recurrent Reinforcement Learning with Memory Monoids**|Steven Morad et.al.|[2402.09900](http://arxiv.org/abs/2402.09900)|**[link](https://github.com/proroklab/memory-monoids)**|
-|**2024-02-15**|**Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent**|Quentin Gallouédec et.al.|[2402.09844](http://arxiv.org/abs/2402.09844)|null|
+|**2024-02-15**|**Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent**|Quentin Gallouédec et.al.|[2402.09844](http://arxiv.org/abs/2402.09844)|**[link](https://github.com/huggingface/jat)**|
 |**2024-02-15**|**Performative Reinforcement Learning in Gradually Shifting Environments**|Ben Rank et.al.|[2402.09838](http://arxiv.org/abs/2402.09838)|**[link](https://github.com/bsen/performative-rl-gradually-shifting-envs)**|
 |**2024-02-15**|**Reinforcement Learning for Solving Stochastic Vehicle Routing Problem with Time Windows**|Zangir Iklassov et.al.|[2402.09765](http://arxiv.org/abs/2402.09765)|null|
 |**2024-02-15**|**Aligning Crowd Feedback via Distributional Preference Reward Modeling**|Dexun Li et.al.|[2402.09764](http://arxiv.org/abs/2402.09764)|null|
