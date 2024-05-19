@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -461,7 +461,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
 
 ## Transformer
 
@@ -929,7 +929,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
 
 ## Optimization
 
@@ -938,7 +938,7 @@
 |**2024-05-16**|**Random Scaling and Momentum for Non-smooth Non-convex Optimization**|Qinzi Zhang et.al.|[2405.09742](http://arxiv.org/abs/2405.09742)|null|
 |**2024-05-15**|**On Convergence of the Iteratively Preconditioned Gradient-Descent (IPG) Observer**|Kushal Chakrabarti et.al.|[2405.09137](http://arxiv.org/abs/2405.09137)|null|
 |**2024-05-14**|**Rapid parameter estimation for pulsar-timing-array datasets with variational inference and normalizing flows**|Michele Vallisneri et.al.|[2405.08857](http://arxiv.org/abs/2405.08857)|null|
-|**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|null|
+|**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-05-13**|**Data Valuation with Gradient Similarity**|Nathaniel J. Evans et.al.|[2405.08217](http://arxiv.org/abs/2405.08217)|**[link](https://github.com/nathanieljevans/DVGS)**|
 |**2024-05-13**|**A Low-rank Projected Proximal Gradient Method for Spectral Compressed Sensing**|Xi Yao et.al.|[2405.07739](http://arxiv.org/abs/2405.07739)|null|
 |**2024-05-14**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
@@ -1448,7 +1448,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -1588,7 +1588,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -1597,7 +1597,7 @@
 |**2024-05-16**|**Random Scaling and Momentum for Non-smooth Non-convex Optimization**|Qinzi Zhang et.al.|[2405.09742](http://arxiv.org/abs/2405.09742)|null|
 |**2024-05-15**|**On Convergence of the Iteratively Preconditioned Gradient-Descent (IPG) Observer**|Kushal Chakrabarti et.al.|[2405.09137](http://arxiv.org/abs/2405.09137)|null|
 |**2024-05-14**|**Rapid parameter estimation for pulsar-timing-array datasets with variational inference and normalizing flows**|Michele Vallisneri et.al.|[2405.08857](http://arxiv.org/abs/2405.08857)|null|
-|**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|null|
+|**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-05-13**|**Data Valuation with Gradient Similarity**|Nathaniel J. Evans et.al.|[2405.08217](http://arxiv.org/abs/2405.08217)|**[link](https://github.com/nathanieljevans/DVGS)**|
 |**2024-05-13**|**A Low-rank Projected Proximal Gradient Method for Spectral Compressed Sensing**|Xi Yao et.al.|[2405.07739](http://arxiv.org/abs/2405.07739)|null|
 |**2024-05-14**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
@@ -2151,7 +2151,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -2184,7 +2184,7 @@
 |**2024-05-14**|**vMFER: Von Mises-Fisher Experience Resampling Based on Uncertainty of Gradient Directions for Policy Improvement**|Yiwen Zhu et.al.|[2405.08638](http://arxiv.org/abs/2405.08638)|null|
 |**2024-05-14**|**Optimizing Deep Reinforcement Learning for American Put Option Hedging**|Reilly Pickard et.al.|[2405.08602](http://arxiv.org/abs/2405.08602)|null|
 |**2024-05-14**|**Python-Based Reinforcement Learning on Simulink Models**|Georg Schäfer et.al.|[2405.08567](http://arxiv.org/abs/2405.08567)|null|
-|**2024-05-14**|**Growing Artificial Neural Networks for Control: the Role of Neuronal Diversity**|Eleni Nisioti et.al.|[2405.08510](http://arxiv.org/abs/2405.08510)|null|
+|**2024-05-14**|**Growing Artificial Neural Networks for Control: the Role of Neuronal Diversity**|Eleni Nisioti et.al.|[2405.08510](http://arxiv.org/abs/2405.08510)|**[link](https://github.com/eleninisioti/GrowNeuralNets)**|
 |**2024-05-14**|**Understanding the performance gap between online and offline alignment algorithms**|Yunhao Tang et.al.|[2405.08448](http://arxiv.org/abs/2405.08448)|null|
 |**2024-05-14**|**Safety Constrained Multi-Agent Reinforcement Learning for Active Voltage Control**|Yang Qu et.al.|[2405.08443](http://arxiv.org/abs/2405.08443)|null|
 |**2024-05-14**|**TFWT: Tabular Feature Weighting with Transformer**|Xinhao Zhang et.al.|[2405.08403](http://arxiv.org/abs/2405.08403)|null|
@@ -2199,7 +2199,7 @@
 |**2024-05-13**|**Adaptive Exploration for Data-Efficient General Value Function Evaluations**|Arushi Jain et.al.|[2405.07838](http://arxiv.org/abs/2405.07838)|**[link](https://github.com/arushijain94/explorationofgvfs)**|
 |**2024-05-13**|**Fixed Point Theory Analysis of a Lambda Policy Iteration with Randomization for the Ćirić Contraction Operator**|Abdelkader Belhenniche et.al.|[2405.07824](http://arxiv.org/abs/2405.07824)|null|
 |**2024-05-13**|**Hamiltonian-based Quantum Reinforcement Learning for Neural Combinatorial Optimization**|Georg Kruse et.al.|[2405.07790](http://arxiv.org/abs/2405.07790)|null|
-|**2024-05-13**|**Hype or Heuristic? Quantum Reinforcement Learning for Join Order Optimisation**|Maja Franz et.al.|[2405.07770](http://arxiv.org/abs/2405.07770)|null|
+|**2024-05-13**|**Hype or Heuristic? Quantum Reinforcement Learning for Join Order Optimisation**|Maja Franz et.al.|[2405.07770](http://arxiv.org/abs/2405.07770)|**[link](https://github.com/lfd/rl_for_jo)**|
 |**2024-05-13**|**CAGES: Cost-Aware Gradient Entropy Search for Efficient Local Multi-Fidelity Bayesian Optimization**|Wei-Ting Tang et.al.|[2405.07760](http://arxiv.org/abs/2405.07760)|null|
 |**2024-05-13**|**MADRL-Based Rate Adaptation for 360 $\degree$ Video Streaming with Multi-Viewpoint Prediction**|Haopeng Wang et.al.|[2405.07759](http://arxiv.org/abs/2405.07759)|null|
 |**2024-05-13**|**Neural Network Compression for Reinforcement Learning Tasks**|Dmitry A. Ivanov et.al.|[2405.07748](http://arxiv.org/abs/2405.07748)|null|
@@ -3840,7 +3840,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240518>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
