@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.23
+## Updated on 2024.05.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2024-05-16**|**Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model**|Zheng Gu et.al.|[2405.10316](http://arxiv.org/abs/2405.10316)|null|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
 |**2024-05-16**|**When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models**|Xianzheng Ma et.al.|[2405.10255](http://arxiv.org/abs/2405.10255)|null|
-|**2024-05-16**|**LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting**|Stijn Verdenius et.al.|[2405.10093](http://arxiv.org/abs/2405.10093)|null|
+|**2024-05-22**|**LaT-PFN: A Joint Embedding Predictive Architecture for In-context Time-series Forecasting**|Stijn Verdenius et.al.|[2405.10093](http://arxiv.org/abs/2405.10093)|null|
 |**2024-05-16**|**Many-Shot In-Context Learning in Multimodal Foundation Models**|Yixing Jiang et.al.|[2405.09798](http://arxiv.org/abs/2405.09798)|**[link](https://github.com/stanfordmlgroup/ManyICL)**|
 |**2024-05-14**|**Distributed Threat Intelligence at the Edge Devices: A Large Language Model-Driven Approach**|Syed Mhamudul Hasan et.al.|[2405.08755](http://arxiv.org/abs/2405.08755)|null|
 |**2024-05-14**|**PromptMind Team at MEDIQA-CORR 2024: Improving Clinical Text Correction with Error Categorization and LLM Ensembles**|Satya Kesav Gundabathula et.al.|[2405.08373](http://arxiv.org/abs/2405.08373)|null|
@@ -92,7 +92,7 @@
 |**2024-04-23**|**Automated Commit Message Generation with Large Language Models: An Empirical Study and Beyond**|Pengyu Xue et.al.|[2404.14824](http://arxiv.org/abs/2404.14824)|null|
 |**2024-04-23**|**Bayesian Example Selection Improves In-Context Learning for Speech, Text, and Visual Modalities**|Siyin Wang et.al.|[2404.14716](http://arxiv.org/abs/2404.14716)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
-|**2024-04-23**|**FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model**|Zezheng Song et.al.|[2404.14688](http://arxiv.org/abs/2404.14688)|null|
+|**2024-05-22**|**FMint: Bridging Human Designed and Data Pretrained Models for Differential Equation Foundation Model**|Zezheng Song et.al.|[2404.14688](http://arxiv.org/abs/2404.14688)|null|
 |**2024-04-28**|**AnyPattern: Towards In-context Image Copy Detection**|Wenhao Wang et.al.|[2404.13788](http://arxiv.org/abs/2404.13788)|**[link](https://github.com/WangWenhao0716/AnyPatternStyle)**|
 |**2024-04-21**|**"A good pun is its own reword": Can Large Language Models Understand Puns?**|Zhijun Xu et.al.|[2404.13599](http://arxiv.org/abs/2404.13599)|**[link](https://github.com/zhijun-xu/puneval)**|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033](http://arxiv.org/abs/2404.13033)|**[link](https://github.com/beyondguo/llm-tuning)**|
@@ -105,7 +105,7 @@
 |**2024-04-18**|**Exploring the landscape of large language models: Foundations, techniques, and challenges**|Milad Moradi et.al.|[2404.11973](http://arxiv.org/abs/2404.11973)|null|
 |**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225](http://arxiv.org/abs/2404.11225)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
 |**2024-04-17**|**Position Engineering: Boosting Large Language Models through Positional Information Manipulation**|Zhiyuan He et.al.|[2404.11216](http://arxiv.org/abs/2404.11216)|null|
-|**2024-04-17**|**Many-Shot In-Context Learning**|Rishabh Agarwal et.al.|[2404.11018](http://arxiv.org/abs/2404.11018)|null|
+|**2024-05-22**|**Many-Shot In-Context Learning**|Rishabh Agarwal et.al.|[2404.11018](http://arxiv.org/abs/2404.11018)|null|
 |**2024-04-16**|**Search Beyond Queries: Training Smaller Language Models for Web Interactions via Reinforcement Learning**|Moghis Fereidouni et.al.|[2404.10887](http://arxiv.org/abs/2404.10887)|null|
 |**2024-04-16**|**Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning**|Xiao Wang et.al.|[2404.10552](http://arxiv.org/abs/2404.10552)|null|
 |**2024-04-15**|**Memory Sharing for Large Language Model based Agents**|Hang Gao et.al.|[2404.09982](http://arxiv.org/abs/2404.09982)|**[link](https://github.com/ghupppp/memorysharingllm)**|
@@ -473,7 +473,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
 
 ## Transformer
 
@@ -482,8 +482,8 @@
 |**2024-05-21**|**Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images**|Xiaofei Yu et.al.|[2405.12875](http://arxiv.org/abs/2405.12875)|**[link](https://github.com/fay-y/diffusion-rscc)**|
 |**2024-05-21**|**Comparing Neighbors Together Makes it Easy: Jointly Comparing Multiple Candidates for Efficient and Effective Retrieval**|Jonghyun Song et.al.|[2405.12801](http://arxiv.org/abs/2405.12801)|**[link](https://github.com/yc-song/cmc)**|
 |**2024-05-21**|**Transformer in Touch: A Survey**|Jing Gao et.al.|[2405.12779](http://arxiv.org/abs/2405.12779)|null|
-|**2024-05-21**|**Mamba in Speech: Towards an Alternative to Self-Attention**|Xiangyu Zhang et.al.|[2405.12609](http://arxiv.org/abs/2405.12609)|null|
-|**2024-05-21**|**Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting**|Zhicheng Zhang et.al.|[2405.12462](http://arxiv.org/abs/2405.12462)|null|
+|**2024-05-22**|**Mamba in Speech: Towards an Alternative to Self-Attention**|Xiangyu Zhang et.al.|[2405.12609](http://arxiv.org/abs/2405.12609)|null|
+|**2024-05-22**|**Boosting X-formers with Structured Matrix for Long Sequence Time Series Forecasting**|Zhicheng Zhang et.al.|[2405.12462](http://arxiv.org/abs/2405.12462)|null|
 |**2024-05-20**|**Spatio-temporal Attention-based Hidden Physics-informed Neural Network for Remaining Useful Life Prediction**|Feilong Jiang et.al.|[2405.12377](http://arxiv.org/abs/2405.12377)|null|
 |**2024-05-20**|**Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation**|Wentao Wang et.al.|[2405.12328](http://arxiv.org/abs/2405.12328)|null|
 |**2024-05-20**|**Hierarchical Neural Operator Transformer with Learnable Frequency-aware Loss Prior for Arbitrary-scale Super-resolution**|Xihaier Luo et.al.|[2405.12202](http://arxiv.org/abs/2405.12202)|null|
@@ -959,7 +959,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
 
 ## Optimization
 
@@ -1495,7 +1495,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -1636,7 +1636,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -2219,15 +2219,15 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
 
 ## Reinforcement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
-|**2024-05-21**|**Effect of Synthetic Jets Actuator Parameters on Deep Reinforcement Learning-Based Flow Control Performance in a Square Cylinder**|Wang Jia et.al.|[2405.12834](http://arxiv.org/abs/2405.12834)|null|
-|**2024-05-21**|**Deep Reinforcement Learning for Time-Critical Wilderness Search And Rescue Using Drones**|Jan-Hendrik Ewers et.al.|[2405.12800](http://arxiv.org/abs/2405.12800)|null|
+|**2024-05-23**|**Effect of Synthetic Jets Actuator Parameters on Deep Reinforcement Learning-Based Flow Control Performance in a Square Cylinder**|Wang Jia et.al.|[2405.12834](http://arxiv.org/abs/2405.12834)|null|
+|**2024-05-22**|**Deep Reinforcement Learning for Time-Critical Wilderness Search And Rescue Using Drones**|Jan-Hendrik Ewers et.al.|[2405.12800](http://arxiv.org/abs/2405.12800)|null|
 |**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750](http://arxiv.org/abs/2405.12750)|null|
 |**2024-05-21**|**Reinforcement Learning Enabled Peer-to-Peer Energy Trading for Dairy Farms**|Mian Ibad Ali Shah et.al.|[2405.12716](http://arxiv.org/abs/2405.12716)|null|
 |**2024-05-21**|**A Multimodal Learning-based Approach for Autonomous Landing of UAV**|Francisco Neves et.al.|[2405.12681](http://arxiv.org/abs/2405.12681)|null|
@@ -3973,7 +3973,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240523>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
