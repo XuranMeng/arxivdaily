@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -480,7 +480,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 ## Transformer
 
@@ -513,7 +513,7 @@
 |**2024-05-20**|**Sparse Attention-driven Quality Prediction for Production Process Optimization in Digital Twins**|Yanlei Yin et.al.|[2405.11895](http://arxiv.org/abs/2405.11895)|null|
 |**2024-05-19**|**Attention to Quantum Complexity**|Hyejin Kim et.al.|[2405.11632](http://arxiv.org/abs/2405.11632)|null|
 |**2024-05-19**|**Language Reconstruction with Brain Predictive Coding from fMRI Data**|Congchi Yin et.al.|[2405.11597](http://arxiv.org/abs/2405.11597)|null|
-|**2024-05-19**|**VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting**|Yingnan Yang et.al.|[2405.11470](http://arxiv.org/abs/2405.11470)|null|
+|**2024-05-19**|**VCformer: Variable Correlation Transformer with Inherent Lagged Correlation for Multivariate Time Series Forecasting**|Yingnan Yang et.al.|[2405.11470](http://arxiv.org/abs/2405.11470)|**[link](https://github.com/csyyn/vcformer)**|
 |**2024-05-18**|**Action Controlled Paraphrasing**|Ning Shi et.al.|[2405.11277](http://arxiv.org/abs/2405.11277)|**[link](https://github.com/shininglab/action-controlled-paraphrasing)**|
 |**2024-05-17**|**Next-slot OFDM-CSI Prediction: Multi-head Self-attention or State Space Model?**|Mohamed Akrout et.al.|[2405.11072](http://arxiv.org/abs/2405.11072)|null|
 |**2024-05-17**|**Know in AdVance: Linear-Complexity Forecasting of Ad Campaign Performance with Evolving User Interest**|XiaoYu Wang et.al.|[2405.10681](http://arxiv.org/abs/2405.10681)|**[link](https://github.com/anonymousauthor113/cpf)**|
@@ -980,7 +980,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 ## Optimization
 
@@ -1534,13 +1534,13 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 ## Over paramterized
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-21**|**Keep the Momentum: Conservation Laws beyond Euclidean Gradient Flows**|Sibylle Marcotte et.al.|[2405.12888](http://arxiv.org/abs/2405.12888)|null|
+|**2024-05-21**|**Keep the Momentum: Conservation Laws beyond Euclidean Gradient Flows**|Sibylle Marcotte et.al.|[2405.12888](http://arxiv.org/abs/2405.12888)|**[link](https://github.com/sibyllema/Conservation_laws_ICML)**|
 |**2024-05-13**|**Class-wise Activation Unravelling the Engima of Deep Double Descent**|Yufei Gu et.al.|[2405.07679](http://arxiv.org/abs/2405.07679)|null|
 |**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
 |**2024-04-29**|**Learning with Norm Constrained, Over-parameterized, Two-layer Neural Networks**|Fanghui Liu et.al.|[2404.18769](http://arxiv.org/abs/2404.18769)|null|
@@ -1675,7 +1675,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -2279,7 +2279,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -2355,13 +2355,13 @@
 |**2024-05-21**|**RAG-RLRC-LaySum at BioLaySumm: Integrating Retrieval-Augmented Generation and Readability Control for Layman Summarization of Biomedical Texts**|Yuelyu Ji et.al.|[2405.13179](http://arxiv.org/abs/2405.13179)|null|
 |**2024-05-21**|**KPG: Key Propagation Graph Generator for Rumor Detection based on Reinforcement Learning**|Yusong Zhang et.al.|[2405.13094](http://arxiv.org/abs/2405.13094)|null|
 |**2024-05-21**|**CausalPlayground: Addressing Data-Generation Requirements in Cutting-Edge Causality Research**|Andreas W M Sauter et.al.|[2405.13092](http://arxiv.org/abs/2405.13092)|null|
-|**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
+|**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|**[link](https://github.com/rotskoff-group/llm-era)**|
 |**2024-05-23**|**Effect of Synthetic Jets Actuator Parameters on Deep Reinforcement Learning-Based Flow Control Performance in a Square Cylinder**|Wang Jia et.al.|[2405.12834](http://arxiv.org/abs/2405.12834)|null|
 |**2024-05-22**|**Deep Reinforcement Learning for Time-Critical Wilderness Search And Rescue Using Drones**|Jan-Hendrik Ewers et.al.|[2405.12800](http://arxiv.org/abs/2405.12800)|null|
 |**2024-05-21**|**Generative AI and Large Language Models for Cyber Security: All Insights You Need**|Mohamed Amine Ferrag et.al.|[2405.12750](http://arxiv.org/abs/2405.12750)|null|
 |**2024-05-21**|**Reinforcement Learning Enabled Peer-to-Peer Energy Trading for Dairy Farms**|Mian Ibad Ali Shah et.al.|[2405.12716](http://arxiv.org/abs/2405.12716)|null|
 |**2024-05-21**|**A Multimodal Learning-based Approach for Autonomous Landing of UAV**|Francisco Neves et.al.|[2405.12681](http://arxiv.org/abs/2405.12681)|null|
-|**2024-05-21**|**Learning Causal Dynamics Models in Object-Oriented Environments**|Zhongwei Yu et.al.|[2405.12615](http://arxiv.org/abs/2405.12615)|null|
+|**2024-05-21**|**Learning Causal Dynamics Models in Object-Oriented Environments**|Zhongwei Yu et.al.|[2405.12615](http://arxiv.org/abs/2405.12615)|**[link](https://github.com/EaseOnway/oocdm)**|
 |**2024-05-21**|**PhiBE: A PDE-based Bellman Equation for Continuous Time Policy Evaluation**|Yuhua Zhu et.al.|[2405.12535](http://arxiv.org/abs/2405.12535)|null|
 |**2024-05-21**|**GASE: Graph Attention Sampling with Edges Fusion for Solving Vehicle Routing Problems**|Zhenwei Wang et.al.|[2405.12475](http://arxiv.org/abs/2405.12475)|null|
 |**2024-05-21**|**Physics-based Scene Layout Generation from Human Motion**|Jianan Li et.al.|[2405.12460](http://arxiv.org/abs/2405.12460)|null|
@@ -4103,7 +4103,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
