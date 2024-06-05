@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -2573,7 +2573,7 @@ layout: default
 |**2024-05-30**|**To RL or not to RL? An Algorithmic Cheat-Sheet for AI-Based Radio Resource Management**|Lorenzo Maggi et.al.|[2405.19045](http://arxiv.org/abs/2405.19045)|null|
 |**2024-05-29**|**Inverse Concave-Utility Reinforcement Learning is Inverse Game Theory**|Mustafa Mert Çelikok et.al.|[2405.19024](http://arxiv.org/abs/2405.19024)|null|
 |**2024-05-29**|**Efficient Exploration in Average-Reward Constrained Reinforcement Learning: Achieving Near-Optimal Regret With Posterior Sampling**|Danil Provodin et.al.|[2405.19017](http://arxiv.org/abs/2405.19017)|**[link](https://github.com/danilprov/cmdp)**|
-|**2024-05-29**|**Trust the Model Where It Trusts Itself -- Model-Based Actor-Critic with Uncertainty-Aware Rollout Adaption**|Bernd Frauenknecht et.al.|[2405.19014](http://arxiv.org/abs/2405.19014)|**[link](https://github.com/Data-Science-in-Mechanical-Engineering/macura)**|
+|**2024-06-04**|**Trust the Model Where It Trusts Itself -- Model-Based Actor-Critic with Uncertainty-Aware Rollout Adaption**|Bernd Frauenknecht et.al.|[2405.19014](http://arxiv.org/abs/2405.19014)|**[link](https://github.com/Data-Science-in-Mechanical-Engineering/macura)**|
 |**2024-05-29**|**Dynamic Throwing with Robotic Material Handling Machines**|Lennart Werner et.al.|[2405.19001](http://arxiv.org/abs/2405.19001)|null|
 |**2024-05-29**|**Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space**|Minji Lee et.al.|[2405.18986](http://arxiv.org/abs/2405.18986)|null|
 |**2024-05-29**|**Optimizing Vehicular Networks with Variational Quantum Circuits-based Reinforcement Learning**|Zijiang Yan et.al.|[2405.18984](http://arxiv.org/abs/2405.18984)|null|
@@ -2597,7 +2597,7 @@ layout: default
 |**2024-06-02**|**Causal Contextual Bandits with Adaptive Context**|Rahul Madhavan et.al.|[2405.18626](http://arxiv.org/abs/2405.18626)|**[link](https://github.com/adaptivecontextualcausalbandits/accb)**|
 |**2024-05-28**|**DTR-Bench: An in silico Environment and Benchmark Platform for Reinforcement Learning Based Dynamic Treatment Regime**|Zhiyao Luo et.al.|[2405.18610](http://arxiv.org/abs/2405.18610)|**[link](https://github.com/gilesluo/dtr-bench)**|
 |**2024-05-28**|**Counterfactual Explanations for Multivariate Time-Series without Training Datasets**|Xiangyu Sun et.al.|[2405.18563](http://arxiv.org/abs/2405.18563)|null|
-|**2024-05-28**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556](http://arxiv.org/abs/2405.18556)|**[link](https://github.com/gilesluo/reassessdtr)**|
+|**2024-06-03**|**Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination**|Zhiyao Luo et.al.|[2405.18556](http://arxiv.org/abs/2405.18556)|**[link](https://github.com/gilesluo/reassessdtr)**|
 |**2024-05-28**|**Learning diverse attacks on large language models for robust red-teaming and safety tuning**|Seanie Lee et.al.|[2405.18540](http://arxiv.org/abs/2405.18540)|null|
 |**2024-05-28**|**Offline-Boosted Actor-Critic: Adaptively Blending Optimal Historical Behaviors in Deep Off-Policy RL**|Yu Luo et.al.|[2405.18520](http://arxiv.org/abs/2405.18520)|**[link](https://github.com/roythuly/obac)**|
 |**2024-05-31**|**Hierarchical World Models as Visual Whole-Body Humanoid Controllers**|Nicklas Hansen et.al.|[2405.18418](http://arxiv.org/abs/2405.18418)|null|
