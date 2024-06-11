@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.10
+## Updated on 2024.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2024-06-06**|**llmNER: (Zero|Few)-Shot Named Entity Recognition, Exploiting the Power of Large Language Models**|Fabián Villena et.al.|[2406.04528](http://arxiv.org/abs/2406.04528)|null|
 |**2024-06-06**|**Aligning Large Language Models with Self-generated Preference Data**|Dongyoung Kim et.al.|[2406.04412](http://arxiv.org/abs/2406.04412)|null|
 |**2024-06-06**|**VHDL-Eval: A Framework for Evaluating Large Language Models in VHDL Code Generation**|Prashanth Vijayaraghavan et.al.|[2406.04379](http://arxiv.org/abs/2406.04379)|null|
-|**2024-06-06**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
+|**2024-06-08**|**What Do Language Models Learn in Context? The Structured Task Hypothesis**|Jiaoda Li et.al.|[2406.04216](http://arxiv.org/abs/2406.04216)|null|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907](http://arxiv.org/abs/2406.03907)|null|
 |**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|null|
 |**2024-06-06**|**FastGAS: Fast Graph-based Annotation Selection for In-Context Learning**|Zihan Chen et.al.|[2406.03730](http://arxiv.org/abs/2406.03730)|null|
@@ -553,7 +553,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
 
 ## Transformer
 
@@ -1133,7 +1133,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
 
 ## Optimization
 
@@ -1152,7 +1152,7 @@
 |**2024-06-06**|**A Voxel-based Approach for Simulating Microbial Decomposition in Soil: Comparison with LBM and Improvement of Morphological Models**|Mouad Klai et.al.|[2406.04177](http://arxiv.org/abs/2406.04177)|null|
 |**2024-06-06**|**Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance**|Dimitris Oikonomou et.al.|[2406.04142](http://arxiv.org/abs/2406.04142)|null|
 |**2024-06-06**|**Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection**|Yinting Wu et.al.|[2406.04070](http://arxiv.org/abs/2406.04070)|**[link](https://github.com/Yinting-Wu/Batch-in-Batch)**|
-|**2024-06-06**|**Variational inference, Mixture of Gaussians, Bayesian Machine Learning**|Tom Huix et.al.|[2406.04012](http://arxiv.org/abs/2406.04012)|null|
+|**2024-06-10**|**Theoretical Guarantees for Variational Inference with Fixed-Variance Mixture of Gaussians**|Tom Huix et.al.|[2406.04012](http://arxiv.org/abs/2406.04012)|null|
 |**2024-06-06**|**Neuro-Symbolic Temporal Point Processes**|Yang Yang et.al.|[2406.03914](http://arxiv.org/abs/2406.03914)|null|
 |**2024-06-06**|**DeepRacer on Physical Track: Parameters Exploration and Performance Evaluation**|Sinan Koparan et.al.|[2406.03769](http://arxiv.org/abs/2406.03769)|null|
 |**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|null|
@@ -1797,13 +1797,13 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
 
 ## Over paramterized
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-07**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596](http://arxiv.org/abs/2406.04596)|null|
+|**2024-06-10**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596](http://arxiv.org/abs/2406.04596)|null|
 |**2024-06-04**|**Symmetric Kernels with Non-Symmetric Data: A Data-Agnostic Learnability Bound**|Itay Lavie et.al.|[2406.02663](http://arxiv.org/abs/2406.02663)|null|
 |**2024-06-03**|**Model for Peanuts: Hijacking ML Models without Training Access is Possible**|Mahmoud Ghorbel et.al.|[2406.01708](http://arxiv.org/abs/2406.01708)|null|
 |**2024-05-31**|**Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation**|Fengdi Che et.al.|[2405.21043](http://arxiv.org/abs/2405.21043)|null|
@@ -1834,7 +1834,7 @@
 |**2024-02-17**|**How to Make the Gradients Small Privately: Improved Rates for Differentially Private Non-Convex Optimization**|Andrew Lowy et.al.|[2402.11173](http://arxiv.org/abs/2402.11173)|null|
 |**2024-02-10**|**Generalization Error of Graph Neural Networks in the Mean-field Regime**|Gholamali Aminian et.al.|[2402.07025](http://arxiv.org/abs/2402.07025)|null|
 |**2024-02-09**|**Convergence of Gradient Descent with Small Initialization for Unregularized Matrix Completion**|Jianhao Ma et.al.|[2402.06756](http://arxiv.org/abs/2402.06756)|null|
-|**2024-02-09**|**How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers**|Gon Buzaglo et.al.|[2402.06323](http://arxiv.org/abs/2402.06323)|null|
+|**2024-06-09**|**How Uniform Random Weights Induce Non-uniform Bias: Typical Interpolating Neural Networks Generalize with Narrow Teachers**|Gon Buzaglo et.al.|[2402.06323](http://arxiv.org/abs/2402.06323)|null|
 |**2024-02-08**|**Exploring Learning Complexity for Downstream Data Pruning**|Wenyu Jiang et.al.|[2402.05356](http://arxiv.org/abs/2402.05356)|null|
 |**2024-05-28**|**Towards Understanding Inductive Bias in Transformers: A View From Infinity**|Itay Lavie et.al.|[2402.05173](http://arxiv.org/abs/2402.05173)|null|
 |**2024-06-06**|**Early Stopping of Untrained Convolutional Neural Networks**|Tim Jahn et.al.|[2402.04610](http://arxiv.org/abs/2402.04610)|null|
@@ -1946,7 +1946,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -1966,7 +1966,7 @@
 |**2024-06-06**|**A Voxel-based Approach for Simulating Microbial Decomposition in Soil: Comparison with LBM and Improvement of Morphological Models**|Mouad Klai et.al.|[2406.04177](http://arxiv.org/abs/2406.04177)|null|
 |**2024-06-06**|**Stochastic Polyak Step-sizes and Momentum: Convergence Guarantees and Practical Performance**|Dimitris Oikonomou et.al.|[2406.04142](http://arxiv.org/abs/2406.04142)|null|
 |**2024-06-06**|**Batch-in-Batch: a new adversarial training framework for initial perturbation and sample selection**|Yinting Wu et.al.|[2406.04070](http://arxiv.org/abs/2406.04070)|**[link](https://github.com/Yinting-Wu/Batch-in-Batch)**|
-|**2024-06-06**|**Variational inference, Mixture of Gaussians, Bayesian Machine Learning**|Tom Huix et.al.|[2406.04012](http://arxiv.org/abs/2406.04012)|null|
+|**2024-06-10**|**Theoretical Guarantees for Variational Inference with Fixed-Variance Mixture of Gaussians**|Tom Huix et.al.|[2406.04012](http://arxiv.org/abs/2406.04012)|null|
 |**2024-06-06**|**Neuro-Symbolic Temporal Point Processes**|Yang Yang et.al.|[2406.03914](http://arxiv.org/abs/2406.03914)|null|
 |**2024-06-06**|**DeepRacer on Physical Track: Parameters Exploration and Performance Evaluation**|Sinan Koparan et.al.|[2406.03769](http://arxiv.org/abs/2406.03769)|null|
 |**2024-06-06**|**Enhancing In-Context Learning Performance with just SVD-Based Weight Pruning: A Theoretical Perspective**|Xinhao Yao et.al.|[2406.03768](http://arxiv.org/abs/2406.03768)|null|
@@ -2674,7 +2674,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -2756,7 +2756,7 @@
 |**2024-06-04**|**A Generalized Apprenticeship Learning Framework for Modeling Heterogeneous Student Pedagogical Strategies**|Md Mirajul Islam et.al.|[2406.02450](http://arxiv.org/abs/2406.02450)|null|
 |**2024-06-04**|**Algorithmic Collusion in Dynamic Pricing with Deep Reinforcement Learning**|Shidi Deng et.al.|[2406.02437](http://arxiv.org/abs/2406.02437)|null|
 |**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
-|**2024-06-04**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370](http://arxiv.org/abs/2406.02370)|null|
+|**2024-06-09**|**Query-based Semantic Gaussian Field for Scene Representation in Reinforcement Learning**|Jiaxu Wang et.al.|[2406.02370](http://arxiv.org/abs/2406.02370)|null|
 |**2024-06-04**|**How to Explore with Belief: State Entropy Maximization in POMDPs**|Riccardo Zamboni et.al.|[2406.02295](http://arxiv.org/abs/2406.02295)|null|
 |**2024-06-04**|**Smaller Batches, Bigger Gains? Investigating the Impact of Batch Sizes on Reinforcement Learning Based Real-World Production Scheduling**|Arthur Müller et.al.|[2406.02294](http://arxiv.org/abs/2406.02294)|null|
 |**2024-06-04**|**Test-Time Regret Minimization in Meta Reinforcement Learning**|Mirco Mutti et.al.|[2406.02282](http://arxiv.org/abs/2406.02282)|null|
@@ -4874,7 +4874,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
