@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -642,7 +642,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## Transformer
 
@@ -675,7 +675,7 @@
 |**2024-06-18**|**On the Robustness of Language Models for Tabular Question Answering**|Kushal Raj Bhandari et.al.|[2406.12719](http://arxiv.org/abs/2406.12719)|null|
 |**2024-06-18**|**Coarse-Fine Spectral-Aware Deformable Convolution For Hyperspectral Image Reconstruction**|Jincheng Yang et.al.|[2406.12703](http://arxiv.org/abs/2406.12703)|null|
 |**2024-06-18**|**RIGL: A Unified Reciprocal Approach for Tracing the Independent and Group Learning Processes**|Xiaoshan Yu et.al.|[2406.12465](http://arxiv.org/abs/2406.12465)|null|
-|**2024-06-19**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
+|**2024-06-26**|**Slot State Space Models**|Jindong Jiang et.al.|[2406.12272](http://arxiv.org/abs/2406.12272)|null|
 |**2024-06-17**|**A Scalable and Effective Alternative to Graph Transformers**|Kaan Sancak et.al.|[2406.12059](http://arxiv.org/abs/2406.12059)|null|
 |**2024-06-17**|**A Critical Study of What Code-LLMs (Do Not) Learn**|Abhinav Anand et.al.|[2406.11930](http://arxiv.org/abs/2406.11930)|**[link](https://github.com/stg-tud/code-llm-critical-evaluation)**|
 |**2024-06-17**|**Rethinking Spatio-Temporal Transformer for Traffic Prediction:Multi-level Multi-view Augmented Learning Framework**|Jiaqi Lin et.al.|[2406.11921](http://arxiv.org/abs/2406.11921)|null|
@@ -1297,7 +1297,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## Optimization
 
@@ -2037,7 +2037,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -2063,7 +2063,7 @@
 |**2024-05-21**|**Keep the Momentum: Conservation Laws beyond Euclidean Gradient Flows**|Sibylle Marcotte et.al.|[2405.12888](http://arxiv.org/abs/2405.12888)|**[link](https://github.com/sibyllema/Conservation_laws_ICML)**|
 |**2024-05-13**|**Class-wise Activation Unravelling the Engima of Deep Double Descent**|Yufei Gu et.al.|[2405.07679](http://arxiv.org/abs/2405.07679)|null|
 |**2024-05-13**|**Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models**|Yubin Shi et.al.|[2405.07527](http://arxiv.org/abs/2405.07527)|null|
-|**2024-04-29**|**Learning with Norm Constrained, Over-parameterized, Two-layer Neural Networks**|Fanghui Liu et.al.|[2404.18769](http://arxiv.org/abs/2404.18769)|null|
+|**2024-06-25**|**Learning with Norm Constrained, Over-parameterized, Two-layer Neural Networks**|Fanghui Liu et.al.|[2404.18769](http://arxiv.org/abs/2404.18769)|null|
 |**2024-04-20**|**Accelerated Methods with Compression for Horizontal and Vertical Federated Learning**|Sergey Stanko et.al.|[2404.13328](http://arxiv.org/abs/2404.13328)|null|
 |**2024-04-07**|**Coordinated Sparse Recovery of Label Noise**|Yukun Yang et.al.|[2404.04800](http://arxiv.org/abs/2404.04800)|null|
 |**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084](http://arxiv.org/abs/2404.02084)|null|
@@ -2196,7 +2196,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3013,7 +3013,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -3045,7 +3045,7 @@
 |**2024-06-24**|**Probabilistic Subgoal Representations for Hierarchical Reinforcement learning**|Vivienne Huiling Wang et.al.|[2406.16707](http://arxiv.org/abs/2406.16707)|null|
 |**2024-06-24**|**Decentralized RL-Based Data Transmission Scheme for Energy Efficient Harvesting**|Rafaela Scaciota et.al.|[2406.16624](http://arxiv.org/abs/2406.16624)|null|
 |**2024-06-24**|**Towards Physically Talented Aerial Robots with Tactically Smart Swarm Behavior thereof: An Efficient Co-design Approach**|Prajit KrisshnaKumar et.al.|[2406.16612](http://arxiv.org/abs/2406.16612)|null|
-|**2024-06-24**|**$\text{Alpha}^2$ : Discovering Logical Formulaic Alphas using Deep Reinforcement Learning**|Feng Xu et.al.|[2406.16505](http://arxiv.org/abs/2406.16505)|**[link](https://github.com/x35f/alpha2)**|
+|**2024-06-26**|**$\text{Alpha}^2$ : Discovering Logical Formulaic Alphas using Deep Reinforcement Learning**|Feng Xu et.al.|[2406.16505](http://arxiv.org/abs/2406.16505)|**[link](https://github.com/x35f/alpha2)**|
 |**2024-06-24**|**Towards Comprehensive Preference Data Collection for Reward Modeling**|Yulan Hu et.al.|[2406.16486](http://arxiv.org/abs/2406.16486)|null|
 |**2024-06-24**|**Fault Detection for agents on power grid topology optimization: A Comprehensive analysis**|Malte Lehna et.al.|[2406.16426](http://arxiv.org/abs/2406.16426)|null|
 |**2024-06-24**|**Memory-Enhanced Neural Solvers for Efficient Adaptation in Combinatorial Optimization**|Felix Chalumeau et.al.|[2406.16424](http://arxiv.org/abs/2406.16424)|null|
@@ -5520,7 +5520,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
