@@ -90,7 +90,7 @@
 |**2024-06-16**|**RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information**|Zhiwei Liu et.al.|[2406.11093](http://arxiv.org/abs/2406.11093)|**[link](https://github.com/lzw108/raemollm)**|
 |**2024-06-16**|**MICL: Improving In-Context Learning through Multiple-Label Words in Demonstration**|Zhu Zixiao et.al.|[2406.10908](http://arxiv.org/abs/2406.10908)|null|
 |**2024-06-16**|**Demonstration Notebook: Finding the Most Suited In-Context Learning Example from Interactions**|Yiming Tang et.al.|[2406.10878](http://arxiv.org/abs/2406.10878)|null|
-|**2024-06-15**|**On the Hardness of Faithful Chain-of-Thought Reasoning in Large Language Models**|Sree Harsha Tanneru et.al.|[2406.10625](http://arxiv.org/abs/2406.10625)|null|
+|**2024-07-01**|**On the Hardness of Faithful Chain-of-Thought Reasoning in Large Language Models**|Sree Harsha Tanneru et.al.|[2406.10625](http://arxiv.org/abs/2406.10625)|null|
 |**2024-06-15**|**CoMM: A Coherent Interleaved Image-Text Dataset for Multimodal Understanding and Generation**|Wei Chen et.al.|[2406.10462](http://arxiv.org/abs/2406.10462)|null|
 |**2024-06-15**|**TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation**|Haohao Qu et.al.|[2406.10450](http://arxiv.org/abs/2406.10450)|null|
 |**2024-06-14**|**Enhancing In-Context Learning with Semantic Representations for Relation Extraction**|Peitao Han et.al.|[2406.10432](http://arxiv.org/abs/2406.10432)|null|
@@ -3075,7 +3075,7 @@
 |**2024-06-28**|**Identifying Ordinary Differential Equations for Data-efficient Model-based Reinforcement Learning**|Tobias Nagel et.al.|[2406.19817](http://arxiv.org/abs/2406.19817)|null|
 |**2024-06-28**|**Fuzzy Logic Guided Reward Function Variation: An Oracle for Testing Reinforcement Learning Programs**|Shiyu Zhang et.al.|[2406.19812](http://arxiv.org/abs/2406.19812)|null|
 |**2024-06-28**|**Decision Transformer for IRS-Assisted Systems with Diffusion-Driven Generative Channels**|Jie Zhang et.al.|[2406.19769](http://arxiv.org/abs/2406.19769)|null|
-|**2024-07-01**|**Contextualized Hybrid Ensemble Q-learning: Learning Fast with Control Priors**|Emma Cramer et.al.|[2406.19768](http://arxiv.org/abs/2406.19768)|null|
+|**2024-07-01**|**Contextualized Hybrid Ensemble Q-learning: Learning Fast with Control Priors**|Emma Cramer et.al.|[2406.19768](http://arxiv.org/abs/2406.19768)|**[link](https://github.com/Data-Science-in-Mechanical-Engineering/cheq)**|
 |**2024-06-28**|**PopAlign: Population-Level Alignment for Fair Text-to-Image Generation**|Shufan Li et.al.|[2406.19668](http://arxiv.org/abs/2406.19668)|**[link](https://github.com/jacklishufan/popalignsdxl)**|
 |**2024-06-28**|**Time-optimal Flight in Cluttered Environments via Safe Reinforcement Learning**|Wei Xiao et.al.|[2406.19646](http://arxiv.org/abs/2406.19646)|null|
 |**2024-07-01**|**Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs**|Zichao Shen et.al.|[2406.19644](http://arxiv.org/abs/2406.19644)|null|
