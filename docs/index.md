@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -1394,7 +1394,7 @@ layout: default
 |**2024-06-28**|**Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory**|Wenliang Zhong et.al.|[2406.19827](http://arxiv.org/abs/2406.19827)|null|
 |**2024-06-27**|**Too Good to be True? Turn Any Model Differentially Private With DP-Weights**|David Zagardo et.al.|[2406.19507](http://arxiv.org/abs/2406.19507)|**[link](https://github.com/dzagardo/forgetnet)**|
 |**2024-06-27**|**Entrywise dynamics and universality of general first order methods**|Qiyang Han et.al.|[2406.19061](http://arxiv.org/abs/2406.19061)|null|
-|**2024-06-27**|**Semi-adaptive Synergetic Two-way Pseudoinverse Learning System**|Binghong Liu et.al.|[2406.18931](http://arxiv.org/abs/2406.18931)|**[link](https://github.com/b-berrypie/semi-adaptive-synergetic-two-way-pseudoinverse-learning-system)**|
+|**2024-07-07**|**Semi-adaptive Synergetic Two-way Pseudoinverse Learning System**|Binghong Liu et.al.|[2406.18931](http://arxiv.org/abs/2406.18931)|**[link](https://github.com/b-berrypie/semi-adaptive-synergetic-two-way-pseudoinverse-learning-system)**|
 |**2024-06-26**|**Unbiased least squares regression via averaged stochastic gradient descent**|Nabil Kahalé et.al.|[2406.18623](http://arxiv.org/abs/2406.18623)|null|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
@@ -2343,7 +2343,7 @@ layout: default
 |**2024-06-28**|**Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory**|Wenliang Zhong et.al.|[2406.19827](http://arxiv.org/abs/2406.19827)|null|
 |**2024-06-27**|**Too Good to be True? Turn Any Model Differentially Private With DP-Weights**|David Zagardo et.al.|[2406.19507](http://arxiv.org/abs/2406.19507)|**[link](https://github.com/dzagardo/forgetnet)**|
 |**2024-06-27**|**Entrywise dynamics and universality of general first order methods**|Qiyang Han et.al.|[2406.19061](http://arxiv.org/abs/2406.19061)|null|
-|**2024-06-27**|**Semi-adaptive Synergetic Two-way Pseudoinverse Learning System**|Binghong Liu et.al.|[2406.18931](http://arxiv.org/abs/2406.18931)|**[link](https://github.com/b-berrypie/semi-adaptive-synergetic-two-way-pseudoinverse-learning-system)**|
+|**2024-07-07**|**Semi-adaptive Synergetic Two-way Pseudoinverse Learning System**|Binghong Liu et.al.|[2406.18931](http://arxiv.org/abs/2406.18931)|**[link](https://github.com/b-berrypie/semi-adaptive-synergetic-two-way-pseudoinverse-learning-system)**|
 |**2024-06-26**|**Unbiased least squares regression via averaged stochastic gradient descent**|Nabil Kahalé et.al.|[2406.18623](http://arxiv.org/abs/2406.18623)|null|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
@@ -3208,7 +3208,7 @@ layout: default
 |**2024-07-02**|**Wildfire Autonomous Response and Prediction Using Cellular Automata (WARP-CA)**|Abdelrahman Ramadan et.al.|[2407.02613](http://arxiv.org/abs/2407.02613)|null|
 |**2024-07-02**|**Improving Visual Storytelling with Multimodal Large Language Models**|Xiaochuan Lin et.al.|[2407.02586](http://arxiv.org/abs/2407.02586)|null|
 |**2024-07-02**|**Adaptive Autopilot: Constrained DRL for Diverse Driving Behaviors**|Dinesh Cyril Selvaraj et.al.|[2407.02546](http://arxiv.org/abs/2407.02546)|null|
-|**2024-07-02**|**Research on Autonomous Robots Navigation based on Reinforcement Learning**|Zixiang Wang et.al.|[2407.02539](http://arxiv.org/abs/2407.02539)|null|
+|**2024-07-08**|**Research on Autonomous Robots Navigation based on Reinforcement Learning**|Zixiang Wang et.al.|[2407.02539](http://arxiv.org/abs/2407.02539)|null|
 |**2024-07-03**|**PWM: Policy Learning with Large World Models**|Ignat Georgiev et.al.|[2407.02466](http://arxiv.org/abs/2407.02466)|null|
 |**2024-07-02**|**Predicting Visual Attention in Graphic Design Documents**|Souradeep Chakraborty et.al.|[2407.02439](http://arxiv.org/abs/2407.02439)|null|
 |**2024-07-02**|**Reinforcement Learning and Machine ethics:a systematic review**|Ajay Vishwanath et.al.|[2407.02425](http://arxiv.org/abs/2407.02425)|null|
@@ -3251,7 +3251,7 @@ layout: default
 |**2024-06-30**|**Multi-Agent Training for Pommerman: Curriculum Learning and Population-based Self-Play Approach**|Nhat-Minh Huynh et.al.|[2407.00662](http://arxiv.org/abs/2407.00662)|null|
 |**2024-06-30**|**DEAR: Disentangled Environment and Agent Representations for Reinforcement Learning without Reconstruction**|Ameya Pore et.al.|[2407.00633](http://arxiv.org/abs/2407.00633)|**[link](https://github.com/ameyapores/dear)**|
 |**2024-06-30**|**Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models**|Sangwoong Yoon et.al.|[2407.00626](http://arxiv.org/abs/2407.00626)|null|
-|**2024-06-30**|**Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning**|Yuheng Zhang et.al.|[2407.00617](http://arxiv.org/abs/2407.00617)|null|
+|**2024-07-07**|**Iterative Nash Policy Optimization: Aligning LLMs with General Preferences via No-Regret Learning**|Yuheng Zhang et.al.|[2407.00617](http://arxiv.org/abs/2407.00617)|null|
 |**2024-06-29**|**A Two-stage Reinforcement Learning-based Approach for Multi-entity Task Allocation**|Aicheng Gong et.al.|[2407.00496](http://arxiv.org/abs/2407.00496)|**[link](https://github.com/yk7333/taskallocation)**|
 |**2024-06-29**|**A Bayesian Solution To The Imitation Gap**|Risto Vuorio et.al.|[2407.00495](http://arxiv.org/abs/2407.00495)|null|
 |**2024-06-29**|**PUZZLES: A Benchmark for Neural Algorithmic Reasoning**|Benjamin Estermann et.al.|[2407.00401](http://arxiv.org/abs/2407.00401)|**[link](https://github.com/eth-disco/rlp)**|
