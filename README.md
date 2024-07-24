@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -720,7 +720,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## Transformer
 
@@ -731,7 +731,7 @@
 |**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385](http://arxiv.org/abs/2407.15385)|null|
 |**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329](http://arxiv.org/abs/2407.15329)|null|
 |**2024-07-21**|**Efficient Visual Transformer by Learnable Token Merging**|Yancheng Wang et.al.|[2407.15219](http://arxiv.org/abs/2407.15219)|**[link](https://github.com/statistical-deep-learning/ltm)**|
-|**2024-07-21**|**DOPRA: Decoding Over-accumulation Penalization and Re-allocation in Specific Weighting Layer**|Jinfeng Wei et.al.|[2407.15130](http://arxiv.org/abs/2407.15130)|null|
+|**2024-07-23**|**DOPRA: Decoding Over-accumulation Penalization and Re-allocation in Specific Weighting Layer**|Jinfeng Wei et.al.|[2407.15130](http://arxiv.org/abs/2407.15130)|null|
 |**2024-07-21**|**Answer, Assemble, Ace: Understanding How Transformers Answer Multiple Choice Questions**|Sarah Wiegreffe et.al.|[2407.15018](http://arxiv.org/abs/2407.15018)|null|
 |**2024-07-19**|**AttentNet: Fully Convolutional 3D Attention for Lung Nodule Detection**|Majedaldein Almahasneh et.al.|[2407.14464](http://arxiv.org/abs/2407.14464)|null|
 |**2024-07-19**|**Double-Shot 3D Shape Measurement with a Dual-Branch Network**|Mingyang Lei et.al.|[2407.14198](http://arxiv.org/abs/2407.14198)|null|
@@ -1478,7 +1478,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## Optimization
 
@@ -1491,7 +1491,7 @@
 |**2024-07-22**|**Weights Shuffling for Improving DPSGD in Transformer-based Models**|Jungang Yang et.al.|[2407.15414](http://arxiv.org/abs/2407.15414)|null|
 |**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111](http://arxiv.org/abs/2407.14111)|null|
 |**2024-07-18**|**Quantum Natural Stochastic Pairwise Coordinate Descent**|Mohammad Aamir Sohail et.al.|[2407.13858](http://arxiv.org/abs/2407.13858)|null|
-|**2024-07-18**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
+|**2024-07-22**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
 |**2024-07-17**|**Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay**|Mehmet Yigit Balik et.al.|[2407.12741](http://arxiv.org/abs/2407.12741)|null|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669](http://arxiv.org/abs/2407.12669)|null|
 |**2024-07-17**|**A Methodology Establishing Linear Convergence of Adaptive Gradient Methods under PL Inequality**|Kushal Chakrabarti et.al.|[2407.12629](http://arxiv.org/abs/2407.12629)|null|
@@ -1541,7 +1541,7 @@
 |**2024-07-04**|**Quantum spectral method for gradient and Hessian estimation**|Yuxin Zhang et.al.|[2407.03833](http://arxiv.org/abs/2407.03833)|null|
 |**2024-07-04**|**NeuroSteiner: A Graph Transformer for Wirelength Estimation**|Sahil Manchanda et.al.|[2407.03792](http://arxiv.org/abs/2407.03792)|null|
 |**2024-07-04**|**Over the Edge of Chaos? Excess Complexity as a Roadblock to Artificial General Intelligence**|Teo Susnjak et.al.|[2407.03652](http://arxiv.org/abs/2407.03652)|null|
-|**2024-07-04**|**Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
+|**2024-07-23**|**Learning Scalable Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
 |**2024-07-04**|**Online Non-Stationary Stochastic Quasar-Convex Optimization**|Yuen-Man Pun et.al.|[2407.03601](http://arxiv.org/abs/2407.03601)|null|
 |**2024-07-03**|**Improved Iteration Complexity in Black-Box Optimization Problems under Higher Order Smoothness Function Condition**|Aleksandr Lobanov et.al.|[2407.03507](http://arxiv.org/abs/2407.03507)|null|
 |**2024-07-03**|**DACB-Net: Dual Attention Guided Compact Bilinear Convolution Neural Network for Skin Disease Classification**|Belal Ahmad et.al.|[2407.03439](http://arxiv.org/abs/2407.03439)|null|
@@ -2311,7 +2311,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -2478,7 +2478,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -2494,7 +2494,7 @@
 |**2024-07-19**|**A Mirror Descent-Based Algorithm for Corruption-Tolerant Distributed Gradient Descent**|Shuche Wang et.al.|[2407.14111](http://arxiv.org/abs/2407.14111)|null|
 |**2024-07-18**|**Quantum Natural Stochastic Pairwise Coordinate Descent**|Mohammad Aamir Sohail et.al.|[2407.13858](http://arxiv.org/abs/2407.13858)|null|
 |**2024-07-18**|**Exploring End-to-end Differentiable Neural Charged Particle Tracking -- A Loss Landscape Perspective**|Tobias Kortus et.al.|[2407.13420](http://arxiv.org/abs/2407.13420)|**[link](https://github.com/SIVERT-pCT/e2e-tracking)**|
-|**2024-07-18**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
+|**2024-07-22**|**LiNR: Model Based Neural Retrieval on GPUs at LinkedIn**|Fedor Borisyuk et.al.|[2407.13218](http://arxiv.org/abs/2407.13218)|null|
 |**2024-07-17**|**Sharpness-diversity tradeoff: improving flat ensembles with SharpBalance**|Haiquan Lu et.al.|[2407.12996](http://arxiv.org/abs/2407.12996)|null|
 |**2024-07-17**|**Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay**|Mehmet Yigit Balik et.al.|[2407.12741](http://arxiv.org/abs/2407.12741)|null|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669](http://arxiv.org/abs/2407.12669)|null|
@@ -2549,7 +2549,7 @@
 |**2024-07-04**|**Quantum spectral method for gradient and Hessian estimation**|Yuxin Zhang et.al.|[2407.03833](http://arxiv.org/abs/2407.03833)|null|
 |**2024-07-04**|**NeuroSteiner: A Graph Transformer for Wirelength Estimation**|Sahil Manchanda et.al.|[2407.03792](http://arxiv.org/abs/2407.03792)|null|
 |**2024-07-04**|**Over the Edge of Chaos? Excess Complexity as a Roadblock to Artificial General Intelligence**|Teo Susnjak et.al.|[2407.03652](http://arxiv.org/abs/2407.03652)|null|
-|**2024-07-04**|**Scalable Learned Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
+|**2024-07-23**|**Learning Scalable Model Soup on a Single GPU: An Efficient Subspace Training Strategy**|Tao Li et.al.|[2407.03641](http://arxiv.org/abs/2407.03641)|**[link](https://github.com/nblt/mehl-soup)**|
 |**2024-07-04**|**Online Non-Stationary Stochastic Quasar-Convex Optimization**|Yuen-Man Pun et.al.|[2407.03601](http://arxiv.org/abs/2407.03601)|null|
 |**2024-07-03**|**Improved Iteration Complexity in Black-Box Optimization Problems under Higher Order Smoothness Function Condition**|Aleksandr Lobanov et.al.|[2407.03507](http://arxiv.org/abs/2407.03507)|null|
 |**2024-07-03**|**Fisher-aware Quantization for DETR Detectors with Critical-category Objectives**|Huanrui Yang et.al.|[2407.03442](http://arxiv.org/abs/2407.03442)|null|
@@ -3399,7 +3399,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -3447,7 +3447,7 @@
 |**2024-07-19**|**BOND: Aligning LLMs with Best-of-N Distillation**|Pier Giuseppe Sessa et.al.|[2407.14622](http://arxiv.org/abs/2407.14622)|null|
 |**2024-07-19**|**Catastrophic Goodhart: regularizing RLHF with KL divergence does not mitigate heavy-tailed reward misspecification**|Thomas Kwa et.al.|[2407.14503](http://arxiv.org/abs/2407.14503)|null|
 |**2024-07-19**|**Explainable Post hoc Portfolio Management Financial Policy of a Deep Reinforcement Learning agent**|Alejandra de la Rica Escudero et.al.|[2407.14486](http://arxiv.org/abs/2407.14486)|**[link](https://github.com/aleedelarica/XDRL-for-finance)**|
-|**2024-07-19**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
+|**2024-07-23**|**Data-Centric Human Preference Optimization with Rationales**|Hoang Anh Just et.al.|[2407.14477](http://arxiv.org/abs/2407.14477)|null|
 |**2024-07-19**|**FuzzTheREST: An Intelligent Automated Black-box RESTful API Fuzzer**|Tiago Dias et.al.|[2407.14361](http://arxiv.org/abs/2407.14361)|null|
 |**2024-07-19**|**Hyperparameter Optimization for Driving Strategies Based on Reinforcement Learning**|Nihal Acharya Adde et.al.|[2407.14262](http://arxiv.org/abs/2407.14262)|null|
 |**2024-07-19**|**On Policy Evaluation Algorithms in Distributional Reinforcement Learning**|Julian Gerstenberg et.al.|[2407.14175](http://arxiv.org/abs/2407.14175)|null|
@@ -6288,7 +6288,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
