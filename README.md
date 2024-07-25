@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -726,14 +726,14 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-23**|**A deeper look at depth pruning of LLMs**|Shoaib Ahmed Siddiqui et.al.|[2407.16286](http://arxiv.org/abs/2407.16286)|**[link](https://github.com/shoaibahmed/llm_depth_pruning)**|
-|**2024-07-22**|**SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams**|Liangyan Jiang et.al.|[2407.15708](http://arxiv.org/abs/2407.15708)|null|
+|**2024-07-24**|**SwinSF: Image Reconstruction from Spatial-Temporal Spike Streams**|Liangyan Jiang et.al.|[2407.15708](http://arxiv.org/abs/2407.15708)|**[link](https://github.com/bupt-ai-cz/SwinSF)**|
 |**2024-07-22**|**Empirical Capacity Model for Self-Attention Neural Networks**|Aki Härmä et.al.|[2407.15425](http://arxiv.org/abs/2407.15425)|null|
 |**2024-07-22**|**Towards Robust Vision Transformer via Masked Adaptive Ensemble**|Fudong Lin et.al.|[2407.15385](http://arxiv.org/abs/2407.15385)|null|
 |**2024-07-22**|**Efficient Multi-disparity Transformer for Light Field Image Super-resolution**|Zeke Zexi Hu et.al.|[2407.15329](http://arxiv.org/abs/2407.15329)|null|
@@ -1485,14 +1485,14 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|null|
-|**2024-07-22**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
+|**2024-07-24**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
 |**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
 |**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|null|
 |**2024-07-22**|**PyJama: Differentiable Jamming and Anti-Jamming with NVIDIA Sionna**|Fabian Ulbricht et.al.|[2407.15473](http://arxiv.org/abs/2407.15473)|null|
@@ -1562,7 +1562,7 @@
 |**2024-07-02**|**Accelerating Distributed Optimization: A Primal-Dual Perspective on Local Steps**|Junchi Yang et.al.|[2407.02689](http://arxiv.org/abs/2407.02689)|null|
 |**2024-07-02**|**Stochastic Iterative Methods for Online Rank Aggregation from Pairwise Comparisons**|Benjamin Jarman et.al.|[2407.02656](http://arxiv.org/abs/2407.02656)|**[link](https://github.com/alexandersietsema/KaczRank)**|
 |**2024-07-02**|**Stochastic Differential Equations models for Least-Squares Stochastic Gradient Descent**|Adrien Schertzer et.al.|[2407.02322](http://arxiv.org/abs/2407.02322)|null|
-|**2024-07-02**|**Algorithm-independent bounds on complex optimization through the statistics of marginal optima**|Jaron Kent-Dobias et.al.|[2407.02092](http://arxiv.org/abs/2407.02092)|**[link](https://github.com/kentdobias/least_squares)**|
+|**2024-07-24**|**Algorithm-independent bounds on complex optimization through the statistics of marginal optima**|Jaron Kent-Dobias et.al.|[2407.02092](http://arxiv.org/abs/2407.02092)|**[link](https://github.com/kentdobias/least_squares)**|
 |**2024-07-02**|**Robust First and Second-Order Differentiation for Regularized Optimal Transport**|Xingjie Li et.al.|[2407.02015](http://arxiv.org/abs/2407.02015)|**[link](https://github.com/yexf308/OTT-Hessian)**|
 |**2024-07-01**|**Federated Binary Matrix Factorization using Proximal Optimization**|Sebastian Dalleiger et.al.|[2407.01776](http://arxiv.org/abs/2407.01776)|null|
 |**2024-07-01**|**Optimized Learning for X-Ray Image Classification for Multi-Class Disease Diagnoses with Accelerated Computing Strategies**|Sebastian A. Cruz Romero et.al.|[2407.01705](http://arxiv.org/abs/2407.01705)|null|
@@ -2321,7 +2321,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -2488,14 +2488,14 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Machine Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-07-23**|**Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning**|Xinwei Liu et.al.|[2407.16307](http://arxiv.org/abs/2407.16307)|null|
-|**2024-07-22**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
+|**2024-07-24**|**Sparks of Quantum Advantage and Rapid Retraining in Machine Learning**|William Troy et.al.|[2407.16020](http://arxiv.org/abs/2407.16020)|**[link](https://github.com/wtroy2/Quantum-KAN)**|
 |**2024-07-22**|**An Ad-hoc graph node vector embedding algorithm for general knowledge graphs using Kinetica-Graph**|B. Kaan Karamete et.al.|[2407.15906](http://arxiv.org/abs/2407.15906)|null|
 |**2024-07-22**|**SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time**|Stanislav Frolov et.al.|[2407.15507](http://arxiv.org/abs/2407.15507)|null|
 |**2024-07-22**|**PyJama: Differentiable Jamming and Anti-Jamming with NVIDIA Sionna**|Fabian Ulbricht et.al.|[2407.15473](http://arxiv.org/abs/2407.15473)|null|
@@ -2574,7 +2574,7 @@
 |**2024-07-02**|**Accelerating Distributed Optimization: A Primal-Dual Perspective on Local Steps**|Junchi Yang et.al.|[2407.02689](http://arxiv.org/abs/2407.02689)|null|
 |**2024-07-02**|**Stochastic Iterative Methods for Online Rank Aggregation from Pairwise Comparisons**|Benjamin Jarman et.al.|[2407.02656](http://arxiv.org/abs/2407.02656)|**[link](https://github.com/alexandersietsema/KaczRank)**|
 |**2024-07-02**|**Stochastic Differential Equations models for Least-Squares Stochastic Gradient Descent**|Adrien Schertzer et.al.|[2407.02322](http://arxiv.org/abs/2407.02322)|null|
-|**2024-07-02**|**Algorithm-independent bounds on complex optimization through the statistics of marginal optima**|Jaron Kent-Dobias et.al.|[2407.02092](http://arxiv.org/abs/2407.02092)|**[link](https://github.com/kentdobias/least_squares)**|
+|**2024-07-24**|**Algorithm-independent bounds on complex optimization through the statistics of marginal optima**|Jaron Kent-Dobias et.al.|[2407.02092](http://arxiv.org/abs/2407.02092)|**[link](https://github.com/kentdobias/least_squares)**|
 |**2024-07-02**|**Robust First and Second-Order Differentiation for Regularized Optimal Transport**|Xingjie Li et.al.|[2407.02015](http://arxiv.org/abs/2407.02015)|**[link](https://github.com/yexf308/OTT-Hessian)**|
 |**2024-07-01**|**Normalization and effective learning rates in reinforcement learning**|Clare Lyle et.al.|[2407.01800](http://arxiv.org/abs/2407.01800)|null|
 |**2024-07-01**|**Federated Binary Matrix Factorization using Proximal Optimization**|Sebastian Dalleiger et.al.|[2407.01776](http://arxiv.org/abs/2407.01776)|null|
@@ -3412,13 +3412,13 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Reinforcement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**From Imitation to Refinement -- Residual RL for Precise Visual Assembly**|Lars Ankile et.al.|[2407.16677](http://arxiv.org/abs/2407.16677)|null|
 |**2024-07-23**|**Efficient Discovery of Actual Causality using Abstraction-Refinement**|Arshia Rafieioskouei et.al.|[2407.16629](http://arxiv.org/abs/2407.16629)|null|
 |**2024-07-23**|**Functional Acceleration for Policy Mirror Descent**|Veronica Chelu et.al.|[2407.16602](http://arxiv.org/abs/2407.16602)|null|
@@ -6322,7 +6322,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
