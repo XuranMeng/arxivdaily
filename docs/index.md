@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -3528,7 +3528,7 @@ layout: default
 |**2024-07-21**|**Reinforcement Learning Optimizes Power Dispatch in Decentralized Power Grid**|Yongsun Lee et.al.|[2407.15165](http://arxiv.org/abs/2407.15165)|null|
 |**2024-07-21**|**Proximal Policy Distillation**|Giacomo Spigler et.al.|[2407.15134](http://arxiv.org/abs/2407.15134)|**[link](https://github.com/spiglerg/sb3_distill)**|
 |**2024-07-21**|**Rocket Landing Control with Random Annealing Jump Start Reinforcement Learning**|Yuxuan Jiang et.al.|[2407.15083](http://arxiv.org/abs/2407.15083)|null|
-|**2024-07-21**|**B2MAPO: A Batch-by-Batch Multi-Agent Policy Optimization to Balance Performance and Efficiency**|Wenjing Zhang et.al.|[2407.15077](http://arxiv.org/abs/2407.15077)|null|
+|**2024-07-29**|**B2MAPO: A Batch-by-Batch Multi-Agent Policy Optimization to Balance Performance and Efficiency**|Wenjing Zhang et.al.|[2407.15077](http://arxiv.org/abs/2407.15077)|null|
 |**2024-07-21**|**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**|Yi Liu et.al.|[2407.15050](http://arxiv.org/abs/2407.15050)|null|
 |**2024-07-20**|**POGEMA: A Benchmark Platform for Cooperative Multi-Agent Navigation**|Alexey Skrynnik et.al.|[2407.14931](http://arxiv.org/abs/2407.14931)|**[link](https://github.com/airi-institute/pogema)**|
 |**2024-07-20**|**Adapt2Reward: Adapting Video-Language Models to Generalizable Robotic Rewards via Failure Prompts**|Yanting Yang et.al.|[2407.14872](http://arxiv.org/abs/2407.14872)|null|
