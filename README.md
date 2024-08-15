@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -779,7 +779,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## Transformer
 
@@ -799,7 +799,7 @@
 |**2024-08-10**|**SAMSA: Efficient Transformer for Many Data Modalities**|Minh Lenhat et.al.|[2408.05391](http://arxiv.org/abs/2408.05391)|**[link](https://github.com/hysonlab/samsa)**|
 |**2024-08-09**|**SELD-Mamba: Selective State-Space Model for Sound Event Localization and Detection with Source Distance Estimation**|Da Mu et.al.|[2408.05057](http://arxiv.org/abs/2408.05057)|null|
 |**2024-08-08**|**Efficient Single Image Super-Resolution with Entropy Attention and Receptive Field Augmentation**|Xiaole Zhao et.al.|[2408.04158](http://arxiv.org/abs/2408.04158)|null|
-|**2024-08-09**|**Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters**|Vasudev Shyam et.al.|[2408.04093](http://arxiv.org/abs/2408.04093)|**[link](https://github.com/zyphra/tree_attention)**|
+|**2024-08-14**|**Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters**|Vasudev Shyam et.al.|[2408.04093](http://arxiv.org/abs/2408.04093)|**[link](https://github.com/zyphra/tree_attention)**|
 |**2024-08-07**|**Bi-Level Spatial and Channel-aware Transformer for Learned Image Compression**|Hamidreza Soltani et.al.|[2408.03842](http://arxiv.org/abs/2408.03842)|null|
 |**2024-08-07**|**CAS-ViT: Convolutional Additive Self-attention Vision Transformers for Efficient Mobile Applications**|Tianfang Zhang et.al.|[2408.03703](http://arxiv.org/abs/2408.03703)|**[link](https://github.com/tianfang-zhang/cas-vit)**|
 |**2024-08-07**|**Concept Conductor: Orchestrating Multiple Personalized Concepts in Text-to-Image Synthesis**|Zebin Yao et.al.|[2408.03632](http://arxiv.org/abs/2408.03632)|**[link](https://github.com/nihukat/concept-conductor)**|
@@ -822,7 +822,7 @@
 |**2024-08-02**|**Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks**|Daniel A. Serino et.al.|[2408.00985](http://arxiv.org/abs/2408.00985)|null|
 |**2024-08-01**|**A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage**|Caiwen Jiang et.al.|[2408.00940](http://arxiv.org/abs/2408.00940)|null|
 |**2024-08-01**|**Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention**|Susung Hong et.al.|[2408.00760](http://arxiv.org/abs/2408.00760)|null|
-|**2024-08-07**|**SentenceVAE: Enable Next-sentence Prediction for Large Language Models with Faster Speed, Higher Accuracy and Longer Context**|Hongjun An et.al.|[2408.00655](http://arxiv.org/abs/2408.00655)|null|
+|**2024-08-14**|**SentenceVAE: Enable Next-sentence Prediction for Large Language Models with Faster Speed, Higher Accuracy and Longer Context**|Hongjun An et.al.|[2408.00655](http://arxiv.org/abs/2408.00655)|null|
 |**2024-08-01**|**A deep spatio-temporal attention model of dynamic functional network connectivity shows sensitivity to Alzheimer's in asymptomatic individuals**|Yuxiang Wei et.al.|[2408.00378](http://arxiv.org/abs/2408.00378)|null|
 |**2024-08-01**|**Advancing Medical Image Segmentation: Morphology-Driven Learning with Diffusion Transformer**|Sungmin Kang et.al.|[2408.00347](http://arxiv.org/abs/2408.00347)|null|
 |**2024-08-01**|**Task-Adapter: Task-specific Adaptation of Image Models for Few-shot Action Recognition**|Congqi Cao et.al.|[2408.00249](http://arxiv.org/abs/2408.00249)|null|
@@ -1605,7 +1605,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## Optimization
 
@@ -2494,7 +2494,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -2663,7 +2663,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3643,7 +3643,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -6796,7 +6796,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240815>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
