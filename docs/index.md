@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -20,7 +20,7 @@ layout: default
 |**2024-08-23**|**Investigating LLM Applications in E-Commerce**|Chester Palen-Michel et.al.|[2408.12779](http://arxiv.org/abs/2408.12779)|null|
 |**2024-08-22**|**Interactive DualChecker for Mitigating Hallucinations in Distilling Large Language Models**|Meiyun Wang et.al.|[2408.12326](http://arxiv.org/abs/2408.12326)|**[link](https://github.com/kirawang23/dualchecker)**|
 |**2024-08-22**|**Transformers are Minimax Optimal Nonparametric In-Context Learners**|Juno Kim et.al.|[2408.12186](http://arxiv.org/abs/2408.12186)|null|
-|**2024-08-22**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095](http://arxiv.org/abs/2408.12095)|null|
+|**2024-08-26**|**uMedSum: A Unified Framework for Advancing Medical Abstractive Summarization**|Aishik Nagar et.al.|[2408.12095](http://arxiv.org/abs/2408.12095)|null|
 |**2024-08-22**|**Evidence-backed Fact Checking using RAG and Few-Shot In-Context Learning with LLMs**|Ronit Singhal et.al.|[2408.12060](http://arxiv.org/abs/2408.12060)|null|
 |**2024-08-14**|**Fast Training Dataset Attribution via In-Context Learning**|Milad Fotouhi et.al.|[2408.11852](http://arxiv.org/abs/2408.11852)|null|
 |**2024-08-21**|**Memorization In In-Context Learning**|Shahriar Golchin et.al.|[2408.11546](http://arxiv.org/abs/2408.11546)|null|
@@ -865,7 +865,7 @@ layout: default
 |**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827](http://arxiv.org/abs/2408.01827)|**[link](https://github.com/41enthusiast/ST-SACLF-ver1.1)**|
 |**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
 |**2024-08-23**|**Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01372](http://arxiv.org/abs/2408.01372)|null|
-|**2024-08-23**|**Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01224](http://arxiv.org/abs/2408.01224)|null|
+|**2024-08-26**|**Multi-head Spatial-Spectral Mamba for Hyperspectral Image Classification**|Muhammad Ahmad et.al.|[2408.01224](http://arxiv.org/abs/2408.01224)|null|
 |**2024-08-02**|**An Efficient and Effective Transformer Decoder-Based Framework for Multi-Task Visual Grounding**|Wei Chen et.al.|[2408.01120](http://arxiv.org/abs/2408.01120)|**[link](https://github.com/chenwei746/eevg)**|
 |**2024-08-02**|**Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks**|Daniel A. Serino et.al.|[2408.00985](http://arxiv.org/abs/2408.00985)|null|
 |**2024-08-01**|**A dual-task mutual learning framework for predicting post-thrombectomy cerebral hemorrhage**|Caiwen Jiang et.al.|[2408.00940](http://arxiv.org/abs/2408.00940)|null|
@@ -889,7 +889,7 @@ layout: default
 |**2024-07-27**|**AResNet-ViT: A Hybrid CNN-Transformer Network for Benign and Malignant Breast Nodule Classification in Ultrasound Images**|Xin Zhao et.al.|[2407.19316](http://arxiv.org/abs/2407.19316)|null|
 |**2024-07-26**|**Dilated Strip Attention Network for Image Restoration**|Fangwei Hao et.al.|[2407.18613](http://arxiv.org/abs/2407.18613)|null|
 |**2024-07-26**|**Learning Robust Named Entity Recognizers From Noisy Data With Retrieval Augmentation**|Chaoyi Ai et.al.|[2407.18562](http://arxiv.org/abs/2407.18562)|null|
-|**2024-07-26**|**Skin Cancer Detection utilizing Deep Learning: Classification of Skin Lesion Images using a Vision Transformer**|Carolin Flosdorf et.al.|[2407.18554](http://arxiv.org/abs/2407.18554)|null|
+|**2024-08-25**|**Skin Cancer Detection utilizing Deep Learning: Classification of Skin Lesion Images using a Vision Transformer**|Carolin Flosdorf et.al.|[2407.18554](http://arxiv.org/abs/2407.18554)|null|
 |**2024-08-12**|**CSWin-UNet: Transformer UNet with Cross-Shaped Windows for Medical Image Segmentation**|Xiao Liu et.al.|[2407.18070](http://arxiv.org/abs/2407.18070)|null|
 |**2024-07-25**|**EllipBench: A Large-scale Benchmark for Machine-learning based Ellipsometry Modeling**|Yiming Ma et.al.|[2407.17869](http://arxiv.org/abs/2407.17869)|null|
 |**2024-07-25**|**Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing**|Pengfei Jiang et.al.|[2407.17847](http://arxiv.org/abs/2407.17847)|**[link](https://github.com/mobiushy/move-act)**|
@@ -1679,7 +1679,7 @@ layout: default
 |**2024-08-15**|**Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation**|Chenyu Zhang et.al.|[2408.08192](http://arxiv.org/abs/2408.08192)|null|
 |**2024-08-15**|**General single-loop methods for bilevel parameter learning**|Ensio Suonperä et.al.|[2408.08123](http://arxiv.org/abs/2408.08123)|null|
 |**2024-08-14**|**Learning Decisions Offline from Censored Observations with ε-insensitive Operational Costs**|Minxia Chen et.al.|[2408.07305](http://arxiv.org/abs/2408.07305)|null|
-|**2024-08-13**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
+|**2024-08-26**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
 |**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
 |**2024-08-13**|**Information Geometry and Beta Link for Optimizing Sparse Variational Student-t Processes**|Jian Xu et.al.|[2408.06699](http://arxiv.org/abs/2408.06699)|null|
 |**2024-08-12**|**Kernel Sum of Squares for Data Adapted Kernel Learning of Dynamical Systems from Data: A global optimization approach**|Daniel Lengyel et.al.|[2408.06465](http://arxiv.org/abs/2408.06465)|null|
@@ -1717,7 +1717,7 @@ layout: default
 |**2024-07-29**|**Enhancing Adversarial Text Attacks on BERT Models with Projected Gradient Descent**|Hetvi Waghela et.al.|[2407.21073](http://arxiv.org/abs/2407.21073)|null|
 |**2024-07-30**|**An Effective Dynamic Gradient Calibration Method for Continual Learning**|Weichen Lin et.al.|[2407.20956](http://arxiv.org/abs/2407.20956)|null|
 |**2024-07-30**|**An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming**|Wenhai Lai et.al.|[2407.20914](http://arxiv.org/abs/2407.20914)|null|
-|**2024-07-30**|**Bayesian Low-Rank LeArning (Bella): A Practical Approach to Bayesian Neural Networks**|Bao Gia Doan et.al.|[2407.20891](http://arxiv.org/abs/2407.20891)|null|
+|**2024-08-25**|**Bayesian Low-Rank LeArning (Bella): A Practical Approach to Bayesian Neural Networks**|Bao Gia Doan et.al.|[2407.20891](http://arxiv.org/abs/2407.20891)|null|
 |**2024-07-30**|**No learning rates needed: Introducing SALSA -- Stable Armijo Line Search Adaptation**|Philip Kenneweg et.al.|[2407.20650](http://arxiv.org/abs/2407.20650)|**[link](https://github.com/themody/no-learning-rates-needed-introducing-salsa-stable-armijo-line-search-adaptation)**|
 |**2024-07-29**|**Optimizing Variational Physics-Informed Neural Networks Using Least Squares**|Carlos Uriarte et.al.|[2407.20417](http://arxiv.org/abs/2407.20417)|null|
 |**2024-07-29**|**Characterizing Dynamical Stability of Stochastic Gradient Descent in Overparameterized Learning**|Dennis Chemnitz et.al.|[2407.20209](http://arxiv.org/abs/2407.20209)|null|
@@ -2762,7 +2762,7 @@ layout: default
 |**2024-08-15**|**Stochastic Semi-Gradient Descent for Learning Mean Field Games with Population-Aware Function Approximation**|Chenyu Zhang et.al.|[2408.08192](http://arxiv.org/abs/2408.08192)|null|
 |**2024-08-15**|**General single-loop methods for bilevel parameter learning**|Ensio Suonperä et.al.|[2408.08123](http://arxiv.org/abs/2408.08123)|null|
 |**2024-08-14**|**Learning Decisions Offline from Censored Observations with ε-insensitive Operational Costs**|Minxia Chen et.al.|[2408.07305](http://arxiv.org/abs/2408.07305)|null|
-|**2024-08-13**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
+|**2024-08-26**|**Decision-Focused Learning to Predict Action Costs for Planning**|Jayanta Mandi et.al.|[2408.06876](http://arxiv.org/abs/2408.06876)|null|
 |**2024-08-13**|**Efficient Search for Customized Activation Functions with Gradient Descent**|Lukas Strack et.al.|[2408.06820](http://arxiv.org/abs/2408.06820)|**[link](https://github.com/automl/grafs)**|
 |**2024-08-13**|**Information Geometry and Beta Link for Optimizing Sparse Variational Student-t Processes**|Jian Xu et.al.|[2408.06699](http://arxiv.org/abs/2408.06699)|null|
 |**2024-08-12**|**Kernel Sum of Squares for Data Adapted Kernel Learning of Dynamical Systems from Data: A global optimization approach**|Daniel Lengyel et.al.|[2408.06465](http://arxiv.org/abs/2408.06465)|null|
@@ -2802,7 +2802,7 @@ layout: default
 |**2024-07-29**|**Enhancing Adversarial Text Attacks on BERT Models with Projected Gradient Descent**|Hetvi Waghela et.al.|[2407.21073](http://arxiv.org/abs/2407.21073)|null|
 |**2024-07-30**|**An Effective Dynamic Gradient Calibration Method for Continual Learning**|Weichen Lin et.al.|[2407.20956](http://arxiv.org/abs/2407.20956)|null|
 |**2024-07-30**|**An Efficient Convex-Hull Relaxation Based Algorithm for Multi-User Discrete Passive Beamforming**|Wenhai Lai et.al.|[2407.20914](http://arxiv.org/abs/2407.20914)|null|
-|**2024-07-30**|**Bayesian Low-Rank LeArning (Bella): A Practical Approach to Bayesian Neural Networks**|Bao Gia Doan et.al.|[2407.20891](http://arxiv.org/abs/2407.20891)|null|
+|**2024-08-25**|**Bayesian Low-Rank LeArning (Bella): A Practical Approach to Bayesian Neural Networks**|Bao Gia Doan et.al.|[2407.20891](http://arxiv.org/abs/2407.20891)|null|
 |**2024-07-30**|**Exploring Loss Landscapes through the Lens of Spin Glass Theory**|Hao Liao et.al.|[2407.20724](http://arxiv.org/abs/2407.20724)|null|
 |**2024-07-30**|**No learning rates needed: Introducing SALSA -- Stable Armijo Line Search Adaptation**|Philip Kenneweg et.al.|[2407.20650](http://arxiv.org/abs/2407.20650)|**[link](https://github.com/themody/no-learning-rates-needed-introducing-salsa-stable-armijo-line-search-adaptation)**|
 |**2024-07-29**|**Optimizing Variational Physics-Informed Neural Networks Using Least Squares**|Carlos Uriarte et.al.|[2407.20417](http://arxiv.org/abs/2407.20417)|null|
@@ -3770,7 +3770,7 @@ layout: default
 |**2024-08-22**|**Query-Efficient Video Adversarial Attack with Stylized Logo**|Duoxun Tang et.al.|[2408.12099](http://arxiv.org/abs/2408.12099)|null|
 |**2024-08-22**|**Distributed Noncoherent Joint Transmission Based on Multi-Agent Reinforcement Learning for Dense Small Cell MISO Systems**|Shaozhuang Bai et.al.|[2408.12067](http://arxiv.org/abs/2408.12067)|null|
 |**2024-08-21**|**Empirical Equilibria in Agent-based Economic systems with Learning agents**|Kshama Dwarakanath et.al.|[2408.12038](http://arxiv.org/abs/2408.12038)|null|
-|**2024-08-21**|**Controlling nonergodicity in quantum many-body systems by reinforcement learning**|Li-Li Ye et.al.|[2408.11989](http://arxiv.org/abs/2408.11989)|null|
+|**2024-08-21**|**Controlling nonergodicity in quantum many-body systems by reinforcement learning**|Li-Li Ye et.al.|[2408.11989](http://arxiv.org/abs/2408.11989)|**[link](https://github.com/liliyequantum/nonergodicityRL)**|
 |**2024-08-21**|**Advances in Preference-based Reinforcement Learning: A Review**|Youssef Abdelkareem et.al.|[2408.11943](http://arxiv.org/abs/2408.11943)|null|
 |**2024-08-16**|**Gradient Reduction Convolutional Neural Network Policy for Financial Deep Reinforcement Learning**|Sina Montazeri et.al.|[2408.11859](http://arxiv.org/abs/2408.11859)|null|
 |**2024-08-21**|**Efficient Exploration and Discriminative World Model Learning with an Object-Centric Abstraction**|Anthony GX-Chen et.al.|[2408.11816](http://arxiv.org/abs/2408.11816)|null|
