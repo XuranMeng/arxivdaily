@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -104,7 +104,7 @@ layout: default
 |**2024-08-10**|**In-Context Exploiter for Extensive-Form Games**|Shuxin Li et.al.|[2408.05575](http://arxiv.org/abs/2408.05575)|null|
 |**2024-08-10**|**Large Language Model-based Role-Playing for Personalized Medical Jargon Extraction**|Jung Hoon Lim et.al.|[2408.05555](http://arxiv.org/abs/2408.05555)|null|
 |**2024-08-10**|**LaiDA: Linguistics-aware In-context Learning with Data Augmentation for Metaphor Components Identification**|Hongde Liu et.al.|[2408.05404](http://arxiv.org/abs/2408.05404)|**[link](https://github.com/wxljz/laida)**|
-|**2024-08-09**|**SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2408.04872](http://arxiv.org/abs/2408.04872)|null|
+|**2024-09-25**|**SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2408.04872](http://arxiv.org/abs/2408.04872)|null|
 |**2024-08-06**|**LLM-based MOFs Synthesis Condition Extraction using Few-Shot Demonstrations**|Lei Shi et.al.|[2408.04665](http://arxiv.org/abs/2408.04665)|null|
 |**2024-07-31**|**GPT-3 Powered Information Extraction for Building Robust Knowledge Bases**|Ritabrata Roy Choudhury et.al.|[2408.04641](http://arxiv.org/abs/2408.04641)|null|
 |**2024-07-30**|**Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective**|Yiqun Zhang et.al.|[2408.04638](http://arxiv.org/abs/2408.04638)|null|
@@ -863,7 +863,7 @@ layout: default
 |**2024-09-18**|**Agent Aggregator with Mask Denoise Mechanism for Histopathology Whole Slide Image Analysis**|Xitong Ling et.al.|[2409.11664](http://arxiv.org/abs/2409.11664)|null|
 |**2024-09-17**|**A Framework for Ranking Content Providers Using Prompt Engineering and Self-Attention Network**|Gosuddin Kamaruddin Siddiqi et.al.|[2409.11511](http://arxiv.org/abs/2409.11511)|null|
 |**2024-09-17**|**A short trajectory is all you need: A transformer-based model for long-time dissipative quantum dynamics**|Luis E. Herrera Rodríguez et.al.|[2409.11320](http://arxiv.org/abs/2409.11320)|null|
-|**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
+|**2024-09-25**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
 |**2024-09-17**|**Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction**|Erwin D. López Z. et.al.|[2409.10907](http://arxiv.org/abs/2409.10907)|**[link](https://github.com/EruM16/Attention-Seeker)**|
 |**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882](http://arxiv.org/abs/2409.10882)|null|
 |**2024-09-16**|**Self-Attention Limits Working Memory Capacity of Transformer-Based Models**|Dongyu Gong et.al.|[2409.10715](http://arxiv.org/abs/2409.10715)|null|
@@ -955,7 +955,7 @@ layout: default
 |**2024-08-22**|**Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach**|Zecheng Zhang et.al.|[2408.12129](http://arxiv.org/abs/2408.12129)|null|
 |**2024-09-09**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
 |**2024-08-21**|**Interpretable Long-term Action Quality Assessment**|Xu Dong et.al.|[2408.11687](http://arxiv.org/abs/2408.11687)|**[link](https://github.com/dx199771/interpretability-aqa)**|
-|**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
+|**2024-09-25**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
 |**2024-08-21**|**TrackGo: A Flexible and Efficient Method for Controllable Video Generation**|Haitao Zhou et.al.|[2408.11475](http://arxiv.org/abs/2408.11475)|null|
 |**2024-09-07**|**HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation**|Mingya Zhang et.al.|[2408.11289](http://arxiv.org/abs/2408.11289)|**[link](https://github.com/simzhangbest/hmt-unet)**|
 |**2024-09-01**|**Harmonizing Attention: Training-free Texture-aware Geometry Transfer**|Eito Ikuta et.al.|[2408.10846](http://arxiv.org/abs/2408.10846)|null|

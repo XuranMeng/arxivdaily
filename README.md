@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -112,7 +112,7 @@
 |**2024-08-10**|**In-Context Exploiter for Extensive-Form Games**|Shuxin Li et.al.|[2408.05575](http://arxiv.org/abs/2408.05575)|null|
 |**2024-08-10**|**Large Language Model-based Role-Playing for Personalized Medical Jargon Extraction**|Jung Hoon Lim et.al.|[2408.05555](http://arxiv.org/abs/2408.05555)|null|
 |**2024-08-10**|**LaiDA: Linguistics-aware In-context Learning with Data Augmentation for Metaphor Components Identification**|Hongde Liu et.al.|[2408.05404](http://arxiv.org/abs/2408.05404)|**[link](https://github.com/wxljz/laida)**|
-|**2024-08-09**|**SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2408.04872](http://arxiv.org/abs/2408.04872)|null|
+|**2024-09-25**|**SCOI: Syntax-augmented Coverage-based In-context Example Selection for Machine Translation**|Chenming Tang et.al.|[2408.04872](http://arxiv.org/abs/2408.04872)|null|
 |**2024-08-06**|**LLM-based MOFs Synthesis Condition Extraction using Few-Shot Demonstrations**|Lei Shi et.al.|[2408.04665](http://arxiv.org/abs/2408.04665)|null|
 |**2024-07-31**|**GPT-3 Powered Information Extraction for Building Robust Knowledge Bases**|Ritabrata Roy Choudhury et.al.|[2408.04641](http://arxiv.org/abs/2408.04641)|null|
 |**2024-07-30**|**Affective Computing in the Era of Large Language Models: A Survey from the NLP Perspective**|Yiqun Zhang et.al.|[2408.04638](http://arxiv.org/abs/2408.04638)|null|
@@ -861,7 +861,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Transformer
 
@@ -873,7 +873,7 @@
 |**2024-09-18**|**Agent Aggregator with Mask Denoise Mechanism for Histopathology Whole Slide Image Analysis**|Xitong Ling et.al.|[2409.11664](http://arxiv.org/abs/2409.11664)|null|
 |**2024-09-17**|**A Framework for Ranking Content Providers Using Prompt Engineering and Self-Attention Network**|Gosuddin Kamaruddin Siddiqi et.al.|[2409.11511](http://arxiv.org/abs/2409.11511)|null|
 |**2024-09-17**|**A short trajectory is all you need: A transformer-based model for long-time dissipative quantum dynamics**|Luis E. Herrera Rodríguez et.al.|[2409.11320](http://arxiv.org/abs/2409.11320)|null|
-|**2024-09-18**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
+|**2024-09-25**|**GEIC: Universal and Multilingual Named Entity Recognition with Large Language Models**|Hanjun Luo et.al.|[2409.11022](http://arxiv.org/abs/2409.11022)|null|
 |**2024-09-17**|**Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction**|Erwin D. López Z. et.al.|[2409.10907](http://arxiv.org/abs/2409.10907)|**[link](https://github.com/EruM16/Attention-Seeker)**|
 |**2024-09-17**|**Spatio-Temporal-Network Point Processes for Modeling Crime Events with Landmarks**|Zheng Dong et.al.|[2409.10882](http://arxiv.org/abs/2409.10882)|null|
 |**2024-09-16**|**Self-Attention Limits Working Memory Capacity of Transformer-Based Models**|Dongyu Gong et.al.|[2409.10715](http://arxiv.org/abs/2409.10715)|null|
@@ -965,7 +965,7 @@
 |**2024-08-22**|**Deep Analysis of Time Series Data for Smart Grid Startup Strategies: A Transformer-LSTM-PSO Model Approach**|Zecheng Zhang et.al.|[2408.12129](http://arxiv.org/abs/2408.12129)|null|
 |**2024-09-09**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
 |**2024-08-21**|**Interpretable Long-term Action Quality Assessment**|Xu Dong et.al.|[2408.11687](http://arxiv.org/abs/2408.11687)|**[link](https://github.com/dx199771/interpretability-aqa)**|
-|**2024-08-21**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
+|**2024-09-25**|**OAPT: Offset-Aware Partition Transformer for Double JPEG Artifacts Removal**|Qiao Mo et.al.|[2408.11480](http://arxiv.org/abs/2408.11480)|**[link](https://github.com/qmoq/oapt)**|
 |**2024-08-21**|**TrackGo: A Flexible and Efficient Method for Controllable Video Generation**|Haitao Zhou et.al.|[2408.11475](http://arxiv.org/abs/2408.11475)|null|
 |**2024-09-07**|**HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation**|Mingya Zhang et.al.|[2408.11289](http://arxiv.org/abs/2408.11289)|**[link](https://github.com/simzhangbest/hmt-unet)**|
 |**2024-09-01**|**Harmonizing Attention: Training-free Texture-aware Geometry Transfer**|Eito Ikuta et.al.|[2408.10846](http://arxiv.org/abs/2408.10846)|null|
@@ -1810,7 +1810,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Optimization
 
@@ -2815,7 +2815,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -2993,7 +2993,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -4099,7 +4099,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -7730,7 +7730,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
