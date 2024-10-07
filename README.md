@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.06
+## Updated on 2024.10.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,8 +23,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
-|**2024-10-03**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429](http://arxiv.org/abs/2410.02429)|null|
-|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-04**|**IoT-LLM: Enhancing Real-World IoT Task Reasoning with Large Language Models**|Tuo An et.al.|[2410.02429](http://arxiv.org/abs/2410.02429)|null|
+|**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
 |**2024-10-03**|**Simplicity bias and optimization threshold in two-layer ReLU networks**|Etienne Boursier et.al.|[2410.02348](http://arxiv.org/abs/2410.02348)|null|
 |**2024-10-03**|**Calibrate to Discriminate: Improve In-Context Learning with Label-Free Comparative Inference**|Wei Cheng et.al.|[2410.02210](http://arxiv.org/abs/2410.02210)|null|
 |**2024-10-03**|**GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning**|Jiale Fu et.al.|[2410.02203](http://arxiv.org/abs/2410.02203)|null|
@@ -922,14 +922,14 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Transformer
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-03**|**Event-Customized Image Generation**|Zhen Wang et.al.|[2410.02483](http://arxiv.org/abs/2410.02483)|null|
-|**2024-10-03**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
+|**2024-10-04**|**Unleashing the Potential of the Diffusion Model in Few-shot Semantic Segmentation**|Muzhi Zhu et.al.|[2410.02369](http://arxiv.org/abs/2410.02369)|null|
 |**2024-10-01**|**Recovering Time-Varying Networks From Single-Cell Data**|Euxhen Hasanaj et.al.|[2410.01853](http://arxiv.org/abs/2410.01853)|null|
 |**2024-10-02**|**Attention layers provably solve single-location regression**|Pierre Marion et.al.|[2410.01537](http://arxiv.org/abs/2410.01537)|**[link](https://github.com/pierremarion23/single-location-regression)**|
 |**2024-10-02**|**Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample**|Zhiwen Shao et.al.|[2410.01251](http://arxiv.org/abs/2410.01251)|null|
@@ -1928,7 +1928,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Optimization
 
@@ -1946,7 +1946,7 @@
 |**2024-10-02**|**NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings via Neural Tangent Kernel**|Gabriel Thompson et.al.|[2410.01922](http://arxiv.org/abs/2410.01922)|null|
 |**2024-10-02**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779](http://arxiv.org/abs/2410.01779)|null|
 |**2024-10-02**|**Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context**|Spencer Frei et.al.|[2410.01774](http://arxiv.org/abs/2410.01774)|null|
-|**2024-10-02**|**Truncated Kernel Stochastic Gradient Descent on Spheres**|JinHui Bai et.al.|[2410.01570](http://arxiv.org/abs/2410.01570)|null|
+|**2024-10-04**|**Truncated Kernel Stochastic Gradient Descent on Spheres**|JinHui Bai et.al.|[2410.01570](http://arxiv.org/abs/2410.01570)|null|
 |**2024-10-02**|**Stochastic Gradient Descent with Adaptive Data**|Ethan Che et.al.|[2410.01195](http://arxiv.org/abs/2410.01195)|null|
 |**2024-10-02**|**A simple linear convergence analysis of the reshuffling Kaczmarz method**|Deren Han et.al.|[2410.01140](http://arxiv.org/abs/2410.01140)|null|
 |**2024-10-01**|**An Intrinsically Knowledge-Transferring Developmental Spiking Neural Network for Tactile Classification**|Jiaqi Xing et.al.|[2410.00745](http://arxiv.org/abs/2410.00745)|null|
@@ -2993,7 +2993,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3178,7 +3178,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3196,7 +3196,7 @@
 |**2024-10-02**|**NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings via Neural Tangent Kernel**|Gabriel Thompson et.al.|[2410.01922](http://arxiv.org/abs/2410.01922)|null|
 |**2024-10-02**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779](http://arxiv.org/abs/2410.01779)|null|
 |**2024-10-02**|**Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context**|Spencer Frei et.al.|[2410.01774](http://arxiv.org/abs/2410.01774)|null|
-|**2024-10-02**|**Truncated Kernel Stochastic Gradient Descent on Spheres**|JinHui Bai et.al.|[2410.01570](http://arxiv.org/abs/2410.01570)|null|
+|**2024-10-04**|**Truncated Kernel Stochastic Gradient Descent on Spheres**|JinHui Bai et.al.|[2410.01570](http://arxiv.org/abs/2410.01570)|null|
 |**2024-10-02**|**Reducing Variance in Meta-Learning via Laplace Approximation for Regression Tasks**|Alfredo Reichlin et.al.|[2410.01476](http://arxiv.org/abs/2410.01476)|null|
 |**2024-10-02**|**Stochastic Gradient Descent with Adaptive Data**|Ethan Che et.al.|[2410.01195](http://arxiv.org/abs/2410.01195)|null|
 |**2024-10-02**|**A simple linear convergence analysis of the reshuffling Kaczmarz method**|Deren Han et.al.|[2410.01140](http://arxiv.org/abs/2410.01140)|null|
@@ -4352,7 +4352,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -4396,7 +4396,7 @@
 |**2024-10-02**|**Investigating on RLHF methodology**|Alexey Kutalev et.al.|[2410.01789](http://arxiv.org/abs/2410.01789)|null|
 |**2024-10-02**|**Social coordination perpetuates stereotypic expectations and behaviors across generations in deep multi-agent reinforcement learning**|Rebekah A. Gelpí et.al.|[2410.01763](http://arxiv.org/abs/2410.01763)|null|
 |**2024-10-02**|**PreND: Enhancing Intrinsic Motivation in Reinforcement Learning through Pre-trained Network Distillation**|Mohammadamin Davoodabadi et.al.|[2410.01745](http://arxiv.org/abs/2410.01745)|null|
-|**2024-10-02**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739](http://arxiv.org/abs/2410.01739)|null|
+|**2024-10-03**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739](http://arxiv.org/abs/2410.01739)|null|
 |**2024-10-02**|**Evaluating Robustness of Reward Models for Mathematical Reasoning**|Sunghwan Kim et.al.|[2410.01729](http://arxiv.org/abs/2410.01729)|null|
 |**2024-10-02**|**Performant, Memory Efficient and Scalable Multi-Agent Reinforcement Learning**|Omayma Mahjoub et.al.|[2410.01706](http://arxiv.org/abs/2410.01706)|null|
 |**2024-10-02**|**VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment**|Amirhossein Kazemnejad et.al.|[2410.01679](http://arxiv.org/abs/2410.01679)|**[link](https://github.com/mcgill-nlp/vineppo)**|
@@ -8241,7 +8241,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
