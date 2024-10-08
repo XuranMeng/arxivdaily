@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2024-10-03**|**Simplicity bias and optimization threshold in two-layer ReLU networks**|Etienne Boursier et.al.|[2410.02348](http://arxiv.org/abs/2410.02348)|null|
 |**2024-10-03**|**Calibrate to Discriminate: Improve In-Context Learning with Label-Free Comparative Inference**|Wei Cheng et.al.|[2410.02210](http://arxiv.org/abs/2410.02210)|null|
 |**2024-10-03**|**GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning**|Jiale Fu et.al.|[2410.02203](http://arxiv.org/abs/2410.02203)|null|
-|**2024-10-03**|**Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis**|Hongkang Li et.al.|[2410.02167](http://arxiv.org/abs/2410.02167)|null|
+|**2024-10-05**|**Training Nonlinear Transformers for Chain-of-Thought Inference: A Theoretical Generalization Analysis**|Hongkang Li et.al.|[2410.02167](http://arxiv.org/abs/2410.02167)|null|
 |**2024-10-02**|**Long-range gene expression prediction with token alignment of large language model**|Edouardo Honig et.al.|[2410.01858](http://arxiv.org/abs/2410.01858)|null|
 |**2024-10-02**|**Intent Detection in the Age of LLMs**|Gaurav Arora et.al.|[2410.01627](http://arxiv.org/abs/2410.01627)|null|
 |**2024-10-02**|**ENTP: Encoder-only Next Token Prediction**|Ethan Ewer et.al.|[2410.01600](http://arxiv.org/abs/2410.01600)|null|
@@ -86,7 +86,7 @@
 |**2024-09-16**|**Do Large Language Models Need a Content Delivery Network?**|Yihua Cheng et.al.|[2409.13761](http://arxiv.org/abs/2409.13761)|**[link](https://github.com/lmcache/lmcache)**|
 |**2024-09-09**|**Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts**|Anna Mészáros et.al.|[2409.13728](http://arxiv.org/abs/2409.13728)|**[link](https://github.com/meszarosanna/rule_extrapolation)**|
 |**2024-09-20**|**Skill-Adpative Imitation Learning for UI Test Reuse**|Mengzhou Wu et.al.|[2409.13311](http://arxiv.org/abs/2409.13311)|null|
-|**2024-09-23**|**FoodPuzzle: Developing Large Language Model Agents as Flavor Scientists**|Tenghao Huang et.al.|[2409.12832](http://arxiv.org/abs/2409.12832)|null|
+|**2024-10-07**|**FoodPuzzle: Developing Large Language Model Agents as Flavor Scientists**|Tenghao Huang et.al.|[2409.12832](http://arxiv.org/abs/2409.12832)|null|
 |**2024-09-19**|**Exploring Large Language Models for Product Attribute Value Identification**|Kassem Sabeh et.al.|[2409.12695](http://arxiv.org/abs/2409.12695)|null|
 |**2024-09-19**|**Zero-to-Strong Generalization: Eliciting Strong Capabilities of Large Language Models Iteratively without Gold Labels**|Chaoqun Liu et.al.|[2409.12425](http://arxiv.org/abs/2409.12425)|null|
 |**2024-09-18**|**Provable In-Context Learning of Linear Systems and Linear Elliptic PDEs with Transformers**|Frank Cole et.al.|[2409.12293](http://arxiv.org/abs/2409.12293)|null|
@@ -931,7 +931,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## Transformer
 
@@ -984,7 +984,7 @@
 |**2024-09-23**|**RoWSFormer: A Robust Watermarking Framework with Swin Transformer for Enhanced Geometric Attack Resilience**|Weitong Chen et.al.|[2409.14829](http://arxiv.org/abs/2409.14829)|null|
 |**2024-09-23**|**Phantom of Latent for Large Language and Vision Models**|Byung-Kwan Lee et.al.|[2409.14713](http://arxiv.org/abs/2409.14713)|**[link](https://github.com/byungkwanlee/phantom)**|
 |**2024-09-22**|**SOS: Segment Object System for Open-World Instance Segmentation With Object Priors**|Christian Wilms et.al.|[2409.14627](http://arxiv.org/abs/2409.14627)|**[link](https://github.com/chwilms/sos)**|
-|**2024-09-27**|**Self-Attention Assistant Classification of non-Hermitian Topological Phases**|Hengxuan Jiang et.al.|[2409.14453](http://arxiv.org/abs/2409.14453)|null|
+|**2024-10-06**|**Self-Attention Assistant Classification of non-Hermitian Topological Phases**|Hengxuan Jiang et.al.|[2409.14453](http://arxiv.org/abs/2409.14453)|null|
 |**2024-09-27**|**Sparse Low-Ranked Self-Attention Transformer for Remaining Useful Lifetime Prediction of Optical Fiber Amplifiers**|Dominic Schneider et.al.|[2409.14378](http://arxiv.org/abs/2409.14378)|null|
 |**2024-09-21**|**Probing Context Localization of Polysemous Words in Pre-trained Language Model Sub-Layers**|Soniya Vijayakumar et.al.|[2409.14097](http://arxiv.org/abs/2409.14097)|null|
 |**2024-09-21**|**FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs**|Ehsan Kabir et.al.|[2409.14023](http://arxiv.org/abs/2409.14023)|null|
@@ -1940,7 +1940,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## Optimization
 
@@ -1951,7 +1951,7 @@
 |**2024-10-03**|**Estimating Generalization Performance Along the Trajectory of Proximal SGD in Robust Regression**|Kai Tan et.al.|[2410.02629](http://arxiv.org/abs/2410.02629)|null|
 |**2024-10-03**|**Sample-Optimal Quantum State Tomography for Structured Quantum States in One Dimension**|Zhen Qin et.al.|[2410.02583](http://arxiv.org/abs/2410.02583)|null|
 |**2024-10-03**|**Learning K-U-Net with constant complexity: An Application to time series forecasting**|Jiang You et.al.|[2410.02438](http://arxiv.org/abs/2410.02438)|null|
-|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|**[link](https://github.com/annegnx/PnP-Flow)**|
 |**2024-10-03**|**Towards Better Generalization: Weight Decay Induces Low-rank Bias for Neural Networks**|Ke Chen et.al.|[2410.02176](http://arxiv.org/abs/2410.02176)|null|
 |**2024-10-03**|**Universality in Transfer Learning for Linear Models**|Reza Ghane et.al.|[2410.02164](http://arxiv.org/abs/2410.02164)|null|
 |**2024-10-02**|**Fast and Sample Efficient Multi-Task Representation Learning in Stochastic Contextual Bandits**|Jiabin Lin et.al.|[2410.02068](http://arxiv.org/abs/2410.02068)|null|
@@ -3007,7 +3007,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3052,7 +3052,7 @@
 |**2024-07-17**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596](http://arxiv.org/abs/2406.04596)|**[link](https://github.com/RenpuLiu/flute)**|
 |**2024-06-04**|**Symmetric Kernels with Non-Symmetric Data: A Data-Agnostic Learnability Bound**|Itay Lavie et.al.|[2406.02663](http://arxiv.org/abs/2406.02663)|null|
 |**2024-06-03**|**Model for Peanuts: Hijacking ML Models without Training Access is Possible**|Mahmoud Ghorbel et.al.|[2406.01708](http://arxiv.org/abs/2406.01708)|null|
-|**2024-05-31**|**Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation**|Fengdi Che et.al.|[2405.21043](http://arxiv.org/abs/2405.21043)|null|
+|**2024-10-04**|**Target Networks and Over-parameterization Stabilize Off-policy Bootstrapping with Function Approximation**|Fengdi Che et.al.|[2405.21043](http://arxiv.org/abs/2405.21043)|null|
 |**2024-05-31**|**GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search**|Wenbo Yu et.al.|[2405.20725](http://arxiv.org/abs/2405.20725)|null|
 |**2024-05-30**|**Disentangling and Mitigating the Impact of Task Similarity for Continual Learning**|Naoki Hiratani et.al.|[2405.20236](http://arxiv.org/abs/2405.20236)|**[link](https://github.com/nhiratani/transfer_retention_model)**|
 |**2024-05-24**|**Novel Kernel Models and Exact Representor Theory for Neural Networks Beyond the Over-Parameterized Regime**|Alistair Shilton et.al.|[2405.15254](http://arxiv.org/abs/2405.15254)|null|
@@ -3192,7 +3192,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3204,7 +3204,7 @@
 |**2024-10-03**|**Estimating Generalization Performance Along the Trajectory of Proximal SGD in Robust Regression**|Kai Tan et.al.|[2410.02629](http://arxiv.org/abs/2410.02629)|null|
 |**2024-10-03**|**Sample-Optimal Quantum State Tomography for Structured Quantum States in One Dimension**|Zhen Qin et.al.|[2410.02583](http://arxiv.org/abs/2410.02583)|null|
 |**2024-10-03**|**Learning K-U-Net with constant complexity: An Application to time series forecasting**|Jiang You et.al.|[2410.02438](http://arxiv.org/abs/2410.02438)|null|
-|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|null|
+|**2024-10-03**|**PnP-Flow: Plug-and-Play Image Restoration with Flow Matching**|Ségolène Martin et.al.|[2410.02423](http://arxiv.org/abs/2410.02423)|**[link](https://github.com/annegnx/PnP-Flow)**|
 |**2024-10-03**|**Towards Better Generalization: Weight Decay Induces Low-rank Bias for Neural Networks**|Ke Chen et.al.|[2410.02176](http://arxiv.org/abs/2410.02176)|null|
 |**2024-10-03**|**Universality in Transfer Learning for Linear Models**|Reza Ghane et.al.|[2410.02164](http://arxiv.org/abs/2410.02164)|null|
 |**2024-10-02**|**Fast and Sample Efficient Multi-Task Representation Learning in Stochastic Contextual Bandits**|Jiabin Lin et.al.|[2410.02068](http://arxiv.org/abs/2410.02068)|null|
@@ -4369,7 +4369,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -8281,7 +8281,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241007>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
