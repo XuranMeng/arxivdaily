@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -997,7 +997,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Transformer
 
@@ -2049,7 +2049,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Optimization
 
@@ -2067,7 +2067,7 @@
 |**2024-10-15**|**Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent**|Bo Chen et.al.|[2410.11268](http://arxiv.org/abs/2410.11268)|null|
 |**2024-10-15**|**Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix**|Yingyu Liang et.al.|[2410.11261](http://arxiv.org/abs/2410.11261)|null|
 |**2024-10-15**|**Fast Second-Order Online Kernel Learning through Incremental Matrix Sketching and Decomposition**|Dongxie Wen et.al.|[2410.11188](http://arxiv.org/abs/2410.11188)|null|
-|**2024-10-15**|**How Initial Connectivity Shapes Biologically Plausible Learning in Recurrent Neural Networks**|Xinyue Zhang et.al.|[2410.11164](http://arxiv.org/abs/2410.11164)|null|
+|**2024-10-17**|**How Initial Connectivity Shapes Biologically Plausible Learning in Recurrent Neural Networks**|Weixuan Liu et.al.|[2410.11164](http://arxiv.org/abs/2410.11164)|null|
 |**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
 |**2024-10-14**|**Neural Projected Quantum Dynamics: a systematic study**|Luca Gravina et.al.|[2410.10720](http://arxiv.org/abs/2410.10720)|null|
 |**2024-10-14**|**Robust Gradient Descent for Phase Retrieval**|Alex Buna et.al.|[2410.10623](http://arxiv.org/abs/2410.10623)|null|
@@ -2078,7 +2078,7 @@
 |**2024-10-14**|**Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late in Training**|Zhanpeng Zhou et.al.|[2410.10373](http://arxiv.org/abs/2410.10373)|null|
 |**2024-10-14**|**Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks**|Binghui Li et.al.|[2410.10322](http://arxiv.org/abs/2410.10322)|null|
 |**2024-10-13**|**Sharper Guarantees for Learning Neural Network Classifiers with Gradient Methods**|Hossein Taheri et.al.|[2410.10024](http://arxiv.org/abs/2410.10024)|null|
-|**2024-10-13**|**Phase retrieval: Global convergence of gradient descent with optimal sample complexity**|Théodore Fougereux et.al.|[2410.09990](http://arxiv.org/abs/2410.09990)|null|
+|**2024-10-17**|**Global convergence of gradient descent for phase retrieval**|Théodore Fougereux et.al.|[2410.09990](http://arxiv.org/abs/2410.09990)|null|
 |**2024-10-13**|**Simultaneous Computation and Memory Efficient Zeroth-Order Optimizer for Fine-Tuning Large Language Models**|Fei Wang et.al.|[2410.09823](http://arxiv.org/abs/2410.09823)|null|
 |**2024-10-13**|**Stability and Sharper Risk Bounds with Convergence Rate $O(1/n^2)$**|Bowei Zhu et.al.|[2410.09766](http://arxiv.org/abs/2410.09766)|null|
 |**2024-10-13**|**Can In-context Learning Really Generalize to Out-of-distribution Tasks?**|Qixun Wang et.al.|[2410.09695](http://arxiv.org/abs/2410.09695)|null|
@@ -3198,7 +3198,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3241,7 +3241,7 @@
 |**2024-06-16**|**Benign overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias**|Honam Wong et.al.|[2406.09194](http://arxiv.org/abs/2406.09194)|null|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
 |**2024-06-03**|**Achieving Sparse Activation in Small Language Models**|Jifeng Song et.al.|[2406.06562](http://arxiv.org/abs/2406.06562)|**[link](https://github.com/pittisl/sparse-activation)**|
-|**2024-09-30**|**Probability Distribution Learning: A theoretical framework for Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
+|**2024-10-17**|**Probability Distribution Learning: A theoretical framework for Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
 |**2024-06-11**|**VTrans: Accelerating Transformer Compression with Variational Information Bottleneck based Pruning**|Oshin Dutta et.al.|[2406.05276](http://arxiv.org/abs/2406.05276)|null|
 |**2024-07-17**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596](http://arxiv.org/abs/2406.04596)|**[link](https://github.com/RenpuLiu/flute)**|
 |**2024-06-04**|**Symmetric Kernels with Non-Symmetric Data: A Data-Agnostic Learnability Bound**|Itay Lavie et.al.|[2406.02663](http://arxiv.org/abs/2406.02663)|null|
@@ -3387,7 +3387,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3395,7 +3395,7 @@
 |---|---|---|---|---|
 |**2024-10-16**|**Efficient Optimization Algorithms for Linear Adversarial Training**|Antônio H. RIbeiro et.al.|[2410.12677](http://arxiv.org/abs/2410.12677)|null|
 |**2024-10-16**|**Low-Rank Adversarial PGD Attack**|Dayana Savostianova et.al.|[2410.12607](http://arxiv.org/abs/2410.12607)|null|
-|**2024-10-16**|**Loss Landscape Characterization of Neural Networks without Over-Parametrziation**|Rustem Islamov et.al.|[2410.12455](http://arxiv.org/abs/2410.12455)|null|
+|**2024-10-17**|**Loss Landscape Characterization of Neural Networks without Over-Parametrization**|Rustem Islamov et.al.|[2410.12455](http://arxiv.org/abs/2410.12455)|null|
 |**2024-10-16**|**Accelerated Gradient Descent by Concatenation of Stepsize Schedules**|Zehao Zhang et.al.|[2410.12395](http://arxiv.org/abs/2410.12395)|null|
 |**2024-10-15**|**Scaling laws for post-training quantized large language models**|Zifei Xu et.al.|[2410.12119](http://arxiv.org/abs/2410.12119)|null|
 |**2024-10-14**|**Learnable Optimization-Based Algorithms for Low-Dose CT Reconstruction**|Daisy Chen et.al.|[2410.11903](http://arxiv.org/abs/2410.11903)|null|
@@ -3407,7 +3407,7 @@
 |**2024-10-15**|**Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent**|Bo Chen et.al.|[2410.11268](http://arxiv.org/abs/2410.11268)|null|
 |**2024-10-15**|**Beyond Linear Approximations: A Novel Pruning Approach for Attention Matrix**|Yingyu Liang et.al.|[2410.11261](http://arxiv.org/abs/2410.11261)|null|
 |**2024-10-15**|**Fast Second-Order Online Kernel Learning through Incremental Matrix Sketching and Decomposition**|Dongxie Wen et.al.|[2410.11188](http://arxiv.org/abs/2410.11188)|null|
-|**2024-10-15**|**How Initial Connectivity Shapes Biologically Plausible Learning in Recurrent Neural Networks**|Xinyue Zhang et.al.|[2410.11164](http://arxiv.org/abs/2410.11164)|null|
+|**2024-10-17**|**How Initial Connectivity Shapes Biologically Plausible Learning in Recurrent Neural Networks**|Weixuan Liu et.al.|[2410.11164](http://arxiv.org/abs/2410.11164)|null|
 |**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
 |**2024-10-14**|**Neural Projected Quantum Dynamics: a systematic study**|Luca Gravina et.al.|[2410.10720](http://arxiv.org/abs/2410.10720)|null|
 |**2024-10-14**|**Dynamical loss functions shape landscape topography and improve learning in artificial neural networks**|Eduardo Lavin et.al.|[2410.10690](http://arxiv.org/abs/2410.10690)|**[link](https://github.com/miguel-rg/dynamical-loss-functions)**|
@@ -3419,7 +3419,7 @@
 |**2024-10-14**|**Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late in Training**|Zhanpeng Zhou et.al.|[2410.10373](http://arxiv.org/abs/2410.10373)|null|
 |**2024-10-14**|**Feature Averaging: An Implicit Bias of Gradient Descent Leading to Non-Robustness in Neural Networks**|Binghui Li et.al.|[2410.10322](http://arxiv.org/abs/2410.10322)|null|
 |**2024-10-13**|**Sharper Guarantees for Learning Neural Network Classifiers with Gradient Methods**|Hossein Taheri et.al.|[2410.10024](http://arxiv.org/abs/2410.10024)|null|
-|**2024-10-13**|**Phase retrieval: Global convergence of gradient descent with optimal sample complexity**|Théodore Fougereux et.al.|[2410.09990](http://arxiv.org/abs/2410.09990)|null|
+|**2024-10-17**|**Global convergence of gradient descent for phase retrieval**|Théodore Fougereux et.al.|[2410.09990](http://arxiv.org/abs/2410.09990)|null|
 |**2024-10-13**|**Simultaneous Computation and Memory Efficient Zeroth-Order Optimizer for Fine-Tuning Large Language Models**|Fei Wang et.al.|[2410.09823](http://arxiv.org/abs/2410.09823)|null|
 |**2024-10-13**|**Stability and Sharper Risk Bounds with Convergence Rate $O(1/n^2)$**|Bowei Zhu et.al.|[2410.09766](http://arxiv.org/abs/2410.09766)|null|
 |**2024-10-13**|**Can In-context Learning Really Generalize to Out-of-distribution Tasks?**|Qixun Wang et.al.|[2410.09695](http://arxiv.org/abs/2410.09695)|null|
@@ -4654,7 +4654,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -4668,7 +4668,7 @@
 |**2024-10-16**|**SAC-GLAM: Improving Online RL for LLM agents with Soft Actor-Critic and Hindsight Relabeling**|Loris Gaven et.al.|[2410.12481](http://arxiv.org/abs/2410.12481)|null|
 |**2024-10-16**|**Sharpness-Aware Black-Box Optimization**|Feiyang Ye et.al.|[2410.12457](http://arxiv.org/abs/2410.12457)|null|
 |**2024-10-16**|**AoI-Aware Resource Allocation for Smart Multi-QoS Provisioning**|Jingqing Wang et.al.|[2410.12384](http://arxiv.org/abs/2410.12384)|null|
-|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375](http://arxiv.org/abs/2410.12375)|null|
+|**2024-10-16**|**PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking**|Markus J. Buehler et.al.|[2410.12375](http://arxiv.org/abs/2410.12375)|**[link](https://github.com/lamm-mit/PRefLexOR)**|
 |**2024-10-16**|**GAN Based Top-Down View Synthesis in Reinforcement Learning Environments**|Usama Younus et.al.|[2410.12372](http://arxiv.org/abs/2410.12372)|null|
 |**2024-10-16**|**Generalized Smooth Stochastic Variational Inequalities: Almost Sure Convergence and Convergence Rates**|Daniil Vankov et.al.|[2410.12334](http://arxiv.org/abs/2410.12334)|null|
 |**2024-10-16**|**Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up**|Jiahao Yuan et.al.|[2410.12323](http://arxiv.org/abs/2410.12323)|null|
@@ -4709,14 +4709,14 @@
 |**2024-10-15**|**Unveiling Options with Neural Decomposition**|Mahdi Alikhasi et.al.|[2410.11262](http://arxiv.org/abs/2410.11262)|null|
 |**2024-10-15**|**Disentangled Unsupervised Skill Discovery for Efficient Hierarchical Reinforcement Learning**|Jiaheng Hu et.al.|[2410.11251](http://arxiv.org/abs/2410.11251)|null|
 |**2024-10-15**|**Bayes Adaptive Monte Carlo Tree Search for Offline Model-based Reinforcement Learning**|Jiayu Chen et.al.|[2410.11234](http://arxiv.org/abs/2410.11234)|null|
-|**2024-10-15**|**Self-Supervised Learning For Robust Robotic Grasping In Dynamic Environment**|Ankit Shaw et.al.|[2410.11229](http://arxiv.org/abs/2410.11229)|null|
+|**2024-10-17**|**Self-Supervised Learning For Robust Robotic Grasping In Dynamic Environment**|Ankit Shaw et.al.|[2410.11229](http://arxiv.org/abs/2410.11229)|null|
 |**2024-10-15**|**Multi-objective Reinforcement Learning: A Tool for Pluralistic Alignment**|Peter Vamplew et.al.|[2410.11221](http://arxiv.org/abs/2410.11221)|null|
 |**2024-10-15**|**Reinforcement Learning Based Bidding Framework with High-dimensional Bids in Power Markets**|Jinyu Liu et.al.|[2410.11180](http://arxiv.org/abs/2410.11180)|null|
 |**2024-10-15**|**Combining Reinforcement Learning with Graph Convolutional Neural Networks for Efficient Design of TiAl/TiAlN Atomic-Scale Interfaces**|Xinyu Jiang et.al.|[2410.11178](http://arxiv.org/abs/2410.11178)|null|
 |**2024-10-14**|**Action Gaps and Advantages in Continuous-Time Distributional Reinforcement Learning**|Harley Wiltzer et.al.|[2410.11022](http://arxiv.org/abs/2410.11022)|null|
 |**2024-10-14**|**Improving the Language Understanding Capabilities of Large Language Models Using Reinforcement Learning**|Bokai Hu et.al.|[2410.11020](http://arxiv.org/abs/2410.11020)|null|
 |**2024-10-14**|**Cooperation in Public Goods Games: Leveraging Other-Regarding Reinforcement Learning on Hypergraphs**|Bo-Ying Li et.al.|[2410.10921](http://arxiv.org/abs/2410.10921)|null|
-|**2024-10-13**|**Improving Generalization on the ProcGen Benchmark with Simple Architectural Changes and Scale**|Andrew Jesson et.al.|[2410.10905](http://arxiv.org/abs/2410.10905)|null|
+|**2024-10-17**|**Improving Generalization on the ProcGen Benchmark with Simple Architectural Changes and Scale**|Andrew Jesson et.al.|[2410.10905](http://arxiv.org/abs/2410.10905)|null|
 |**2024-10-14**|**Adaptive Diffusion Terrain Generator for Autonomous Uneven Terrain Navigation**|Youwei Yu et.al.|[2410.10766](http://arxiv.org/abs/2410.10766)|null|
 |**2024-10-14**|**Online Statistical Inference for Time-varying Sample-averaged Q-learning**|Saunak Kumar Panda et.al.|[2410.10737](http://arxiv.org/abs/2410.10737)|null|
 |**2024-10-14**|**Enhancing Robustness in Deep Reinforcement Learning: A Lyapunov Exponent Approach**|Rory Young et.al.|[2410.10674](http://arxiv.org/abs/2410.10674)|null|
@@ -8809,7 +8809,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
