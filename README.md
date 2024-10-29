@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.28
+## Updated on 2024.10.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1031,7 +1031,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Transformer
 
@@ -1049,7 +1049,7 @@
 |**2024-10-22**|**AlphaChimp: Tracking and Behavior Recognition of Chimpanzees**|Xiaoxuan Ma et.al.|[2410.17136](http://arxiv.org/abs/2410.17136)|**[link](https://github.com/shirleymaxx/chimpact)**|
 |**2024-10-22**|**A Comparison of Baseline Models and a Transformer Network for SOC Prediction in Lithium-Ion Batteries**|Hadeel Aboueidah et.al.|[2410.17049](http://arxiv.org/abs/2410.17049)|null|
 |**2024-10-22**|**AGSENet: A Robust Road Ponding Detection Method for Proactive Traffic Safety**|Ronghui Zhang et.al.|[2410.16999](http://arxiv.org/abs/2410.16999)|null|
-|**2024-10-20**|**Advancing Gasoline Consumption Forecasting: A Novel Hybrid Model Integrating Transformers, LSTM, and CNN**|Mahmoud Ranjbar et.al.|[2410.16336](http://arxiv.org/abs/2410.16336)|null|
+|**2024-10-25**|**Advancing Gasoline Consumption Forecasting: A Novel Hybrid Model Integrating Transformers, LSTM, and CNN**|Mahmoud Ranjbar et.al.|[2410.16336](http://arxiv.org/abs/2410.16336)|null|
 |**2024-10-21**|**START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation**|Jintao Guo et.al.|[2410.16020](http://arxiv.org/abs/2410.16020)|null|
 |**2024-10-21**|**Focus Where It Matters: Graph Selective State Focused Attention Networks**|Shikhar Vashistha et.al.|[2410.15849](http://arxiv.org/abs/2410.15849)|null|
 |**2024-10-20**|**Improving 3D Medical Image Segmentation at Boundary Regions using Local Self-attention and Global Volume Mixing**|Daniya Najiha Abdul Kareem et.al.|[2410.15360](http://arxiv.org/abs/2410.15360)|**[link](https://github.com/Daniyanaj/vMixer)**|
@@ -2114,7 +2114,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Optimization
 
@@ -3312,7 +3312,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3504,7 +3504,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -4825,7 +4825,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -4842,8 +4842,8 @@
 |**2024-10-25**|**AgentForge: A Flexible Low-Code Platform for Reinforcement Learning Agent Design**|Francisco Erivaldo Fernandes Junior et.al.|[2410.19528](http://arxiv.org/abs/2410.19528)|null|
 |**2024-10-25**|**Offline-to-Online Multi-Agent Reinforcement Learning with Offline Value Function Memory and Sequential Exploration**|Hai Zhong et.al.|[2410.19450](http://arxiv.org/abs/2410.19450)|null|
 |**2024-10-25**|**Evolving choice hysteresis in reinforcement learning: comparing the adaptive value of positivity bias and gradual perseveration**|Isabelle Hoxha et.al.|[2410.19434](http://arxiv.org/abs/2410.19434)|null|
-|**2024-10-25**|**Offline Reinforcement Learning with OOD State Correction and OOD Action Suppression**|Yixiu Mao et.al.|[2410.19400](http://arxiv.org/abs/2410.19400)|null|
-|**2024-10-25**|**Multi-Agent Reinforcement Learning with Selective State-Space Models**|Jemma Daniel et.al.|[2410.19382](http://arxiv.org/abs/2410.19382)|null|
+|**2024-10-28**|**Offline Reinforcement Learning with OOD State Correction and OOD Action Suppression**|Yixiu Mao et.al.|[2410.19400](http://arxiv.org/abs/2410.19400)|**[link](https://github.com/MAOYIXIU/SCAS)**|
+|**2024-10-28**|**Multi-Agent Reinforcement Learning with Selective State-Space Models**|Jemma Daniel et.al.|[2410.19382](http://arxiv.org/abs/2410.19382)|null|
 |**2024-10-25**|**An Enhanced Hierarchical Planning Framework for Multi-Robot Autonomous Exploration**|Gengyuan Cai et.al.|[2410.19373](http://arxiv.org/abs/2410.19373)|null|
 |**2024-10-25**|**Toward Finding Strong Pareto Optimal Policies in Multi-Agent Reinforcement Learning**|Bang Giang Le et.al.|[2410.19372](http://arxiv.org/abs/2410.19372)|**[link](https://github.com/giangbang/strong-pareto-marl)**|
 |**2024-10-25**|**Joint User Scheduling and Precoding for RIS-Aided MU-MISO Systems: A MADRL Approach**|Yangjing Wang et.al.|[2410.19359](http://arxiv.org/abs/2410.19359)|null|
@@ -4866,7 +4866,7 @@
 |**2024-10-24**|**Multi-UAV Behavior-based Formation with Static and Dynamic Obstacles Avoidance via Reinforcement Learning**|Yuqing Xie et.al.|[2410.18495](http://arxiv.org/abs/2410.18495)|null|
 |**2024-10-24**|**Learn 2 Rage: Experiencing The Emotional Roller Coaster That Is Reinforcement Learning**|Lachlan Mares et.al.|[2410.18462](http://arxiv.org/abs/2410.18462)|null|
 |**2024-10-24**|**SkiLD: Unsupervised Skill Discovery Guided by Factor Interactions**|Zizhao Wang et.al.|[2410.18416](http://arxiv.org/abs/2410.18416)|null|
-|**2024-10-23**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|null|
+|**2024-10-28**|**Hybrid Quantum-Classical Reinforcement Learning in Latent Observation Spaces**|Dániel T. R. Nagy et.al.|[2410.18284](http://arxiv.org/abs/2410.18284)|**[link](https://github.com/Budapest-Quantum-Computing-Group/hybrid_latent_qrl)**|
 |**2024-10-23**|**Real-Time Integrated Learning and Decision-Making for Asset Networks**|Peter Verleijsdonk et.al.|[2410.18246](http://arxiv.org/abs/2410.18246)|null|
 |**2024-10-23**|**PyTSC: A Unified Platform for Multi-Agent Reinforcement Learning in Traffic Signal Control**|Rohit Bokade et.al.|[2410.18202](http://arxiv.org/abs/2410.18202)|**[link](https://github.com/rbokade/pytsc)**|
 |**2024-10-22**|**SmartRAG: Jointly Learn RAG-Related Tasks From the Environment Feedback**|Jingsheng Gao et.al.|[2410.18141](http://arxiv.org/abs/2410.18141)|null|
@@ -4890,7 +4890,7 @@
 |**2024-10-24**|**Evolution with Opponent-Learning Awareness**|Yann Bouteiller et.al.|[2410.17466](http://arxiv.org/abs/2410.17466)|**[link](https://github.com/yannbouteiller/eola)**|
 |**2024-10-22**|**Meta Stackelberg Game: Robust Federated Learning against Adaptive and Mixed Poisoning Attacks**|Tao Li et.al.|[2410.17431](http://arxiv.org/abs/2410.17431)|null|
 |**2024-10-22**|**Uncovering RL Integration in SSL Loss: Objective-Specific Implications for Data-Efficient RL**|Ömer Veysel Çağatan et.al.|[2410.17428](http://arxiv.org/abs/2410.17428)|null|
-|**2024-10-22**|**Invisible Manipulation Deep Reinforcement Learning Enhanced Stealthy Attacks on Battery Energy Management Systems**|Qi Xiao et.al.|[2410.17402](http://arxiv.org/abs/2410.17402)|null|
+|**2024-10-27**|**Invisible Manipulation Deep Reinforcement Learning Enhanced Stealthy Attacks on Battery Energy Management Systems**|Qi Xiao et.al.|[2410.17402](http://arxiv.org/abs/2410.17402)|null|
 |**2024-10-22**|**Navigating Noisy Feedback: Enhancing Reinforcement Learning with Error-Prone Language Models**|Muhan Lin et.al.|[2410.17389](http://arxiv.org/abs/2410.17389)|null|
 |**2024-10-22**|**Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning**|Dongsu Lee et.al.|[2410.17373](http://arxiv.org/abs/2410.17373)|null|
 |**2024-10-24**|**Hierarchical Multi-agent Reinforcement Learning for Cyber Network Defense**|Aditya Vikram Singh et.al.|[2410.17351](http://arxiv.org/abs/2410.17351)|null|
@@ -9164,7 +9164,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241028>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
