@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.03
+## Updated on 2024.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -18,7 +18,7 @@ layout: default
 |**2024-10-31**|**Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?**|Zhanke Zhou et.al.|[2410.23856](http://arxiv.org/abs/2410.23856)|**[link](https://github.com/tmlr-group/noisyrationales)**|
 |**2024-10-31**|**What is Wrong with Perplexity for Long-context Language Modeling?**|Lizhe Fang et.al.|[2410.23771](http://arxiv.org/abs/2410.23771)|**[link](https://github.com/pku-ml/longppl)**|
 |**2024-10-31**|**Dynamic Uncertainty Ranking: Enhancing In-Context Learning for Long-Tail Knowledge in LLMs**|Shuyang Yu et.al.|[2410.23605](http://arxiv.org/abs/2410.23605)|null|
-|**2024-10-31**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
+|**2024-11-01**|**Large Language Models for Patient Comments Multi-Label Classification**|Hajar Sakai et.al.|[2410.23528](http://arxiv.org/abs/2410.23528)|null|
 |**2024-10-30**|**EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning**|Peide Huang et.al.|[2410.23234](http://arxiv.org/abs/2410.23234)|null|
 |**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
 |**2024-10-30**|**Comparative Analysis of Demonstration Selection Algorithms for LLM In-Context Learning**|Dong Shu et.al.|[2410.23099](http://arxiv.org/abs/2410.23099)|**[link](https://github.com/tizzzzy/demonstration_selection_overview)**|
@@ -2182,7 +2182,7 @@ layout: default
 |**2024-10-24**|**A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities**|Yatin Dandi et.al.|[2410.18938](http://arxiv.org/abs/2410.18938)|null|
 |**2024-10-24**|**Bilinear Sequence Regression: A Model for Learning from Long Sequences of High-dimensional Tokens**|Vittorio Erba et.al.|[2410.18858](http://arxiv.org/abs/2410.18858)|**[link](https://github.com/SPOC-group/bilinear-sequence-regression)**|
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
-|**2024-10-24**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
+|**2024-10-31**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
 |**2024-10-23**|**Rethinking Positive Pairs in Contrastive Learning**|Jiantao Wu et.al.|[2410.18200](http://arxiv.org/abs/2410.18200)|null|
 |**2024-10-23**|**Stochastic gradient descent in high dimensions for multi-spiked tensor PCA**|Gérard Ben Arous et.al.|[2410.18162](http://arxiv.org/abs/2410.18162)|null|
 |**2024-10-23**|**New Insight in Cervical Cancer Diagnosis Using Convolution Neural Network Architecture**|Ach. Khozaimi et.al.|[2410.17735](http://arxiv.org/abs/2410.17735)|null|
@@ -3380,7 +3380,7 @@ layout: default
 |**2024-09-09**|**On the Convergence Analysis of Over-Parameterized Variational Autoencoders: A Neural Tangent Kernel Perspective**|Li Wang et.al.|[2409.05349](http://arxiv.org/abs/2409.05349)|null|
 |**2024-09-06**|**Over-parameterized regression methods and their application to semi-supervised learning**|Katsuyuki Hagiwara et.al.|[2409.04001](http://arxiv.org/abs/2409.04001)|null|
 |**2024-09-03**|**DAPONet: A Dual Attention and Partially Overparameterized Network for Real-Time Road Damage Detection**|Weichao Pan et.al.|[2409.01604](http://arxiv.org/abs/2409.01604)|null|
-|**2024-09-02**|**Improving Adaptivity via Over-Parameterization in Sequence Models**|Yicheng Li et.al.|[2409.00894](http://arxiv.org/abs/2409.00894)|null|
+|**2024-10-31**|**Improving Adaptivity via Over-Parameterization in Sequence Models**|Yicheng Li et.al.|[2409.00894](http://arxiv.org/abs/2409.00894)|null|
 |**2024-08-29**|**Convolutional Neural Network Compression Based on Low-Rank Decomposition**|Yaping He et.al.|[2408.16289](http://arxiv.org/abs/2408.16289)|null|
 |**2024-08-28**|**Q-MRS: A Deep Learning Framework for Quantitative Magnetic Resonance Spectra Analysis**|Christopher J. Wu et.al.|[2408.15999](http://arxiv.org/abs/2408.15999)|null|
 |**2024-10-23**|**Pruning By Explaining Revisited: Optimizing Attribution Methods to Prune CNNs and Transformers**|Sayed Mohammad Vakilzadeh Hatefi et.al.|[2408.12568](http://arxiv.org/abs/2408.12568)|**[link](https://github.com/erfanhatefi/pruning-by-explaining-in-pytorch)**|
@@ -3594,7 +3594,7 @@ layout: default
 |**2024-10-24**|**A Random Matrix Theory Perspective on the Spectrum of Learned Features and Asymptotic Generalization Capabilities**|Yatin Dandi et.al.|[2410.18938](http://arxiv.org/abs/2410.18938)|null|
 |**2024-10-24**|**Bilinear Sequence Regression: A Model for Learning from Long Sequences of High-dimensional Tokens**|Vittorio Erba et.al.|[2410.18858](http://arxiv.org/abs/2410.18858)|**[link](https://github.com/SPOC-group/bilinear-sequence-regression)**|
 |**2024-10-24**|**Multi-Scale Diffusion: Enhancing Spatial Layout in High-Resolution Panoramic Image Generation**|Xiaoyu Zhang et.al.|[2410.18830](http://arxiv.org/abs/2410.18830)|null|
-|**2024-10-24**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
+|**2024-10-31**|**Inference on High Dimensional Selective Labeling Models**|Shakeeb Khan et.al.|[2410.18381](http://arxiv.org/abs/2410.18381)|null|
 |**2024-10-23**|**Rethinking Positive Pairs in Contrastive Learning**|Jiantao Wu et.al.|[2410.18200](http://arxiv.org/abs/2410.18200)|null|
 |**2024-10-23**|**Stochastic gradient descent in high dimensions for multi-spiked tensor PCA**|Gérard Ben Arous et.al.|[2410.18162](http://arxiv.org/abs/2410.18162)|null|
 |**2024-10-23**|**New Insight in Cervical Cancer Diagnosis Using Convolution Neural Network Architecture**|Ach. Khozaimi et.al.|[2410.17735](http://arxiv.org/abs/2410.17735)|null|
