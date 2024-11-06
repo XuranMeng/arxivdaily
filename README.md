@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1060,7 +1060,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Transformer
 
@@ -2171,7 +2171,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Optimization
 
@@ -2184,7 +2184,7 @@
 |**2024-11-04**|**Tree level change detection over Ahmedabad city using very high resolution satellite images and Deep Learning**|Jai G Singla et.al.|[2411.02009](http://arxiv.org/abs/2411.02009)|null|
 |**2024-11-04**|**Robust plug-and-play methods for highly accelerated non-Cartesian MRI reconstruction**|Pierre-Antoine Comby et.al.|[2411.01955](http://arxiv.org/abs/2411.01955)|null|
 |**2024-11-04**|**Learning Where to Edit Vision Transformers**|Yunqiao Yang et.al.|[2411.01948](http://arxiv.org/abs/2411.01948)|**[link](https://github.com/hustyyq/where-to-edit)**|
-|**2024-11-04**|**Gradient Methods with Online Scaling**|Wenzhi Gao et.al.|[2411.01803](http://arxiv.org/abs/2411.01803)|null|
+|**2024-11-04**|**Gradient Methods with Online Scaling**|Wenzhi Gao et.al.|[2411.01803](http://arxiv.org/abs/2411.01803)|**[link](https://github.com/Gwzwpxz/osgm)**|
 |**2024-11-03**|**Analysis of regularized federated learning**|Langming Liu et.al.|[2411.01548](http://arxiv.org/abs/2411.01548)|null|
 |**2024-11-03**|**Efficient and Robust Regularized Federated Recommendation**|Langming Liu et.al.|[2411.01540](http://arxiv.org/abs/2411.01540)|null|
 |**2024-11-02**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
@@ -3409,7 +3409,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3603,7 +3603,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3617,7 +3617,7 @@
 |**2024-11-04**|**Robust plug-and-play methods for highly accelerated non-Cartesian MRI reconstruction**|Pierre-Antoine Comby et.al.|[2411.01955](http://arxiv.org/abs/2411.01955)|null|
 |**2024-11-04**|**Learning Where to Edit Vision Transformers**|Yunqiao Yang et.al.|[2411.01948](http://arxiv.org/abs/2411.01948)|**[link](https://github.com/hustyyq/where-to-edit)**|
 |**2024-11-04**|**Stein Variational Newton Neural Network Ensembles**|Klemens Flöge et.al.|[2411.01887](http://arxiv.org/abs/2411.01887)|null|
-|**2024-11-04**|**Gradient Methods with Online Scaling**|Wenzhi Gao et.al.|[2411.01803](http://arxiv.org/abs/2411.01803)|null|
+|**2024-11-04**|**Gradient Methods with Online Scaling**|Wenzhi Gao et.al.|[2411.01803](http://arxiv.org/abs/2411.01803)|**[link](https://github.com/Gwzwpxz/osgm)**|
 |**2024-11-03**|**Analysis of regularized federated learning**|Langming Liu et.al.|[2411.01548](http://arxiv.org/abs/2411.01548)|null|
 |**2024-11-03**|**Efficient and Robust Regularized Federated Recommendation**|Langming Liu et.al.|[2411.01540](http://arxiv.org/abs/2411.01540)|null|
 |**2024-11-02**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
@@ -4967,7 +4967,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -4982,7 +4982,7 @@
 |**2024-11-04**|**IRS-Enhanced Secure Semantic Communication Networks: Cross-Layer and Context-Awared Resource Allocation**|Lingyi Wang et.al.|[2411.01821](http://arxiv.org/abs/2411.01821)|null|
 |**2024-11-04**|**So You Think You Can Scale Up Autonomous Robot Data Collection?**|Suvir Mirchandani et.al.|[2411.01813](http://arxiv.org/abs/2411.01813)|null|
 |**2024-11-04**|**SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF**|Atoosa Chegini et.al.|[2411.01798](http://arxiv.org/abs/2411.01798)|null|
-|**2024-11-04**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
+|**2024-11-05**|**Lyapunov-guided Multi-Agent Reinforcement Learning for Delay-Sensitive Wireless Scheduling**|Cheng Zhang et.al.|[2411.01766](http://arxiv.org/abs/2411.01766)|null|
 |**2024-11-04**|**Show, Don't Tell: Learning Reward Machines from Demonstrations for Reinforcement Learning-Based Cardiac Pacemaker Synthesis**|John Komp et.al.|[2411.01750](http://arxiv.org/abs/2411.01750)|null|
 |**2024-11-03**|**GraphXForm: Graph transformer for computer-aided molecular design with application to extraction**|Jonathan Pirnay et.al.|[2411.01667](http://arxiv.org/abs/2411.01667)|null|
 |**2024-11-03**|**GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making**|Xingyu Hu et.al.|[2411.01608](http://arxiv.org/abs/2411.01608)|null|
@@ -5038,7 +5038,7 @@
 |**2024-10-31**|**Maximum Entropy Hindsight Experience Replay**|Douglas C. Crowder et.al.|[2410.24016](http://arxiv.org/abs/2410.24016)|null|
 |**2024-10-31**|**RL-STaR: Theoretical Analysis of Reinforcement Learning Frameworks for Self-Taught Reasoner**|Fu-Chieh Chang et.al.|[2410.23912](http://arxiv.org/abs/2410.23912)|null|
 |**2024-10-31**|**Noise as a Double-Edged Sword: Reinforcement Learning Exploits Randomized Defenses in Neural Networks**|Steve Bakos et.al.|[2410.23870](http://arxiv.org/abs/2410.23870)|null|
-|**2024-10-31**|**Deterministic Exploration via Stationary Bellman Error Maximization**|Sebastian Griesbach et.al.|[2410.23840](http://arxiv.org/abs/2410.23840)|null|
+|**2024-11-05**|**Deterministic Exploration via Stationary Bellman Error Maximization**|Sebastian Griesbach et.al.|[2410.23840](http://arxiv.org/abs/2410.23840)|null|
 |**2024-10-31**|**Enhancing Chess Reinforcement Learning with Graph Representation**|Tomas Rigaux et.al.|[2410.23753](http://arxiv.org/abs/2410.23753)|**[link](https://github.com/akulen/alphagateau)**|
 |**2024-10-31**|**A Non-Monolithic Policy Approach of Offline-to-Online Reinforcement Learning**|JaeYoon Kim et.al.|[2410.23737](http://arxiv.org/abs/2410.23737)|**[link](https://github.com/jangikim2/Offline-to-online-RL-with-non-monolithic-exploration-methodology)**|
 |**2024-10-31**|**Towards Reliable Alignment: Uncertainty-aware RLHF**|Debangshu Banerjee et.al.|[2410.23726](http://arxiv.org/abs/2410.23726)|null|
@@ -9475,7 +9475,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
