@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1074,7 +1074,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Transformer
 
@@ -2191,7 +2191,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Optimization
 
@@ -2221,7 +2221,7 @@
 |**2024-11-05**|**Gradient Methods with Online Scaling**|Wenzhi Gao et.al.|[2411.01803](http://arxiv.org/abs/2411.01803)|**[link](https://github.com/Gwzwpxz/osgm)**|
 |**2024-11-03**|**Analysis of regularized federated learning**|Langming Liu et.al.|[2411.01548](http://arxiv.org/abs/2411.01548)|null|
 |**2024-11-03**|**Efficient and Robust Regularized Federated Recommendation**|Langming Liu et.al.|[2411.01540](http://arxiv.org/abs/2411.01540)|**[link](https://github.com/Applied-Machine-Learning-Lab/RFRec)**|
-|**2024-11-02**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
+|**2024-11-07**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
 |**2024-11-02**|**Privacy-Preserving Federated Learning with Differentially Private Hyperdimensional Computing**|Fardin Jalil Piran et.al.|[2411.01140](http://arxiv.org/abs/2411.01140)|null|
 |**2024-11-01**|**SKI-SAT: A CMOS-compatible Hardware for Solving SAT Problems**|Ahmet Yusuf Salim et.al.|[2411.01028](http://arxiv.org/abs/2411.01028)|null|
 |**2024-11-01**|**Constrained Sampling with Primal-Dual Langevin Monte Carlo**|Luiz F. O. Chamon et.al.|[2411.00568](http://arxiv.org/abs/2411.00568)|null|
@@ -3443,7 +3443,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3638,7 +3638,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3670,7 +3670,7 @@
 |**2024-11-05**|**Gradient Methods with Online Scaling**|Wenzhi Gao et.al.|[2411.01803](http://arxiv.org/abs/2411.01803)|**[link](https://github.com/Gwzwpxz/osgm)**|
 |**2024-11-03**|**Analysis of regularized federated learning**|Langming Liu et.al.|[2411.01548](http://arxiv.org/abs/2411.01548)|null|
 |**2024-11-03**|**Efficient and Robust Regularized Federated Recommendation**|Langming Liu et.al.|[2411.01540](http://arxiv.org/abs/2411.01540)|**[link](https://github.com/Applied-Machine-Learning-Lab/RFRec)**|
-|**2024-11-02**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
+|**2024-11-07**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
 |**2024-11-02**|**Privacy-Preserving Federated Learning with Differentially Private Hyperdimensional Computing**|Fardin Jalil Piran et.al.|[2411.01140](http://arxiv.org/abs/2411.01140)|null|
 |**2024-11-01**|**SKI-SAT: A CMOS-compatible Hardware for Solving SAT Problems**|Ahmet Yusuf Salim et.al.|[2411.01028](http://arxiv.org/abs/2411.01028)|null|
 |**2024-11-01**|**Constrained Sampling with Primal-Dual Langevin Monte Carlo**|Luiz F. O. Chamon et.al.|[2411.00568](http://arxiv.org/abs/2411.00568)|null|
@@ -5017,7 +5017,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -5048,9 +5048,9 @@
 |**2024-11-05**|**The Unreasonable Effectiveness of LLMs for Query Optimization**|Peter Akioyamen et.al.|[2411.02862](http://arxiv.org/abs/2411.02862)|**[link](https://github.com/peter-ai/LLMSteer)**|
 |**2024-11-05**|**ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal Rate**|Shohei Taniguchi et.al.|[2411.02853](http://arxiv.org/abs/2411.02853)|**[link](https://github.com/ishohei220/adopt)**|
 |**2024-11-05**|**When to Localize? A Risk-Constrained Reinforcement Learning Approach**|Chak Lam Shek et.al.|[2411.02788](http://arxiv.org/abs/2411.02788)|null|
-|**2024-11-04**|**Learning to Assist Humans without Inferring Rewards**|Vivek Myers et.al.|[2411.02623](http://arxiv.org/abs/2411.02623)|**[link](https://github.com/vivekmyers/empowerment_successor_representations)**|
+|**2024-11-07**|**Learning to Assist Humans without Inferring Rewards**|Vivek Myers et.al.|[2411.02623](http://arxiv.org/abs/2411.02623)|**[link](https://github.com/vivekmyers/empowerment_successor_representations)**|
 |**2024-11-04**|**Dynamic Weight Adjusting Deep Q-Networks for Real-Time Environmental Adaptation**|Xinhao Zhang et.al.|[2411.02559](http://arxiv.org/abs/2411.02559)|null|
-|**2024-11-04**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
+|**2024-11-06**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
 |**2024-11-04**|**Enhancing Multiple Dimensions of Trustworthiness in LLMs via Sparse Activation Control**|Yuxin Xiao et.al.|[2411.02461](http://arxiv.org/abs/2411.02461)|null|
 |**2024-11-03**|**Learning World Models for Unconstrained Goal Navigation**|Yuanlin Duan et.al.|[2411.02446](http://arxiv.org/abs/2411.02446)|**[link](https://github.com/RU-Automated-Reasoning-Group/MUN)**|
 |**2024-11-04**|**Simulation of Nanorobots with Artificial Intelligence and Reinforcement Learning for Advanced Cancer Cell Detection and Tracking**|Shahab Kavousinejad et.al.|[2411.02345](http://arxiv.org/abs/2411.02345)|**[link](https://github.com/shahab-k93/cancer-and-smart-nanorobot)**|
@@ -5085,7 +5085,7 @@
 |**2024-11-02**|**Hedging and Pricing Structured Products Featuring Multiple Underlying Assets**|Anil Sharma et.al.|[2411.01121](http://arxiv.org/abs/2411.01121)|null|
 |**2024-11-02**|**Rule Based Rewards for Language Model Safety**|Tong Mu et.al.|[2411.01111](http://arxiv.org/abs/2411.01111)|**[link](https://github.com/openai/safety-rbr-code-and-data)**|
 |**2024-11-01**|**Effective ML Model Versioning in Edge Networks**|Fin Gentzen et.al.|[2411.01078](http://arxiv.org/abs/2411.01078)|null|
-|**2024-11-05**|**Birdie: Advancing State Space Models with Reward-Driven Objectives and Curricula**|Sam Blouir et.al.|[2411.01030](http://arxiv.org/abs/2411.01030)|**[link](https://github.com/samblouir/birdie)**|
+|**2024-11-07**|**Birdie: Advancing State Space Models with Reward-Driven Objectives and Curricula**|Sam Blouir et.al.|[2411.01030](http://arxiv.org/abs/2411.01030)|**[link](https://github.com/samblouir/birdie)**|
 |**2024-11-01**|**Trajectory Design and Guidance for Far-range Proximity Operations of Active Debris Removal Missions with Angles-only Navigation and Safety Considerations**|Minduli C. Wijayatunga et.al.|[2411.01021](http://arxiv.org/abs/2411.01021)|null|
 |**2024-11-01**|**AI-Guided Codesign Framework for Novel Material and Device Design applied to MTJ-based True Random Number Generators**|Karan P. Patel et.al.|[2411.01008](http://arxiv.org/abs/2411.01008)|null|
 |**2024-11-01**|**Enhancing Model-Based Step Adaptation for Push Recovery through Reinforcement Learning of Step Timing and Region**|Tobias Egle et.al.|[2411.01000](http://arxiv.org/abs/2411.01000)|null|
@@ -9556,7 +9556,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors

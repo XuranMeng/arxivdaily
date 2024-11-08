@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -2209,7 +2209,7 @@ layout: default
 |**2024-11-05**|**Gradient Methods with Online Scaling**|Wenzhi Gao et.al.|[2411.01803](http://arxiv.org/abs/2411.01803)|**[link](https://github.com/Gwzwpxz/osgm)**|
 |**2024-11-03**|**Analysis of regularized federated learning**|Langming Liu et.al.|[2411.01548](http://arxiv.org/abs/2411.01548)|null|
 |**2024-11-03**|**Efficient and Robust Regularized Federated Recommendation**|Langming Liu et.al.|[2411.01540](http://arxiv.org/abs/2411.01540)|**[link](https://github.com/Applied-Machine-Learning-Lab/RFRec)**|
-|**2024-11-02**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
+|**2024-11-07**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
 |**2024-11-02**|**Privacy-Preserving Federated Learning with Differentially Private Hyperdimensional Computing**|Fardin Jalil Piran et.al.|[2411.01140](http://arxiv.org/abs/2411.01140)|null|
 |**2024-11-01**|**SKI-SAT: A CMOS-compatible Hardware for Solving SAT Problems**|Ahmet Yusuf Salim et.al.|[2411.01028](http://arxiv.org/abs/2411.01028)|null|
 |**2024-11-01**|**Constrained Sampling with Primal-Dual Langevin Monte Carlo**|Luiz F. O. Chamon et.al.|[2411.00568](http://arxiv.org/abs/2411.00568)|null|
@@ -3654,7 +3654,7 @@ layout: default
 |**2024-11-05**|**Gradient Methods with Online Scaling**|Wenzhi Gao et.al.|[2411.01803](http://arxiv.org/abs/2411.01803)|**[link](https://github.com/Gwzwpxz/osgm)**|
 |**2024-11-03**|**Analysis of regularized federated learning**|Langming Liu et.al.|[2411.01548](http://arxiv.org/abs/2411.01548)|null|
 |**2024-11-03**|**Efficient and Robust Regularized Federated Recommendation**|Langming Liu et.al.|[2411.01540](http://arxiv.org/abs/2411.01540)|**[link](https://github.com/Applied-Machine-Learning-Lab/RFRec)**|
-|**2024-11-02**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
+|**2024-11-07**|**The Implicit Bias of Gradient Descent on Separable Multiclass Data**|Hrithik Ravi et.al.|[2411.01350](http://arxiv.org/abs/2411.01350)|null|
 |**2024-11-02**|**Privacy-Preserving Federated Learning with Differentially Private Hyperdimensional Computing**|Fardin Jalil Piran et.al.|[2411.01140](http://arxiv.org/abs/2411.01140)|null|
 |**2024-11-01**|**SKI-SAT: A CMOS-compatible Hardware for Solving SAT Problems**|Ahmet Yusuf Salim et.al.|[2411.01028](http://arxiv.org/abs/2411.01028)|null|
 |**2024-11-01**|**Constrained Sampling with Primal-Dual Langevin Monte Carlo**|Luiz F. O. Chamon et.al.|[2411.00568](http://arxiv.org/abs/2411.00568)|null|
@@ -5030,9 +5030,9 @@ layout: default
 |**2024-11-05**|**The Unreasonable Effectiveness of LLMs for Query Optimization**|Peter Akioyamen et.al.|[2411.02862](http://arxiv.org/abs/2411.02862)|**[link](https://github.com/peter-ai/LLMSteer)**|
 |**2024-11-05**|**ADOPT: Modified Adam Can Converge with Any $β_2$ with the Optimal Rate**|Shohei Taniguchi et.al.|[2411.02853](http://arxiv.org/abs/2411.02853)|**[link](https://github.com/ishohei220/adopt)**|
 |**2024-11-05**|**When to Localize? A Risk-Constrained Reinforcement Learning Approach**|Chak Lam Shek et.al.|[2411.02788](http://arxiv.org/abs/2411.02788)|null|
-|**2024-11-04**|**Learning to Assist Humans without Inferring Rewards**|Vivek Myers et.al.|[2411.02623](http://arxiv.org/abs/2411.02623)|**[link](https://github.com/vivekmyers/empowerment_successor_representations)**|
+|**2024-11-07**|**Learning to Assist Humans without Inferring Rewards**|Vivek Myers et.al.|[2411.02623](http://arxiv.org/abs/2411.02623)|**[link](https://github.com/vivekmyers/empowerment_successor_representations)**|
 |**2024-11-04**|**Dynamic Weight Adjusting Deep Q-Networks for Real-Time Environmental Adaptation**|Xinhao Zhang et.al.|[2411.02559](http://arxiv.org/abs/2411.02559)|null|
-|**2024-11-04**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
+|**2024-11-06**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
 |**2024-11-04**|**Enhancing Multiple Dimensions of Trustworthiness in LLMs via Sparse Activation Control**|Yuxin Xiao et.al.|[2411.02461](http://arxiv.org/abs/2411.02461)|null|
 |**2024-11-03**|**Learning World Models for Unconstrained Goal Navigation**|Yuanlin Duan et.al.|[2411.02446](http://arxiv.org/abs/2411.02446)|**[link](https://github.com/RU-Automated-Reasoning-Group/MUN)**|
 |**2024-11-04**|**Simulation of Nanorobots with Artificial Intelligence and Reinforcement Learning for Advanced Cancer Cell Detection and Tracking**|Shahab Kavousinejad et.al.|[2411.02345](http://arxiv.org/abs/2411.02345)|**[link](https://github.com/shahab-k93/cancer-and-smart-nanorobot)**|
@@ -5067,7 +5067,7 @@ layout: default
 |**2024-11-02**|**Hedging and Pricing Structured Products Featuring Multiple Underlying Assets**|Anil Sharma et.al.|[2411.01121](http://arxiv.org/abs/2411.01121)|null|
 |**2024-11-02**|**Rule Based Rewards for Language Model Safety**|Tong Mu et.al.|[2411.01111](http://arxiv.org/abs/2411.01111)|**[link](https://github.com/openai/safety-rbr-code-and-data)**|
 |**2024-11-01**|**Effective ML Model Versioning in Edge Networks**|Fin Gentzen et.al.|[2411.01078](http://arxiv.org/abs/2411.01078)|null|
-|**2024-11-05**|**Birdie: Advancing State Space Models with Reward-Driven Objectives and Curricula**|Sam Blouir et.al.|[2411.01030](http://arxiv.org/abs/2411.01030)|**[link](https://github.com/samblouir/birdie)**|
+|**2024-11-07**|**Birdie: Advancing State Space Models with Reward-Driven Objectives and Curricula**|Sam Blouir et.al.|[2411.01030](http://arxiv.org/abs/2411.01030)|**[link](https://github.com/samblouir/birdie)**|
 |**2024-11-01**|**Trajectory Design and Guidance for Far-range Proximity Operations of Active Debris Removal Missions with Angles-only Navigation and Safety Considerations**|Minduli C. Wijayatunga et.al.|[2411.01021](http://arxiv.org/abs/2411.01021)|null|
 |**2024-11-01**|**AI-Guided Codesign Framework for Novel Material and Device Design applied to MTJ-based True Random Number Generators**|Karan P. Patel et.al.|[2411.01008](http://arxiv.org/abs/2411.01008)|null|
 |**2024-11-01**|**Enhancing Model-Based Step Adaptation for Push Recovery through Reinforcement Learning of Step Timing and Region**|Tobias Egle et.al.|[2411.01000](http://arxiv.org/abs/2411.01000)|null|
