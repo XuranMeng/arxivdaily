@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Decision Feedback In-Context Symbol Detection over Block-Fading Channels**|Li Fan et.al.|[2411.07600](http://arxiv.org/abs/2411.07600)|null|
 |**2024-11-11**|**Comparing Bottom-Up and Top-Down Steering Approaches on In-Context Learning Tasks**|Madeline Brumley et.al.|[2411.07213](http://arxiv.org/abs/2411.07213)|null|
 |**2024-11-11**|**Retrieval or Global Context Understanding? On Many-Shot In-Context Learning for Long-Context Evaluation**|Kaijian Zou et.al.|[2411.07130](http://arxiv.org/abs/2411.07130)|**[link](https://github.com/launchnlp/ManyICLBench)**|
 |**2024-11-11**|**Universal Response and Emergence of Induction in LLMs**|Niclas Luick et.al.|[2411.07071](http://arxiv.org/abs/2411.07071)|null|
@@ -1094,6 +1095,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Joint multi-dimensional dynamic attention and transformer for general image restoration**|Huan Zhang et.al.|[2411.07893](http://arxiv.org/abs/2411.07893)|**[link](https://github.com/house-yuyu/mdda-former)**|
+|**2024-11-10**|**Feature Fusion Transferability Aware Transformer for Unsupervised Domain Adaptation**|Xiaowei Yu et.al.|[2411.07794](http://arxiv.org/abs/2411.07794)|null|
+|**2024-11-12**|**3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration**|Liyuan Zhang et.al.|[2411.07740](http://arxiv.org/abs/2411.07740)|null|
 |**2024-11-11**|**ConvMixFormer- A Resource-efficient Convolution Mixer for Transformer-based Dynamic Hand Gesture Recognition**|Mallika Garg et.al.|[2411.07118](http://arxiv.org/abs/2411.07118)|**[link](https://github.com/mallikagarg/convmixformer)**|
 |**2024-11-11**|**Spatially Constrained Transformer with Efficient Global Relation Modelling for Spatio-Temporal Prediction**|Ashutosh Sao et.al.|[2411.06836](http://arxiv.org/abs/2411.06836)|**[link](https://github.com/ashusao/st-samplenet)**|
 |**2024-11-11**|**HSTrack: Bootstrap End-to-End Multi-Camera 3D Multi-object Tracking with Hybrid Supervision**|Shubo Lin et.al.|[2411.06780](http://arxiv.org/abs/2411.06780)|null|
@@ -2223,6 +2227,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
+|**2024-11-12**|**Unraveling the Gradient Descent Dynamics of Transformers**|Bingqing Song et.al.|[2411.07538](http://arxiv.org/abs/2411.07538)|null|
+|**2024-11-11**|**Coupled Wasserstein Gradient Flows for Min-Max and Cooperative Games**|Lauren Conger et.al.|[2411.07403](http://arxiv.org/abs/2411.07403)|null|
+|**2024-11-09**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
 |**2024-11-11**|**Manifold Quadratic Penalty Alternating Minimization for Sparse Principal Component Analysis**|Tarmizi Adam et.al.|[2411.06654](http://arxiv.org/abs/2411.06654)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
@@ -3690,6 +3698,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
+|**2024-11-12**|**Exploring the loss landscape of regularized neural networks via convex duality**|Sungyoon Kim et.al.|[2411.07729](http://arxiv.org/abs/2411.07729)|null|
+|**2024-11-12**|**Unraveling the Gradient Descent Dynamics of Transformers**|Bingqing Song et.al.|[2411.07538](http://arxiv.org/abs/2411.07538)|null|
+|**2024-11-11**|**Coupled Wasserstein Gradient Flows for Min-Max and Cooperative Games**|Lauren Conger et.al.|[2411.07403](http://arxiv.org/abs/2411.07403)|null|
+|**2024-11-09**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
 |**2024-11-11**|**Manifold Quadratic Penalty Alternating Minimization for Sparse Principal Component Analysis**|Tarmizi Adam et.al.|[2411.06654](http://arxiv.org/abs/2411.06654)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
@@ -5089,6 +5102,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Doubly Mild Generalization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2411.07934](http://arxiv.org/abs/2411.07934)|**[link](https://github.com/maoyixiu/dmg)**|
+|**2024-11-12**|**Scaling policy iteration based reinforcement learning for unknown discrete-time linear systems**|Zhen Pang et.al.|[2411.07825](http://arxiv.org/abs/2411.07825)|null|
+|**2024-11-12**|**Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning**|Alexi Canesse et.al.|[2411.07760](http://arxiv.org/abs/2411.07760)|null|
+|**2024-11-12**|**Optimizing Traffic Signal Control using High-Dimensional State Representation and Efficient Deep Reinforcement Learning**|Lawrence Francis et.al.|[2411.07759](http://arxiv.org/abs/2411.07759)|null|
+|**2024-11-12**|**Test Where Decisions Matter: Importance-driven Testing for Deep Reinforcement Learning**|Stefan Pranger et.al.|[2411.07700](http://arxiv.org/abs/2411.07700)|null|
+|**2024-11-12**|**Exploring Multi-Agent Reinforcement Learning for Unrelated Parallel Machine Scheduling**|Maria Zampella et.al.|[2411.07634](http://arxiv.org/abs/2411.07634)|null|
+|**2024-11-12**|**Direct Preference Optimization Using Sparse Feature-Level Constraints**|Qingyu Yin et.al.|[2411.07618](http://arxiv.org/abs/2411.07618)|null|
+|**2024-11-12**|**Entropy Controllable Direct Preference Optimization**|Motoki Omura et.al.|[2411.07595](http://arxiv.org/abs/2411.07595)|null|
+|**2024-11-12**|**Overcoming the Curse of Dimensionality in Reinforcement Learning Through Approximate Factorization**|Chenbei Lu et.al.|[2411.07591](http://arxiv.org/abs/2411.07591)|null|
+|**2024-11-12**|**Reinforcement Learning Framework for Quantitative Trading**|Alhassan S. Yasin et.al.|[2411.07585](http://arxiv.org/abs/2411.07585)|null|
+|**2024-11-12**|**Learning Autonomous Docking Operation of Fully Actuated Autonomous Surface Vessel from Expert data**|Akash Vijayakumar et.al.|[2411.07550](http://arxiv.org/abs/2411.07550)|null|
+|**2024-11-12**|**Robust Offline Reinforcement Learning for Non-Markovian Decision Processes**|Ruiquan Huang et.al.|[2411.07514](http://arxiv.org/abs/2411.07514)|null|
+|**2024-11-12**|**AdaS&S: a One-Shot Supernet Approach for Automatic Embedding Size Search in Deep Recommender System**|He Wei et.al.|[2411.07504](http://arxiv.org/abs/2411.07504)|null|
+|**2024-11-11**|**Identifying Differential Patient Care Through Inverse Intent Inference**|Hyewon Jeong et.al.|[2411.07372](http://arxiv.org/abs/2411.07372)|null|
+|**2024-11-11**|**SynRL: Aligning Synthetic Clinical Trial Data with Human-preferred Clinical Endpoints Using Reinforcement Learning**|Trisha Das et.al.|[2411.07317](http://arxiv.org/abs/2411.07317)|null|
+|**2024-11-10**|**Multi-hop Upstream Preemptive Traffic Signal Control with Deep Reinforcement Learning**|Xiaocan Li et.al.|[2411.07271](http://arxiv.org/abs/2411.07271)|null|
 |**2024-11-11**|**'Explaining RL Decisions with Trajectories': A Reproducibility Study**|Karim Abdel Sadek et.al.|[2411.07200](http://arxiv.org/abs/2411.07200)|**[link](https://github.com/karim-abdel/fact)**|
 |**2024-11-11**|**Joint Age-State Belief is All You Need: Minimizing AoII via Pull-Based Remote Estimation**|Ismail Cosandal et.al.|[2411.07179](http://arxiv.org/abs/2411.07179)|null|
 |**2024-11-11**|**Learning Multi-Agent Collaborative Manipulation for Long-Horizon Quadrupedal Pushing**|Chuye Hong et.al.|[2411.07104](http://arxiv.org/abs/2411.07104)|null|
