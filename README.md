@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1089,7 +1089,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Transformer
 
@@ -2221,7 +2221,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Optimization
 
@@ -2230,7 +2230,7 @@
 |**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
 |**2024-11-12**|**Unraveling the Gradient Descent Dynamics of Transformers**|Bingqing Song et.al.|[2411.07538](http://arxiv.org/abs/2411.07538)|null|
 |**2024-11-11**|**Coupled Wasserstein Gradient Flows for Min-Max and Cooperative Games**|Lauren Conger et.al.|[2411.07403](http://arxiv.org/abs/2411.07403)|null|
-|**2024-11-09**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
+|**2024-11-13**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
 |**2024-11-11**|**Manifold Quadratic Penalty Alternating Minimization for Sparse Principal Component Analysis**|Tarmizi Adam et.al.|[2411.06654](http://arxiv.org/abs/2411.06654)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
@@ -2326,7 +2326,7 @@
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-22**|**Theoretical Convergence Guarantees for Variational Autoencoders**|Sobihan Surendran et.al.|[2410.16750](http://arxiv.org/abs/2410.16750)|null|
 |**2024-10-22**|**Convex Markov Games: A Framework for Fairness, Imitation, and Creativity in Multi-Agent Learning**|Ian Gemp et.al.|[2410.16600](http://arxiv.org/abs/2410.16600)|null|
-|**2024-10-21**|**Gradient Normalization with(out) Clipping Ensures Convergence of Nonconvex SGD under Heavy-Tailed Noise with Improved Results**|Tao Sun et.al.|[2410.16561](http://arxiv.org/abs/2410.16561)|null|
+|**2024-11-13**|**Gradient Normalization Provably Benefits Nonconvex SGD under Heavy-Tailed Noise**|Tao Sun et.al.|[2410.16561](http://arxiv.org/abs/2410.16561)|null|
 |**2024-10-25**|**Limit Theorems for Stochastic Gradient Descent with Infinite Variance**|Jose Blanchet et.al.|[2410.16340](http://arxiv.org/abs/2410.16340)|null|
 |**2024-10-21**|**Composing Optimized Stepsize Schedules for Gradient Descent**|Benjamin Grimmer et.al.|[2410.16249](http://arxiv.org/abs/2410.16249)|null|
 |**2024-10-21**|**Implicit Regularization for Tubal Tensor Factorizations via Gradient Descent**|Santhosh Karnik et.al.|[2410.16247](http://arxiv.org/abs/2410.16247)|null|
@@ -3495,7 +3495,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3692,7 +3692,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3702,7 +3702,7 @@
 |**2024-11-12**|**Exploring the loss landscape of regularized neural networks via convex duality**|Sungyoon Kim et.al.|[2411.07729](http://arxiv.org/abs/2411.07729)|null|
 |**2024-11-12**|**Unraveling the Gradient Descent Dynamics of Transformers**|Bingqing Song et.al.|[2411.07538](http://arxiv.org/abs/2411.07538)|null|
 |**2024-11-11**|**Coupled Wasserstein Gradient Flows for Min-Max and Cooperative Games**|Lauren Conger et.al.|[2411.07403](http://arxiv.org/abs/2411.07403)|null|
-|**2024-11-09**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
+|**2024-11-13**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
 |**2024-11-11**|**Manifold Quadratic Penalty Alternating Minimization for Sparse Principal Component Analysis**|Tarmizi Adam et.al.|[2411.06654](http://arxiv.org/abs/2411.06654)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
@@ -5096,13 +5096,13 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 ## Reinforcement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-12**|**Doubly Mild Generalization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2411.07934](http://arxiv.org/abs/2411.07934)|**[link](https://github.com/maoyixiu/dmg)**|
+|**2024-11-13**|**Doubly Mild Generalization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2411.07934](http://arxiv.org/abs/2411.07934)|**[link](https://github.com/maoyixiu/dmg)**|
 |**2024-11-12**|**Scaling policy iteration based reinforcement learning for unknown discrete-time linear systems**|Zhen Pang et.al.|[2411.07825](http://arxiv.org/abs/2411.07825)|null|
 |**2024-11-12**|**Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning**|Alexi Canesse et.al.|[2411.07760](http://arxiv.org/abs/2411.07760)|null|
 |**2024-11-12**|**Optimizing Traffic Signal Control using High-Dimensional State Representation and Efficient Deep Reinforcement Learning**|Lawrence Francis et.al.|[2411.07759](http://arxiv.org/abs/2411.07759)|null|
@@ -9726,7 +9726,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241113>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241114>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors

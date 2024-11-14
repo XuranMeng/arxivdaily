@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.13
+## Updated on 2024.11.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -2218,7 +2218,7 @@ layout: default
 |**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
 |**2024-11-12**|**Unraveling the Gradient Descent Dynamics of Transformers**|Bingqing Song et.al.|[2411.07538](http://arxiv.org/abs/2411.07538)|null|
 |**2024-11-11**|**Coupled Wasserstein Gradient Flows for Min-Max and Cooperative Games**|Lauren Conger et.al.|[2411.07403](http://arxiv.org/abs/2411.07403)|null|
-|**2024-11-09**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
+|**2024-11-13**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
 |**2024-11-11**|**Manifold Quadratic Penalty Alternating Minimization for Sparse Principal Component Analysis**|Tarmizi Adam et.al.|[2411.06654](http://arxiv.org/abs/2411.06654)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
@@ -2314,7 +2314,7 @@ layout: default
 |**2024-10-22**|**Context-aware Prompt Tuning: Advancing In-Context Learning with Adversarial Methods**|Tsachi Blau et.al.|[2410.17222](http://arxiv.org/abs/2410.17222)|null|
 |**2024-10-22**|**Theoretical Convergence Guarantees for Variational Autoencoders**|Sobihan Surendran et.al.|[2410.16750](http://arxiv.org/abs/2410.16750)|null|
 |**2024-10-22**|**Convex Markov Games: A Framework for Fairness, Imitation, and Creativity in Multi-Agent Learning**|Ian Gemp et.al.|[2410.16600](http://arxiv.org/abs/2410.16600)|null|
-|**2024-10-21**|**Gradient Normalization with(out) Clipping Ensures Convergence of Nonconvex SGD under Heavy-Tailed Noise with Improved Results**|Tao Sun et.al.|[2410.16561](http://arxiv.org/abs/2410.16561)|null|
+|**2024-11-13**|**Gradient Normalization Provably Benefits Nonconvex SGD under Heavy-Tailed Noise**|Tao Sun et.al.|[2410.16561](http://arxiv.org/abs/2410.16561)|null|
 |**2024-10-25**|**Limit Theorems for Stochastic Gradient Descent with Infinite Variance**|Jose Blanchet et.al.|[2410.16340](http://arxiv.org/abs/2410.16340)|null|
 |**2024-10-21**|**Composing Optimized Stepsize Schedules for Gradient Descent**|Benjamin Grimmer et.al.|[2410.16249](http://arxiv.org/abs/2410.16249)|null|
 |**2024-10-21**|**Implicit Regularization for Tubal Tensor Factorizations via Gradient Descent**|Santhosh Karnik et.al.|[2410.16247](http://arxiv.org/abs/2410.16247)|null|
@@ -3686,7 +3686,7 @@ layout: default
 |**2024-11-12**|**Exploring the loss landscape of regularized neural networks via convex duality**|Sungyoon Kim et.al.|[2411.07729](http://arxiv.org/abs/2411.07729)|null|
 |**2024-11-12**|**Unraveling the Gradient Descent Dynamics of Transformers**|Bingqing Song et.al.|[2411.07538](http://arxiv.org/abs/2411.07538)|null|
 |**2024-11-11**|**Coupled Wasserstein Gradient Flows for Min-Max and Cooperative Games**|Lauren Conger et.al.|[2411.07403](http://arxiv.org/abs/2411.07403)|null|
-|**2024-11-09**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
+|**2024-11-13**|**Target-driven Attack for Large Language Models**|Chong Zhang et.al.|[2411.07268](http://arxiv.org/abs/2411.07268)|null|
 |**2024-11-11**|**Non-Adversarial Inverse Reinforcement Learning via Successor Feature Matching**|Arnav Kumar Jain et.al.|[2411.07007](http://arxiv.org/abs/2411.07007)|**[link](https://github.com/arnavkj1995/sfm)**|
 |**2024-11-11**|**Manifold Quadratic Penalty Alternating Minimization for Sparse Principal Component Analysis**|Tarmizi Adam et.al.|[2411.06654](http://arxiv.org/abs/2411.06654)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
@@ -5084,7 +5084,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-12**|**Doubly Mild Generalization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2411.07934](http://arxiv.org/abs/2411.07934)|**[link](https://github.com/maoyixiu/dmg)**|
+|**2024-11-13**|**Doubly Mild Generalization for Offline Reinforcement Learning**|Yixiu Mao et.al.|[2411.07934](http://arxiv.org/abs/2411.07934)|**[link](https://github.com/maoyixiu/dmg)**|
 |**2024-11-12**|**Scaling policy iteration based reinforcement learning for unknown discrete-time linear systems**|Zhen Pang et.al.|[2411.07825](http://arxiv.org/abs/2411.07825)|null|
 |**2024-11-12**|**Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning**|Alexi Canesse et.al.|[2411.07760](http://arxiv.org/abs/2411.07760)|null|
 |**2024-11-12**|**Optimizing Traffic Signal Control using High-Dimensional State Representation and Efficient Deep Reinforcement Learning**|Lawrence Francis et.al.|[2411.07759](http://arxiv.org/abs/2411.07759)|null|
