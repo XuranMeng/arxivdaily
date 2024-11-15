@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**StreamAdapter: Efficient Test Time Adaptation from Contextual Streams**|Dilxat Muhtar et.al.|[2411.09289](http://arxiv.org/abs/2411.09289)|null|
 |**2024-11-13**|**XiYan-SQL: A Multi-Generator Ensemble Framework for Text-to-SQL**|Yingqi Gao et.al.|[2411.08599](http://arxiv.org/abs/2411.08599)|null|
 |**2024-11-13**|**Towards Optimizing a Retrieval Augmented Generation using Large Language Model on Academic Data**|Anum Afzal et.al.|[2411.08438](http://arxiv.org/abs/2411.08438)|null|
 |**2024-11-12**|**Decision Feedback In-Context Symbol Detection over Block-Fading Channels**|Li Fan et.al.|[2411.07600](http://arxiv.org/abs/2411.07600)|null|
@@ -32,7 +33,7 @@
 |**2024-11-10**|**One controller to rule them all**|Riccardo Busetto et.al.|[2411.06482](http://arxiv.org/abs/2411.06482)|null|
 |**2024-11-09**|**A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization**|Haoxin Liu et.al.|[2411.06018](http://arxiv.org/abs/2411.06018)|null|
 |**2024-11-08**|**Generative Adapter: Contextualizing Language Models in Parameters with A Single Forward Pass**|Tong Chen et.al.|[2411.05877](http://arxiv.org/abs/2411.05877)|null|
-|**2024-11-14**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521](http://arxiv.org/abs/2411.05521)|null|
+|**2024-11-14**|**SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark**|Sithursan Sivasubramaniam et.al.|[2411.05521](http://arxiv.org/abs/2411.05521)|**[link](https://github.com/jf87/sm3-text-to-query)**|
 |**2024-11-08**|**WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning**|Xiangyu Zhao et.al.|[2411.05420](http://arxiv.org/abs/2411.05420)|null|
 |**2024-11-07**|**Adversarial Robustness of In-Context Learning in Transformers for Linear Regression**|Usman Anwar et.al.|[2411.05189](http://arxiv.org/abs/2411.05189)|null|
 |**2024-11-07**|**Vision Language Models are In-Context Value Learners**|Yecheng Jason Ma et.al.|[2411.04549](http://arxiv.org/abs/2411.04549)|null|
@@ -1097,6 +1098,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**SAG-ViT: A Scale-Aware, High-Fidelity Patching Approach with Graph Attention for Vision Transformers**|Shravan Venkatraman et.al.|[2411.09420](http://arxiv.org/abs/2411.09420)|null|
+|**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
+|**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
 |**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
 |**2024-11-13**|**TRACE: Transformer-based Risk Assessment for Clinical Evaluation**|Dionysis Christopoulos et.al.|[2411.08701](http://arxiv.org/abs/2411.08701)|null|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
@@ -2233,6 +2237,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|null|
+|**2024-11-14**|**Stability and Generalization for Distributed SGDA**|Miaoxi Zhu et.al.|[2411.09365](http://arxiv.org/abs/2411.09365)|null|
+|**2024-11-13**|**The geometry of the deep linear network**|Govind Menon et.al.|[2411.09004](http://arxiv.org/abs/2411.09004)|null|
 |**2024-11-13**|**Digital Euler Characteristic Transform**|Henry Kirveslahti et.al.|[2411.08522](http://arxiv.org/abs/2411.08522)|null|
 |**2024-11-13**|**HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere**|Hatef Otroshi Shahreza et.al.|[2411.08470](http://arxiv.org/abs/2411.08470)|null|
 |**2024-11-13**|**DEEGITS: Deep Learning based Framework for Measuring Heterogenous Traffic State in Challenging Traffic Scenarios**|Muttahirul Islam et.al.|[2411.08335](http://arxiv.org/abs/2411.08335)|null|
@@ -3708,6 +3715,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|null|
+|**2024-11-14**|**Stability and Generalization for Distributed SGDA**|Miaoxi Zhu et.al.|[2411.09365](http://arxiv.org/abs/2411.09365)|null|
+|**2024-11-14**|**Enhancing Variational Quantum Circuit Training: An Improved Neural Network Approach for Barren Plateau Mitigation**|Zhehao Yi et.al.|[2411.09226](http://arxiv.org/abs/2411.09226)|null|
+|**2024-11-13**|**The geometry of the deep linear network**|Govind Menon et.al.|[2411.09004](http://arxiv.org/abs/2411.09004)|null|
 |**2024-11-13**|**Digital Euler Characteristic Transform**|Henry Kirveslahti et.al.|[2411.08522](http://arxiv.org/abs/2411.08522)|null|
 |**2024-11-13**|**HyperFace: Generating Synthetic Face Recognition Datasets by Exploring Face Embedding Hypersphere**|Hatef Otroshi Shahreza et.al.|[2411.08470](http://arxiv.org/abs/2411.08470)|null|
 |**2024-11-13**|**DEEGITS: Deep Learning based Framework for Measuring Heterogenous Traffic State in Challenging Traffic Scenarios**|Muttahirul Islam et.al.|[2411.08335](http://arxiv.org/abs/2411.08335)|null|
@@ -5116,6 +5127,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**A Risk Sensitive Contract-unified Reinforcement Learning Approach for Option Hedging**|Xianhua Peng et.al.|[2411.09659](http://arxiv.org/abs/2411.09659)|null|
+|**2024-11-14**|**Tailoring interactions between active nematic defects with reinforcement learning**|Carlos Floyd et.al.|[2411.09588](http://arxiv.org/abs/2411.09588)|null|
+|**2024-11-14**|**Developement of Reinforcement Learning based Optimisation Method for Side-Sill Design**|Aditya Borse et.al.|[2411.09499](http://arxiv.org/abs/2411.09499)|null|
+|**2024-11-14**|**Approximated Variational Bayesian Inverse Reinforcement Learning for Large Language Model Alignment**|Yuang Cai et.al.|[2411.09341](http://arxiv.org/abs/2411.09341)|null|
+|**2024-11-14**|**Socio-Economic Consequences of Generative AI: A Review of Methodological Approaches**|Carlos J. Costa et.al.|[2411.09313](http://arxiv.org/abs/2411.09313)|null|
+|**2024-11-14**|**Enhancing reinforcement learning for population setpoint tracking in co-cultures**|Sebastián Espinel-Ríos et.al.|[2411.09177](http://arxiv.org/abs/2411.09177)|null|
+|**2024-11-14**|**Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging**|Bo Wang et.al.|[2411.09176](http://arxiv.org/abs/2411.09176)|null|
+|**2024-11-14**|**Rationality based Innate-Values-driven Reinforcement Learning**|Qin Yang et.al.|[2411.09160](http://arxiv.org/abs/2411.09160)|null|
+|**2024-11-14**|**Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach**|Yangbo Guo et.al.|[2411.09146](http://arxiv.org/abs/2411.09146)|null|
+|**2024-11-13**|**Code-mixed LLM: Improve Large Language Models' Capability to Handle Code-Mixing through Reinforcement Learning from AI Feedback**|Wenbo Zhang et.al.|[2411.09073](http://arxiv.org/abs/2411.09073)|null|
+|**2024-11-13**|**Liner Shipping Network Design with Reinforcement Learning**|Utsav Dutta et.al.|[2411.09068](http://arxiv.org/abs/2411.09068)|null|
+|**2024-11-12**|**Aligning Visual Contrastive learning models via Preference Optimization**|Amirabbas Afzali et.al.|[2411.08923](http://arxiv.org/abs/2411.08923)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
 |**2024-11-13**|**Goal-oriented Semantic Communication for Robot Arm Reconstruction in Digital Twin: Feature and Temporal Selections**|Shutong Chen et.al.|[2411.08835](http://arxiv.org/abs/2411.08835)|null|
 |**2024-11-13**|**Recommender systems and reinforcement learning for building control and occupant interaction: A text-mining driven review of scientific literature**|Wenhao Zhang et.al.|[2411.08734](http://arxiv.org/abs/2411.08734)|null|
