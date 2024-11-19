@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -63,7 +63,7 @@
 |**2024-11-04**|**N-Gram Induction Heads for In-Context RL: Improving Stability and Reducing Data Needs**|Ilya Zisman et.al.|[2411.01958](http://arxiv.org/abs/2411.01958)|null|
 |**2024-11-03**|**Robust Neural Processes for Noisy Data**|Chen Shapira et.al.|[2411.01670](http://arxiv.org/abs/2411.01670)|null|
 |**2024-10-30**|**DemoCraft: Using In-Context Learning to Improve Code Generation in Large Language Models**|Nirmal Joshua Kapu et.al.|[2411.00865](http://arxiv.org/abs/2411.00865)|null|
-|**2024-11-01**|**Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization**|Zeyuan Ma et.al.|[2411.00625](http://arxiv.org/abs/2411.00625)|**[link](https://github.com/gmc-drl/awesome-metabbo)**|
+|**2024-11-16**|**Toward Automated Algorithm Design: A Survey and Practical Guide to Meta-Black-Box-Optimization**|Zeyuan Ma et.al.|[2411.00625](http://arxiv.org/abs/2411.00625)|**[link](https://github.com/gmc-drl/awesome-metabbo)**|
 |**2024-11-01**|**STEM-POM: Evaluating Language Models Math-Symbol Reasoning in Document Parsing**|Jiaru Zou et.al.|[2411.00387](http://arxiv.org/abs/2411.00387)|null|
 |**2024-10-31**|**In-Context Learned Equalization in Cell-Free Massive MIMO via State-Space Models**|Zihang Song et.al.|[2410.23882](http://arxiv.org/abs/2410.23882)|null|
 |**2024-10-31**|**Can Language Models Perform Robust Reasoning in Chain-of-thought Prompting with Noisy Rationales?**|Zhanke Zhou et.al.|[2410.23856](http://arxiv.org/abs/2410.23856)|**[link](https://github.com/tmlr-group/noisyrationales)**|
@@ -1094,7 +1094,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Transformer
 
@@ -2240,7 +2240,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Optimization
 
@@ -3523,7 +3523,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3600,7 +3600,7 @@
 |**2024-03-15**|**Understanding the Double Descent Phenomenon in Deep Learning**|Marc Lafon et.al.|[2403.10459](http://arxiv.org/abs/2403.10459)|null|
 |**2024-03-14**|**Reawakening knowledge: Anticipatory recovery from catastrophic interference via structured training**|Yanlai Yang et.al.|[2403.09613](http://arxiv.org/abs/2403.09613)|**[link](https://github.com/agentic-learning-ai-lab/anticipatory-recovery-public)**|
 |**2024-03-06**|**Saturating Sorting without Sorts**|Pamina Georgiou et.al.|[2403.03712](http://arxiv.org/abs/2403.03712)|null|
-|**2024-03-03**|**The Implicit Bias of Heterogeneity towards Invariance and Causality**|Yang Xu et.al.|[2403.01420](http://arxiv.org/abs/2403.01420)|null|
+|**2024-11-16**|**The Implicit Bias of Heterogeneity towards Invariance: A Study of Multi-Environment Matrix Sensing**|Yang Xu et.al.|[2403.01420](http://arxiv.org/abs/2403.01420)|null|
 |**2024-02-29**|**Supervised Contrastive Representation Learning: Landscape Analysis with Unconstrained Features**|Tina Behnia et.al.|[2402.18884](http://arxiv.org/abs/2402.18884)|null|
 |**2024-02-26**|**On the Generalization Capability of Temporal Graph Learning Algorithms: Theoretical Insights and a Simpler Method**|Weilin Cong et.al.|[2402.16387](http://arxiv.org/abs/2402.16387)|null|
 |**2024-06-02**|**Advancing Parameter Efficiency in Fine-tuning via Representation Editing**|Muling Wu et.al.|[2402.15179](http://arxiv.org/abs/2402.15179)|**[link](https://github.com/mlwu22/red)**|
@@ -3720,7 +3720,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -5135,7 +5135,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -5167,7 +5167,7 @@
 |**2024-11-14**|**Approximated Variational Bayesian Inverse Reinforcement Learning for Large Language Model Alignment**|Yuang Cai et.al.|[2411.09341](http://arxiv.org/abs/2411.09341)|null|
 |**2024-11-14**|**Socio-Economic Consequences of Generative AI: A Review of Methodological Approaches**|Carlos J. Costa et.al.|[2411.09313](http://arxiv.org/abs/2411.09313)|null|
 |**2024-11-14**|**Enhancing reinforcement learning for population setpoint tracking in co-cultures**|Sebastián Espinel-Ríos et.al.|[2411.09177](http://arxiv.org/abs/2411.09177)|null|
-|**2024-11-14**|**Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging**|Bo Wang et.al.|[2411.09176](http://arxiv.org/abs/2411.09176)|null|
+|**2024-11-16**|**Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging**|Bo Wang et.al.|[2411.09176](http://arxiv.org/abs/2411.09176)|null|
 |**2024-11-14**|**Rationality based Innate-Values-driven Reinforcement Learning**|Qin Yang et.al.|[2411.09160](http://arxiv.org/abs/2411.09160)|null|
 |**2024-11-14**|**Secrecy Energy Efficiency Maximization in IRS-Assisted VLC MISO Networks with RSMA: A DS-PPO approach**|Yangbo Guo et.al.|[2411.09146](http://arxiv.org/abs/2411.09146)|null|
 |**2024-11-13**|**Code-mixed LLM: Improve Large Language Models' Capability to Handle Code-Mixing through Reinforcement Learning from AI Feedback**|Wenbo Zhang et.al.|[2411.09073](http://arxiv.org/abs/2411.09073)|null|
@@ -9815,7 +9815,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
