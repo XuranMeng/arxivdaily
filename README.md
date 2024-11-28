@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1120,7 +1120,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## Transformer
 
@@ -2307,7 +2307,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## Optimization
 
@@ -2334,10 +2334,10 @@
 |**2024-11-23**|**Gradient dynamics for low-rank fine-tuning beyond kernels**|Arif Kerem Dayi et.al.|[2411.15385](http://arxiv.org/abs/2411.15385)|null|
 |**2024-11-22**|**Applications of fractional calculus in learned optimization**|Teodor Alexandru Szente et.al.|[2411.14855](http://arxiv.org/abs/2411.14855)|null|
 |**2024-11-22**|**High-Bandwidth, Low-Computational Approach: Estimator-Based Control for Hybrid Flying Capacitor Multilevel Converters Using Multi-Cost Gradient Descent and State Feedforward**|Inhwi Hwang et.al.|[2411.14707](http://arxiv.org/abs/2411.14707)|null|
-|**2024-11-22**|**Diversification quotient based on expectiles**|Xia Han et.al.|[2411.14646](http://arxiv.org/abs/2411.14646)|null|
+|**2024-11-27**|**Diversification quotient based on expectiles**|Xia Han et.al.|[2411.14646](http://arxiv.org/abs/2411.14646)|null|
 |**2024-11-22**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349](http://arxiv.org/abs/2411.14349)|null|
 |**2024-11-21**|**Performance Analysis of STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Electromagnetic Interference and Phase Errors**|Jun Qian et.al.|[2411.14030](http://arxiv.org/abs/2411.14030)|null|
-|**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
+|**2024-11-27**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
 |**2024-11-21**|**Data-Driven Multi-step Nonlinear Model Predictive Control for Industrial Heavy Load Hydraulic Robot**|Dexian Ma et.al.|[2411.13859](http://arxiv.org/abs/2411.13859)|null|
 |**2024-11-20**|**Benchmarking a wide range of optimisers for solving the Fermi-Hubbard model using the variational quantum eigensolver**|Benjamin D. M. Jones et.al.|[2411.13742](http://arxiv.org/abs/2411.13742)|null|
 |**2024-11-20**|**Differentially Private Learning Beyond the Classical Dimensionality Regime**|Cynthia Dwork et.al.|[2411.13682](http://arxiv.org/abs/2411.13682)|null|
@@ -3639,7 +3639,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3838,7 +3838,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -3868,10 +3868,10 @@
 |**2024-11-23**|**Gradient dynamics for low-rank fine-tuning beyond kernels**|Arif Kerem Dayi et.al.|[2411.15385](http://arxiv.org/abs/2411.15385)|null|
 |**2024-11-22**|**Applications of fractional calculus in learned optimization**|Teodor Alexandru Szente et.al.|[2411.14855](http://arxiv.org/abs/2411.14855)|null|
 |**2024-11-22**|**High-Bandwidth, Low-Computational Approach: Estimator-Based Control for Hybrid Flying Capacitor Multilevel Converters Using Multi-Cost Gradient Descent and State Feedforward**|Inhwi Hwang et.al.|[2411.14707](http://arxiv.org/abs/2411.14707)|null|
-|**2024-11-22**|**Diversification quotient based on expectiles**|Xia Han et.al.|[2411.14646](http://arxiv.org/abs/2411.14646)|null|
+|**2024-11-27**|**Diversification quotient based on expectiles**|Xia Han et.al.|[2411.14646](http://arxiv.org/abs/2411.14646)|null|
 |**2024-11-22**|**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**|Anxin Guo et.al.|[2411.14349](http://arxiv.org/abs/2411.14349)|null|
 |**2024-11-21**|**Performance Analysis of STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Electromagnetic Interference and Phase Errors**|Jun Qian et.al.|[2411.14030](http://arxiv.org/abs/2411.14030)|null|
-|**2024-11-21**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
+|**2024-11-27**|**Image Compression Using Novel View Synthesis Priors**|Luyuan Peng et.al.|[2411.13862](http://arxiv.org/abs/2411.13862)|null|
 |**2024-11-21**|**Data-Driven Multi-step Nonlinear Model Predictive Control for Industrial Heavy Load Hydraulic Robot**|Dexian Ma et.al.|[2411.13859](http://arxiv.org/abs/2411.13859)|null|
 |**2024-11-20**|**Benchmarking a wide range of optimisers for solving the Fermi-Hubbard model using the variational quantum eigensolver**|Benjamin D. M. Jones et.al.|[2411.13742](http://arxiv.org/abs/2411.13742)|null|
 |**2024-11-20**|**Differentially Private Learning Beyond the Classical Dimensionality Regime**|Cynthia Dwork et.al.|[2411.13682](http://arxiv.org/abs/2411.13682)|null|
@@ -5308,7 +5308,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -5337,7 +5337,7 @@
 |**2024-11-24**|**Partial Identifiability and Misspecification in Inverse Reinforcement Learning**|Joar Skalse et.al.|[2411.15951](http://arxiv.org/abs/2411.15951)|null|
 |**2024-11-24**|**Can flocking aid the path planning of microswimmers in turbulent flows?**|Akanksha Gupta et.al.|[2411.15902](http://arxiv.org/abs/2411.15902)|null|
 |**2024-11-24**|**From Laws to Motivation: Guiding Exploration through Law-Based Reasoning and Rewards**|Ziyu Chen et.al.|[2411.15891](http://arxiv.org/abs/2411.15891)|null|
-|**2024-11-24**|**Reinforcement Learning Enhancing Entanglement for Two-Photon-Driven Rabi Model**|Tingting Li et.al.|[2411.15841](http://arxiv.org/abs/2411.15841)|null|
+|**2024-11-27**|**Reinforcement Learning Enhancing Entanglement for Two-Photon-Driven Rabi Model**|Tingting Li et.al.|[2411.15841](http://arxiv.org/abs/2411.15841)|null|
 |**2024-11-24**|**Broad Critic Deep Actor Reinforcement Learning for Continuous Control**|Shiron Thalagala et.al.|[2411.15806](http://arxiv.org/abs/2411.15806)|null|
 |**2024-11-24**|**Efficient Multi-user Offloading of Personalized Diffusion Models: A DRL-Convex Hybrid Solution**|Wanting Yang et.al.|[2411.15781](http://arxiv.org/abs/2411.15781)|null|
 |**2024-11-23**|**Learning a local trading strategy: deep reinforcement learning for grid-scale renewable energy integration**|Caleb Ju et.al.|[2411.15422](http://arxiv.org/abs/2411.15422)|null|
@@ -10119,7 +10119,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
