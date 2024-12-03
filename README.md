@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.02
+## Updated on 2024.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -42,7 +42,7 @@
 |**2024-11-22**|**Optimizing Social Media Annotation of HPV Vaccine Skepticism and Misinformation Using Large Language Models: An Experimental Evaluation of In-Context Learning and Fine-Tuning Stance Detection Across Multiple Models**|Luhang Sun et.al.|[2411.14720](http://arxiv.org/abs/2411.14720)|null|
 |**2024-11-20**|**Leveraging Prior Experience: An Expandable Auxiliary Knowledge Base for Text-to-SQL**|Zhibo Chu et.al.|[2411.13244](http://arxiv.org/abs/2411.13244)|**[link](https://github.com/czbnlp/LPE-SQL)**|
 |**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633](http://arxiv.org/abs/2411.12633)|null|
-|**2024-11-22**|**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**|Hongrui Jia et.al.|[2411.11909](http://arxiv.org/abs/2411.11909)|null|
+|**2024-11-22**|**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**|Hongrui Jia et.al.|[2411.11909](http://arxiv.org/abs/2411.11909)|**[link](https://github.com/APiaoG/SymDPO)**|
 |**2024-11-26**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505](http://arxiv.org/abs/2411.11505)|null|
 |**2024-11-18**|**Re-examining learning linear functions in context**|Omar Naim et.al.|[2411.11465](http://arxiv.org/abs/2411.11465)|null|
 |**2024-11-18**|**ZeFaV: Boosting Large Language Models for Zero-shot Fact Verification**|Son T. Luu et.al.|[2411.11247](http://arxiv.org/abs/2411.11247)|**[link](https://github.com/sonlam1102/zefav)**|
@@ -1126,7 +1126,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 ## Transformer
 
@@ -1140,11 +1140,11 @@
 |**2024-11-27**|**Hierarchical Information Flow for Generalized Efficient Image Restoration**|Yawei Li et.al.|[2411.18588](http://arxiv.org/abs/2411.18588)|null|
 |**2024-11-27**|**PATHS: A Hierarchical Transformer for Efficient Whole Slide Image Analysis**|Zak Buzzard et.al.|[2411.18225](http://arxiv.org/abs/2411.18225)|null|
 |**2024-11-27**|**Heterogeneous Relationships of Subjects and Shapelets for Semi-supervised Multivariate Series Classification**|Mingsen Du et.al.|[2411.18043](http://arxiv.org/abs/2411.18043)|null|
-|**2024-11-27**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003](http://arxiv.org/abs/2411.18003)|null|
+|**2024-12-01**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003](http://arxiv.org/abs/2411.18003)|null|
 |**2024-11-26**|**DapPep: Domain Adaptive Peptide-agnostic Learning for Universal T-cell Receptor-antigen Binding Affinity Prediction**|Jiangbin Zheng et.al.|[2411.17798](http://arxiv.org/abs/2411.17798)|null|
 |**2024-11-29**|**VideoDirector: Precise Video Editing via Text-to-Video Models**|Yukun Wang et.al.|[2411.17592](http://arxiv.org/abs/2411.17592)|null|
 |**2024-11-26**|**ShowUI: One Vision-Language-Action Model for GUI Visual Agent**|Kevin Qinghong Lin et.al.|[2411.17465](http://arxiv.org/abs/2411.17465)|**[link](https://github.com/showlab/showui)**|
-|**2024-11-26**|**Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network**|Fuyou Mao et.al.|[2411.17420](http://arxiv.org/abs/2411.17420)|null|
+|**2024-11-28**|**Cross-modal Medical Image Generation Based on Pyramid Convolutional Attention Network**|Fuyou Mao et.al.|[2411.17420](http://arxiv.org/abs/2411.17420)|null|
 |**2024-11-26**|**GrokFormer: Graph Fourier Kolmogorov-Arnold Transformers**|Guoguo Ai et.al.|[2411.17296](http://arxiv.org/abs/2411.17296)|**[link](https://github.com/GGA23/GrokFormer)**|
 |**2024-11-26**|**An Attempt to Develop a Neural Parser based on Simplified Head-Driven Phrase Structure Grammar on Vietnamese**|Duc-Vu Nguyen et.al.|[2411.17270](http://arxiv.org/abs/2411.17270)|null|
 |**2024-11-26**|**MAT: Multi-Range Attention Transformer for Efficient Image Super-Resolution**|Chengxing Xie et.al.|[2411.17214](http://arxiv.org/abs/2411.17214)|null|
@@ -2323,7 +2323,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 ## Optimization
 
@@ -3664,7 +3664,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -3863,7 +3863,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -5343,7 +5343,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -10195,7 +10195,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
