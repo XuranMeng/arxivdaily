@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -36,7 +36,7 @@ layout: default
 |**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633](http://arxiv.org/abs/2411.12633)|null|
 |**2024-11-22**|**SymDPO: Boosting In-Context Learning of Large Multimodal Models with Symbol Demonstration Direct Preference Optimization**|Hongrui Jia et.al.|[2411.11909](http://arxiv.org/abs/2411.11909)|**[link](https://github.com/APiaoG/SymDPO)**|
 |**2024-11-26**|**LaVin-DiT: Large Vision Diffusion Transformer**|Zhaoqing Wang et.al.|[2411.11505](http://arxiv.org/abs/2411.11505)|null|
-|**2024-11-18**|**Re-examining learning linear functions in context**|Omar Naim et.al.|[2411.11465](http://arxiv.org/abs/2411.11465)|null|
+|**2024-12-03**|**Re-examining learning linear functions in context**|Omar Naim et.al.|[2411.11465](http://arxiv.org/abs/2411.11465)|null|
 |**2024-11-18**|**ZeFaV: Boosting Large Language Models for Zero-shot Fact Verification**|Son T. Luu et.al.|[2411.11247](http://arxiv.org/abs/2411.11247)|**[link](https://github.com/sonlam1102/zefav)**|
 |**2024-11-17**|**AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers**|Jake Grigsby et.al.|[2411.11188](http://arxiv.org/abs/2411.11188)|**[link](https://github.com/ut-austin-rpl/amago)**|
 |**2024-11-17**|**Understanding Multimodal LLMs: the Mechanistic Interpretability of Llava in Visual Question Answering**|Zeping Yu et.al.|[2411.10950](http://arxiv.org/abs/2411.10950)|**[link](https://github.com/zepingyu0512/llava-mechanism)**|
@@ -2392,7 +2392,7 @@ layout: default
 |**2024-11-11**|**Manifold Quadratic Penalty Alternating Minimization for Sparse Principal Component Analysis**|Tarmizi Adam et.al.|[2411.06654](http://arxiv.org/abs/2411.06654)|null|
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
 |**2024-11-10**|**An Energy-Based Self-Adaptive Learning Rate for Stochastic Gradient Descent: Enhancing Unconstrained Optimization with VAV method**|Jiahao Zhang et.al.|[2411.06573](http://arxiv.org/abs/2411.06573)|null|
-|**2024-11-10**|**Eigen-componentwise convergence of SGD for quadratic programming**|Lehan Chen et.al.|[2411.06476](http://arxiv.org/abs/2411.06476)|null|
+|**2024-12-02**|**Eigen-componentwise convergence of SGD for quadratic programming**|Lehan Chen et.al.|[2411.06476](http://arxiv.org/abs/2411.06476)|null|
 |**2024-11-09**|**PDE Models for Deep Neural Networks: Learning Theory, Calculus of Variations and Optimal Control**|Peter Markowich et.al.|[2411.06290](http://arxiv.org/abs/2411.06290)|null|
 |**2024-11-09**|**Online Parallel Multi-Task Relationship Learning via Alternating Direction Method of Multipliers**|Ruiyu Li et.al.|[2411.06135](http://arxiv.org/abs/2411.06135)|**[link](https://github.com/alberta-lee/nc-24)**|
 |**2024-11-09**|**Learning Mixtures of Experts with EM**|Quentin Fruytier et.al.|[2411.06056](http://arxiv.org/abs/2411.06056)|null|
@@ -3939,7 +3939,7 @@ layout: default
 |**2024-11-10**|**Are Neuromorphic Architectures Inherently Privacy-preserving? An Exploratory Study**|Ayana Moshruba et.al.|[2411.06613](http://arxiv.org/abs/2411.06613)|null|
 |**2024-11-10**|**An Energy-Based Self-Adaptive Learning Rate for Stochastic Gradient Descent: Enhancing Unconstrained Optimization with VAV method**|Jiahao Zhang et.al.|[2411.06573](http://arxiv.org/abs/2411.06573)|null|
 |**2024-11-10**|**Learning Loss Landscapes in Preference Optimization**|Carlo Alfano et.al.|[2411.06568](http://arxiv.org/abs/2411.06568)|null|
-|**2024-11-10**|**Eigen-componentwise convergence of SGD for quadratic programming**|Lehan Chen et.al.|[2411.06476](http://arxiv.org/abs/2411.06476)|null|
+|**2024-12-02**|**Eigen-componentwise convergence of SGD for quadratic programming**|Lehan Chen et.al.|[2411.06476](http://arxiv.org/abs/2411.06476)|null|
 |**2024-11-09**|**PDE Models for Deep Neural Networks: Learning Theory, Calculus of Variations and Optimal Control**|Peter Markowich et.al.|[2411.06290](http://arxiv.org/abs/2411.06290)|null|
 |**2024-11-09**|**Online Parallel Multi-Task Relationship Learning via Alternating Direction Method of Multipliers**|Ruiyu Li et.al.|[2411.06135](http://arxiv.org/abs/2411.06135)|**[link](https://github.com/alberta-lee/nc-24)**|
 |**2024-11-09**|**Learning Mixtures of Experts with EM**|Quentin Fruytier et.al.|[2411.06056](http://arxiv.org/abs/2411.06056)|null|
