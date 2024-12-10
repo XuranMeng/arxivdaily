@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.09
+## Updated on 2024.12.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -29,7 +29,7 @@ layout: default
 |**2024-12-02**|**X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models**|Zeyi Sun et.al.|[2412.01824](http://arxiv.org/abs/2412.01824)|**[link](https://github.com/sunzey/x-prompt)**|
 |**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2024-12-02**|**RL2: Reinforce Large Language Model to Assist Safe Reinforcement Learning for Energy Management of Active Distribution Networks**|Xu Yang et.al.|[2412.01303](http://arxiv.org/abs/2412.01303)|null|
-|**2024-12-03**|**CPRM: A LLM-based Continual Pre-training Framework for Relevance Modeling in Commercial Search**|Kaixin Wu et.al.|[2412.01269](http://arxiv.org/abs/2412.01269)|null|
+|**2024-12-08**|**CPRM: A LLM-based Continual Pre-training Framework for Relevance Modeling in Commercial Search**|Kaixin Wu et.al.|[2412.01269](http://arxiv.org/abs/2412.01269)|null|
 |**2024-12-02**|**Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes**|Xiaoqi Zhao et.al.|[2412.01240](http://arxiv.org/abs/2412.01240)|null|
 |**2024-12-03**|**Unleashing In-context Learning of Autoregressive Models for Few-shot Image Manipulation**|Bolin Lai et.al.|[2412.01027](http://arxiv.org/abs/2412.01027)|null|
 |**2024-12-01**|**Competition Dynamics Shape Algorithmic Phases of In-Context Learning**|Core Francisco Park et.al.|[2412.01003](http://arxiv.org/abs/2412.01003)|null|
@@ -2386,8 +2386,8 @@ layout: default
 |**2024-12-05**|**Mixed-Precision Quantization: Make the Best Use of Bits Where They Matter Most**|Yiming Fang et.al.|[2412.03101](http://arxiv.org/abs/2412.03101)|null|
 |**2024-12-04**|**Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**|Peiyan Zhang et.al.|[2412.03092](http://arxiv.org/abs/2412.03092)|**[link](https://github.com/peiyance/revolve)**|
 |**2024-12-04**|**A Granger-Causal Perspective on Gradient Descent with Application to Pruning**|Aditya Shah et.al.|[2412.03035](http://arxiv.org/abs/2412.03035)|null|
-|**2024-12-03**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
-|**2024-12-03**|**Conformal Symplectic Optimization for Stable Reinforcement Learning**|Yao Lyu et.al.|[2412.02291](http://arxiv.org/abs/2412.02291)|null|
+|**2024-12-07**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
+|**2024-12-08**|**Conformal Symplectic Optimization for Stable Reinforcement Learning**|Yao Lyu et.al.|[2412.02291](http://arxiv.org/abs/2412.02291)|null|
 |**2024-12-03**|**Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods**|Ruichen Jiang et.al.|[2412.02175](http://arxiv.org/abs/2412.02175)|null|
 |**2024-12-03**|**Revisiting the Initial Steps in Adaptive Gradient Descent Optimization**|Abulikemu Abuduweili et.al.|[2412.02153](http://arxiv.org/abs/2412.02153)|null|
 |**2024-12-03**|**Machine Learning Methods for Automated Interstellar Object Classification with LSST**|Richard Cloete et.al.|[2412.02112](http://arxiv.org/abs/2412.02112)|null|
@@ -2407,7 +2407,7 @@ layout: default
 |**2024-11-27**|**Learning Optimal Linear Block Transform by Rate Distortion Minimization**|Alessandro Gnutti et.al.|[2411.18494](http://arxiv.org/abs/2411.18494)|null|
 |**2024-11-27**|**Information geometry of bosonic Gaussian thermal states**|Zixin Huang et.al.|[2411.18268](http://arxiv.org/abs/2411.18268)|null|
 |**2024-11-26**|**Rock the KASBA: Blazingly Fast and Accurate Time Series Clustering**|Christopher Holder et.al.|[2411.17838](http://arxiv.org/abs/2411.17838)|null|
-|**2024-11-26**|**Anytime Acceleration of Gradient Descent**|Zihan Zhang et.al.|[2411.17668](http://arxiv.org/abs/2411.17668)|null|
+|**2024-12-08**|**Anytime Acceleration of Gradient Descent**|Zihan Zhang et.al.|[2411.17668](http://arxiv.org/abs/2411.17668)|null|
 |**2024-11-26**|**Improving the Convergence Rates of Forward Gradient Descent with Repeated Sampling**|Niklas Dexheimer et.al.|[2411.17567](http://arxiv.org/abs/2411.17567)|null|
 |**2024-11-26**|**Learning Hierarchical Polynomials of Multiple Nonlinear Features with Three-Layer Networks**|Hengyu Fu et.al.|[2411.17201](http://arxiv.org/abs/2411.17201)|null|
 |**2024-11-26**|**Improving Resistance to Noisy Label Fitting by Reweighting Gradient in SAM**|Hoang-Chau Luong et.al.|[2411.17132](http://arxiv.org/abs/2411.17132)|null|
@@ -3803,7 +3803,7 @@ layout: default
 |**2024-04-20**|**Accelerated Methods with Compression for Horizontal and Vertical Federated Learning**|Sergey Stanko et.al.|[2404.13328](http://arxiv.org/abs/2404.13328)|null|
 |**2024-04-07**|**Coordinated Sparse Recovery of Label Noise**|Yukun Yang et.al.|[2404.04800](http://arxiv.org/abs/2404.04800)|null|
 |**2024-04-02**|**Adaptive Feature Fusion Neural Network for Glaucoma Segmentation on Unseen Fundus Images**|Jiyuan Zhong et.al.|[2404.02084](http://arxiv.org/abs/2404.02084)|null|
-|**2024-06-13**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
+|**2024-12-06**|**Functional Bilevel Optimization for Machine Learning**|Ieva Petrulionyte et.al.|[2403.20233](http://arxiv.org/abs/2403.20233)|null|
 |**2024-03-26**|**On the Benefits of Over-parameterization for Out-of-Distribution Generalization**|Yifan Hao et.al.|[2403.17592](http://arxiv.org/abs/2403.17592)|null|
 |**2024-03-25**|**Real-time Adaptation for Condition Monitoring Signal Prediction using Label-aware Neural Processes**|Seokhyun Chung et.al.|[2403.16377](http://arxiv.org/abs/2403.16377)|null|
 |**2024-09-11**|**The Effectiveness of Local Updates for Decentralized Learning under Data Heterogeneity**|Tongle Wu et.al.|[2403.15654](http://arxiv.org/abs/2403.15654)|null|
@@ -3958,8 +3958,8 @@ layout: default
 |**2024-12-05**|**Mixed-Precision Quantization: Make the Best Use of Bits Where They Matter Most**|Yiming Fang et.al.|[2412.03101](http://arxiv.org/abs/2412.03101)|null|
 |**2024-12-04**|**Revolve: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization**|Peiyan Zhang et.al.|[2412.03092](http://arxiv.org/abs/2412.03092)|**[link](https://github.com/peiyance/revolve)**|
 |**2024-12-04**|**A Granger-Causal Perspective on Gradient Descent with Application to Pruning**|Aditya Shah et.al.|[2412.03035](http://arxiv.org/abs/2412.03035)|null|
-|**2024-12-03**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
-|**2024-12-03**|**Conformal Symplectic Optimization for Stable Reinforcement Learning**|Yao Lyu et.al.|[2412.02291](http://arxiv.org/abs/2412.02291)|null|
+|**2024-12-07**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
+|**2024-12-08**|**Conformal Symplectic Optimization for Stable Reinforcement Learning**|Yao Lyu et.al.|[2412.02291](http://arxiv.org/abs/2412.02291)|null|
 |**2024-12-03**|**Improved Complexity for Smooth Nonconvex Optimization: A Two-Level Online Learning Approach with Quasi-Newton Methods**|Ruichen Jiang et.al.|[2412.02175](http://arxiv.org/abs/2412.02175)|null|
 |**2024-12-03**|**Revisiting the Initial Steps in Adaptive Gradient Descent Optimization**|Abulikemu Abuduweili et.al.|[2412.02153](http://arxiv.org/abs/2412.02153)|null|
 |**2024-12-03**|**Machine Learning Methods for Automated Interstellar Object Classification with LSST**|Richard Cloete et.al.|[2412.02112](http://arxiv.org/abs/2412.02112)|null|
@@ -3980,7 +3980,7 @@ layout: default
 |**2024-11-27**|**Learning Optimal Linear Block Transform by Rate Distortion Minimization**|Alessandro Gnutti et.al.|[2411.18494](http://arxiv.org/abs/2411.18494)|null|
 |**2024-11-27**|**Information geometry of bosonic Gaussian thermal states**|Zixin Huang et.al.|[2411.18268](http://arxiv.org/abs/2411.18268)|null|
 |**2024-11-26**|**Rock the KASBA: Blazingly Fast and Accurate Time Series Clustering**|Christopher Holder et.al.|[2411.17838](http://arxiv.org/abs/2411.17838)|null|
-|**2024-11-26**|**Anytime Acceleration of Gradient Descent**|Zihan Zhang et.al.|[2411.17668](http://arxiv.org/abs/2411.17668)|null|
+|**2024-12-08**|**Anytime Acceleration of Gradient Descent**|Zihan Zhang et.al.|[2411.17668](http://arxiv.org/abs/2411.17668)|null|
 |**2024-11-26**|**Improving the Convergence Rates of Forward Gradient Descent with Repeated Sampling**|Niklas Dexheimer et.al.|[2411.17567](http://arxiv.org/abs/2411.17567)|null|
 |**2024-11-26**|**Learning Hierarchical Polynomials of Multiple Nonlinear Features with Three-Layer Networks**|Hengyu Fu et.al.|[2411.17201](http://arxiv.org/abs/2411.17201)|null|
 |**2024-11-26**|**Improving Resistance to Noisy Label Fitting by Reweighting Gradient in SAM**|Hoang-Chau Luong et.al.|[2411.17132](http://arxiv.org/abs/2411.17132)|null|
@@ -5503,7 +5503,7 @@ layout: default
 |**2024-12-03**|**Cooperative Cruising: Reinforcement Learning based Time-Headway Control for Increased Traffic Efficiency**|Yaron Veksler et.al.|[2412.02520](http://arxiv.org/abs/2412.02520)|null|
 |**2024-12-03**|**Reinforcement learning to learn quantum states for Heisenberg scaling accuracy**|Jeongwoo Jae et.al.|[2412.02334](http://arxiv.org/abs/2412.02334)|**[link](https://github.com/quantum-jwjae/rl2lqs)**|
 |**2024-12-03**|**Optimizing Plastic Waste Collection in Water Bodies Using Heterogeneous Autonomous Surface Vehicles with Deep Reinforcement Learning**|Alejandro Mendoza Barrionuevo et.al.|[2412.02316](http://arxiv.org/abs/2412.02316)|**[link](https://github.com/amendb/HeterogeneousTrashCleanup)**|
-|**2024-12-03**|**Conformal Symplectic Optimization for Stable Reinforcement Learning**|Yao Lyu et.al.|[2412.02291](http://arxiv.org/abs/2412.02291)|null|
+|**2024-12-08**|**Conformal Symplectic Optimization for Stable Reinforcement Learning**|Yao Lyu et.al.|[2412.02291](http://arxiv.org/abs/2412.02291)|null|
 |**2024-12-03**|**Step-by-Step Guidance to Differential Anemia Diagnosis with Real-World Data and Deep Reinforcement Learning**|Lillian Muyama et.al.|[2412.02273](http://arxiv.org/abs/2412.02273)|**[link](https://github.com/lilly-muyama/RWD-Anemia-Diagnostic-Pathways)**|
 |**2024-12-03**|**Technical Report on Reinforcement Learning Control on the Lucas-Nülle Inverted Pendulum**|Maximilian Schenke et.al.|[2412.02264](http://arxiv.org/abs/2412.02264)|null|
 |**2024-12-03**|**Selective Reviews of Bandit Problems in AI via a Statistical View**|Pengjie Zhou et.al.|[2412.02251](http://arxiv.org/abs/2412.02251)|null|
@@ -5516,7 +5516,7 @@ layout: default
 |**2024-12-02**|**HPRM: High-Performance Robotic Middleware for Intelligent Autonomous Systems**|Jacky Kwok et.al.|[2412.01799](http://arxiv.org/abs/2412.01799)|null|
 |**2024-11-27**|**DextrAH-RGB: Visuomotor Policies to Grasp Anything with Dexterous Hands**|Ritvik Singh et.al.|[2412.01791](http://arxiv.org/abs/2412.01791)|null|
 |**2024-12-02**|**STLGame: Signal Temporal Logic Games in Adversarial Multi-Agent Systems**|Shuo Yang et.al.|[2412.01656](http://arxiv.org/abs/2412.01656)|**[link](https://github.com/shuoyang2000/STLgame)**|
-|**2024-12-03**|**MBA-RAG: a Bandit Approach for Adaptive Retrieval-Augmented Generation through Question Complexity**|Xiaqiang Tang et.al.|[2412.01572](http://arxiv.org/abs/2412.01572)|**[link](https://github.com/futureeeeee/mba)**|
+|**2024-12-07**|**MBA-RAG: a Bandit Approach for Adaptive Retrieval-Augmented Generation through Question Complexity**|Xiaqiang Tang et.al.|[2412.01572](http://arxiv.org/abs/2412.01572)|**[link](https://github.com/futureeeeee/mba)**|
 |**2024-12-03**|**Multi-objective Deep Learning: Taxonomy and Survey of the State of the Art**|Sebastian Peitz et.al.|[2412.01566](http://arxiv.org/abs/2412.01566)|null|
 |**2024-12-02**|**Towards Type Agnostic Cyber Defense Agents**|Erick Galinkin et.al.|[2412.01542](http://arxiv.org/abs/2412.01542)|null|
 |**2024-12-02**|**Cavity-Heisenberg spin- $j$ chain quantum battery and reinforcement learning optimization**|Peng-Yu Sun et.al.|[2412.01442](http://arxiv.org/abs/2412.01442)|null|
