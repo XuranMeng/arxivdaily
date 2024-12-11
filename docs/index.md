@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.10
+## Updated on 2024.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -49,7 +49,7 @@ layout: default
 |**2024-11-26**|**On the ERM Principle in Meta-Learning**|Yannay Alon et.al.|[2411.17898](http://arxiv.org/abs/2411.17898)|null|
 |**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636](http://arxiv.org/abs/2411.17636)|null|
 |**2024-11-26**|**"Stupid robot, I want to speak to a human!" User Frustration Detection in Task-Oriented Dialog Systems**|Mireia Hernandez Caralt et.al.|[2411.17437](http://arxiv.org/abs/2411.17437)|null|
-|**2024-11-26**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|**[link](https://github.com/alexcapstick/llm-elicited-priors)**|
+|**2024-12-10**|**Using Large Language Models for Expert Prior Elicitation in Predictive Modelling**|Alexander Capstick et.al.|[2411.17284](http://arxiv.org/abs/2411.17284)|**[link](https://github.com/alexcapstick/llm-elicited-priors)**|
 |**2024-11-27**|**MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing**|Feifei Shao et.al.|[2411.16773](http://arxiv.org/abs/2411.16773)|null|
 |**2024-11-25**|**Transformers are Deep Optimizers: Provable In-Context Learning for Deep Model Training**|Weimin Wu et.al.|[2411.16549](http://arxiv.org/abs/2411.16549)|null|
 |**2024-11-25**|**Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain**|Hangyul Yoon et.al.|[2411.16123](http://arxiv.org/abs/2411.16123)|**[link](https://github.com/facebookresearch/segment-anything)**|
@@ -1191,7 +1191,7 @@ layout: default
 |**2024-11-27**|**Hierarchical Information Flow for Generalized Efficient Image Restoration**|Yawei Li et.al.|[2411.18588](http://arxiv.org/abs/2411.18588)|null|
 |**2024-11-27**|**PATHS: A Hierarchical Transformer for Efficient Whole Slide Image Analysis**|Zak Buzzard et.al.|[2411.18225](http://arxiv.org/abs/2411.18225)|**[link](https://github.com/zzbuzzard/paths)**|
 |**2024-11-27**|**Heterogeneous Relationships of Subjects and Shapelets for Semi-supervised Multivariate Series Classification**|Mingsen Du et.al.|[2411.18043](http://arxiv.org/abs/2411.18043)|null|
-|**2024-12-01**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003](http://arxiv.org/abs/2411.18003)|null|
+|**2024-12-10**|**HAAT: Hybrid Attention Aggregation Transformer for Image Super-Resolution**|Song-Jiang Lai et.al.|[2411.18003](http://arxiv.org/abs/2411.18003)|null|
 |**2024-11-26**|**DapPep: Domain Adaptive Peptide-agnostic Learning for Universal T-cell Receptor-antigen Binding Affinity Prediction**|Jiangbin Zheng et.al.|[2411.17798](http://arxiv.org/abs/2411.17798)|null|
 |**2024-11-29**|**VideoDirector: Precise Video Editing via Text-to-Video Models**|Yukun Wang et.al.|[2411.17592](http://arxiv.org/abs/2411.17592)|null|
 |**2024-11-26**|**ShowUI: One Vision-Language-Action Model for GUI Visual Agent**|Kevin Qinghong Lin et.al.|[2411.17465](http://arxiv.org/abs/2411.17465)|**[link](https://github.com/showlab/showui)**|
@@ -1241,7 +1241,7 @@ layout: default
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086](http://arxiv.org/abs/2411.10086)|null|
 |**2024-11-15**|**XLSR-Mamba: A Dual-Column Bidirectional State Space Model for Spoofing Attack Detection**|Yang Xiao et.al.|[2411.10027](http://arxiv.org/abs/2411.10027)|null|
 |**2024-11-15**|**Seeing Clearly by Layer Two: Enhancing Attention Heads to Alleviate Hallucination in LVLMs**|Xiaofeng Zhang et.al.|[2411.09968](http://arxiv.org/abs/2411.09968)|null|
-|**2024-11-14**|**SAG-ViT: A Scale-Aware, High-Fidelity Patching Approach with Graph Attention for Vision Transformers**|Shravan Venkatraman et.al.|[2411.09420](http://arxiv.org/abs/2411.09420)|**[link](https://github.com/shravan-18/SAG-ViT)**|
+|**2024-12-10**|**SAG-ViT: A Scale-Aware, High-Fidelity Patching Approach with Graph Attention for Vision Transformers**|Shravan Venkatraman et.al.|[2411.09420](http://arxiv.org/abs/2411.09420)|**[link](https://github.com/shravan-18/SAG-ViT)**|
 |**2024-11-14**|**Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation**|Yuheng Shi et.al.|[2411.09219](http://arxiv.org/abs/2411.09219)|**[link](https://github.com/YuHengsss/Trident)**|
 |**2024-11-14**|**VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation**|Youpeng Wen et.al.|[2411.09153](http://arxiv.org/abs/2411.09153)|null|
 |**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
@@ -3767,7 +3767,7 @@ layout: default
 |**2024-11-19**|**Trojan Cleansing with Neural Collapse**|Xihe Gu et.al.|[2411.12914](http://arxiv.org/abs/2411.12914)|null|
 |**2024-11-10**|**Over-parameterized Student Model via Tensor Decomposition Boosted Knowledge Distillation**|Yu-Liang Zhan et.al.|[2411.06448](http://arxiv.org/abs/2411.06448)|**[link](https://github.com/intell-sci-comput/opdf)**|
 |**2024-11-07**|**DISCO: DISCovering Overfittings as Causal Rules for Text Classification Models**|Zijian Zhang et.al.|[2411.04649](http://arxiv.org/abs/2411.04649)|null|
-|**2024-11-06**|**Gradient Descent Finds Over-Parameterized Neural Networks with Sharp Generalization for Nonparametric Regression: A Distribution-Free Analysis**|Yingzhen Yang et.al.|[2411.02904](http://arxiv.org/abs/2411.02904)|null|
+|**2024-12-09**|**Gradient Descent Finds Over-Parameterized Neural Networks with Sharp Generalization for Nonparametric Regression**|Yingzhen Yang et.al.|[2411.02904](http://arxiv.org/abs/2411.02904)|null|
 |**2024-11-01**|**Generalizability of Memorization Neural Networks**|Lijia Yu et.al.|[2411.00372](http://arxiv.org/abs/2411.00372)|null|
 |**2024-10-31**|**Chasing Better Deep Image Priors between Over- and Under-parameterization**|Qiming Wu et.al.|[2410.24187](http://arxiv.org/abs/2410.24187)|**[link](https://github.com/vita-group/chasing-better-dips)**|
 |**2024-10-24**|**Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN with Fully Trainable Layers**|Shuning Shang et.al.|[2410.19139](http://arxiv.org/abs/2410.19139)|null|
@@ -5553,7 +5553,7 @@ layout: default
 |**2024-12-04**|**Less is More: A Stealthy and Efficient Adversarial Attack Method for DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[2412.03051](http://arxiv.org/abs/2412.03051)|null|
 |**2024-12-04**|**Learning Whole-Body Loco-Manipulation for Omni-Directional Task Space Pose Tracking with a Wheeled-Quadrupedal-Manipulator**|Kaiwen Jiang et.al.|[2412.03012](http://arxiv.org/abs/2412.03012)|null|
 |**2024-12-04**|**Data Acquisition for Improving Model Fairness using Reinforcement Learning**|Jahid Hasan et.al.|[2412.03009](http://arxiv.org/abs/2412.03009)|null|
-|**2024-12-04**|**Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models**|Alex Havrilla et.al.|[2412.02980](http://arxiv.org/abs/2412.02980)|null|
+|**2024-12-09**|**Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models**|Alex Havrilla et.al.|[2412.02980](http://arxiv.org/abs/2412.02980)|null|
 |**2024-12-04**|**Model Predictive Control of Nonlinear Dynamics Using Online Adaptive Koopman Operators**|Daisuke Uchida et.al.|[2412.02972](http://arxiv.org/abs/2412.02972)|null|
 |**2024-12-04**|**Incorporating System-level Safety Requirements in Perception Models via Reinforcement Learning**|Weisi Fan et.al.|[2412.02951](http://arxiv.org/abs/2412.02951)|null|
 |**2024-12-04**|**Inverse Delayed Reinforcement Learning**|Simon Sinong Zhan et.al.|[2412.02931](http://arxiv.org/abs/2412.02931)|null|
