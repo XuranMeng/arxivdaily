@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**DRUM: Learning Demonstration Retriever for Large MUlti-modal Models**|Ellen Yi-Ge et.al.|[2412.07619](http://arxiv.org/abs/2412.07619)|null|
 |**2024-12-09**|**A Comparative Study of Learning Paradigms in Large Language Models via Intrinsic Dimension**|Saahith Janapati et.al.|[2412.06245](http://arxiv.org/abs/2412.06245)|null|
 |**2024-12-08**|**Can Generative AI Solve Your In-Context Learning Problem? A Martingale Perspective**|Andrew Jesson et.al.|[2412.06033](http://arxiv.org/abs/2412.06033)|null|
 |**2024-12-07**|**PromptRefine: Enhancing Few-Shot Performance on Low-Resource Indic Languages with Example Selection from Related Example Banks**|Soumya Suvra Ghosal et.al.|[2412.05710](http://arxiv.org/abs/2412.05710)|null|
@@ -1159,6 +1160,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation**|Xiao Fu et.al.|[2412.07759](http://arxiv.org/abs/2412.07759)|null|
+|**2024-12-10**|**Multi-Shot Character Consistency for Text-to-Video Generation**|Yuval Atzmon et.al.|[2412.07750](http://arxiv.org/abs/2412.07750)|null|
+|**2024-12-10**|**Piece of Table: A Divide-and-Conquer Approach for Selecting Sub-Tables in Table Question Answering**|Wonjin Lee et.al.|[2412.07629](http://arxiv.org/abs/2412.07629)|null|
+|**2024-12-10**|**Repetitive Action Counting with Hybrid Temporal Relation Modeling**|Kun Li et.al.|[2412.07233](http://arxiv.org/abs/2412.07233)|null|
+|**2024-12-10**|**An Enhancement of CNN Algorithm for Rice Leaf Disease Image Classification in Mobile Applications**|Kayne Uriel K. Rodrigo et.al.|[2412.07182](http://arxiv.org/abs/2412.07182)|null|
+|**2024-12-09**|**Static Key Attention in Vision**|Zizhao Hu et.al.|[2412.07049](http://arxiv.org/abs/2412.07049)|null|
+|**2024-12-09**|**Sequential Compression Layers for Efficient Federated Learning in Foundational Models**|Navyansh Mahla et.al.|[2412.07021](http://arxiv.org/abs/2412.07021)|null|
+|**2024-12-09**|**SphereUFormer: A U-Shaped Transformer for Spherical 360 Perception**|Yaniv Benny et.al.|[2412.06968](http://arxiv.org/abs/2412.06968)|null|
+|**2024-12-07**|**APS-LSTM: Exploiting Multi-Periodicity and Diverse Spatial Dependencies for Flood Forecasting**|Jun Feng et.al.|[2412.06835](http://arxiv.org/abs/2412.06835)|null|
 |**2024-12-09**|**Understanding Factual Recall in Transformers via Associative Memories**|Eshaan Nichani et.al.|[2412.06538](http://arxiv.org/abs/2412.06538)|null|
 |**2024-12-08**|**FlexDiT: Dynamic Token Density Control for Diffusion Transformer**|Shuning Chang et.al.|[2412.06028](http://arxiv.org/abs/2412.06028)|null|
 |**2024-12-08**|**SABER: Model-agnostic Backdoor Attack on Chain-of-Thought in Neural Code Generation**|Naizhu Jin et.al.|[2412.05829](http://arxiv.org/abs/2412.05829)|null|
@@ -2390,6 +2400,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Improving the Robustness of the Projected Gradient Descent Method for Nonlinear Constrained Optimization Problems in Topology Optimization**|Lucka Barbeau et.al.|[2412.07634](http://arxiv.org/abs/2412.07634)|null|
+|**2024-12-10**|**Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows**|Yiqian Yang et.al.|[2412.07559](http://arxiv.org/abs/2412.07559)|null|
+|**2024-12-10**|**AHSG: Adversarial Attacks on High-level Semantics in Graph Neural Networks**|Kai Yuan et.al.|[2412.07468](http://arxiv.org/abs/2412.07468)|null|
+|**2024-12-10**|**Reconstructing Deep Neural Networks: Unleashing the Optimization Potential of Natural Gradient Descent**|Weihua Liu et.al.|[2412.07441](http://arxiv.org/abs/2412.07441)|**[link](https://github.com/chaochao-lin/sngd)**|
+|**2024-12-10**|**dSTAR: Straggler Tolerant and Byzantine Resilient Distributed SGD**|Jiahe Yan et.al.|[2412.07151](http://arxiv.org/abs/2412.07151)|null|
+|**2024-12-10**|**Streaming Private Continual Counting via Binning**|Joel Daniel Andersson et.al.|[2412.07093](http://arxiv.org/abs/2412.07093)|null|
+|**2024-12-09**|**Understanding Gradient Descent through the Training Jacobian**|Nora Belrose et.al.|[2412.07003](http://arxiv.org/abs/2412.07003)|null|
+|**2024-12-08**|**Tube Loss: A Novel Approach for Prediction Interval Estimation and probabilistic forecasting**|Pritam Anand et.al.|[2412.06853](http://arxiv.org/abs/2412.06853)|**[link](https://github.com/ltpritamanand/tube_loss)**|
 |**2024-12-09**|**Numerical Optimization of Eigenvalues of the magnetic Dirichlet Laplacian with constant magnetic field**|Matthias Baur et.al.|[2412.06533](http://arxiv.org/abs/2412.06533)|null|
 |**2024-12-09**|**Tail Risk Alert Based on Conditional Autoregressive VaR by Regression Quantiles and Machine Learning Algorithms**|Zong Ke et.al.|[2412.06193](http://arxiv.org/abs/2412.06193)|null|
 |**2024-12-09**|**Deep Unfolding Beamforming and Power Control Designs for Multi-Port Matching Networks**|Bokai Xu et.al.|[2412.06178](http://arxiv.org/abs/2412.06178)|null|
@@ -3976,6 +3994,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Improving the Robustness of the Projected Gradient Descent Method for Nonlinear Constrained Optimization Problems in Topology Optimization**|Lucka Barbeau et.al.|[2412.07634](http://arxiv.org/abs/2412.07634)|null|
+|**2024-12-10**|**Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows**|Yiqian Yang et.al.|[2412.07559](http://arxiv.org/abs/2412.07559)|null|
+|**2024-12-10**|**AHSG: Adversarial Attacks on High-level Semantics in Graph Neural Networks**|Kai Yuan et.al.|[2412.07468](http://arxiv.org/abs/2412.07468)|null|
+|**2024-12-10**|**Reconstructing Deep Neural Networks: Unleashing the Optimization Potential of Natural Gradient Descent**|Weihua Liu et.al.|[2412.07441](http://arxiv.org/abs/2412.07441)|**[link](https://github.com/chaochao-lin/sngd)**|
+|**2024-12-10**|**dSTAR: Straggler Tolerant and Byzantine Resilient Distributed SGD**|Jiahe Yan et.al.|[2412.07151](http://arxiv.org/abs/2412.07151)|null|
+|**2024-12-10**|**Streaming Private Continual Counting via Binning**|Joel Daniel Andersson et.al.|[2412.07093](http://arxiv.org/abs/2412.07093)|null|
+|**2024-12-09**|**Understanding Gradient Descent through the Training Jacobian**|Nora Belrose et.al.|[2412.07003](http://arxiv.org/abs/2412.07003)|null|
+|**2024-12-08**|**Tube Loss: A Novel Approach for Prediction Interval Estimation and probabilistic forecasting**|Pritam Anand et.al.|[2412.06853](http://arxiv.org/abs/2412.06853)|**[link](https://github.com/ltpritamanand/tube_loss)**|
 |**2024-12-09**|**Numerical Optimization of Eigenvalues of the magnetic Dirichlet Laplacian with constant magnetic field**|Matthias Baur et.al.|[2412.06533](http://arxiv.org/abs/2412.06533)|null|
 |**2024-12-09**|**Tail Risk Alert Based on Conditional Autoregressive VaR by Regression Quantiles and Machine Learning Algorithms**|Zong Ke et.al.|[2412.06193](http://arxiv.org/abs/2412.06193)|null|
 |**2024-12-09**|**Deep Unfolding Beamforming and Power Control Designs for Multi-Port Matching Networks**|Bokai Xu et.al.|[2412.06178](http://arxiv.org/abs/2412.06178)|null|
@@ -5502,6 +5528,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control**|Chenhao Lu et.al.|[2412.07773](http://arxiv.org/abs/2412.07773)|null|
+|**2024-12-10**|**Efficient Online Reinforcement Learning Fine-Tuning Need Not Retain Offline Data**|Zhiyuan Zhou et.al.|[2412.07762](http://arxiv.org/abs/2412.07762)|null|
+|**2024-12-10**|**Optimizing Sensor Redundancy in Sequential Decision-Making Problems**|Jonas Nüßlein et.al.|[2412.07686](http://arxiv.org/abs/2412.07686)|null|
+|**2024-12-10**|**Offline Multi-Agent Reinforcement Learning via In-Sample Sequential Policy Optimization**|Zongkai Liu et.al.|[2412.07639](http://arxiv.org/abs/2412.07639)|null|
+|**2024-12-10**|**Swarm Behavior Cloning**|Jonas Nüßlein et.al.|[2412.07617](http://arxiv.org/abs/2412.07617)|null|
+|**2024-12-10**|**ConfigX: Modular Configuration for Evolutionary Algorithms via Multitask Reinforcement Learning**|Hongshu Guo et.al.|[2412.07507](http://arxiv.org/abs/2412.07507)|null|
+|**2024-12-10**|**Optimizing pulsed blowing parameters for active separation control in a one-sided diffuser using reinforcement learning**|Alexandra Müller et.al.|[2412.07480](http://arxiv.org/abs/2412.07480)|null|
+|**2024-12-10**|**Progressive-Resolution Policy Distillation: Leveraging Coarse-Resolution Simulation for Time-Efficient Fine-Resolution Policy Learning**|Yuki Kadokawa et.al.|[2412.07477](http://arxiv.org/abs/2412.07477)|null|
+|**2024-12-10**|**RLT4Rec: Reinforcement Learning Transformer for User Cold Start and Item Recommendation**|Dilina Chandika Rajapakse et.al.|[2412.07403](http://arxiv.org/abs/2412.07403)|null|
+|**2024-12-10**|**Non-Progressive Influence Maximization in Dynamic Social Networks**|Yunming Hui et.al.|[2412.07402](http://arxiv.org/abs/2412.07402)|null|
+|**2024-12-10**|**Parseval Regularization for Continual Reinforcement Learning**|Wesley Chung et.al.|[2412.07224](http://arxiv.org/abs/2412.07224)|null|
+|**2024-12-10**|**Effective Reward Specification in Deep Reinforcement Learning**|Julien Roy et.al.|[2412.07177](http://arxiv.org/abs/2412.07177)|null|
+|**2024-12-10**|**Reinforcement Learning Policy as Macro Regulator Rather than Macro Placer**|Ke Xue et.al.|[2412.07167](http://arxiv.org/abs/2412.07167)|**[link](https://github.com/lamda-bbo/macro-regulator)**|
+|**2024-12-10**|**A Method for Evaluating Hyperparameter Sensitivity in Reinforcement Learning**|Jacob Adkins et.al.|[2412.07165](http://arxiv.org/abs/2412.07165)|**[link](https://github.com/jadkins99/hyperparameter_sensitivity)**|
+|**2024-12-09**|**Optimising entanglement distribution policies under classical communication constraints assisted by reinforcement learning**|Jan Li et.al.|[2412.06938](http://arxiv.org/abs/2412.06938)|null|
+|**2024-12-09**|**LLMs for Generalizable Language-Conditioned Policy Learning under Minimal Data Requirements**|Thomas Pouplin et.al.|[2412.06877](http://arxiv.org/abs/2412.06877)|null|
+|**2024-12-08**|**Classifier-free guidance in LLMs Safety**|Roman Smirnov et.al.|[2412.06846](http://arxiv.org/abs/2412.06846)|null|
+|**2024-12-06**|**Enhancing LLMs for Physics Problem-Solving using Reinforcement Learning with Human-AI Feedback**|Avinash Anand et.al.|[2412.06827](http://arxiv.org/abs/2412.06827)|null|
 |**2024-12-09**|**Partially Observed Optimal Stochastic Control: Regularity, Optimality, Approximations, and Learning**|Ali Devran Kara et.al.|[2412.06735](http://arxiv.org/abs/2412.06735)|null|
 |**2024-12-09**|**Policy Agnostic RL: Offline RL and Online RL Fine-Tuning of Any Class and Backbone**|Max Sobol Mark et.al.|[2412.06685](http://arxiv.org/abs/2412.06685)|null|
 |**2024-12-09**|**Off-Policy Maximum Entropy RL with Future State and Action Visitation Measures**|Adrien Bolland et.al.|[2412.06655](http://arxiv.org/abs/2412.06655)|null|
