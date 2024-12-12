@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -2394,8 +2394,8 @@ layout: default
 |**2024-12-10**|**Reconstructing Deep Neural Networks: Unleashing the Optimization Potential of Natural Gradient Descent**|Weihua Liu et.al.|[2412.07441](http://arxiv.org/abs/2412.07441)|**[link](https://github.com/chaochao-lin/sngd)**|
 |**2024-12-10**|**dSTAR: Straggler Tolerant and Byzantine Resilient Distributed SGD**|Jiahe Yan et.al.|[2412.07151](http://arxiv.org/abs/2412.07151)|null|
 |**2024-12-10**|**Streaming Private Continual Counting via Binning**|Joel Daniel Andersson et.al.|[2412.07093](http://arxiv.org/abs/2412.07093)|null|
-|**2024-12-09**|**Understanding Gradient Descent through the Training Jacobian**|Nora Belrose et.al.|[2412.07003](http://arxiv.org/abs/2412.07003)|null|
-|**2024-12-08**|**Tube Loss: A Novel Approach for Prediction Interval Estimation and probabilistic forecasting**|Pritam Anand et.al.|[2412.06853](http://arxiv.org/abs/2412.06853)|**[link](https://github.com/ltpritamanand/tube_loss)**|
+|**2024-12-11**|**Understanding Gradient Descent through the Training Jacobian**|Nora Belrose et.al.|[2412.07003](http://arxiv.org/abs/2412.07003)|null|
+|**2024-12-11**|**Tube Loss: A Novel Approach for Prediction Interval Estimation and probabilistic forecasting**|Pritam Anand et.al.|[2412.06853](http://arxiv.org/abs/2412.06853)|**[link](https://github.com/ltpritamanand/tube_loss)**|
 |**2024-12-09**|**Numerical Optimization of Eigenvalues of the magnetic Dirichlet Laplacian with constant magnetic field**|Matthias Baur et.al.|[2412.06533](http://arxiv.org/abs/2412.06533)|null|
 |**2024-12-09**|**Tail Risk Alert Based on Conditional Autoregressive VaR by Regression Quantiles and Machine Learning Algorithms**|Zong Ke et.al.|[2412.06193](http://arxiv.org/abs/2412.06193)|null|
 |**2024-12-09**|**Deep Unfolding Beamforming and Power Control Designs for Multi-Port Matching Networks**|Bokai Xu et.al.|[2412.06178](http://arxiv.org/abs/2412.06178)|null|
@@ -3984,8 +3984,8 @@ layout: default
 |**2024-12-10**|**Reconstructing Deep Neural Networks: Unleashing the Optimization Potential of Natural Gradient Descent**|Weihua Liu et.al.|[2412.07441](http://arxiv.org/abs/2412.07441)|**[link](https://github.com/chaochao-lin/sngd)**|
 |**2024-12-10**|**dSTAR: Straggler Tolerant and Byzantine Resilient Distributed SGD**|Jiahe Yan et.al.|[2412.07151](http://arxiv.org/abs/2412.07151)|null|
 |**2024-12-10**|**Streaming Private Continual Counting via Binning**|Joel Daniel Andersson et.al.|[2412.07093](http://arxiv.org/abs/2412.07093)|null|
-|**2024-12-09**|**Understanding Gradient Descent through the Training Jacobian**|Nora Belrose et.al.|[2412.07003](http://arxiv.org/abs/2412.07003)|null|
-|**2024-12-08**|**Tube Loss: A Novel Approach for Prediction Interval Estimation and probabilistic forecasting**|Pritam Anand et.al.|[2412.06853](http://arxiv.org/abs/2412.06853)|**[link](https://github.com/ltpritamanand/tube_loss)**|
+|**2024-12-11**|**Understanding Gradient Descent through the Training Jacobian**|Nora Belrose et.al.|[2412.07003](http://arxiv.org/abs/2412.07003)|null|
+|**2024-12-11**|**Tube Loss: A Novel Approach for Prediction Interval Estimation and probabilistic forecasting**|Pritam Anand et.al.|[2412.06853](http://arxiv.org/abs/2412.06853)|**[link](https://github.com/ltpritamanand/tube_loss)**|
 |**2024-12-09**|**Numerical Optimization of Eigenvalues of the magnetic Dirichlet Laplacian with constant magnetic field**|Matthias Baur et.al.|[2412.06533](http://arxiv.org/abs/2412.06533)|null|
 |**2024-12-09**|**Tail Risk Alert Based on Conditional Autoregressive VaR by Regression Quantiles and Machine Learning Algorithms**|Zong Ke et.al.|[2412.06193](http://arxiv.org/abs/2412.06193)|null|
 |**2024-12-09**|**Deep Unfolding Beamforming and Power Control Designs for Multi-Port Matching Networks**|Bokai Xu et.al.|[2412.06178](http://arxiv.org/abs/2412.06178)|null|
@@ -5575,9 +5575,9 @@ layout: default
 |**2024-12-05**|**A Dynamic Safety Shield for Safe and Efficient Reinforcement Learning of Navigation Tasks**|Murad Dawood et.al.|[2412.04153](http://arxiv.org/abs/2412.04153)|null|
 |**2024-12-05**|**Towards Generalizable Autonomous Penetration Testing via Domain Randomization and Meta-Reinforcement Learning**|Shicheng Zhou et.al.|[2412.04078](http://arxiv.org/abs/2412.04078)|**[link](https://github.com/Joe-zsc/GAP)**|
 |**2024-12-05**|**Integrated Sensing and Communications for Low-Altitude Economy: A Deep Reinforcement Learning Approach**|Xiaowen Ye et.al.|[2412.04074](http://arxiv.org/abs/2412.04074)|null|
-|**2024-12-05**|**Demonstration of Enhanced Qubit Readout via Reinforcement Learning**|Aniket Chatterjee et.al.|[2412.04053](http://arxiv.org/abs/2412.04053)|null|
+|**2024-12-11**|**Demonstration of Enhanced Qubit Readout via Reinforcement Learning**|Aniket Chatterjee et.al.|[2412.04053](http://arxiv.org/abs/2412.04053)|null|
 |**2024-12-05**|**Learning Dual-Arm Push and Grasp Synergy in Dense Clutter**|Yongliang Wang et.al.|[2412.04052](http://arxiv.org/abs/2412.04052)|null|
-|**2024-12-05**|**Hierarchical Learning for IRS-Assisted MEC Systems with Rate-Splitting Multiple Access**|Yinyu Wu et.al.|[2412.04002](http://arxiv.org/abs/2412.04002)|null|
+|**2024-12-11**|**Hierarchical Learning for IRS-Assisted MEC Systems with Rate-Splitting Multiple Access**|Yinyu Wu et.al.|[2412.04002](http://arxiv.org/abs/2412.04002)|null|
 |**2024-12-05**|**Demonstration Selection for In-Context Learning via Reinforcement Learning**|Xubin Wang et.al.|[2412.03966](http://arxiv.org/abs/2412.03966)|null|
 |**2024-12-05**|**Is FISHER All You Need in The Multi-AUV Underwater Target Tracking Task?**|Jingzehua Xu et.al.|[2412.03959](http://arxiv.org/abs/2412.03959)|null|
 |**2024-12-05**|**BEFL: Balancing Energy Consumption in Federated Learning for Mobile Edge IoT**|Zehao Ju et.al.|[2412.03950](http://arxiv.org/abs/2412.03950)|**[link](https://github.com/juzehao/befl)**|
