@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1217,7 +1217,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## Transformer
 
@@ -1228,7 +1228,7 @@
 |**2025-01-06**|**Single-Channel Distance-Based Source Separation for Mobile GPU in Outdoor and Indoor Environments**|Hanbin Bae et.al.|[2501.03045](http://arxiv.org/abs/2501.03045)|null|
 |**2025-01-06**|**Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures**|Charles O'Neill et.al.|[2501.02931](http://arxiv.org/abs/2501.02931)|null|
 |**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858](http://arxiv.org/abs/2501.02858)|null|
-|**2025-01-06**|**Samba-asr state-of-the-art speech recognition leveraging structured state-space models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
+|**2025-01-07**|**Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
 |**2025-01-06**|**Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences**|Xiwen Chen et.al.|[2501.02735](http://arxiv.org/abs/2501.02735)|null|
 |**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|null|
 |**2025-01-04**|**CorrFill: Enhancing Faithfulness in Reference-based Inpainting with Correspondence Guidance in Diffusion Models**|Kuan-Hung Liu et.al.|[2501.02355](http://arxiv.org/abs/2501.02355)|null|
@@ -2568,7 +2568,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## Optimization
 
@@ -2660,7 +2660,7 @@
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610](http://arxiv.org/abs/2412.09610)|null|
 |**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584](http://arxiv.org/abs/2412.09584)|null|
 |**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579](http://arxiv.org/abs/2412.09579)|null|
-|**2024-12-12**|**Gradient descent inference in empirical risk minimization**|Qiyang Han et.al.|[2412.09498](http://arxiv.org/abs/2412.09498)|null|
+|**2025-01-07**|**Gradient descent inference in empirical risk minimization**|Qiyang Han et.al.|[2412.09498](http://arxiv.org/abs/2412.09498)|null|
 |**2024-12-12**|**Regression and Classification with Single-Qubit Quantum Neural Networks**|Leandro C. Souza et.al.|[2412.09486](http://arxiv.org/abs/2412.09486)|null|
 |**2024-12-12**|**The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning**|Youssef Allouah et.al.|[2412.09119](http://arxiv.org/abs/2412.09119)|null|
 |**2024-12-12**|**Subspace tracking for online system identification**|András Sasfi et.al.|[2412.09052](http://arxiv.org/abs/2412.09052)|null|
@@ -4056,7 +4056,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -4269,7 +4269,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -4374,7 +4374,7 @@
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610](http://arxiv.org/abs/2412.09610)|null|
 |**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584](http://arxiv.org/abs/2412.09584)|null|
 |**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579](http://arxiv.org/abs/2412.09579)|null|
-|**2024-12-12**|**Gradient descent inference in empirical risk minimization**|Qiyang Han et.al.|[2412.09498](http://arxiv.org/abs/2412.09498)|null|
+|**2025-01-07**|**Gradient descent inference in empirical risk minimization**|Qiyang Han et.al.|[2412.09498](http://arxiv.org/abs/2412.09498)|null|
 |**2024-12-12**|**Regression and Classification with Single-Qubit Quantum Neural Networks**|Leandro C. Souza et.al.|[2412.09486](http://arxiv.org/abs/2412.09486)|null|
 |**2024-12-12**|**The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning**|Youssef Allouah et.al.|[2412.09119](http://arxiv.org/abs/2412.09119)|null|
 |**2024-12-12**|**SVasP: Self-Versatility Adversarial Style Perturbation for Cross-Domain Few-Shot Learning**|Wenqian Li et.al.|[2412.09073](http://arxiv.org/abs/2412.09073)|null|
@@ -5913,7 +5913,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -11253,7 +11253,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250107>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors

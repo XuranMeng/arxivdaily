@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -1218,7 +1218,7 @@ layout: default
 |**2025-01-06**|**Single-Channel Distance-Based Source Separation for Mobile GPU in Outdoor and Indoor Environments**|Hanbin Bae et.al.|[2501.03045](http://arxiv.org/abs/2501.03045)|null|
 |**2025-01-06**|**Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures**|Charles O'Neill et.al.|[2501.02931](http://arxiv.org/abs/2501.02931)|null|
 |**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858](http://arxiv.org/abs/2501.02858)|null|
-|**2025-01-06**|**Samba-asr state-of-the-art speech recognition leveraging structured state-space models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
+|**2025-01-07**|**Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
 |**2025-01-06**|**Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences**|Xiwen Chen et.al.|[2501.02735](http://arxiv.org/abs/2501.02735)|null|
 |**2025-01-04**|**V2X-DGPE: Addressing Domain Gaps and Pose Errors for Robust Collaborative 3D Object Detection**|Sichao Wang et.al.|[2501.02363](http://arxiv.org/abs/2501.02363)|null|
 |**2025-01-04**|**CorrFill: Enhancing Faithfulness in Reference-based Inpainting with Correspondence Guidance in Diffusion Models**|Kuan-Hung Liu et.al.|[2501.02355](http://arxiv.org/abs/2501.02355)|null|
@@ -2648,7 +2648,7 @@ layout: default
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610](http://arxiv.org/abs/2412.09610)|null|
 |**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584](http://arxiv.org/abs/2412.09584)|null|
 |**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579](http://arxiv.org/abs/2412.09579)|null|
-|**2024-12-12**|**Gradient descent inference in empirical risk minimization**|Qiyang Han et.al.|[2412.09498](http://arxiv.org/abs/2412.09498)|null|
+|**2025-01-07**|**Gradient descent inference in empirical risk minimization**|Qiyang Han et.al.|[2412.09498](http://arxiv.org/abs/2412.09498)|null|
 |**2024-12-12**|**Regression and Classification with Single-Qubit Quantum Neural Networks**|Leandro C. Souza et.al.|[2412.09486](http://arxiv.org/abs/2412.09486)|null|
 |**2024-12-12**|**The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning**|Youssef Allouah et.al.|[2412.09119](http://arxiv.org/abs/2412.09119)|null|
 |**2024-12-12**|**Subspace tracking for online system identification**|András Sasfi et.al.|[2412.09052](http://arxiv.org/abs/2412.09052)|null|
@@ -4358,7 +4358,7 @@ layout: default
 |**2024-12-12**|**The S-matrix bootstrap with neural optimizers I: zero double discontinuity**|Mehmet Asim Gumus et.al.|[2412.09610](http://arxiv.org/abs/2412.09610)|null|
 |**2024-12-12**|**BaB-ND: Long-Horizon Motion Planning with Branch-and-Bound and Neural Dynamics**|Keyi Shen et.al.|[2412.09584](http://arxiv.org/abs/2412.09584)|null|
 |**2024-12-12**|**A Theoretical Analysis of Soft-Label vs Hard-Label Training in Neural Networks**|Saptarshi Mandal et.al.|[2412.09579](http://arxiv.org/abs/2412.09579)|null|
-|**2024-12-12**|**Gradient descent inference in empirical risk minimization**|Qiyang Han et.al.|[2412.09498](http://arxiv.org/abs/2412.09498)|null|
+|**2025-01-07**|**Gradient descent inference in empirical risk minimization**|Qiyang Han et.al.|[2412.09498](http://arxiv.org/abs/2412.09498)|null|
 |**2024-12-12**|**Regression and Classification with Single-Qubit Quantum Neural Networks**|Leandro C. Souza et.al.|[2412.09486](http://arxiv.org/abs/2412.09486)|null|
 |**2024-12-12**|**The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning**|Youssef Allouah et.al.|[2412.09119](http://arxiv.org/abs/2412.09119)|null|
 |**2024-12-12**|**SVasP: Self-Versatility Adversarial Style Perturbation for Cross-Domain Few-Shot Learning**|Wenqian Li et.al.|[2412.09073](http://arxiv.org/abs/2412.09073)|null|
