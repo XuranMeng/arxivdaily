@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762](http://arxiv.org/abs/2501.04762)|null|
 |**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416](http://arxiv.org/abs/2501.04416)|null|
 |**2025-01-09**|**More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**|Xiaoqing Zhang et.al.|[2501.04070](http://arxiv.org/abs/2501.04070)|**[link](https://github.com/xiaoqzhwhu/dr-icl)**|
 |**2025-01-08**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295](http://arxiv.org/abs/2501.03295)|null|
@@ -1216,6 +1217,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|null|
 |**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643](http://arxiv.org/abs/2501.04643)|null|
 |**2025-01-08**|**A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes**|Qingmei Wang et.al.|[2501.04529](http://arxiv.org/abs/2501.04529)|**[link](https://github.com/qingmeiwangdaily/badmm_tpp)**|
 |**2025-01-08**|**Modeling All Response Surfaces in One for Conditional Search Spaces**|Jiaxing Li et.al.|[2501.04260](http://arxiv.org/abs/2501.04260)|null|
@@ -2574,6 +2576,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Design for light-based spherical aberration correction of ultrafast electron microscopes**|Marius Constantin Chirita Mihaila et.al.|[2501.05157](http://arxiv.org/abs/2501.05157)|null|
+|**2025-01-09**|**Projected proximal gradient trust-region algorithm for nonsmooth optimization**|Minh N. Dao et.al.|[2501.04889](http://arxiv.org/abs/2501.04889)|null|
+|**2025-01-08**|**Multi-step Inertial Accelerated Doubly Stochastic Gradient Methods for Block Term Tensor Decomposition**|Zehui Liu et.al.|[2501.04833](http://arxiv.org/abs/2501.04833)|null|
+|**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-08**|**Natural Variational Annealing for Multimodal Optimization**|Tâm Le Minh et.al.|[2501.04667](http://arxiv.org/abs/2501.04667)|null|
 |**2025-01-09**|**Regret Analysis: a control perspective**|Travis E. Gibson et.al.|[2501.04572](http://arxiv.org/abs/2501.04572)|null|
 |**2025-01-08**|**Learnable Scaled Gradient Descent for Guaranteed Robust Tensor PCA**|Lanlan Feng et.al.|[2501.04565](http://arxiv.org/abs/2501.04565)|null|
@@ -4287,6 +4293,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Design for light-based spherical aberration correction of ultrafast electron microscopes**|Marius Constantin Chirita Mihaila et.al.|[2501.05157](http://arxiv.org/abs/2501.05157)|null|
+|**2025-01-09**|**Projected proximal gradient trust-region algorithm for nonsmooth optimization**|Minh N. Dao et.al.|[2501.04889](http://arxiv.org/abs/2501.04889)|null|
+|**2025-01-08**|**Multi-step Inertial Accelerated Doubly Stochastic Gradient Methods for Block Term Tensor Decomposition**|Zehui Liu et.al.|[2501.04833](http://arxiv.org/abs/2501.04833)|null|
+|**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-08**|**Natural Variational Annealing for Multimodal Optimization**|Tâm Le Minh et.al.|[2501.04667](http://arxiv.org/abs/2501.04667)|null|
 |**2025-01-09**|**Regret Analysis: a control perspective**|Travis E. Gibson et.al.|[2501.04572](http://arxiv.org/abs/2501.04572)|null|
 |**2025-01-08**|**Learnable Scaled Gradient Descent for Guaranteed Robust Tensor PCA**|Lanlan Feng et.al.|[2501.04565](http://arxiv.org/abs/2501.04565)|null|
@@ -5944,6 +5954,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
+|**2025-01-09**|**Search-o1: Agentic Search-Enhanced Large Reasoning Models**|Xiaoxi Li et.al.|[2501.05366](http://arxiv.org/abs/2501.05366)|null|
+|**2025-01-09**|**Knowledge Transfer in Model-Based Reinforcement Learning Agents for Efficient Multi-Task Learning**|Dmytro Kuzmenko et.al.|[2501.05329](http://arxiv.org/abs/2501.05329)|null|
+|**2025-01-09**|**Design and Control of a Bipedal Robotic Character**|Ruben Grandia et.al.|[2501.05204](http://arxiv.org/abs/2501.05204)|null|
+|**2025-01-09**|**Constrained Optimization of Charged Particle Tracking with Multi-Agent Reinforcement Learning**|Tobias Kortus et.al.|[2501.05113](http://arxiv.org/abs/2501.05113)|null|
+|**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[2501.05057](http://arxiv.org/abs/2501.05057)|null|
+|**2025-01-09**|**CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**|Bhargava Uppuluri et.al.|[2501.04982](http://arxiv.org/abs/2501.04982)|null|
+|**2025-01-09**|**Promoting Shared Energy Storage Aggregation among High Price-Tolerance Prosumer: An Incentive Deposit and Withdrawal Service**|Xin Lu et.al.|[2501.04964](http://arxiv.org/abs/2501.04964)|null|
+|**2025-01-09**|**Balancing Exploration and Cybersickness: Investigating Curiosity-Driven Behavior in Virtual Environments**|Tangyao Li et.al.|[2501.04905](http://arxiv.org/abs/2501.04905)|null|
+|**2025-01-08**|**Multilinear Tensor Low-Rank Approximation for Policy-Gradient Methods in Reinforcement Learning**|Sergio Rozada et.al.|[2501.04879](http://arxiv.org/abs/2501.04879)|null|
+|**2025-01-08**|**Deep Transfer $Q$ -Learning for Offline Non-Stationary Reinforcement Learning**|Jinhang Chai et.al.|[2501.04870](http://arxiv.org/abs/2501.04870)|null|
+|**2025-01-08**|**DRL-Based Medium-Term Planning of Renewable-Integrated Self-Scheduling Cascaded Hydropower to Guide Wholesale Market Participation**|Xianbang Chen et.al.|[2501.04839](http://arxiv.org/abs/2501.04839)|null|
+|**2025-01-02**|**Knowledge-Guided Biomarker Identification for Label-Free Single-Cell RNA-Seq Data: A Reinforcement Learning Perspective**|Meng Xiao et.al.|[2501.04718](http://arxiv.org/abs/2501.04718)|null|
 |**2025-01-08**|**Towards System 2 Reasoning in LLMs: Learning How to Think With Meta Chain-of-Thought**|Violet Xiang et.al.|[2501.04682](http://arxiv.org/abs/2501.04682)|null|
 |**2025-01-08**|**Framework for Integrating Machine Learning Methods for Path-Aware Source Routing**|Anees Al-Najjar et.al.|[2501.04624](http://arxiv.org/abs/2501.04624)|null|
 |**2025-01-08**|**HypeRL: Parameter-Informed Reinforcement Learning for Parametric PDEs**|Nicolò Botteghi et.al.|[2501.04538](http://arxiv.org/abs/2501.04538)|null|
