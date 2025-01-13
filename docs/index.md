@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[2501.05566](http://arxiv.org/abs/2501.05566)|null|
 |**2025-01-08**|**Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762](http://arxiv.org/abs/2501.04762)|null|
 |**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416](http://arxiv.org/abs/2501.04416)|null|
 |**2025-01-09**|**More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**|Xiaoqing Zhang et.al.|[2501.04070](http://arxiv.org/abs/2501.04070)|**[link](https://github.com/xiaoqzhwhu/dr-icl)**|
@@ -1217,6 +1218,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets**|Bowei Zhang et.al.|[2501.06040](http://arxiv.org/abs/2501.06040)|null|
+|**2025-01-10**|**Binary Event-Driven Spiking Transformer**|Honglin Cao et.al.|[2501.05904](http://arxiv.org/abs/2501.05904)|null|
+|**2025-01-10**|**Element-wise Attention Is All You Need**|Guoxin Feng et.al.|[2501.05730](http://arxiv.org/abs/2501.05730)|null|
+|**2025-01-09**|**MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data**|Gourav Siddhad et.al.|[2501.05525](http://arxiv.org/abs/2501.05525)|null|
 |**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|**[link](https://github.com/uncertaintyforknowledgetracing/ukt)**|
 |**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643](http://arxiv.org/abs/2501.04643)|null|
 |**2025-01-08**|**A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes**|Qingmei Wang et.al.|[2501.04529](http://arxiv.org/abs/2501.04529)|**[link](https://github.com/qingmeiwangdaily/badmm_tpp)**|
@@ -2576,6 +2581,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Averaged Adam accelerates stochastic optimization in the training of deep neural network approximations for partial differential equation and optimal control problems**|Steffen Dereich et.al.|[2501.06081](http://arxiv.org/abs/2501.06081)|**[link](https://github.com/deeplearningmethods/averaged-adam)**|
+|**2025-01-10**|**Modified Conjugate Quantum Natural Gradient**|Mourad Halla et.al.|[2501.05847](http://arxiv.org/abs/2501.05847)|null|
+|**2025-01-10**|**Efficient Gradient Tracking Algorithms for Distributed Optimization Problems with Inexact Communication**|Shengchao Zhaoa et.al.|[2501.05737](http://arxiv.org/abs/2501.05737)|null|
+|**2025-01-10**|**Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave Minimax Optimization**|Xia Jiang et.al.|[2501.05677](http://arxiv.org/abs/2501.05677)|null|
+|**2025-01-10**|**Fully Decentralized Computation Offloading in Priority-Driven Edge Computing Systems**|Shubham Aggarwal et.al.|[2501.05660](http://arxiv.org/abs/2501.05660)|null|
+|**2025-01-10**|**Regularized Top- $k$ : A Bayesian Framework for Gradient Sparsification**|Ali Bereyhi et.al.|[2501.05633](http://arxiv.org/abs/2501.05633)|null|
 |**2025-01-09**|**Design for light-based spherical aberration correction of ultrafast electron microscopes**|Marius Constantin Chirita Mihaila et.al.|[2501.05157](http://arxiv.org/abs/2501.05157)|null|
 |**2025-01-09**|**Projected proximal gradient trust-region algorithm for nonsmooth optimization**|Minh N. Dao et.al.|[2501.04889](http://arxiv.org/abs/2501.04889)|null|
 |**2025-01-08**|**Multi-step Inertial Accelerated Doubly Stochastic Gradient Methods for Block Term Tensor Decomposition**|Zehui Liu et.al.|[2501.04833](http://arxiv.org/abs/2501.04833)|null|
@@ -4293,6 +4304,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Averaged Adam accelerates stochastic optimization in the training of deep neural network approximations for partial differential equation and optimal control problems**|Steffen Dereich et.al.|[2501.06081](http://arxiv.org/abs/2501.06081)|**[link](https://github.com/deeplearningmethods/averaged-adam)**|
+|**2025-01-10**|**Modified Conjugate Quantum Natural Gradient**|Mourad Halla et.al.|[2501.05847](http://arxiv.org/abs/2501.05847)|null|
+|**2025-01-10**|**Efficient Gradient Tracking Algorithms for Distributed Optimization Problems with Inexact Communication**|Shengchao Zhaoa et.al.|[2501.05737](http://arxiv.org/abs/2501.05737)|null|
+|**2025-01-10**|**Single-Loop Variance-Reduced Stochastic Algorithm for Nonconvex-Concave Minimax Optimization**|Xia Jiang et.al.|[2501.05677](http://arxiv.org/abs/2501.05677)|null|
+|**2025-01-10**|**Fully Decentralized Computation Offloading in Priority-Driven Edge Computing Systems**|Shubham Aggarwal et.al.|[2501.05660](http://arxiv.org/abs/2501.05660)|null|
+|**2025-01-10**|**Regularized Top- $k$ : A Bayesian Framework for Gradient Sparsification**|Ali Bereyhi et.al.|[2501.05633](http://arxiv.org/abs/2501.05633)|null|
 |**2025-01-09**|**Design for light-based spherical aberration correction of ultrafast electron microscopes**|Marius Constantin Chirita Mihaila et.al.|[2501.05157](http://arxiv.org/abs/2501.05157)|null|
 |**2025-01-09**|**Projected proximal gradient trust-region algorithm for nonsmooth optimization**|Minh N. Dao et.al.|[2501.04889](http://arxiv.org/abs/2501.04889)|null|
 |**2025-01-08**|**Multi-step Inertial Accelerated Doubly Stochastic Gradient Methods for Block Term Tensor Decomposition**|Zehui Liu et.al.|[2501.04833](http://arxiv.org/abs/2501.04833)|null|
@@ -5954,6 +5971,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training**|Julius Berner et.al.|[2501.06148](http://arxiv.org/abs/2501.06148)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
+|**2025-01-10**|**Vehicle-in-Virtual-Environment (VVE) Based Autonomous Driving Function Development and Evaluation Methodology for Vulnerable Road User Safety**|Haochong Chen et.al.|[2501.06113](http://arxiv.org/abs/2501.06113)|null|
+|**2025-01-10**|**Learning Flexible Heterogeneous Coordination with Capability-Aware Shared Hypernetworks**|Kevin Fu et.al.|[2501.06058](http://arxiv.org/abs/2501.06058)|null|
+|**2025-01-10**|**Investigating the Impact of Observation Space Design Choices On Training Reinforcement Learning Solutions for Spacecraft Problems**|Nathaniel Hamilton et.al.|[2501.06016](http://arxiv.org/abs/2501.06016)|null|
+|**2025-01-10**|**The Safe Trusted Autonomy for Responsible Space Program**|Kerianne L. Hobbs et.al.|[2501.05984](http://arxiv.org/abs/2501.05984)|null|
+|**2025-01-10**|**A Practical Demonstration of DRL-Based Dynamic Resource Allocation xApp Using OpenAirInterface**|Onur Sever et.al.|[2501.05879](http://arxiv.org/abs/2501.05879)|null|
+|**2025-01-10**|**Diffusion Models for Smarter UAVs: Decision-Making and Modeling**|Yousef Emami et.al.|[2501.05819](http://arxiv.org/abs/2501.05819)|null|
+|**2025-01-10**|**Real-Time Integrated Dispatching and Idle Fleet Steering with Deep Reinforcement Learning for A Meal Delivery Platform**|Jingyi Cheng et.al.|[2501.05808](http://arxiv.org/abs/2501.05808)|null|
+|**2025-01-10**|**Understanding Impact of Human Feedback via Influence Functions**|Taywon Min et.al.|[2501.05790](http://arxiv.org/abs/2501.05790)|**[link](https://github.com/mintaywon/if_rlhf)**|
+|**2025-01-09**|**Session-Level Dynamic Ad Load Optimization using Offline Robust Reinforcement Learning**|Tao Liu et.al.|[2501.05591](http://arxiv.org/abs/2501.05591)|null|
+|**2025-01-09**|**Strategy Masking: A Method for Guardrails in Value-based Reinforcement Learning Agents**|Jonathan Keane et.al.|[2501.05501](http://arxiv.org/abs/2501.05501)|null|
+|**2025-01-09**|**Generative Flow Networks: Theory and Applications to Structure Learning**|Tristan Deleu et.al.|[2501.05498](http://arxiv.org/abs/2501.05498)|null|
 |**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
 |**2025-01-09**|**Search-o1: Agentic Search-Enhanced Large Reasoning Models**|Xiaoxi Li et.al.|[2501.05366](http://arxiv.org/abs/2501.05366)|**[link](https://github.com/sunnynexus/search-o1)**|
 |**2025-01-09**|**Knowledge Transfer in Model-Based Reinforcement Learning Agents for Efficient Multi-Task Learning**|Dmytro Kuzmenko et.al.|[2501.05329](http://arxiv.org/abs/2501.05329)|null|
