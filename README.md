@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.14
+## Updated on 2025.01.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -47,7 +47,7 @@
 |**2024-12-27**|**Confidence v.s. Critique: A Decomposition of Self-Correction Capability for LLMs**|Zhe Yang et.al.|[2412.19513](http://arxiv.org/abs/2412.19513)|**[link](https://github.com/Zhe-Young/SelfCorrectDecompose)**|
 |**2024-12-26**|**SILC-EFSA: Self-aware In-context Learning Correction for Entity-level Financial Sentiment Analysis**|Senbin Zhu et.al.|[2412.19140](http://arxiv.org/abs/2412.19140)|**[link](https://github.com/nlp-bin/silc-efsa)**|
 |**2024-12-26**|**SketchFill: Sketch-Guided Code Generation for Imputing Derived Missing Values**|Yunfan Zhang et.al.|[2412.19113](http://arxiv.org/abs/2412.19113)|null|
-|**2024-12-26**|**Let the Rule Speak: Enhancing In-context Learning Debiasing with Interpretability**|Ruixi Lin et.al.|[2412.19018](http://arxiv.org/abs/2412.19018)|null|
+|**2025-01-14**|**Let the Rule Speak: Enhancing In-context Learning Debiasing with Interpretability**|Ruixi Lin et.al.|[2412.19018](http://arxiv.org/abs/2412.19018)|null|
 |**2024-12-30**|**TextMatch: Enhancing Image-Text Consistency Through Multimodal Optimization**|Yucong Luo et.al.|[2412.18185](http://arxiv.org/abs/2412.18185)|null|
 |**2024-12-24**|**Generating Traffic Scenarios via In-Context Learning to Learn Better Motion Planner**|Aizierjiang Aiersilan et.al.|[2412.18086](http://arxiv.org/abs/2412.18086)|**[link](https://github.com/Ezharjan/AutoSceneGen)**|
 |**2024-12-23**|**The Power of Adaptation: Boosting In-Context Learning through Adaptive Prompting**|Shuzhang Cai et.al.|[2412.17891](http://arxiv.org/abs/2412.17891)|null|
@@ -1226,7 +1226,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 ## Transformer
 
@@ -1239,7 +1239,7 @@
 |**2025-01-11**|**Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning**|Maomao Li et.al.|[2501.06438](http://arxiv.org/abs/2501.06438)|null|
 |**2025-01-10**|**Dynamics of "Spontaneous" Topic Changes in Next Token Prediction with Self-Attention**|Mumin Jia et.al.|[2501.06382](http://arxiv.org/abs/2501.06382)|null|
 |**2025-01-09**|**HPAC-IDS: A Hierarchical Packet Attention Convolution for Intrusion Detection System**|Anass Grini et.al.|[2501.06264](http://arxiv.org/abs/2501.06264)|null|
-|**2025-01-10**|**MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets**|Bowei Zhang et.al.|[2501.06040](http://arxiv.org/abs/2501.06040)|null|
+|**2025-01-14**|**MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets**|Bowei Zhang et.al.|[2501.06040](http://arxiv.org/abs/2501.06040)|null|
 |**2025-01-10**|**Binary Event-Driven Spiking Transformer**|Honglin Cao et.al.|[2501.05904](http://arxiv.org/abs/2501.05904)|null|
 |**2025-01-10**|**Element-wise Attention Is All You Need**|Guoxin Feng et.al.|[2501.05730](http://arxiv.org/abs/2501.05730)|null|
 |**2025-01-09**|**MECASA: Motor Execution Classification using Additive Self-Attention for Hybrid EEG-fNIRS Data**|Gourav Siddhad et.al.|[2501.05525](http://arxiv.org/abs/2501.05525)|null|
@@ -1256,7 +1256,7 @@
 |**2025-01-06**|**Analysis of mean-field models arising from self-attention dynamics in transformer architectures with layer normalization**|Martin Burger et.al.|[2501.03096](http://arxiv.org/abs/2501.03096)|**[link](https://github.com/timroith/transformerdynamics)**|
 |**2025-01-06**|**Through-The-Mask: Mask-based Motion Trajectories for Image-to-Video Generation**|Guy Yariv et.al.|[2501.03059](http://arxiv.org/abs/2501.03059)|null|
 |**2025-01-06**|**Single-Channel Distance-Based Source Separation for Mobile GPU in Outdoor and Indoor Environments**|Hanbin Bae et.al.|[2501.03045](http://arxiv.org/abs/2501.03045)|null|
-|**2025-01-06**|**Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures**|Charles O'Neill et.al.|[2501.02931](http://arxiv.org/abs/2501.02931)|null|
+|**2025-01-14**|**Self-Attention as a Parametric Endofunctor: A Categorical Framework for Transformer Architectures**|Charles O'Neill et.al.|[2501.02931](http://arxiv.org/abs/2501.02931)|null|
 |**2025-01-06**|**A Novel Vision Transformer for Camera-LiDAR Fusion based Traffic Object Segmentation**|Toomas Tahves et.al.|[2501.02858](http://arxiv.org/abs/2501.02858)|null|
 |**2025-01-08**|**Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured State-Space Models**|Syed Abdul Gaffar Shakhadri et.al.|[2501.02832](http://arxiv.org/abs/2501.02832)|null|
 |**2025-01-06**|**Sequence Complementor: Complementing Transformers For Time Series Forecasting with Learnable Sequences**|Xiwen Chen et.al.|[2501.02735](http://arxiv.org/abs/2501.02735)|null|
@@ -2598,7 +2598,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 ## Optimization
 
@@ -4118,7 +4118,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -4332,7 +4332,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -6009,7 +6009,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -6047,11 +6047,11 @@
 |**2025-01-11**|**AlgoPilot: Fully Autonomous Program Synthesis Without Human-Written Programs**|Xiaoxin Yin et.al.|[2501.06423](http://arxiv.org/abs/2501.06423)|null|
 |**2025-01-11**|**Influencing Humans to Conform to Preference Models for RLHF**|Stephane Hatgis-Kessell et.al.|[2501.06416](http://arxiv.org/abs/2501.06416)|null|
 |**2025-01-11**|**Task Delay and Energy Consumption Minimization for Low-altitude MEC via Evolutionary Multi-objective Deep Reinforcement Learning**|Geng Sun et.al.|[2501.06410](http://arxiv.org/abs/2501.06410)|null|
-|**2025-01-11**|**Computational and Statistical Asymptotic Analysis of the JKO Scheme for Iterative Algorithms to update distributions**|Shang Wu et.al.|[2501.06408](http://arxiv.org/abs/2501.06408)|null|
+|**2025-01-14**|**Computational and Statistical Asymptotic Analysis of the JKO Scheme for Iterative Algorithms to update distributions**|Shang Wu et.al.|[2501.06408](http://arxiv.org/abs/2501.06408)|null|
 |**2025-01-11**|**A Hybrid Framework for Reinsurance Optimization: Integrating Generative Models and Reinforcement Learning**|Stella C. Dong et.al.|[2501.06404](http://arxiv.org/abs/2501.06404)|**[link](https://github.com/stellacydong/Integrating-Generative-Models-and-Reinforcement-Learning-for-Reinsurance-Optimization)**|
-|**2025-01-10**|**Counterfactually Fair Reinforcement Learning via Sequential Data Preprocessing**|Jitao Wang et.al.|[2501.06366](http://arxiv.org/abs/2501.06366)|null|
+|**2025-01-14**|**Counterfactually Fair Reinforcement Learning via Sequential Data Preprocessing**|Jitao Wang et.al.|[2501.06366](http://arxiv.org/abs/2501.06366)|null|
 |**2025-01-10**|**Reinforcement Learning-Driven Adaptation Chains: A Robust Framework for Multi-Cloud Workflow Security**|Nafiseh Soveizi et.al.|[2501.06305](http://arxiv.org/abs/2501.06305)|null|
-|**2025-01-09**|**$\text{Transformer}^2$ : Self-adaptive LLMs**|Qi Sun et.al.|[2501.06252](http://arxiv.org/abs/2501.06252)|null|
+|**2025-01-14**|**$\text{Transformer}^2$ : Self-adaptive LLMs**|Qi Sun et.al.|[2501.06252](http://arxiv.org/abs/2501.06252)|null|
 |**2025-01-08**|**Utility-inspired Reward Transformations Improve Reinforcement Learning Training of Language Models**|Roberto-Rafael Maura-Rivero et.al.|[2501.06248](http://arxiv.org/abs/2501.06248)|null|
 |**2025-01-08**|**Microservice Deployment in Space Computing Power Networks via Robust Reinforcement Learning**|Zhiyong Yu et.al.|[2501.06244](http://arxiv.org/abs/2501.06244)|null|
 |**2025-01-10**|**From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training**|Julius Berner et.al.|[2501.06148](http://arxiv.org/abs/2501.06148)|**[link](https://github.com/gfnorg/gfn-diffusion)**|
@@ -6073,8 +6073,8 @@
 |**2025-01-09**|**Constrained Optimization of Charged Particle Tracking with Multi-Agent Reinforcement Learning**|Tobias Kortus et.al.|[2501.05113](http://arxiv.org/abs/2501.05113)|null|
 |**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[2501.05057](http://arxiv.org/abs/2501.05057)|null|
 |**2025-01-09**|**CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**|Bhargava Uppuluri et.al.|[2501.04982](http://arxiv.org/abs/2501.04982)|null|
-|**2025-01-09**|**Promoting Shared Energy Storage Aggregation among High Price-Tolerance Prosumer: An Incentive Deposit and Withdrawal Service**|Xin Lu et.al.|[2501.04964](http://arxiv.org/abs/2501.04964)|null|
-|**2025-01-09**|**Balancing Exploration and Cybersickness: Investigating Curiosity-Driven Behavior in Virtual Environments**|Tangyao Li et.al.|[2501.04905](http://arxiv.org/abs/2501.04905)|null|
+|**2025-01-14**|**Promoting Shared Energy Storage Aggregation among High Price-Tolerance Prosumer: An Incentive Deposit and Withdrawal Service**|Xin Lu et.al.|[2501.04964](http://arxiv.org/abs/2501.04964)|null|
+|**2025-01-14**|**Balancing Exploration and Cybersickness: Investigating Curiosity-Driven Behavior in Virtual Environments**|Tangyao Li et.al.|[2501.04905](http://arxiv.org/abs/2501.04905)|null|
 |**2025-01-08**|**Multilinear Tensor Low-Rank Approximation for Policy-Gradient Methods in Reinforcement Learning**|Sergio Rozada et.al.|[2501.04879](http://arxiv.org/abs/2501.04879)|null|
 |**2025-01-08**|**Deep Transfer $Q$ -Learning for Offline Non-Stationary Reinforcement Learning**|Jinhang Chai et.al.|[2501.04870](http://arxiv.org/abs/2501.04870)|null|
 |**2025-01-08**|**DRL-Based Medium-Term Planning of Renewable-Integrated Self-Scheduling Cascaded Hydropower to Guide Wholesale Market Participation**|Xianbang Chen et.al.|[2501.04839](http://arxiv.org/abs/2501.04839)|null|
@@ -11434,7 +11434,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250114>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
