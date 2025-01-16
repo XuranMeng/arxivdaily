@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1227,7 +1227,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 ## Transformer
 
@@ -2605,7 +2605,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 ## Optimization
 
@@ -4133,7 +4133,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -4168,7 +4168,7 @@
 |**2024-10-11**|**MUSO: Achieving Exact Machine Unlearning in Over-Parameterized Regimes**|Ruikai Yang et.al.|[2410.08557](http://arxiv.org/abs/2410.08557)|**[link](https://github.com/Yruikk/MUSO)**|
 |**2024-10-09**|**Defending Membership Inference Attacks via Privacy-aware Sparsity Tuning**|Qiang Hu et.al.|[2410.06814](http://arxiv.org/abs/2410.06814)|null|
 |**2024-12-03**|**Composing Global Optimizers to Reasoning Tasks via Algebraic Objects in Neural Nets**|Yuandong Tian et.al.|[2410.01779](http://arxiv.org/abs/2410.01779)|**[link](https://github.com/facebookresearch/luckmatters)**|
-|**2024-09-29**|**Investigating the Effect of Network Pruning on Performance and Interpretability**|Jonathan von Rad et.al.|[2409.19727](http://arxiv.org/abs/2409.19727)|null|
+|**2025-01-15**|**Investigating the Effect of Network Pruning on Performance and Interpretability**|Jonathan von Rad et.al.|[2409.19727](http://arxiv.org/abs/2409.19727)|null|
 |**2024-09-26**|**Benign or Not-Benign Overfitting in Token Selection of Attention Mechanism**|Keitaro Sakamoto et.al.|[2409.17625](http://arxiv.org/abs/2409.17625)|null|
 |**2024-09-25**|**Generative Pre-trained Ranking Model with Over-parameterization at Web-Scale (Extended Abstract)**|Yuchen Li et.al.|[2409.16594](http://arxiv.org/abs/2409.16594)|null|
 |**2024-12-25**|**Methods for Convex $(L_0,L_1)$ -Smooth Optimization: Clipping, Acceleration, and Adaptivity**|Eduard Gorbunov et.al.|[2409.14989](http://arxiv.org/abs/2409.14989)|null|
@@ -4201,7 +4201,7 @@
 |**2024-06-16**|**Benign overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Inductive Bias**|Honam Wong et.al.|[2406.09194](http://arxiv.org/abs/2406.09194)|null|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
 |**2024-06-03**|**Achieving Sparse Activation in Small Language Models**|Jifeng Song et.al.|[2406.06562](http://arxiv.org/abs/2406.06562)|**[link](https://github.com/pittisl/sparse-activation)**|
-|**2024-12-19**|**Probability Distribution Learning and Its Application in Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
+|**2025-01-15**|**Probability Distribution Learning and Its Application in Deep Learning**|Binchuan Qi et.al.|[2406.05666](http://arxiv.org/abs/2406.05666)|null|
 |**2024-06-11**|**VTrans: Accelerating Transformer Compression with Variational Information Bottleneck based Pruning**|Oshin Dutta et.al.|[2406.05276](http://arxiv.org/abs/2406.05276)|null|
 |**2024-07-17**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596](http://arxiv.org/abs/2406.04596)|**[link](https://github.com/RenpuLiu/flute)**|
 |**2024-06-04**|**Symmetric Kernels with Non-Symmetric Data: A Data-Agnostic Learnability Bound**|Itay Lavie et.al.|[2406.02663](http://arxiv.org/abs/2406.02663)|null|
@@ -4347,7 +4347,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -6032,7 +6032,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -6042,7 +6042,7 @@
 |**2025-01-14**|**Dynamic Pricing in High-Speed Railways Using Multi-Agent Reinforcement Learning**|Enrique Adrian Villarrubia-Martin et.al.|[2501.08234](http://arxiv.org/abs/2501.08234)|null|
 |**2025-01-14**|**Optimization of Link Configuration for Satellite Communication Using Reinforcement Learning**|Tobias Rohe et.al.|[2501.08220](http://arxiv.org/abs/2501.08220)|null|
 |**2025-01-14**|**In-situ graph reasoning and knowledge expansion using Graph-PReFLexOR**|Markus J. Buehler et.al.|[2501.08120](http://arxiv.org/abs/2501.08120)|null|
-|**2025-01-14**|**Data-driven inventory management for new products: A warm-start and adjusted Dyna- $Q$ approach**|Xinyu Qu et.al.|[2501.08109](http://arxiv.org/abs/2501.08109)|null|
+|**2025-01-15**|**Data-driven inventory management for new products: A warm-start and adjusted Dyna- $Q$ approach**|Xinye Qu et.al.|[2501.08109](http://arxiv.org/abs/2501.08109)|null|
 |**2025-01-14**|**Hybrid Action Based Reinforcement Learning for Multi-Objective Compatible Autonomous Driving**|Guizhe Jin et.al.|[2501.08096](http://arxiv.org/abs/2501.08096)|null|
 |**2025-01-14**|**CuAsmRL: Optimizing GPU SASS Schedules via Deep Reinforcement Learning**|Guoliang He et.al.|[2501.08071](http://arxiv.org/abs/2501.08071)|null|
 |**2025-01-14**|**Continual Reinforcement Learning for Digital Twin Synchronization Optimization**|Haonan Tong et.al.|[2501.08045](http://arxiv.org/abs/2501.08045)|null|
@@ -6078,7 +6078,7 @@
 |**2025-01-12**|**DVM: Towards Controllable LLM Agents in Social Deduction Games**|Zheng Zhang et.al.|[2501.06695](http://arxiv.org/abs/2501.06695)|null|
 |**2025-01-14**|**Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation**|Ziyang Xie et.al.|[2501.06693](http://arxiv.org/abs/2501.06693)|null|
 |**2025-01-11**|**A Reduced Order Iterative Linear Quadratic Regulator (ILQR) Technique for the Optimal Control of Nonlinear Partial Differential Equations**|Aayushman Sharma et.al.|[2501.06635](http://arxiv.org/abs/2501.06635)|null|
-|**2025-01-11**|**RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation**|Zixuan Chen et.al.|[2501.06605](http://arxiv.org/abs/2501.06605)|null|
+|**2025-01-15**|**RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation**|Zixuan Chen et.al.|[2501.06605](http://arxiv.org/abs/2501.06605)|null|
 |**2025-01-11**|**Hierarchical Reinforcement Learning for Optimal Agent Grouping in Cooperative Systems**|Liyuan Hu et.al.|[2501.06554](http://arxiv.org/abs/2501.06554)|null|
 |**2025-01-11**|**Deep Reinforcement Learning Optimized Intelligent Resource Allocation in Active RIS-Integrated TN-NTN Networks**|Muhammad Ahmed Mohsin et.al.|[2501.06482](http://arxiv.org/abs/2501.06482)|null|
 |**2025-01-11**|**Reinforcement Learning for Enhancing Sensing Estimation in Bistatic ISAC Systems with UAV Swarms**|Obed Morrison Atsu et.al.|[2501.06454](http://arxiv.org/abs/2501.06454)|null|
@@ -11472,7 +11472,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
