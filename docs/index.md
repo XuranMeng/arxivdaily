@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.26
+## Updated on 2025.01.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -4203,7 +4203,7 @@ layout: default
 |**2024-12-11**|**Robustness of Graph Classification: failure modes, causes, and noise-resistant loss in Graph Neural Networks**|Farooq Ahmad Wani et.al.|[2412.08419](http://arxiv.org/abs/2412.08419)|null|
 |**2025-01-10**|**Convergence analysis of wide shallow neural operators within the framework of Neural Tangent Kernel**|Xianliang Xu et.al.|[2412.05545](http://arxiv.org/abs/2412.05545)|null|
 |**2024-12-02**|**Representation and Regression Problems in Neural Networks: Relaxation, Generalization, and Numerics**|Kang Liu et.al.|[2412.01619](http://arxiv.org/abs/2412.01619)|null|
-|**2024-12-02**|**Leverage Domain-invariant assumption for regularization**|RuiZhe Jiang et.al.|[2412.01476](http://arxiv.org/abs/2412.01476)|null|
+|**2025-01-24**|**ConsistentFeature: A Plug-and-Play Component for Neural Network Regularization**|RuiZhe Jiang et.al.|[2412.01476](http://arxiv.org/abs/2412.01476)|null|
 |**2024-11-24**|**Stability properties of gradient flow dynamics for the symmetric low-rank matrix factorization problem**|Hesameddin Mohammadi et.al.|[2411.15972](http://arxiv.org/abs/2411.15972)|null|
 |**2024-11-19**|**Trojan Cleansing with Neural Collapse**|Xihe Gu et.al.|[2411.12914](http://arxiv.org/abs/2411.12914)|null|
 |**2024-11-10**|**Over-parameterized Student Model via Tensor Decomposition Boosted Knowledge Distillation**|Yu-Liang Zhan et.al.|[2411.06448](http://arxiv.org/abs/2411.06448)|**[link](https://github.com/intell-sci-comput/opdf)**|
@@ -6149,7 +6149,7 @@ layout: default
 |**2025-01-22**|**Reinforcement learning Based Automated Design of Differential Evolution Algorithm for Black-box Optimization**|Xu Yang et.al.|[2501.12881](http://arxiv.org/abs/2501.12881)|null|
 |**2025-01-22**|**To Measure or Not: A Cost-Sensitive, Selective Measuring Environment for Agricultural Management Decisions with Reinforcement Learning**|Hilmy Baja et.al.|[2501.12823](http://arxiv.org/abs/2501.12823)|**[link](https://github.com/WUR-AI/CropGym-ToMeasureOrNot)**|
 |**2025-01-22**|**On Generalization and Distributional Update for Mimicking Observations with Adequate Exploration**|Yirui Zhou et.al.|[2501.12785](http://arxiv.org/abs/2501.12785)|null|
-|**2025-01-22**|**Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning**|Chen Chen et.al.|[2501.12783](http://arxiv.org/abs/2501.12783)|null|
+|**2025-01-23**|**Cost Optimization for Serverless Edge Computing with Budget Constraints using Deep Reinforcement Learning**|Chen Chen et.al.|[2501.12783](http://arxiv.org/abs/2501.12783)|null|
 |**2025-01-22**|**Online Preference Alignment for Language Models via Count-based Exploration**|Chenjia Bai et.al.|[2501.12735](http://arxiv.org/abs/2501.12735)|**[link](https://github.com/baichenjia/copo)**|
 |**2025-01-22**|**HEPPO: Hardware-Efficient Proximal Policy Optimization -- A Universal Pipelined Architecture for Generalized Advantage Estimation**|Hazem Taha et.al.|[2501.12703](http://arxiv.org/abs/2501.12703)|null|
 |**2025-01-22**|**Training Dialogue Systems by AI Feedback for Improving Overall Dialogue Impression**|Kai Yoshida et.al.|[2501.12698](http://arxiv.org/abs/2501.12698)|null|
