@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1255,7 +1255,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Transformer
 
@@ -1296,7 +1296,7 @@
 |**2025-01-12**|**Padding Tone: A Mechanistic Analysis of Padding Tokens in T2I Models**|Michael Toker et.al.|[2501.06751](http://arxiv.org/abs/2501.06751)|null|
 |**2025-01-12**|**DRDT3: Diffusion-Refined Decision Test-Time Training Model**|Xingshuai Huang et.al.|[2501.06718](http://arxiv.org/abs/2501.06718)|null|
 |**2025-01-11**|**Qffusion: Controllable Portrait Video Editing via Quadrant-Grid Attention Learning**|Maomao Li et.al.|[2501.06438](http://arxiv.org/abs/2501.06438)|null|
-|**2025-01-10**|**Dynamics of "Spontaneous" Topic Changes in Next Token Prediction with Self-Attention**|Mumin Jia et.al.|[2501.06382](http://arxiv.org/abs/2501.06382)|null|
+|**2025-01-27**|**Dynamics of "Spontaneous" Topic Changes in Next Token Prediction with Self-Attention**|Mumin Jia et.al.|[2501.06382](http://arxiv.org/abs/2501.06382)|null|
 |**2025-01-09**|**HPAC-IDS: A Hierarchical Packet Attention Convolution for Intrusion Detection System**|Anass Grini et.al.|[2501.06264](http://arxiv.org/abs/2501.06264)|null|
 |**2025-01-14**|**MSCViT: A Small-size ViT architecture with Multi-Scale Self-Attention Mechanism for Tiny Datasets**|Bowei Zhang et.al.|[2501.06040](http://arxiv.org/abs/2501.06040)|null|
 |**2025-01-10**|**Binary Event-Driven Spiking Transformer**|Honglin Cao et.al.|[2501.05904](http://arxiv.org/abs/2501.05904)|null|
@@ -2657,7 +2657,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Optimization
 
@@ -2755,7 +2755,7 @@
 |**2024-12-31**|**A novel STAP algorithm via volume cross-correlation function on the Grassmann manifold**|Jia-Mian Li et.al.|[2501.03255](http://arxiv.org/abs/2501.03255)|null|
 |**2025-01-06**|**Approximating N-Player Nash Equilibrium through Gradient Descent**|Dongge Wang et.al.|[2501.03001](http://arxiv.org/abs/2501.03001)|null|
 |**2025-01-05**|**Nonmonotone Spectral Analysis for Variational Inclusions**|Oday Hazaimah et.al.|[2501.02657](http://arxiv.org/abs/2501.02657)|null|
-|**2025-01-05**|**A Novel Comprehensive Multiport Network Model for Stacked Intelligent Metasurfaces (SIM) Characterization and OptimizationA**|Andrea Abrardo et.al.|[2501.02597](http://arxiv.org/abs/2501.02597)|null|
+|**2025-01-28**|**A Novel Comprehensive Multiport Network Model for Stacked Intelligent Metasurfaces (SIM) Characterization and Optimization**|Andrea Abrardo et.al.|[2501.02597](http://arxiv.org/abs/2501.02597)|null|
 |**2025-01-10**|**Balanced Multi-view Clustering**|Zhenglai Li et.al.|[2501.02564](http://arxiv.org/abs/2501.02564)|null|
 |**2025-01-04**|**Easing Optimization Paths: a Circuit Perspective**|Ambroise Odonnat et.al.|[2501.02362](http://arxiv.org/abs/2501.02362)|**[link](https://github.com/facebookresearch/pal)**|
 |**2025-01-06**|**A self-learning magnetic Hopfield neural network with intrinsic gradient descent adaption**|Chang Niu et.al.|[2501.01853](http://arxiv.org/abs/2501.01853)|null|
@@ -4236,7 +4236,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -4454,7 +4454,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -4558,7 +4558,7 @@
 |**2025-01-06**|**Approximating N-Player Nash Equilibrium through Gradient Descent**|Dongge Wang et.al.|[2501.03001](http://arxiv.org/abs/2501.03001)|null|
 |**2025-01-06**|**Persistence of Backdoor-based Watermarks for Neural Networks: A Comprehensive Evaluation**|Anh Tu Ngo et.al.|[2501.02704](http://arxiv.org/abs/2501.02704)|null|
 |**2025-01-05**|**Nonmonotone Spectral Analysis for Variational Inclusions**|Oday Hazaimah et.al.|[2501.02657](http://arxiv.org/abs/2501.02657)|null|
-|**2025-01-05**|**A Novel Comprehensive Multiport Network Model for Stacked Intelligent Metasurfaces (SIM) Characterization and OptimizationA**|Andrea Abrardo et.al.|[2501.02597](http://arxiv.org/abs/2501.02597)|null|
+|**2025-01-28**|**A Novel Comprehensive Multiport Network Model for Stacked Intelligent Metasurfaces (SIM) Characterization and Optimization**|Andrea Abrardo et.al.|[2501.02597](http://arxiv.org/abs/2501.02597)|null|
 |**2025-01-10**|**Balanced Multi-view Clustering**|Zhenglai Li et.al.|[2501.02564](http://arxiv.org/abs/2501.02564)|null|
 |**2025-01-04**|**A ghost mechanism: An analytical model of abrupt learning**|Fatih Dinc et.al.|[2501.02378](http://arxiv.org/abs/2501.02378)|null|
 |**2025-01-04**|**Easing Optimization Paths: a Circuit Perspective**|Ambroise Odonnat et.al.|[2501.02362](http://arxiv.org/abs/2501.02362)|**[link](https://github.com/facebookresearch/pal)**|
@@ -6194,13 +6194,13 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 ## Reinforcement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-27**|**Upside Down Reinforcement Learning with Policy Generators**|Jacopo Di Ventura et.al.|[2501.16288](http://arxiv.org/abs/2501.16288)|**[link](https://github.com/jacopod/udrlpg_)**|
+|**2025-01-28**|**Upside Down Reinforcement Learning with Policy Generators**|Jacopo Di Ventura et.al.|[2501.16288](http://arxiv.org/abs/2501.16288)|**[link](https://github.com/jacopod/udrlpg_)**|
 |**2025-01-27**|**Accelerating Quantum Reinforcement Learning with a Quantum Natural Policy Gradient Based Approach**|Yang Xu et.al.|[2501.16243](http://arxiv.org/abs/2501.16243)|null|
 |**2025-01-27**|**Towards General-Purpose Model-Free Reinforcement Learning**|Scott Fujimoto et.al.|[2501.16142](http://arxiv.org/abs/2501.16142)|null|
 |**2025-01-27**|**Quantifying the Self-Interest Level of Markov Social Dilemmas**|Richard Willis et.al.|[2501.16138](http://arxiv.org/abs/2501.16138)|null|
@@ -6225,7 +6225,7 @@
 |**2025-01-26**|**Exploring and Evaluating Interplays of BPpy with Deep Reinforcement Learning and Formal Methods**|Tom Yaacov et.al.|[2501.15480](http://arxiv.org/abs/2501.15480)|null|
 |**2025-01-26**|**GiantHunter: Accurate detection of giant virus in metagenomic data using reinforcement-learning and Monte Carlo tree search**|Fuchuan Qu et.al.|[2501.15472](http://arxiv.org/abs/2501.15472)|null|
 |**2025-01-26**|**Low-altitude Friendly-Jamming for Satellite-Maritime Communications via Generative AI-enabled Deep Reinforcement Learning**|Jiawei Huang et.al.|[2501.15468](http://arxiv.org/abs/2501.15468)|null|
-|**2025-01-26**|**Data-adaptive Safety Rules for Training Reward Models**|Xiaomin Li et.al.|[2501.15453](http://arxiv.org/abs/2501.15453)|null|
+|**2025-01-28**|**Data-adaptive Safety Rules for Training Reward Models**|Xiaomin Li et.al.|[2501.15453](http://arxiv.org/abs/2501.15453)|null|
 |**2025-01-26**|**Episodic Novelty Through Temporal Distance**|Yuhua Jiang et.al.|[2501.15418](http://arxiv.org/abs/2501.15418)|null|
 |**2025-01-26**|**Movable Antenna-Aided Cooperative ISAC Network with Time Synchronization error and Imperfect CSI**|Yue Xiu et.al.|[2501.15410](http://arxiv.org/abs/2501.15410)|null|
 |**2025-01-26**|**Learning-Enhanced Safeguard Control for High-Relative-Degree Systems: Robust Optimization under Disturbances and Faults**|Xinyang Wang et.al.|[2501.15373](http://arxiv.org/abs/2501.15373)|null|
@@ -6242,7 +6242,7 @@
 |**2025-01-25**|**Deep Reinforcement Learning for Energy Efficiency Maximization in RSMA-IRS-Assisted ISAC System**|Zhangfeng Ma et.al.|[2501.15091](http://arxiv.org/abs/2501.15091)|null|
 |**2025-01-25**|**Data Center Cooling System Optimization Using Offline Reinforcement Learning**|Xianyuan Zhan et.al.|[2501.15085](http://arxiv.org/abs/2501.15085)|null|
 |**2025-01-25**|**Signal Whisperers: Enhancing Wireless Reception Using DRL-Guided Reflector Arrays**|Hieu Le et.al.|[2501.15044](http://arxiv.org/abs/2501.15044)|null|
-|**2025-01-25**|**Divergence-Augmented Policy Optimization**|Qing Wang et.al.|[2501.15034](http://arxiv.org/abs/2501.15034)|null|
+|**2025-01-25**|**Divergence-Augmented Policy Optimization**|Qing Wang et.al.|[2501.15034](http://arxiv.org/abs/2501.15034)|**[link](https://github.com/lns/dapo)**|
 |**2025-01-25**|**Extensive Exploration in Complex Traffic Scenarios using Hierarchical Reinforcement Learning**|Zhihao Zhang et.al.|[2501.14992](http://arxiv.org/abs/2501.14992)|null|
 |**2025-01-24**|**BPS spectroscopy with reinforcement learning**|Federico Carta et.al.|[2501.14863](http://arxiv.org/abs/2501.14863)|null|
 |**2025-01-24**|**Noise-conditioned Energy-based Annealed Rewards (NEAR): A Generative Framework for Imitation Learning from Observation**|Anish Abhijit Diwan et.al.|[2501.14856](http://arxiv.org/abs/2501.14856)|null|
@@ -11832,7 +11832,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
