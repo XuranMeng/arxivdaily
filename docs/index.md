@@ -1287,7 +1287,7 @@ layout: default
 |**2025-01-27**|**Diffusion based Text-to-Music Generation with Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
 |**2025-01-24**|**ZETA: Leveraging Z-order Curves for Efficient Top-k Attention**|Qiuhao Zeng et.al.|[2501.14577](http://arxiv.org/abs/2501.14577)|null|
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
-|**2025-01-24**|**VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting**|Junhyeok Kang et.al.|[2501.14183](http://arxiv.org/abs/2501.14183)|**[link](https://github.com/kaist-dmlab/VarDrop)**|
+|**2025-02-03**|**VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting**|Junhyeok Kang et.al.|[2501.14183](http://arxiv.org/abs/2501.14183)|**[link](https://github.com/kaist-dmlab/VarDrop)**|
 |**2025-01-25**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492](http://arxiv.org/abs/2501.13492)|**[link](https://github.com/bollossom/qsd-transformer)**|
 |**2025-01-27**|**Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models**|Bo Gao et.al.|[2501.13428](http://arxiv.org/abs/2501.13428)|null|
 |**2025-01-22**|**An Implicit Adaptive Fourier Neural Operator for Long-term Predictions of Three-dimensional Turbulence**|Yuchi Jiang et.al.|[2501.12740](http://arxiv.org/abs/2501.12740)|null|
@@ -6262,7 +6262,7 @@ layout: default
 |**2025-01-31**|**Jackpot! Alignment as a Maximal Lottery**|Roberto-Rafael Maura-Rivero et.al.|[2501.19266](http://arxiv.org/abs/2501.19266)|null|
 |**2025-01-31**|**Objective Metrics for Human-Subjects Evaluation in Explainable Reinforcement Learning**|Balint Gyevnar et.al.|[2501.19256](http://arxiv.org/abs/2501.19256)|null|
 |**2025-01-31**|**Linear $Q$ -Learning Does Not Diverge: Convergence Rates to a Bounded Set**|Xinyu Liu et.al.|[2501.19254](http://arxiv.org/abs/2501.19254)|null|
-|**2025-01-31**|**SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**|Hüseyin Aydın et.al.|[2501.19245](http://arxiv.org/abs/2501.19245)|null|
+|**2025-02-03**|**SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments**|Hüseyin Aydın et.al.|[2501.19245](http://arxiv.org/abs/2501.19245)|null|
 |**2025-01-31**|**An Empirical Game-Theoretic Analysis of Autonomous Cyber-Defence Agents**|Gregory Palmer et.al.|[2501.19206](http://arxiv.org/abs/2501.19206)|null|
 |**2025-01-31**|**APEX: Automated Parameter Exploration for Low-Power Wireless Protocols**|Mohamed Hassaan M. Hydher et.al.|[2501.19194](http://arxiv.org/abs/2501.19194)|null|
 |**2025-01-31**|**Test-Time Training Scaling for Chemical Exploration in Drug Design**|Morgan Thomas et.al.|[2501.19153](http://arxiv.org/abs/2501.19153)|null|
@@ -6283,7 +6283,7 @@ layout: default
 |**2025-01-31**|**Reinforcement Learning of Flexible Policies for Symbolic Instructions with Adjustable Mapping Specifications**|Wataru Hatanaka et.al.|[2501.18848](http://arxiv.org/abs/2501.18848)|null|
 |**2025-01-31**|**Infer-EDGE: Dynamic DNN Inference Optimization in 'Just-in-time' Edge-AI Implementations**|Motahare Mounesan et.al.|[2501.18842](http://arxiv.org/abs/2501.18842)|null|
 |**2025-01-30**|**Deceptive Sequential Decision-Making via Regularized Policy Optimization**|Yerin Kim et.al.|[2501.18803](http://arxiv.org/abs/2501.18803)|null|
-|**2025-01-30**|**Simulation Streams: A Programming Paradigm for Controlling Large Language Models and Building Complex Systems with Generative AI**|Peter Sunehag et.al.|[2501.18668](http://arxiv.org/abs/2501.18668)|null|
+|**2025-01-30**|**Simulation Streams: A Programming Paradigm for Controlling Large Language Models and Building Complex Systems with Generative AI**|Peter Sunehag et.al.|[2501.18668](http://arxiv.org/abs/2501.18668)|**[link](https://github.com/google-deepmind/simulation_streams)**|
 |**2025-01-30**|**Joint Optimization of Prompt Security and System Performance in Edge-Cloud LLM Systems**|Haiyang Huang et.al.|[2501.18663](http://arxiv.org/abs/2501.18663)|null|
 |**2025-01-30**|**Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems**|Parth Ganeriwala et.al.|[2501.18506](http://arxiv.org/abs/2501.18506)|null|
 |**2025-01-30**|**Curriculum-based Sample Efficient Reinforcement Learning for Robust Stabilization of a Quadrotor**|Fausto Mauricio Lagos Suarez et.al.|[2501.18490](http://arxiv.org/abs/2501.18490)|null|
@@ -6291,7 +6291,7 @@ layout: default
 |**2025-01-30**|**Neural Operator based Reinforcement Learning for Control of first-order PDEs with Spatially-Varying State Delay**|Jiaqi Hu et.al.|[2501.18201](http://arxiv.org/abs/2501.18201)|null|
 |**2025-01-30**|**QNN-QRL: Quantum Neural Network Integrated with Quantum Reinforcement Learning for Quantum Key Distribution**|Bikash K. Behera et.al.|[2501.18188](http://arxiv.org/abs/2501.18188)|null|
 |**2025-01-30**|**Investigating Tax Evasion Emergence Using Dual Large Language Model and Deep Reinforcement Learning Powered Agent-based Simulation**|Teddy Lazebnik et.al.|[2501.18177](http://arxiv.org/abs/2501.18177)|null|
-|**2025-01-30**|**B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning**|Woojun Kim et.al.|[2501.18138](http://arxiv.org/abs/2501.18138)|null|
+|**2025-02-02**|**B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning**|Woojun Kim et.al.|[2501.18138](http://arxiv.org/abs/2501.18138)|null|
 |**2025-01-31**|**Diverse Preference Optimization**|Jack Lanchantin et.al.|[2501.18101](http://arxiv.org/abs/2501.18101)|null|
 |**2025-01-30**|**Reward Prediction Error Prioritisation in Experience Replay: The RPE-PER Method**|Hoda Yamani et.al.|[2501.18093](http://arxiv.org/abs/2501.18093)|null|
 |**2025-01-30**|**DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems**|Se-Wook Yoo et.al.|[2501.18086](http://arxiv.org/abs/2501.18086)|null|
