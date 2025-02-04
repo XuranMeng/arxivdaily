@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.03
+## Updated on 2025.02.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2025-01-27**|**Detecting Zero-Day Attacks in Digital Substations via In-Context Learning**|Faizan Manzoor et.al.|[2501.16453](http://arxiv.org/abs/2501.16453)|null|
 |**2025-01-27**|**Training Dynamics of In-Context Learning in Linear Attention**|Yedi Zhang et.al.|[2501.16265](http://arxiv.org/abs/2501.16265)|null|
 |**2025-01-27**|**GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**|Yuanfu Sun et.al.|[2501.15755](http://arxiv.org/abs/2501.15755)|null|
-|**2025-01-27**|**StaICC: Standardized Evaluation for Classification Task in In-context Learning**|Hakaze Cho et.al.|[2501.15708](http://arxiv.org/abs/2501.15708)|**[link](https://github.com/hc495/staicc)**|
+|**2025-02-01**|**StaICC: Standardized Evaluation for Classification Task in In-context Learning**|Hakaze Cho et.al.|[2501.15708](http://arxiv.org/abs/2501.15708)|**[link](https://github.com/hc495/staicc)**|
 |**2025-01-26**|**AnyEnhance: A Unified Generative Model with Prompt-Guidance and Self-Critic for Voice Enhancement**|Junan Zhang et.al.|[2501.15417](http://arxiv.org/abs/2501.15417)|null|
 |**2025-01-25**|**New Evaluation Paradigm for Lexical Simplification**|Jipeng Qiang et.al.|[2501.15268](http://arxiv.org/abs/2501.15268)|null|
 |**2025-01-25**|**Speech Translation Refinement using Large Language Models**|Huaixia Dou et.al.|[2501.15090](http://arxiv.org/abs/2501.15090)|**[link](https://github.com/world1tree/SpeechTranslationRefinement)**|
@@ -1267,7 +1267,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Transformer
 
@@ -1309,7 +1309,7 @@
 |**2025-01-20**|**Is logical analysis performed by transformers taking place in self-attention or in the fully connected part?**|Evgeniy Shin et.al.|[2501.11765](http://arxiv.org/abs/2501.11765)|null|
 |**2025-01-19**|**Decomposing and Fusing Intra- and Inter-Sensor Spatio-Temporal Signal for Multi-Sensor Wearable Human Activity Recognition**|Haoyu Xie et.al.|[2501.10917](http://arxiv.org/abs/2501.10917)|**[link](https://github.com/anakin2555/decomposewhar)**|
 |**2025-01-27**|**CEReBrO: Compact Encoder for Representations of Brain Oscillations Using Efficient Alternating Attention**|Alexandru Dimofte et.al.|[2501.10885](http://arxiv.org/abs/2501.10885)|null|
-|**2025-01-16**|**AdaFV: Accelerating VLMs with Self-Adaptive Cross-Modality Attention Mixture**|Jiayi Han et.al.|[2501.09532](http://arxiv.org/abs/2501.09532)|null|
+|**2025-02-01**|**AdaFV: Rethinking of Visual-Language alignment for VLM acceleration**|Jiayi Han et.al.|[2501.09532](http://arxiv.org/abs/2501.09532)|null|
 |**2025-01-15**|**Transformer-based Multivariate Time Series Anomaly Localization**|Charalampos Shimillas et.al.|[2501.08628](http://arxiv.org/abs/2501.08628)|null|
 |**2025-01-14**|**Predicting 4D Hand Trajectory from Monocular Videos**|Yufei Ye et.al.|[2501.08329](http://arxiv.org/abs/2501.08329)|null|
 |**2025-01-14**|**EmoNeXt: an Adapted ConvNeXt for Facial Emotion Recognition**|Yassine El Boudouri et.al.|[2501.08199](http://arxiv.org/abs/2501.08199)|**[link](https://github.com/yelboudouri/EmoNeXt)**|
@@ -2683,7 +2683,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Optimization
 
@@ -2698,7 +2698,7 @@
 |**2025-01-30**|**Power of $(L_0,L_1)$ -Smoothness in Stochastic Convex Optimization: First- and Zero-Order Algorithms**|Aleksandr Lobanov et.al.|[2501.18198](http://arxiv.org/abs/2501.18198)|null|
 |**2025-01-30**|**In-Context Learning of Polynomial Kernel Regression in Transformers with GLU Layers**|Haoyuan Sun et.al.|[2501.18187](http://arxiv.org/abs/2501.18187)|null|
 |**2025-01-30**|**Faster Convergence of Riemannian Stochastic Gradient Descent with Increasing Batch Size**|Kanata Oowada et.al.|[2501.18164](http://arxiv.org/abs/2501.18164)|null|
-|**2025-01-30**|**Learning Provablely Improves the Convergence of Gradient Descent**|Qingyu Song et.al.|[2501.18092](http://arxiv.org/abs/2501.18092)|null|
+|**2025-02-01**|**Learning Provably Improves the Convergence of Gradient Descent**|Qingyu Song et.al.|[2501.18092](http://arxiv.org/abs/2501.18092)|null|
 |**2025-01-29**|**Online Nonstochastic Control with Convex Safety Constraints**|Nanfei Jiang et.al.|[2501.18039](http://arxiv.org/abs/2501.18039)|null|
 |**2025-01-29**|**When less is more: evolving large neural networks from small ones**|Anil Radhakrishnan et.al.|[2501.18012](http://arxiv.org/abs/2501.18012)|**[link](https://github.com/NonlinearArtificialIntelligenceLab/N3)**|
 |**2025-01-29**|**Convergence rates for an Adaptive Biasing Potential scheme from a Wasserstein optimization perspective**|Tony Lelièvre et.al.|[2501.17979](http://arxiv.org/abs/2501.17979)|null|
@@ -4282,7 +4282,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -4502,7 +4502,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -4521,7 +4521,7 @@
 |**2025-01-30**|**Power of $(L_0,L_1)$ -Smoothness in Stochastic Convex Optimization: First- and Zero-Order Algorithms**|Aleksandr Lobanov et.al.|[2501.18198](http://arxiv.org/abs/2501.18198)|null|
 |**2025-01-30**|**In-Context Learning of Polynomial Kernel Regression in Transformers with GLU Layers**|Haoyuan Sun et.al.|[2501.18187](http://arxiv.org/abs/2501.18187)|null|
 |**2025-01-30**|**Faster Convergence of Riemannian Stochastic Gradient Descent with Increasing Batch Size**|Kanata Oowada et.al.|[2501.18164](http://arxiv.org/abs/2501.18164)|null|
-|**2025-01-30**|**Learning Provablely Improves the Convergence of Gradient Descent**|Qingyu Song et.al.|[2501.18092](http://arxiv.org/abs/2501.18092)|null|
+|**2025-02-01**|**Learning Provably Improves the Convergence of Gradient Descent**|Qingyu Song et.al.|[2501.18092](http://arxiv.org/abs/2501.18092)|null|
 |**2025-01-29**|**Online Nonstochastic Control with Convex Safety Constraints**|Nanfei Jiang et.al.|[2501.18039](http://arxiv.org/abs/2501.18039)|null|
 |**2025-01-29**|**When less is more: evolving large neural networks from small ones**|Anil Radhakrishnan et.al.|[2501.18012](http://arxiv.org/abs/2501.18012)|**[link](https://github.com/NonlinearArtificialIntelligenceLab/N3)**|
 |**2025-01-29**|**Convergence rates for an Adaptive Biasing Potential scheme from a Wasserstein optimization perspective**|Tony Lelièvre et.al.|[2501.17979](http://arxiv.org/abs/2501.17979)|null|
@@ -6269,7 +6269,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -6325,7 +6325,7 @@
 |**2025-01-29**|**Accelerated DC loadflow solver for topology optimization**|Nico Westerbeck et.al.|[2501.17529](http://arxiv.org/abs/2501.17529)|null|
 |**2025-01-29**|**Human-Aligned Skill Discovery: Balancing Behaviour Exploration and Alignment**|Maxence Hussonnois et.al.|[2501.17431](http://arxiv.org/abs/2501.17431)|null|
 |**2025-01-29**|**Certificated Actor-Critic: Hierarchical Reinforcement Learning with Control Barrier Functions for Safe Navigation**|Junjun Xie et.al.|[2501.17424](http://arxiv.org/abs/2501.17424)|null|
-|**2025-01-29**|**Value Function Decomposition in Markov Recommendation Process**|Xiaobei Wang et.al.|[2501.17409](http://arxiv.org/abs/2501.17409)|null|
+|**2025-02-01**|**Value Function Decomposition in Markov Recommendation Process**|Xiaobei Wang et.al.|[2501.17409](http://arxiv.org/abs/2501.17409)|null|
 |**2025-01-29**|**A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement Learning**|Zhengpeng Xie et.al.|[2501.17384](http://arxiv.org/abs/2501.17384)|null|
 |**2025-01-29**|**ASAP: Learning Generalizable Online Bin Packing via Adaptive Selection After Pruning**|Han Fang et.al.|[2501.17377](http://arxiv.org/abs/2501.17377)|null|
 |**2025-01-29**|**The M-factor: A Novel Metric for Evaluating Neural Architecture Search in Resource-Constrained Environments**|Srikanth Thudumu et.al.|[2501.17361](http://arxiv.org/abs/2501.17361)|null|
@@ -6343,7 +6343,7 @@
 |**2025-01-28**|**On Rollouts in Model-Based Reinforcement Learning**|Bernd Frauenknecht et.al.|[2501.16918](http://arxiv.org/abs/2501.16918)|**[link](https://github.com/data-science-in-mechanical-engineering/infoprop)**|
 |**2025-01-28**|**CosyAudio: Improving Audio Generation with Confidence Scores and Synthetic Captions**|Xinfa Zhu et.al.|[2501.16761](http://arxiv.org/abs/2501.16761)|null|
 |**2025-01-28**|**Dream to Drive with Predictive Individual World Model**|Yinfeng Gao et.al.|[2501.16733](http://arxiv.org/abs/2501.16733)|**[link](https://github.com/gaoyinfeng/piwm)**|
-|**2025-01-28**|**On the Interplay Between Sparsity and Training in Deep Reinforcement Learning**|Fatima Davelouis et.al.|[2501.16729](http://arxiv.org/abs/2501.16729)|null|
+|**2025-02-01**|**On the Interplay Between Sparsity and Training in Deep Reinforcement Learning**|Fatima Davelouis et.al.|[2501.16729](http://arxiv.org/abs/2501.16729)|null|
 |**2025-01-28**|**Optimizing Efficiency of Mixed Traffic through Reinforcement Learning: A Topology-Independent Approach and Benchmark**|Chuyang Xiao et.al.|[2501.16728](http://arxiv.org/abs/2501.16728)|null|
 |**2025-01-30**|**xJailbreak: Representation Space Guided Reinforcement Learning for Interpretable LLM Jailbreaking**|Sunbowen Lee et.al.|[2501.16727](http://arxiv.org/abs/2501.16727)|**[link](https://github.com/aegis1863/xjailbreak)**|
 |**2025-01-28**|**Improving Vision-Language-Action Model with Online Reinforcement Learning**|Yanjiang Guo et.al.|[2501.16664](http://arxiv.org/abs/2501.16664)|null|
@@ -11987,7 +11987,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
