@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -1278,7 +1278,7 @@ layout: default
 |**2025-01-25**|**MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling**|Sai Tarun Inaganti et.al.|[2501.16384](http://arxiv.org/abs/2501.16384)|null|
 |**2025-01-09**|**Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing**|Ivan Knunyants et.al.|[2501.16337](http://arxiv.org/abs/2501.16337)|**[link](https://github.com/ernis-lab/llm-activation-sparsity)**|
 |**2025-01-27**|**Training Dynamics of In-Context Learning in Linear Attention**|Yedi Zhang et.al.|[2501.16265](http://arxiv.org/abs/2501.16265)|null|
-|**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774](http://arxiv.org/abs/2501.15774)|**[link](https://github.com/saturnian77/asid)**|
+|**2025-02-04**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774](http://arxiv.org/abs/2501.15774)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-27**|**Leveraging Video Vision Transformer for Alzheimer's Disease Diagnosis from 3D Brain MRI**|Taymaz Akan et.al.|[2501.15733](http://arxiv.org/abs/2501.15733)|null|
 |**2025-01-31**|**Classifying Deepfakes Using Swin Transformers**|Aprille J. Xi et.al.|[2501.15656](http://arxiv.org/abs/2501.15656)|null|
 |**2025-01-26**|**Semantic Communication with Entropy-and-Channel-Adaptive Rate Control**|Weixuan Chen et.al.|[2501.15414](http://arxiv.org/abs/2501.15414)|null|
@@ -4496,7 +4496,7 @@ layout: default
 |**2025-01-31**|**Fast exact recovery of noisy matrix from few entries: the infinity norm approach**|BaoLinh Tran et.al.|[2501.19224](http://arxiv.org/abs/2501.19224)|null|
 |**2025-01-31**|**Position: Curvature Matrices Should Be Democratized via Linear Operators**|Felix Dangel et.al.|[2501.19183](http://arxiv.org/abs/2501.19183)|null|
 |**2025-01-31**|**A Descent-based method on the Duality Gap for solving zero-sum games**|Michail Fasoulakis et.al.|[2501.19138](http://arxiv.org/abs/2501.19138)|null|
-|**2025-01-31**|**Neural Collapse Beyond the Unconstrainted Features Model: Landscape, Dynamics, and Generalization in the Mean-Field Regime**|Diyuan Wu et.al.|[2501.19104](http://arxiv.org/abs/2501.19104)|null|
+|**2025-02-04**|**Neural Collapse Beyond the Unconstrained Features Model: Landscape, Dynamics, and Generalization in the Mean-Field Regime**|Diyuan Wu et.al.|[2501.19104](http://arxiv.org/abs/2501.19104)|null|
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-01-30**|**Beyond Short Steps in Frank-Wolfe Algorithms**|David Martínez-Rubio et.al.|[2501.18773](http://arxiv.org/abs/2501.18773)|null|
 |**2025-01-30**|**Regularized second-order optimization of tensor-network Born machines**|Matan Ben-Dov et.al.|[2501.18691](http://arxiv.org/abs/2501.18691)|null|

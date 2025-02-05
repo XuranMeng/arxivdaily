@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.04
+## Updated on 2025.02.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1267,7 +1267,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 ## Transformer
 
@@ -1288,7 +1288,7 @@
 |**2025-01-25**|**MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling**|Sai Tarun Inaganti et.al.|[2501.16384](http://arxiv.org/abs/2501.16384)|null|
 |**2025-01-09**|**Explore Activation Sparsity in Recurrent LLMs for Energy-Efficient Neuromorphic Computing**|Ivan Knunyants et.al.|[2501.16337](http://arxiv.org/abs/2501.16337)|**[link](https://github.com/ernis-lab/llm-activation-sparsity)**|
 |**2025-01-27**|**Training Dynamics of In-Context Learning in Linear Attention**|Yedi Zhang et.al.|[2501.16265](http://arxiv.org/abs/2501.16265)|null|
-|**2025-01-27**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774](http://arxiv.org/abs/2501.15774)|**[link](https://github.com/saturnian77/asid)**|
+|**2025-02-04**|**Efficient Attention-Sharing Information Distillation Transformer for Lightweight Single Image Super-Resolution**|Karam Park et.al.|[2501.15774](http://arxiv.org/abs/2501.15774)|**[link](https://github.com/saturnian77/asid)**|
 |**2025-01-27**|**Leveraging Video Vision Transformer for Alzheimer's Disease Diagnosis from 3D Brain MRI**|Taymaz Akan et.al.|[2501.15733](http://arxiv.org/abs/2501.15733)|null|
 |**2025-01-31**|**Classifying Deepfakes Using Swin Transformers**|Aprille J. Xi et.al.|[2501.15656](http://arxiv.org/abs/2501.15656)|null|
 |**2025-01-26**|**Semantic Communication with Entropy-and-Channel-Adaptive Rate Control**|Weixuan Chen et.al.|[2501.15414](http://arxiv.org/abs/2501.15414)|null|
@@ -2683,7 +2683,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 ## Optimization
 
@@ -4282,7 +4282,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -4502,7 +4502,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -4512,7 +4512,7 @@
 |**2025-01-31**|**Fast exact recovery of noisy matrix from few entries: the infinity norm approach**|BaoLinh Tran et.al.|[2501.19224](http://arxiv.org/abs/2501.19224)|null|
 |**2025-01-31**|**Position: Curvature Matrices Should Be Democratized via Linear Operators**|Felix Dangel et.al.|[2501.19183](http://arxiv.org/abs/2501.19183)|null|
 |**2025-01-31**|**A Descent-based method on the Duality Gap for solving zero-sum games**|Michail Fasoulakis et.al.|[2501.19138](http://arxiv.org/abs/2501.19138)|null|
-|**2025-01-31**|**Neural Collapse Beyond the Unconstrainted Features Model: Landscape, Dynamics, and Generalization in the Mean-Field Regime**|Diyuan Wu et.al.|[2501.19104](http://arxiv.org/abs/2501.19104)|null|
+|**2025-02-04**|**Neural Collapse Beyond the Unconstrained Features Model: Landscape, Dynamics, and Generalization in the Mean-Field Regime**|Diyuan Wu et.al.|[2501.19104](http://arxiv.org/abs/2501.19104)|null|
 |**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864](http://arxiv.org/abs/2501.18864)|null|
 |**2025-01-30**|**Beyond Short Steps in Frank-Wolfe Algorithms**|David Martínez-Rubio et.al.|[2501.18773](http://arxiv.org/abs/2501.18773)|null|
 |**2025-01-30**|**Regularized second-order optimization of tensor-network Born machines**|Matan Ben-Dov et.al.|[2501.18691](http://arxiv.org/abs/2501.18691)|null|
@@ -6269,7 +6269,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -11987,7 +11987,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
