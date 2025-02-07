@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.06
+## Updated on 2025.02.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -18,7 +18,7 @@ layout: default
 |**2025-02-05**|**ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model**|Qiguang Chen et.al.|[2502.03325](http://arxiv.org/abs/2502.03325)|null|
 |**2025-02-05**|**Scalable In-Context Learning on Tabular Data via Retrieval-Augmented Large Language Models**|Xumeng Wen et.al.|[2502.03147](http://arxiv.org/abs/2502.03147)|null|
 |**2025-02-05**|**OmniRL: In-Context Reinforcement Learning by Large-Scale Meta-Training in Randomized Worlds**|Fan Wang et.al.|[2502.02869](http://arxiv.org/abs/2502.02869)|null|
-|**2025-02-04**|**Transformers Boost the Performance of Decision Trees on Tabular Data across Sample Sizes**|Mayuka Jayawardhana et.al.|[2502.02672](http://arxiv.org/abs/2502.02672)|null|
+|**2025-02-06**|**Transformers Boost the Performance of Decision Trees on Tabular Data across Sample Sizes**|Mayuka Jayawardhana et.al.|[2502.02672](http://arxiv.org/abs/2502.02672)|null|
 |**2025-02-04**|**TabPFN Unleashed: A Scalable and Effective Solution to Tabular Classification Problems**|Si-Yang Liu et.al.|[2502.02527](http://arxiv.org/abs/2502.02527)|null|
 |**2025-02-04**|**From Accidents to Insights: Leveraging Multimodal Data for Scenario-Driven ADS Testing**|Siwei Luo et.al.|[2502.02025](http://arxiv.org/abs/2502.02025)|null|
 |**2025-02-03**|**The in-context inductive biases of vision-language models differ across modalities**|Kelsey Allen et.al.|[2502.01530](http://arxiv.org/abs/2502.01530)|null|
@@ -1277,7 +1277,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-05**|**FuXi- $α$ : Scaling Recommendation Model with Feature Interaction Enhanced Transformer**|Yufei Ye et.al.|[2502.03036](http://arxiv.org/abs/2502.03036)|null|
 |**2025-02-05**|**Speculative Prefill: Turbocharging TTFT with Lightweight and Training-Free Token Importance Estimation**|Jingyu Liu et.al.|[2502.02789](http://arxiv.org/abs/2502.02789)|null|
-|**2025-02-04**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top- $p$ Pruning**|Chaofan Lin et.al.|[2502.02770](http://arxiv.org/abs/2502.02770)|null|
+|**2025-02-06**|**Twilight: Adaptive Attention Sparsity with Hierarchical Top- $p$ Pruning**|Chaofan Lin et.al.|[2502.02770](http://arxiv.org/abs/2502.02770)|null|
 |**2025-02-04**|**Developing multilingual speech synthesis system for Ojibwe, Mi'kmaq, and Maliseet**|Shenran Wang et.al.|[2502.02703](http://arxiv.org/abs/2502.02703)|null|
 |**2025-02-04**|**Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation**|George Whittle et.al.|[2502.02463](http://arxiv.org/abs/2502.02463)|null|
 |**2025-02-04**|**SAISA: Towards Multimodal Large Language Models with Both Training and Inference Efficiency**|Qianhao Yuan et.al.|[2502.02458](http://arxiv.org/abs/2502.02458)|null|
@@ -6391,7 +6391,7 @@ layout: default
 |**2025-02-05**|**Bellman Error Centering**|Xingguo Chen et.al.|[2502.03104](http://arxiv.org/abs/2502.03104)|null|
 |**2025-02-05**|**Reveal the Mystery of DPO: The Connection between DPO and RL Algorithms**|Xuerui Su et.al.|[2502.03095](http://arxiv.org/abs/2502.03095)|null|
 |**2025-02-05**|**Optimizing Electric Vehicles Charging using Large Language Models and Graph Neural Networks**|Stavros Orfanoudakis et.al.|[2502.03067](http://arxiv.org/abs/2502.03067)|null|
-|**2025-02-05**|**The Cake that is Intelligence and Who Gets to Bake it: An AI Analogy and its Implications for Participation**|Martin Mundt et.al.|[2502.03038](http://arxiv.org/abs/2502.03038)|null|
+|**2025-02-06**|**The Cake that is Intelligence and Who Gets to Bake it: An AI Analogy and its Implications for Participation**|Martin Mundt et.al.|[2502.03038](http://arxiv.org/abs/2502.03038)|null|
 |**2025-02-05**|**Learning Efficient Flocking Control based on Gibbs Random Fields**|Dengyu Zhang et.al.|[2502.02984](http://arxiv.org/abs/2502.02984)|null|
 |**2025-02-05**|**Direct Distributional Optimization for Provable Alignment of Diffusion Models**|Ryotaro Kawata et.al.|[2502.02954](http://arxiv.org/abs/2502.02954)|null|
 |**2025-02-05**|**Behavioral Homophily in Social Media via Inverse Reinforcement Learning: A Reddit Case Study**|Lanqin Yuan et.al.|[2502.02943](http://arxiv.org/abs/2502.02943)|null|
@@ -6404,7 +6404,7 @@ layout: default
 |**2025-02-05**|**OmniRL: In-Context Reinforcement Learning by Large-Scale Meta-Training in Randomized Worlds**|Fan Wang et.al.|[2502.02869](http://arxiv.org/abs/2502.02869)|null|
 |**2025-02-05**|**Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning**|Sunwoo Lee et.al.|[2502.02844](http://arxiv.org/abs/2502.02844)|null|
 |**2025-02-05**|**Task-Aware Virtual Training: Enhancing Generalization in Meta-Reinforcement Learning for Out-of-Distribution Tasks**|Jeongmo Kim et.al.|[2502.02834](http://arxiv.org/abs/2502.02834)|null|
-|**2025-02-05**|**OpenSTARLab: Open Approach for Spatio-Temporal Agent Data Analysis in Soccer**|Calvin Yeung et.al.|[2502.02785](http://arxiv.org/abs/2502.02785)|null|
+|**2025-02-06**|**OpenSTARLab: Open Approach for Spatio-Temporal Agent Data Analysis in Soccer**|Calvin Yeung et.al.|[2502.02785](http://arxiv.org/abs/2502.02785)|null|
 |**2025-02-04**|**Rapidly Adapting Policies to the Real World via Simulation-Guided Fine-Tuning**|Patrick Yin et.al.|[2502.02705](http://arxiv.org/abs/2502.02705)|null|
 |**2025-02-04**|**On Teacher Hacking in Language Model Distillation**|Daniil Tiapkin et.al.|[2502.02671](http://arxiv.org/abs/2502.02671)|null|
 |**2025-02-04**|**Deep Reinforcement Learning Enabled Persistent Surveillance with Energy-Aware UAV-UGV Systems for Disaster Management Applications**|Md Safwan Mondal et.al.|[2502.02666](http://arxiv.org/abs/2502.02666)|null|
