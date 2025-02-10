@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.09
+## Updated on 2025.02.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -17,7 +17,7 @@ layout: default
 |**2025-02-06**|**"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204](http://arxiv.org/abs/2502.04204)|null|
 |**2025-02-06**|**Exploring Imbalanced Annotations for Effective In-Context Learning**|Hongfu Gao et.al.|[2502.04037](http://arxiv.org/abs/2502.04037)|null|
 |**2025-02-06**|**BOLT: Bootstrap Long Chain-of-Thought in Language Models without Distillation**|Bo Pang et.al.|[2502.03860](http://arxiv.org/abs/2502.03860)|null|
-|**2025-02-05**|**Path Planning for Masked Diffusion Model Sampling**|Fred Zhangzhi Peng et.al.|[2502.03540](http://arxiv.org/abs/2502.03540)|null|
+|**2025-02-07**|**Path Planning for Masked Diffusion Model Sampling**|Fred Zhangzhi Peng et.al.|[2502.03540](http://arxiv.org/abs/2502.03540)|null|
 |**2025-02-05**|**Two in context learning tasks with complex functions**|Omar Naim et.al.|[2502.03503](http://arxiv.org/abs/2502.03503)|null|
 |**2025-02-05**|**Is In-Context Universality Enough? MLPs are Also Universal In-Context**|Anastasis Kratsios et.al.|[2502.03327](http://arxiv.org/abs/2502.03327)|null|
 |**2025-02-05**|**ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model**|Qiguang Chen et.al.|[2502.03325](http://arxiv.org/abs/2502.03325)|null|
@@ -2740,7 +2740,7 @@ layout: default
 |**2025-02-04**|**Bayesian Parameter Shift Rule in Variational Quantum Eigensolvers**|Samuele Pedrielli et.al.|[2502.02625](http://arxiv.org/abs/2502.02625)|null|
 |**2025-02-05**|**Deep Linear Network Training Dynamics from Random Initialization: Data, Width, Depth, and Hyperparameter Transfer**|Blake Bordelon et.al.|[2502.02531](http://arxiv.org/abs/2502.02531)|null|
 |**2025-02-04**|**A weak convergence approach to large deviations for stochastic approximations**|Henrik Hult et.al.|[2502.02529](http://arxiv.org/abs/2502.02529)|null|
-|**2025-02-04**|**Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries**|Chris Kolb et.al.|[2502.02496](http://arxiv.org/abs/2502.02496)|null|
+|**2025-02-07**|**Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries**|Chris Kolb et.al.|[2502.02496](http://arxiv.org/abs/2502.02496)|null|
 |**2025-02-04**|**Connections between Schedule-Free Optimizers, AdEMAMix, and Accelerated SGD Variants**|Depen Morwani et.al.|[2502.02431](http://arxiv.org/abs/2502.02431)|**[link](https://github.com/depenm/simplified-ademamix)**|
 |**2025-02-04**|**Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting**|Jan Schuchardt et.al.|[2502.02410](http://arxiv.org/abs/2502.02410)|null|
 |**2025-02-04**|**How Memory in Optimization Algorithms Implicitly Modifies the Loss**|Matias D. Cattaneo et.al.|[2502.02132](http://arxiv.org/abs/2502.02132)|null|
@@ -2803,7 +2803,7 @@ layout: default
 |**2025-01-25**|**Efficient numerical methods for computing stationary states of spherical Landau-Brazovskii model**|Qun Qiu et.al.|[2501.15036](http://arxiv.org/abs/2501.15036)|null|
 |**2025-01-25**|**GreenAuto: An Automated Platform for Sustainable AI Model Design on Edge Devices**|Xiaolong Tu et.al.|[2501.14995](http://arxiv.org/abs/2501.14995)|null|
 |**2025-01-25**|**Convergence Analysis of the Wasserstein Proximal Algorithm beyond Geodesic Convexity**|Shuailong Zhu et.al.|[2501.14993](http://arxiv.org/abs/2501.14993)|null|
-|**2025-01-24**|**Private Minimum Hellinger Distance Estimation via Hellinger Distance Differential Privacy**|Fengnan Deng et.al.|[2501.14974](http://arxiv.org/abs/2501.14974)|null|
+|**2025-02-07**|**Private Minimum Hellinger Distance Estimation via Hellinger Distance Differential Privacy**|Fengnan Deng et.al.|[2501.14974](http://arxiv.org/abs/2501.14974)|null|
 |**2025-01-24**|**Context-Aware Neural Gradient Mapping for Fine-Grained Instruction Processing**|David Boldo et.al.|[2501.14936](http://arxiv.org/abs/2501.14936)|null|
 |**2025-01-24**|**Decoupled SGDA for Games with Intermittent Strategy Communication**|Ali Zindari et.al.|[2501.14652](http://arxiv.org/abs/2501.14652)|null|
 |**2025-01-24**|**A Space Mapping approach for the calibration of financial models with the application to the Heston model**|Anna Clevenhaus et.al.|[2501.14521](http://arxiv.org/abs/2501.14521)|null|
@@ -4606,7 +4606,7 @@ layout: default
 |**2025-02-04**|**Bayesian Parameter Shift Rule in Variational Quantum Eigensolvers**|Samuele Pedrielli et.al.|[2502.02625](http://arxiv.org/abs/2502.02625)|null|
 |**2025-02-05**|**Deep Linear Network Training Dynamics from Random Initialization: Data, Width, Depth, and Hyperparameter Transfer**|Blake Bordelon et.al.|[2502.02531](http://arxiv.org/abs/2502.02531)|null|
 |**2025-02-04**|**A weak convergence approach to large deviations for stochastic approximations**|Henrik Hult et.al.|[2502.02529](http://arxiv.org/abs/2502.02529)|null|
-|**2025-02-04**|**Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries**|Chris Kolb et.al.|[2502.02496](http://arxiv.org/abs/2502.02496)|null|
+|**2025-02-07**|**Deep Weight Factorization: Sparse Learning Through the Lens of Artificial Symmetries**|Chris Kolb et.al.|[2502.02496](http://arxiv.org/abs/2502.02496)|null|
 |**2025-02-04**|**Connections between Schedule-Free Optimizers, AdEMAMix, and Accelerated SGD Variants**|Depen Morwani et.al.|[2502.02431](http://arxiv.org/abs/2502.02431)|**[link](https://github.com/depenm/simplified-ademamix)**|
 |**2025-02-04**|**Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting**|Jan Schuchardt et.al.|[2502.02410](http://arxiv.org/abs/2502.02410)|null|
 |**2025-02-04**|**How Memory in Optimization Algorithms Implicitly Modifies the Loss**|Matias D. Cattaneo et.al.|[2502.02132](http://arxiv.org/abs/2502.02132)|null|
@@ -4617,7 +4617,7 @@ layout: default
 |**2025-02-04**|**Distributionally Robust Direct Preference Optimization**|Zaiyan Xu et.al.|[2502.01930](http://arxiv.org/abs/2502.01930)|null|
 |**2025-02-03**|**Countering Election Sway: Strategic Algorithms in Friedkin-Johnsen Dynamics**|Dragos Ristache et.al.|[2502.01874](http://arxiv.org/abs/2502.01874)|null|
 |**2025-02-03**|**Enhancing Generalization via Sharpness-Aware Trajectory Matching for Dataset Condensation**|Boyan Gao et.al.|[2502.01865](http://arxiv.org/abs/2502.01865)|null|
-|**2025-02-03**|**How to warm-start your unfolding network**|Vicky Kouni et.al.|[2502.01854](http://arxiv.org/abs/2502.01854)|null|
+|**2025-02-07**|**How to warm-start your unfolding network**|Vicky Kouni et.al.|[2502.01854](http://arxiv.org/abs/2502.01854)|null|
 |**2025-02-03**|**Choose Your Model Size: Any Compression by a Single Gradient Descent**|Martin Genzel et.al.|[2502.01717](http://arxiv.org/abs/2502.01717)|null|
 |**2025-02-03**|**Observation Noise and Initialization in Wide Neural Networks**|Sergio Calvo-Ordoñez et.al.|[2502.01556](http://arxiv.org/abs/2502.01556)|null|
 |**2025-02-03**|**Compact Rule-Based Classifier Learning via Gradient Descent**|Javier Fumanal-Idocin et.al.|[2502.01375](http://arxiv.org/abs/2502.01375)|null|
@@ -4680,7 +4680,7 @@ layout: default
 |**2025-01-25**|**Efficient numerical methods for computing stationary states of spherical Landau-Brazovskii model**|Qun Qiu et.al.|[2501.15036](http://arxiv.org/abs/2501.15036)|null|
 |**2025-01-25**|**GreenAuto: An Automated Platform for Sustainable AI Model Design on Edge Devices**|Xiaolong Tu et.al.|[2501.14995](http://arxiv.org/abs/2501.14995)|null|
 |**2025-01-25**|**Convergence Analysis of the Wasserstein Proximal Algorithm beyond Geodesic Convexity**|Shuailong Zhu et.al.|[2501.14993](http://arxiv.org/abs/2501.14993)|null|
-|**2025-01-24**|**Private Minimum Hellinger Distance Estimation via Hellinger Distance Differential Privacy**|Fengnan Deng et.al.|[2501.14974](http://arxiv.org/abs/2501.14974)|null|
+|**2025-02-07**|**Private Minimum Hellinger Distance Estimation via Hellinger Distance Differential Privacy**|Fengnan Deng et.al.|[2501.14974](http://arxiv.org/abs/2501.14974)|null|
 |**2025-01-24**|**Context-Aware Neural Gradient Mapping for Fine-Grained Instruction Processing**|David Boldo et.al.|[2501.14936](http://arxiv.org/abs/2501.14936)|null|
 |**2025-01-24**|**Decoupled SGDA for Games with Intermittent Strategy Communication**|Ali Zindari et.al.|[2501.14652](http://arxiv.org/abs/2501.14652)|null|
 |**2025-01-24**|**A Space Mapping approach for the calibration of financial models with the application to the Heston model**|Anna Clevenhaus et.al.|[2501.14521](http://arxiv.org/abs/2501.14521)|null|
@@ -6445,7 +6445,7 @@ layout: default
 |**2025-02-05**|**Interactive Symbolic Regression through Offline Reinforcement Learning: A Co-Design Framework**|Yuan Tian et.al.|[2502.02917](http://arxiv.org/abs/2502.02917)|null|
 |**2025-02-05**|**AI-driven materials design: a mini-review**|Mouyang Cheng et.al.|[2502.02905](http://arxiv.org/abs/2502.02905)|null|
 |**2025-02-05**|**Policy Abstraction and Nash Refinement in Tree-Exploiting PSRO**|Christine Konicki et.al.|[2502.02901](http://arxiv.org/abs/2502.02901)|null|
-|**2025-02-05**|**Advancements in Mobile Edge Computing and Open RAN: Leveraging Artificial Intelligence and Machine Learning for Wireless Systems**|Ryan Barker et.al.|[2502.02886](http://arxiv.org/abs/2502.02886)|null|
+|**2025-02-06**|**Advancements in Mobile Edge Computing and Open RAN: Leveraging Artificial Intelligence and Machine Learning for Wireless Systems**|Ryan Barker et.al.|[2502.02886](http://arxiv.org/abs/2502.02886)|null|
 |**2025-02-05**|**Heterogeneous Value Decomposition Policy Fusion for Multi-Agent Cooperation**|Siying Wang et.al.|[2502.02875](http://arxiv.org/abs/2502.02875)|null|
 |**2025-02-05**|**OmniRL: In-Context Reinforcement Learning by Large-Scale Meta-Training in Randomized Worlds**|Fan Wang et.al.|[2502.02869](http://arxiv.org/abs/2502.02869)|null|
 |**2025-02-05**|**Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning**|Sunwoo Lee et.al.|[2502.02844](http://arxiv.org/abs/2502.02844)|null|
