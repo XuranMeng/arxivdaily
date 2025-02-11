@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.10
+## Updated on 2025.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -86,7 +86,7 @@ layout: default
 |**2025-01-09**|**More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives**|Xiaoqing Zhang et.al.|[2501.04070](http://arxiv.org/abs/2501.04070)|null|
 |**2025-01-08**|**A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval**|Shuo Tong et.al.|[2501.03295](http://arxiv.org/abs/2501.03295)|null|
 |**2025-01-20**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
-|**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
+|**2025-02-08**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-03**|**Adaptive Few-shot Prompting for Machine Translation with Pre-trained Language Models**|Lei Tang et.al.|[2501.01679](http://arxiv.org/abs/2501.01679)|null|
 |**2025-01-01**|**Unraveling Indirect In-Context Learning Using Influence Functions**|Hadi Askari et.al.|[2501.01473](http://arxiv.org/abs/2501.01473)|null|
 |**2025-01-13**|**Learning Spectral Methods by Transformers**|Yihan He et.al.|[2501.01312](http://arxiv.org/abs/2501.01312)|null|
@@ -1310,7 +1310,7 @@ layout: default
 |**2025-02-03**|**Texture Image Synthesis Using Spatial GAN Based on Vision Transformers**|Elahe Salari et.al.|[2502.01842](http://arxiv.org/abs/2502.01842)|null|
 |**2025-02-03**|**Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding**|Mingyu Jin et.al.|[2502.01563](http://arxiv.org/abs/2502.01563)|null|
 |**2025-02-03**|**Generalization Error Analysis for Selective State-Space Models Through the Lens of Attention**|Arya Honarpisheh et.al.|[2502.01473](http://arxiv.org/abs/2502.01473)|null|
-|**2025-02-03**|**TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**|Chengkai Xu et.al.|[2502.01387](http://arxiv.org/abs/2502.01387)|null|
+|**2025-02-08**|**TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**|Chengkai Xu et.al.|[2502.01387](http://arxiv.org/abs/2502.01387)|null|
 |**2025-02-03**|**Partial Channel Network: Compute Fewer, Perform Better**|Haiduo Huang et.al.|[2502.01303](http://arxiv.org/abs/2502.01303)|**[link](https://github.com/haiduo/PartialNet)**|
 |**2025-02-03**|**Pushing the Boundaries of State Space Models for Image and Video Generation**|Yicong Hong et.al.|[2502.00972](http://arxiv.org/abs/2502.00972)|null|
 |**2025-02-02**|**Attention-Based Functional-Group Coarse-Graining: A Deep Learning Framework for Molecular Prediction and Design**|Ming Han et.al.|[2502.00910](http://arxiv.org/abs/2502.00910)|null|
@@ -1345,7 +1345,7 @@ layout: default
 |**2025-01-24**|**ZETA: Leveraging Z-order Curves for Efficient Top-k Attention**|Qiuhao Zeng et.al.|[2501.14577](http://arxiv.org/abs/2501.14577)|null|
 |**2025-01-24**|**Training-Free Style and Content Transfer by Leveraging U-Net Skip Connections in Stable Diffusion 2.***|Ludovica Schaerf et.al.|[2501.14524](http://arxiv.org/abs/2501.14524)|null|
 |**2025-02-03**|**VarDrop: Enhancing Training Efficiency by Reducing Variate Redundancy in Periodic Time Series Forecasting**|Junhyeok Kang et.al.|[2501.14183](http://arxiv.org/abs/2501.14183)|**[link](https://github.com/kaist-dmlab/VarDrop)**|
-|**2025-01-25**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492](http://arxiv.org/abs/2501.13492)|**[link](https://github.com/bollossom/qsd-transformer)**|
+|**2025-02-09**|**Quantized Spike-driven Transformer**|Xuerui Qiu et.al.|[2501.13492](http://arxiv.org/abs/2501.13492)|**[link](https://github.com/bollossom/qsd-transformer)**|
 |**2025-01-27**|**Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models**|Bo Gao et.al.|[2501.13428](http://arxiv.org/abs/2501.13428)|null|
 |**2025-01-22**|**An Implicit Adaptive Fourier Neural Operator for Long-term Predictions of Three-dimensional Turbulence**|Yuchi Jiang et.al.|[2501.12740](http://arxiv.org/abs/2501.12740)|null|
 |**2025-01-22**|**Towards Robust Multi-tab Website Fingerprinting**|Xinhao Deng et.al.|[2501.12622](http://arxiv.org/abs/2501.12622)|**[link](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library)**|
@@ -2755,7 +2755,7 @@ layout: default
 |**2025-02-05**|**Modeling and Optimization of Insulin Injection for Type-1 Diabetes Mellitus Management**|Rinrada Jadsadaphongphaibool et.al.|[2502.03269](http://arxiv.org/abs/2502.03269)|null|
 |**2025-02-05**|**Determine the point source of the heat equation with sparse boundary measurements**|Qiling Gu et.al.|[2502.03018](http://arxiv.org/abs/2502.03018)|null|
 |**2025-02-05**|**Uncertainty Quantification with the Empirical Neural Tangent Kernel**|Joseph Wilson et.al.|[2502.02870](http://arxiv.org/abs/2502.02870)|null|
-|**2025-02-04**|**Parameter Tracking in Federated Learning with Adaptive Optimization**|Evan Chen. Jianing Zhang et.al.|[2502.02727](http://arxiv.org/abs/2502.02727)|null|
+|**2025-02-08**|**Parameter Tracking in Federated Learning with Adaptive Optimization**|Evan Chen et.al.|[2502.02727](http://arxiv.org/abs/2502.02727)|null|
 |**2025-02-04**|**Bayesian Parameter Shift Rule in Variational Quantum Eigensolvers**|Samuele Pedrielli et.al.|[2502.02625](http://arxiv.org/abs/2502.02625)|null|
 |**2025-02-05**|**Deep Linear Network Training Dynamics from Random Initialization: Data, Width, Depth, and Hyperparameter Transfer**|Blake Bordelon et.al.|[2502.02531](http://arxiv.org/abs/2502.02531)|null|
 |**2025-02-04**|**A weak convergence approach to large deviations for stochastic approximations**|Henrik Hult et.al.|[2502.02529](http://arxiv.org/abs/2502.02529)|null|
@@ -4629,7 +4629,7 @@ layout: default
 |**2025-02-05**|**Modeling and Optimization of Insulin Injection for Type-1 Diabetes Mellitus Management**|Rinrada Jadsadaphongphaibool et.al.|[2502.03269](http://arxiv.org/abs/2502.03269)|null|
 |**2025-02-05**|**Determine the point source of the heat equation with sparse boundary measurements**|Qiling Gu et.al.|[2502.03018](http://arxiv.org/abs/2502.03018)|null|
 |**2025-02-05**|**Uncertainty Quantification with the Empirical Neural Tangent Kernel**|Joseph Wilson et.al.|[2502.02870](http://arxiv.org/abs/2502.02870)|null|
-|**2025-02-04**|**Parameter Tracking in Federated Learning with Adaptive Optimization**|Evan Chen. Jianing Zhang et.al.|[2502.02727](http://arxiv.org/abs/2502.02727)|null|
+|**2025-02-08**|**Parameter Tracking in Federated Learning with Adaptive Optimization**|Evan Chen et.al.|[2502.02727](http://arxiv.org/abs/2502.02727)|null|
 |**2025-02-04**|**Bayesian Parameter Shift Rule in Variational Quantum Eigensolvers**|Samuele Pedrielli et.al.|[2502.02625](http://arxiv.org/abs/2502.02625)|null|
 |**2025-02-05**|**Deep Linear Network Training Dynamics from Random Initialization: Data, Width, Depth, and Hyperparameter Transfer**|Blake Bordelon et.al.|[2502.02531](http://arxiv.org/abs/2502.02531)|null|
 |**2025-02-04**|**A weak convergence approach to large deviations for stochastic approximations**|Henrik Hult et.al.|[2502.02529](http://arxiv.org/abs/2502.02529)|null|
@@ -4659,7 +4659,7 @@ layout: default
 |**2025-02-02**|**Worth Their Weight: Randomized and Regularized Block Kaczmarz Algorithms without Preprocessing**|Gil Goldshlager et.al.|[2502.00882](http://arxiv.org/abs/2502.00882)|null|
 |**2025-02-02**|**Error-quantified Conformal Inference for Time Series**|Junxi Wu et.al.|[2502.00818](http://arxiv.org/abs/2502.00818)|null|
 |**2025-02-02**|**Optimization for Neural Operators can Benefit from Width**|Pedro Cisneros-Velarde et.al.|[2502.00705](http://arxiv.org/abs/2502.00705)|null|
-|**2025-02-01**|**Learn Sharp Interface Solution by Homotopy Dynamics**|Chuqi Chen et.al.|[2502.00488](http://arxiv.org/abs/2502.00488)|null|
+|**2025-02-09**|**Learn Sharp Interface Solution by Homotopy Dynamics**|Chuqi Chen et.al.|[2502.00488](http://arxiv.org/abs/2502.00488)|null|
 |**2025-02-06**|**Efficient Over-parameterized Matrix Sensing from Noisy Measurements via Alternating Preconditioned Gradient Descent**|Zhiyu Liu et.al.|[2502.00463](http://arxiv.org/abs/2502.00463)|null|
 |**2025-02-01**|**GO-GAN: Geometry Optimization Generative Adversarial Network for Achieving Optimized Structures with Targeted Physical Properties**|A. Padmaprabhan et.al.|[2502.00416](http://arxiv.org/abs/2502.00416)|null|
 |**2025-02-01**|**$k$ -SVD with Gradient Descent**|Emily Gan et.al.|[2502.00320](http://arxiv.org/abs/2502.00320)|null|
