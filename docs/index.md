@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -27,7 +27,7 @@ layout: default
 |**2025-02-13**|**Tuning-Free Personalized Alignment via Trial-Error-Explain In-Context Learning**|Hyundong Cho et.al.|[2502.08972](http://arxiv.org/abs/2502.08972)|null|
 |**2025-02-13**|**The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding**|Mo Yu et.al.|[2502.08946](http://arxiv.org/abs/2502.08946)|**[link](https://github.com/physico-benchmark/physico)**|
 |**2025-02-11**|**Hallucination, Monofacts, and Miscalibration: An Empirical Investigation**|Muqing Miao et.al.|[2502.08666](http://arxiv.org/abs/2502.08666)|**[link](https://github.com/mmiao2/Hallucination)**|
-|**2025-02-09**|**Few-shot_LLM_Synthetic_Data_with_Distribution_Matching**|Jiyuan Ren et.al.|[2502.08661](http://arxiv.org/abs/2502.08661)|null|
+|**2025-02-15**|**Few-shot LLM Synthetic Data with Distribution Matching**|Jiyuan Ren et.al.|[2502.08661](http://arxiv.org/abs/2502.08661)|null|
 |**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|**[link](https://github.com/gmago-leway/fewshotgec)**|
 |**2025-02-14**|**In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation**|Frank Cole et.al.|[2502.08136](http://arxiv.org/abs/2502.08136)|null|
 |**2025-02-11**|**The Geometry of Prompting: Unveiling Distinct Mechanisms of Task Adaptation in Language Models**|Artem Kirsanov et.al.|[2502.08009](http://arxiv.org/abs/2502.08009)|null|
@@ -2808,7 +2808,7 @@ layout: default
 |**2025-02-11**|**RESIST: Resilient Decentralized Learning Using Consensus Gradient Descent**|Cheng Fang et.al.|[2502.07977](http://arxiv.org/abs/2502.07977)|null|
 |**2025-02-10**|**Some things to know about achieving artificial general intelligence**|Herbert Roitblat et.al.|[2502.07828](http://arxiv.org/abs/2502.07828)|null|
 |**2025-02-11**|**Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold**|Song Liu et.al.|[2502.07650](http://arxiv.org/abs/2502.07650)|null|
-|**2025-02-11**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
+|**2025-02-15**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
 |**2025-02-11**|**Improving Adaptive Moment Optimization via Preconditioner Diagonalization**|Son Nguyen et.al.|[2502.07488](http://arxiv.org/abs/2502.07488)|null|
 |**2025-02-11**|**Optimization Methods for Joint Eigendecomposition**|Erik Troedsson et.al.|[2502.07484](http://arxiv.org/abs/2502.07484)|null|
 |**2025-02-11**|**Negative Dependence as a toolbox for machine learning : review and new developments**|Hoang-Son Tran et.al.|[2502.07285](http://arxiv.org/abs/2502.07285)|null|
@@ -4474,7 +4474,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-12**|**Poincaré Inequality for Local Log-Polyak-Lojasiewicz Measures : Non-asymptotic Analysis in Low-temperature Regime**|Yun Gong et.al.|[2502.06862](http://arxiv.org/abs/2502.06862)|null|
+|**2025-02-15**|**Poincaré Inequality for Local Log-Polyak-Lojasiewicz Measures : Non-asymptotic Analysis in Low-temperature Regime**|Yun Gong et.al.|[2502.06862](http://arxiv.org/abs/2502.06862)|null|
 |**2025-02-05**|**Uncertainty Quantification with the Empirical Neural Tangent Kernel**|Joseph Wilson et.al.|[2502.02870](http://arxiv.org/abs/2502.02870)|null|
 |**2025-02-03**|**Re-examining Double Descent and Scaling Laws under Norm-based Capacity via Deterministic Equivalence**|Yichen Wang et.al.|[2502.01585](http://arxiv.org/abs/2502.01585)|null|
 |**2025-02-03**|**Spurious Correlations in High Dimensional Regression: The Roles of Regularization, Simplicity Bias and Over-Parameterization**|Simone Bombari et.al.|[2502.01347](http://arxiv.org/abs/2502.01347)|null|
@@ -4713,7 +4713,7 @@ layout: default
 |**2025-02-11**|**A unifying account of warm start guarantees for patches of quantum landscapes**|Hela Mhiri et.al.|[2502.07889](http://arxiv.org/abs/2502.07889)|null|
 |**2025-02-10**|**Some things to know about achieving artificial general intelligence**|Herbert Roitblat et.al.|[2502.07828](http://arxiv.org/abs/2502.07828)|null|
 |**2025-02-11**|**Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold**|Song Liu et.al.|[2502.07650](http://arxiv.org/abs/2502.07650)|null|
-|**2025-02-11**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
+|**2025-02-15**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
 |**2025-02-11**|**Improving Adaptive Moment Optimization via Preconditioner Diagonalization**|Son Nguyen et.al.|[2502.07488](http://arxiv.org/abs/2502.07488)|null|
 |**2025-02-11**|**Optimization Methods for Joint Eigendecomposition**|Erik Troedsson et.al.|[2502.07484](http://arxiv.org/abs/2502.07484)|null|
 |**2025-02-11**|**Negative Dependence as a toolbox for machine learning : review and new developments**|Hoang-Son Tran et.al.|[2502.07285](http://arxiv.org/abs/2502.07285)|null|

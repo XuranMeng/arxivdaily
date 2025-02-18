@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-13**|**Tuning-Free Personalized Alignment via Trial-Error-Explain In-Context Learning**|Hyundong Cho et.al.|[2502.08972](http://arxiv.org/abs/2502.08972)|null|
 |**2025-02-13**|**The Stochastic Parrot on LLM's Shoulder: A Summative Assessment of Physical Concept Understanding**|Mo Yu et.al.|[2502.08946](http://arxiv.org/abs/2502.08946)|**[link](https://github.com/physico-benchmark/physico)**|
 |**2025-02-11**|**Hallucination, Monofacts, and Miscalibration: An Empirical Investigation**|Muqing Miao et.al.|[2502.08666](http://arxiv.org/abs/2502.08666)|**[link](https://github.com/mmiao2/Hallucination)**|
-|**2025-02-09**|**Few-shot_LLM_Synthetic_Data_with_Distribution_Matching**|Jiyuan Ren et.al.|[2502.08661](http://arxiv.org/abs/2502.08661)|null|
+|**2025-02-15**|**Few-shot LLM Synthetic Data with Distribution Matching**|Jiyuan Ren et.al.|[2502.08661](http://arxiv.org/abs/2502.08661)|null|
 |**2025-02-12**|**Explanation based In-Context Demonstrations Retrieval for Multilingual Grammatical Error Correction**|Wei Li et.al.|[2502.08507](http://arxiv.org/abs/2502.08507)|**[link](https://github.com/gmago-leway/fewshotgec)**|
 |**2025-02-14**|**In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation**|Frank Cole et.al.|[2502.08136](http://arxiv.org/abs/2502.08136)|null|
 |**2025-02-11**|**The Geometry of Prompting: Unveiling Distinct Mechanisms of Task Adaptation in Language Models**|Artem Kirsanov et.al.|[2502.08009](http://arxiv.org/abs/2502.08009)|null|
@@ -1319,7 +1319,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Transformer
 
@@ -2802,7 +2802,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Optimization
 
@@ -2820,7 +2820,7 @@
 |**2025-02-11**|**RESIST: Resilient Decentralized Learning Using Consensus Gradient Descent**|Cheng Fang et.al.|[2502.07977](http://arxiv.org/abs/2502.07977)|null|
 |**2025-02-10**|**Some things to know about achieving artificial general intelligence**|Herbert Roitblat et.al.|[2502.07828](http://arxiv.org/abs/2502.07828)|null|
 |**2025-02-11**|**Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold**|Song Liu et.al.|[2502.07650](http://arxiv.org/abs/2502.07650)|null|
-|**2025-02-11**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
+|**2025-02-15**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
 |**2025-02-11**|**Improving Adaptive Moment Optimization via Preconditioner Diagonalization**|Son Nguyen et.al.|[2502.07488](http://arxiv.org/abs/2502.07488)|null|
 |**2025-02-11**|**Optimization Methods for Joint Eigendecomposition**|Erik Troedsson et.al.|[2502.07484](http://arxiv.org/abs/2502.07484)|null|
 |**2025-02-11**|**Negative Dependence as a toolbox for machine learning : review and new developments**|Hoang-Son Tran et.al.|[2502.07285](http://arxiv.org/abs/2502.07285)|null|
@@ -4482,13 +4482,13 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Over paramterized
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-12**|**Poincaré Inequality for Local Log-Polyak-Lojasiewicz Measures : Non-asymptotic Analysis in Low-temperature Regime**|Yun Gong et.al.|[2502.06862](http://arxiv.org/abs/2502.06862)|null|
+|**2025-02-15**|**Poincaré Inequality for Local Log-Polyak-Lojasiewicz Measures : Non-asymptotic Analysis in Low-temperature Regime**|Yun Gong et.al.|[2502.06862](http://arxiv.org/abs/2502.06862)|null|
 |**2025-02-05**|**Uncertainty Quantification with the Empirical Neural Tangent Kernel**|Joseph Wilson et.al.|[2502.02870](http://arxiv.org/abs/2502.02870)|null|
 |**2025-02-03**|**Re-examining Double Descent and Scaling Laws under Norm-based Capacity via Deterministic Equivalence**|Yichen Wang et.al.|[2502.01585](http://arxiv.org/abs/2502.01585)|null|
 |**2025-02-03**|**Spurious Correlations in High Dimensional Regression: The Roles of Regularization, Simplicity Bias and Over-Parameterization**|Simone Bombari et.al.|[2502.01347](http://arxiv.org/abs/2502.01347)|null|
@@ -4708,7 +4708,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -4729,7 +4729,7 @@
 |**2025-02-11**|**A unifying account of warm start guarantees for patches of quantum landscapes**|Hela Mhiri et.al.|[2502.07889](http://arxiv.org/abs/2502.07889)|null|
 |**2025-02-10**|**Some things to know about achieving artificial general intelligence**|Herbert Roitblat et.al.|[2502.07828](http://arxiv.org/abs/2502.07828)|null|
 |**2025-02-11**|**Guiding Time-Varying Generative Models with Natural Gradients on Exponential Family Manifold**|Song Liu et.al.|[2502.07650](http://arxiv.org/abs/2502.07650)|null|
-|**2025-02-11**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
+|**2025-02-15**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
 |**2025-02-11**|**Improving Adaptive Moment Optimization via Preconditioner Diagonalization**|Son Nguyen et.al.|[2502.07488](http://arxiv.org/abs/2502.07488)|null|
 |**2025-02-11**|**Optimization Methods for Joint Eigendecomposition**|Erik Troedsson et.al.|[2502.07484](http://arxiv.org/abs/2502.07484)|null|
 |**2025-02-11**|**Negative Dependence as a toolbox for machine learning : review and new developments**|Hoang-Son Tran et.al.|[2502.07285](http://arxiv.org/abs/2502.07285)|null|
@@ -6563,7 +6563,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -12584,7 +12584,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
