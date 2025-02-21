@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.20
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -23,7 +23,7 @@ layout: default
 |**2025-02-17**|**JoLT: Joint Probabilistic Predictions on Tabular Data Using LLMs**|Aliaksandra Shysheya et.al.|[2502.11877](http://arxiv.org/abs/2502.11877)|null|
 |**2025-02-17**|**Understanding In-Context Machine Translation for Low-Resource Languages: A Case Study on Manchu**|Renhao Pei et.al.|[2502.11862](http://arxiv.org/abs/2502.11862)|null|
 |**2025-02-17**|**Language Models Can See Better: Visual Contrastive Decoding For LLM Multimodal Reasoning**|Yuqi Pang et.al.|[2502.11751](http://arxiv.org/abs/2502.11751)|null|
-|**2025-02-17**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
+|**2025-02-20**|**RIDE: Enhancing Large Language Model Alignment through Restyled In-Context Learning Demonstration Exemplars**|Yuncheng Hua et.al.|[2502.11681](http://arxiv.org/abs/2502.11681)|null|
 |**2025-02-17**|**Training Large Language Models to be Better Rule Followers**|Yi Hu et.al.|[2502.11525](http://arxiv.org/abs/2502.11525)|null|
 |**2025-02-17**|**Balanced Multi-Factor In-Context Learning for Multilingual Large Language Models**|Masahiro Kaneko et.al.|[2502.11495](http://arxiv.org/abs/2502.11495)|null|
 |**2025-02-17**|**SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL**|Jimin Lee et.al.|[2502.11438](http://arxiv.org/abs/2502.11438)|null|
@@ -1403,7 +1403,7 @@ layout: default
 |**2025-02-03**|**Texture Image Synthesis Using Spatial GAN Based on Vision Transformers**|Elahe Salari et.al.|[2502.01842](http://arxiv.org/abs/2502.01842)|null|
 |**2025-02-03**|**Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding**|Mingyu Jin et.al.|[2502.01563](http://arxiv.org/abs/2502.01563)|null|
 |**2025-02-03**|**Generalization Error Analysis for Selective State-Space Models Through the Lens of Attention**|Arya Honarpisheh et.al.|[2502.01473](http://arxiv.org/abs/2502.01473)|null|
-|**2025-02-08**|**TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**|Chengkai Xu et.al.|[2502.01387](http://arxiv.org/abs/2502.01387)|null|
+|**2025-02-20**|**TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning**|Chengkai Xu et.al.|[2502.01387](http://arxiv.org/abs/2502.01387)|null|
 |**2025-02-03**|**Partial Channel Network: Compute Fewer, Perform Better**|Haiduo Huang et.al.|[2502.01303](http://arxiv.org/abs/2502.01303)|**[link](https://github.com/haiduo/PartialNet)**|
 |**2025-02-03**|**Pushing the Boundaries of State Space Models for Image and Video Generation**|Yicong Hong et.al.|[2502.00972](http://arxiv.org/abs/2502.00972)|null|
 |**2025-02-02**|**Attention-Based Functional-Group Coarse-Graining: A Deep Learning Framework for Molecular Prediction and Design**|Ming Han et.al.|[2502.00910](http://arxiv.org/abs/2502.00910)|null|
@@ -6700,7 +6700,7 @@ layout: default
 |**2025-02-17**|**Hovering Flight of Soft-Actuated Insect-Scale Micro Aerial Vehicles using Deep Reinforcement Learning**|Yi-Hsuan Hsiao et.al.|[2502.12355](http://arxiv.org/abs/2502.12355)|null|
 |**2025-02-17**|**Learning Plasma Dynamics and Robust Rampdown Trajectories with Predict-First Experiments at TCV**|Allen M. Wang et.al.|[2502.12327](http://arxiv.org/abs/2502.12327)|null|
 |**2025-02-17**|**Warmup Generations: A Task-Agnostic Approach for Guiding Sequence-to-Sequence Learning with Unsupervised Initial State Generation**|Senyu Li et.al.|[2502.12304](http://arxiv.org/abs/2502.12304)|null|
-|**2025-02-17**|**Learning to Reason at the Frontier of Learnability**|Thomas Foster et.al.|[2502.12272](http://arxiv.org/abs/2502.12272)|null|
+|**2025-02-19**|**Learning to Reason at the Frontier of Learnability**|Thomas Foster et.al.|[2502.12272](http://arxiv.org/abs/2502.12272)|null|
 |**2025-02-16**|**Evaluating the Paperclip Maximizer: Are RL-Based Language Models More Likely to Pursue Instrumental Goals?**|Yufei He et.al.|[2502.12206](http://arxiv.org/abs/2502.12206)|null|
 |**2025-02-16**|**Maximize Your Diffusion: A Study into Reward Maximization and Alignment for Diffusion-based Control**|Dom Huh et.al.|[2502.12198](http://arxiv.org/abs/2502.12198)|null|
 |**2025-02-15**|**Self-supervised Attribute-aware Dynamic Preference Ranking Alignment**|Hongyu Yang et.al.|[2502.12189](http://arxiv.org/abs/2502.12189)|null|
