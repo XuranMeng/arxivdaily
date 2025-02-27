@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -58,7 +58,7 @@ layout: default
 |**2025-02-15**|**Lost in the Passage: Passage-level In-context Learning Does Not Necessarily Need a "Passage"**|Hao Sun et.al.|[2502.10634](http://arxiv.org/abs/2502.10634)|null|
 |**2025-02-14**|**From Markov to Laplace: How Mamba In-Context Learns Markov Chains**|Marco Bondaschi et.al.|[2502.10178](http://arxiv.org/abs/2502.10178)|**[link](https://github.com/Bond1995/Markov-Mamba)**|
 |**2025-02-18**|**Large Language Diffusion Models**|Shen Nie et.al.|[2502.09992](http://arxiv.org/abs/2502.09992)|null|
-|**2025-02-20**|**MIR-Bench: Benchmarking LLM's Long-Context Intelligence via Many-Shot In-Context Inductive Reasoning**|Kai Yan et.al.|[2502.09933](http://arxiv.org/abs/2502.09933)|null|
+|**2025-02-26**|**MIR-Bench: Benchmarking LLM's Long-Context Intelligence via Many-Shot In-Context Inductive Reasoning**|Kai Yan et.al.|[2502.09933](http://arxiv.org/abs/2502.09933)|null|
 |**2025-02-14**|**The Ann Arbor Architecture for Agent-Oriented Programming**|Wei Dong et.al.|[2502.09903](http://arxiv.org/abs/2502.09903)|null|
 |**2025-02-14**|**Solving Empirical Bayes via Transformers**|Anzo Teh et.al.|[2502.09844](http://arxiv.org/abs/2502.09844)|null|
 |**2025-02-12**|**Neuro-Conceptual Artificial Intelligence: Integrating OPM with Deep Learning to Enhance Question Answering Quality**|Xin Kang et.al.|[2502.09658](http://arxiv.org/abs/2502.09658)|null|
@@ -1409,7 +1409,7 @@ layout: default
 |**2025-02-11**|**Dense Object Detection Based on De-homogenized Queries**|Yueming Huang et.al.|[2502.07194](http://arxiv.org/abs/2502.07194)|null|
 |**2025-02-05**|**Neural Network-based Vehicular Channel Estimation Performance: Effect of Noise in the Training Set**|Simbarashe Aldrin Ngorima et.al.|[2502.06824](http://arxiv.org/abs/2502.06824)|null|
 |**2025-02-12**|**Exploiting Sparsity for Long Context Inference: Million Token Contexts on Commodity GPUs**|Ryan Synk et.al.|[2502.06766](http://arxiv.org/abs/2502.06766)|**[link](https://github.com/ryansynk/topk-decoding)**|
-|**2025-02-10**|**Systematic Outliers in Large Language Models**|Yongqi An et.al.|[2502.06415](http://arxiv.org/abs/2502.06415)|null|
+|**2025-02-26**|**Systematic Outliers in Large Language Models**|Yongqi An et.al.|[2502.06415](http://arxiv.org/abs/2502.06415)|null|
 |**2025-02-10**|**Multi-Scale Transformer Architecture for Accurate Medical Image Classification**|Jiacheng Hu et.al.|[2502.06243](http://arxiv.org/abs/2502.06243)|null|
 |**2025-02-10**|**An Interpretable Implicit-Based Approach for Modeling Local Spatial Effects: A Case Study of Global Gross Primary Productivity**|Siqi Du et.al.|[2502.06170](http://arxiv.org/abs/2502.06170)|null|
 |**2025-02-10**|**Universal Approximation of Visual Autoregressive Transformers**|Yifang Chen et.al.|[2502.06167](http://arxiv.org/abs/2502.06167)|null|
@@ -4830,7 +4830,7 @@ layout: default
 |**2025-02-25**|**An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses**|Hao Liang et.al.|[2502.17772](http://arxiv.org/abs/2502.17772)|null|
 |**2025-02-25**|**Learning Density Evolution from Snapshot Data**|Rentian Yao et.al.|[2502.17738](http://arxiv.org/abs/2502.17738)|null|
 |**2025-02-21**|**Generalized Exponentiated Gradient Algorithms Using the Euler Two-Parameter Logarithm**|Andrzej Cichocki et.al.|[2502.17500](http://arxiv.org/abs/2502.17500)|null|
-|**2025-02-24**|**COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs**|Liming Liu et.al.|[2502.17410](http://arxiv.org/abs/2502.17410)|**[link](https://github.com/lliu606/cosmos)**|
+|**2025-02-26**|**COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs**|Liming Liu et.al.|[2502.17410](http://arxiv.org/abs/2502.17410)|**[link](https://github.com/lliu606/cosmos)**|
 |**2025-02-24**|**Evolving Form and Function: Dual-Objective Optimization in Neural Symbolic Regression Networks**|Amanda Bertschinger et.al.|[2502.17393](http://arxiv.org/abs/2502.17393)|null|
 |**2025-02-24**|**Low-rank bias, weight decay, and model merging in neural networks**|Ilja Kuzborskij et.al.|[2502.17340](http://arxiv.org/abs/2502.17340)|null|
 |**2025-02-24**|**REINFORCE Adversarial Attacks on Large Language Models: An Adaptive, Distributional, and Semantic Objective**|Simon Geisler et.al.|[2502.17254](http://arxiv.org/abs/2502.17254)|null|
@@ -6738,10 +6738,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449](http://arxiv.org/abs/2502.18449)|null|
 |**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439](http://arxiv.org/abs/2502.18439)|null|
-|**2025-02-25**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Fengshuo Bai et.al.|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
+|**2025-02-26**|**Retrieval Dexterity: Efficient Object Retrieval in Clutters with Dexterous Hand**|Fengshuo Bai et.al.|[2502.18423](http://arxiv.org/abs/2502.18423)|null|
 |**2025-02-25**|**Controlling dynamics of stochastic systems with deep reinforcement learning**|Ruslan Mukhamadiarov et.al.|[2502.18111](http://arxiv.org/abs/2502.18111)|null|
-|**2025-02-25**|**From planning to policy: distilling $\texttt{Skill-RRT}$ for long-horizon prehensile and non-prehensile manipulation**|Haewon Jung et.al.|[2502.18015](http://arxiv.org/abs/2502.18015)|null|
-|**2025-02-25**|**NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms**|Yashan Wang et.al.|[2502.18008](http://arxiv.org/abs/2502.18008)|null|
+|**2025-02-26**|**From planning to policy: distilling $\texttt{Skill-RRT}$ for long-horizon prehensile and non-prehensile manipulation**|Haewon Jung et.al.|[2502.18015](http://arxiv.org/abs/2502.18015)|null|
+|**2025-02-26**|**NotaGen: Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms**|Yashan Wang et.al.|[2502.18008](http://arxiv.org/abs/2502.18008)|null|
 |**2025-02-25**|**Provable Performance Bounds for Digital Twin-driven Deep Reinforcement Learning in Wireless Networks: A Novel Digital-Twin Bisimulation Metric**|Zhenyu Tao et.al.|[2502.17983](http://arxiv.org/abs/2502.17983)|null|
 |**2025-02-25**|**FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real**|Weiheng Liu et.al.|[2502.17894](http://arxiv.org/abs/2502.17894)|null|
 |**2025-02-25**|**Sample-efficient diffusion-based control of complex nonlinear systems**|Hongyi Chen et.al.|[2502.17893](http://arxiv.org/abs/2502.17893)|null|
@@ -6782,7 +6782,7 @@ layout: default
 |**2025-02-25**|**AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**|Rui Liu et.al.|[2502.16736](http://arxiv.org/abs/2502.16736)|null|
 |**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|null|
 |**2025-02-23**|**NatSGLD: A Dataset with Speech, Gesture, Logic, and Demonstration for Robot Learning in Natural Human-Robot Interaction**|Snehesh Shrestha et.al.|[2502.16718](http://arxiv.org/abs/2502.16718)|**[link](https://github.com/sneheshs/natsgld)**|
-|**2025-02-23**|**OptionZero: Planning with Learned Options**|Po-Wei Huang et.al.|[2502.16634](http://arxiv.org/abs/2502.16634)|null|
+|**2025-02-23**|**OptionZero: Planning with Learned Options**|Po-Wei Huang et.al.|[2502.16634](http://arxiv.org/abs/2502.16634)|**[link](https://github.com/rlglab/optionzero)**|
 |**2025-02-23**|**Toward Dependency Dynamics in Multi-Agent Reinforcement Learning for Traffic Signal Control**|Yuli Zhang et.al.|[2502.16608](http://arxiv.org/abs/2502.16608)|null|
 |**2025-02-23**|**Bounded Foresight Equilibrium in Large Dynamic Economies with Heterogeneous Agents and Aggregate Shocks**|Bilal Islah et.al.|[2502.16536](http://arxiv.org/abs/2502.16536)|null|
 |**2025-02-23**|**Rebalancing the Scales: A Systematic Mapping Study of Generative Adversarial Networks (GANs) in Addressing Data Imbalance**|Pankaj Yadav et.al.|[2502.16535](http://arxiv.org/abs/2502.16535)|null|
