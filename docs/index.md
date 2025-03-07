@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
@@ -6935,7 +6935,7 @@ layout: default
 |**2025-03-04**|**Experience Replay with Random Reshuffling**|Yasuhiro Fujita et.al.|[2503.02269](http://arxiv.org/abs/2503.02269)|**[link](https://github.com/pfnet-research/errr)**|
 |**2025-03-04**|**Towards Heisenberg limit without critical slowing down via quantum reinforcement learning**|Hang Xu et.al.|[2503.02210](http://arxiv.org/abs/2503.02210)|null|
 |**2025-03-04**|**Adaptive Traffic Signal Control based on Multi-Agent Reinforcement Learning. Case Study on a simulated real-world corridor**|Dickness Kakitahi Kwesiga et.al.|[2503.02189](http://arxiv.org/abs/2503.02189)|null|
-|**2025-03-04**|**Is Bellman Equation Enough for Learning Control?**|Haoxiang You et.al.|[2503.02171](http://arxiv.org/abs/2503.02171)|null|
+|**2025-03-06**|**Is Bellman Equation Enough for Learning Control?**|Haoxiang You et.al.|[2503.02171](http://arxiv.org/abs/2503.02171)|null|
 |**2025-03-03**|**AVG-DICE: Stationary Distribution Correction by Regression**|Fengdi Che et.al.|[2503.02125](http://arxiv.org/abs/2503.02125)|null|
 |**2025-03-03**|**NavG: Risk-Aware Navigation in Crowded Environments Based on Reinforcement Learning with Guidance Points**|Qianyi Zhang et.al.|[2503.02111](http://arxiv.org/abs/2503.02111)|null|
 |**2025-03-03**|**$\text{M}^3\text{HF}$ : Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality**|Ziyan Wang et.al.|[2503.02077](http://arxiv.org/abs/2503.02077)|null|
@@ -6970,13 +6970,13 @@ layout: default
 |**2025-03-03**|**Impact of Static Friction on Sim2Real in Robotic Reinforcement Learning**|Xiaoyi Hu et.al.|[2503.01255](http://arxiv.org/abs/2503.01255)|null|
 |**2025-03-03**|**Catching Spinning Table Tennis Balls in Simulation with End-to-End Curriculum Reinforcement Learning**|Xiaoyi Hu et.al.|[2503.01251](http://arxiv.org/abs/2503.01251)|null|
 |**2025-03-03**|**PEO: Improving Bi-Factorial Preference Alignment with Post-Training Policy Extrapolation**|Yuxuan Liu et.al.|[2503.01233](http://arxiv.org/abs/2503.01233)|null|
-|**2025-03-03**|**CE-U: Cross Entropy Unlearning**|Bo Yang et.al.|[2503.01224](http://arxiv.org/abs/2503.01224)|null|
+|**2025-03-06**|**CE-U: Cross Entropy Unlearning**|Bo Yang et.al.|[2503.01224](http://arxiv.org/abs/2503.01224)|null|
 |**2025-03-03**|**Differentiable Information Enhanced Model-Based Reinforcement Learning**|Xiaoyuan Zhang et.al.|[2503.01178](http://arxiv.org/abs/2503.01178)|null|
 |**2025-03-03**|**Enhancing Deep Reinforcement Learning-based Robot Navigation Generalization through Scenario Augmentation**|Shanze Wang et.al.|[2503.01146](http://arxiv.org/abs/2503.01146)|null|
 |**2025-03-03**|**DPR: Diffusion Preference-based Reward for Offline Reinforcement Learning**|Teng Pang et.al.|[2503.01143](http://arxiv.org/abs/2503.01143)|null|
 |**2025-03-03**|**Statistical Tractability of Off-policy Evaluation of History-dependent Policies in POMDPs**|Yuheng Zhang et.al.|[2503.01134](http://arxiv.org/abs/2503.01134)|null|
 |**2025-03-03**|**Beyond Visibility Limits: A DRL-Based Navigation Strategy for Unexpected Obstacles**|Mingao Tan et.al.|[2503.01127](http://arxiv.org/abs/2503.01127)|null|
-|**2025-03-03**|**TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning**|Zikang Yin et.al.|[2503.01125](http://arxiv.org/abs/2503.01125)|null|
+|**2025-03-06**|**TACO: General Acrobatic Flight Control via Target-and-Command-Oriented Reinforcement Learning**|Zikang Yin et.al.|[2503.01125](http://arxiv.org/abs/2503.01125)|null|
 |**2025-03-03**|**Ground contact and reaction force sensing for linear policy control of quadruped robot**|Harshita Mhaske et.al.|[2503.01102](http://arxiv.org/abs/2503.01102)|null|
 |**2025-03-03**|**Active Learning for Direct Preference Optimization**|Branislav Kveton et.al.|[2503.01076](http://arxiv.org/abs/2503.01076)|null|
 |**2025-03-03**|**Multi-Agent Reinforcement Learning with Long-Term Performance Objectives for Service Workforce Optimization**|Kareem Eissa et.al.|[2503.01069](http://arxiv.org/abs/2503.01069)|null|
