@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**RWKV-7 "Goose" with Expressive Dynamic State Evolution**|Bo Peng et.al.|[2503.14456](http://arxiv.org/abs/2503.14456)|null|
+|**2025-03-18**|**ExDDV: A New Dataset for Explainable Deepfake Detection in Video**|Vlad Hondru et.al.|[2503.14421](http://arxiv.org/abs/2503.14421)|null|
+|**2025-03-18**|**JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System**|Weihang Su et.al.|[2503.14258](http://arxiv.org/abs/2503.14258)|null|
 |**2025-03-17**|**Edit Transfer: Learning Image Editing via Vision In-Context Relations**|Lan Chen et.al.|[2503.13327](http://arxiv.org/abs/2503.13327)|null|
 |**2025-03-17**|**Mitigating Cross-Modal Distraction and Ensuring Geometric Feasibility via Affordance-Guided, Self-Consistent MLLMs for Food Preparation Task Planning**|Yu-Hong Shen et.al.|[2503.13055](http://arxiv.org/abs/2503.13055)|null|
 |**2025-03-17**|**A Multi-Stage Framework with Taxonomy-Guided Reasoning for Occupation Classification Using Large Language Models**|Palakorn Achananuparp et.al.|[2503.12989](http://arxiv.org/abs/2503.12989)|null|
@@ -1437,6 +1440,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Concat-ID: Towards Universal Identity-Preserving Video Synthesis**|Yong Zhong et.al.|[2503.14151](http://arxiv.org/abs/2503.14151)|null|
+|**2025-03-17**|**Towards Scalable Modeling of Compressed Videos for Efficient Action Recognition**|Shristi Das Biswas et.al.|[2503.13724](http://arxiv.org/abs/2503.13724)|null|
+|**2025-03-05**|**EAGLE: Contextual Point Cloud Generation via Adaptive Continuous Normalizing Flow with Self-Attention**|Linhao Wang et.al.|[2503.13479](http://arxiv.org/abs/2503.13479)|**[link](https://github.com/wanglh300/EAGLE)**|
 |**2025-03-17**|**Computation Mechanism Behind LLM Position Generalization**|Chi Han et.al.|[2503.13305](http://arxiv.org/abs/2503.13305)|null|
 |**2025-03-17**|**Channel Estimation for Pinching-Antenna Systems (PASS)**|Jian Xiao et.al.|[2503.13268](http://arxiv.org/abs/2503.13268)|null|
 |**2025-03-17**|**InsightDrive: Insight Scene Representation for End-to-End Autonomous Driving**|Ruiqi Song et.al.|[2503.13047](http://arxiv.org/abs/2503.13047)|null|
@@ -3025,6 +3031,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**La Méthode du Gradient Proximé**|Patrick L. Combettes et.al.|[2503.14479](http://arxiv.org/abs/2503.14479)|null|
+|**2025-03-18**|**Unified Analysis of Decentralized Gradient Descent: a Contraction Mapping Framework**|Erik G. Larsson et.al.|[2503.14353](http://arxiv.org/abs/2503.14353)|null|
+|**2025-03-18**|**Theoretical Foundation of Flow-Based Time Series Generation: Provable Approximation, Generalization, and Efficiency**|Jiangxuan Long et.al.|[2503.14076](http://arxiv.org/abs/2503.14076)|null|
+|**2025-03-18**|**Variable smoothing algorithm for inner-loop-free DC composite optimizations**|Kumataro Yazawa et.al.|[2503.13990](http://arxiv.org/abs/2503.13990)|null|
+|**2025-03-18**|**Controlled Optimization with a Prescribed Finite-Time Convergence Using a Time Varying Feedback Gradient Flow**|Osama F. Abdel Aal et.al.|[2503.13910](http://arxiv.org/abs/2503.13910)|null|
+|**2025-03-17**|**Effective Dimension Aware Fractional-Order Stochastic Gradient Descent for Convex Optimization Problems**|Mohammad Partohaghighi et.al.|[2503.13764](http://arxiv.org/abs/2503.13764)|null|
 |**2025-03-17**|**High-entropy Advantage in Neural Networks' Generalizability**|Entao Yang et.al.|[2503.13145](http://arxiv.org/abs/2503.13145)|null|
 |**2025-03-17**|**Beyond Propagation of Chaos: A Stochastic Algorithm for Mean Field Optimization**|Chandan Tankala et.al.|[2503.13115](http://arxiv.org/abs/2503.13115)|null|
 |**2025-03-17**|**An Optimization Framework for Differentially Private Sparse Fine-Tuning**|Mehdi Makni et.al.|[2503.12822](http://arxiv.org/abs/2503.12822)|null|
@@ -5084,6 +5096,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**La Méthode du Gradient Proximé**|Patrick L. Combettes et.al.|[2503.14479](http://arxiv.org/abs/2503.14479)|null|
+|**2025-03-18**|**Technical Report: Aggregation on Learnable Manifolds for Asynchronous Federated Optimization**|Archie Licudi et.al.|[2503.14396](http://arxiv.org/abs/2503.14396)|null|
+|**2025-03-18**|**Unified Analysis of Decentralized Gradient Descent: a Contraction Mapping Framework**|Erik G. Larsson et.al.|[2503.14353](http://arxiv.org/abs/2503.14353)|null|
+|**2025-03-18**|**Theoretical Foundation of Flow-Based Time Series Generation: Provable Approximation, Generalization, and Efficiency**|Jiangxuan Long et.al.|[2503.14076](http://arxiv.org/abs/2503.14076)|null|
+|**2025-03-18**|**Variable smoothing algorithm for inner-loop-free DC composite optimizations**|Kumataro Yazawa et.al.|[2503.13990](http://arxiv.org/abs/2503.13990)|null|
+|**2025-03-18**|**Controlled Optimization with a Prescribed Finite-Time Convergence Using a Time Varying Feedback Gradient Flow**|Osama F. Abdel Aal et.al.|[2503.13910](http://arxiv.org/abs/2503.13910)|null|
+|**2025-03-17**|**Effective Dimension Aware Fractional-Order Stochastic Gradient Descent for Convex Optimization Problems**|Mohammad Partohaghighi et.al.|[2503.13764](http://arxiv.org/abs/2503.13764)|null|
 |**2025-03-17**|**High-entropy Advantage in Neural Networks' Generalizability**|Entao Yang et.al.|[2503.13145](http://arxiv.org/abs/2503.13145)|null|
 |**2025-03-17**|**Beyond Propagation of Chaos: A Stochastic Algorithm for Mean Field Optimization**|Chandan Tankala et.al.|[2503.13115](http://arxiv.org/abs/2503.13115)|null|
 |**2025-03-17**|**An Optimization Framework for Differentially Private Sparse Fine-Tuning**|Mehdi Makni et.al.|[2503.12822](http://arxiv.org/abs/2503.12822)|null|
@@ -7096,6 +7115,28 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**DAPO: An Open-Source LLM Reinforcement Learning System at Scale**|Qiying Yu et.al.|[2503.14476](http://arxiv.org/abs/2503.14476)|null|
+|**2025-03-18**|**Pauli Network Circuit Synthesis with Reinforcement Learning**|Ayushi Dubal et.al.|[2503.14448](http://arxiv.org/abs/2503.14448)|null|
+|**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
+|**2025-03-18**|**MANTRA: Enhancing Automated Method-Level Refactoring with Contextual RAG and Multi-Agent LLM Collaboration**|Yisen Xu et.al.|[2503.14340](http://arxiv.org/abs/2503.14340)|null|
+|**2025-03-18**|**Revealing higher-order neural representations with generative artificial intelligence**|Hojjat Azimi Asrari et.al.|[2503.14333](http://arxiv.org/abs/2503.14333)|null|
+|**2025-03-18**|**Tapered Off-Policy REINFORCE: Stable and efficient reinforcement learning for LLMs**|Nicolas Le Roux et.al.|[2503.14286](http://arxiv.org/abs/2503.14286)|null|
+|**2025-03-18**|**Integral modelling and Reinforcement Learning control of 3D liquid metal coating on a moving substrate**|Fabio Pino et.al.|[2503.14270](http://arxiv.org/abs/2503.14270)|null|
+|**2025-03-18**|**Automating Experimental Optics with Sample Efficient Machine Learning Methods**|Arindam Saha et.al.|[2503.14260](http://arxiv.org/abs/2503.14260)|null|
+|**2025-03-18**|**CTSAC: Curriculum-Based Transformer Soft Actor-Critic for Goal-Oriented Robot Exploration**|Chunyu Yang et.al.|[2503.14254](http://arxiv.org/abs/2503.14254)|null|
+|**2025-03-18**|**A Parallel Hybrid Action Space Reinforcement Learning Model for Real-world Adaptive Traffic Signal Control**|Yuxuan Wang et.al.|[2503.14250](http://arxiv.org/abs/2503.14250)|null|
+|**2025-03-18**|**Deep Reinforcement Learning-based Video-Haptic Radio Resource Slicing in Tactile Internet**|Georgios Kokkinis et.al.|[2503.14066](http://arxiv.org/abs/2503.14066)|null|
+|**2025-03-18**|**Synthetic Data Generation Using Large Language Models: Advances in Text and Code**|Mihai Nadas et.al.|[2503.14023](http://arxiv.org/abs/2503.14023)|null|
+|**2025-03-18**|**Med-R1: Reinforcement Learning for Generalizable Medical Reasoning in Vision-Language Models**|Yuxiang Lai et.al.|[2503.13939](http://arxiv.org/abs/2503.13939)|null|
+|**2025-03-18**|**COLSON: Controllable Learning-Based Social Navigation via Diffusion-Based Reinforcement Learning**|Yuki Tomita et.al.|[2503.13934](http://arxiv.org/abs/2503.13934)|null|
+|**2025-03-18**|**Counterfactual experience augmented off-policy reinforcement learning**|Sunbowen Lee et.al.|[2503.13842](http://arxiv.org/abs/2503.13842)|null|
+|**2025-03-18**|**VARP: Reinforcement Learning from Vision-Language Model Feedback with Agent Regularized Preferences**|Anukriti Singh et.al.|[2503.13817](http://arxiv.org/abs/2503.13817)|null|
+|**2025-03-17**|**Optimizing Data Transfer Performance and Energy Efficiency with Deep Reinforcement Learning**|Hasubil Jamil et.al.|[2503.13662](http://arxiv.org/abs/2503.13662)|null|
+|**2025-03-17**|**APF+: Boosting adaptive-potential function reinforcement learning methods with a W-shaped network for high-dimensional games**|Yifei Chen et.al.|[2503.13557](http://arxiv.org/abs/2503.13557)|null|
+|**2025-03-16**|**LLM-Mediated Guidance of MARL Systems**|Philipp D. Siedler et.al.|[2503.13553](http://arxiv.org/abs/2503.13553)|null|
+|**2025-03-16**|**Towards Hierarchical Multi-Step Reward Models for Enhanced Reasoning in Large Language Models**|Teng Wang et.al.|[2503.13551](http://arxiv.org/abs/2503.13551)|null|
+|**2025-03-16**|**Adaptive AUV Hunting Policy with Covert Communication via Diffusion Model**|Xu Guo et.al.|[2503.13547](http://arxiv.org/abs/2503.13547)|null|
+|**2025-03-15**|**From Demonstrations to Rewards: Alignment Without Explicit Human Preferences**|Siliang Zeng et.al.|[2503.13538](http://arxiv.org/abs/2503.13538)|null|
 |**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
 |**2025-03-17**|**FLEX: A Framework for Learning Robot-Agnostic Force-based Skills Involving Sustained Contact Object Manipulation**|Shijie Fang et.al.|[2503.13418](http://arxiv.org/abs/2503.13418)|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
