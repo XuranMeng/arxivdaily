@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation**|Jeongsoo Choi et.al.|[2504.20629](http://arxiv.org/abs/2504.20629)|null|
 |**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
-|**2025-04-28**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
+|**2025-04-30**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
 |**2025-04-28**|**ICL CIPHERS: Quantifying "Learning'' in In-Context Learning via Substitution Ciphers**|Zhouxiang Fang et.al.|[2504.19395](http://arxiv.org/abs/2504.19395)|null|
 |**2025-04-26**|**Inferring Questions from Programming Screenshots**|Faiz Ahmed et.al.|[2504.18912](http://arxiv.org/abs/2504.18912)|null|
 |**2025-04-26**|**Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning**|Teeradaj Racharak et.al.|[2504.18827](http://arxiv.org/abs/2504.18827)|null|
@@ -1536,7 +1536,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Transformer
 
@@ -3290,7 +3290,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Optimization
 
@@ -5287,7 +5287,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -5535,7 +5535,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -7742,7 +7742,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -7789,10 +7789,10 @@
 |**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499](http://arxiv.org/abs/2504.19499)|null|
 |**2025-04-28**|**An Automated Reinforcement Learning Reward Design Framework with Large Language Model for Cooperative Platoon Coordination**|Dixiao Wei et.al.|[2504.19480](http://arxiv.org/abs/2504.19480)|null|
 |**2025-04-28**|**JailbreaksOverTime: Detecting Jailbreak Attacks Under Distribution Shift**|Julien Piet et.al.|[2504.19440](http://arxiv.org/abs/2504.19440)|null|
-|**2025-04-27**|**LLMs for Engineering: Teaching Models to Design High Powered Rockets**|Toby Simonds et.al.|[2504.19394](http://arxiv.org/abs/2504.19394)|null|
+|**2025-04-29**|**LLMs for Engineering: Teaching Models to Design High Powered Rockets**|Toby Simonds et.al.|[2504.19394](http://arxiv.org/abs/2504.19394)|null|
 |**2025-04-27**|**HyperController: A Hyperparameter Controller for Fast and Stable Training of Reinforcement Learning Neural Networks**|Jonathan Gornet et.al.|[2504.19382](http://arxiv.org/abs/2504.19382)|null|
 |**2025-04-27**|**$O(1/k)$ Finite-Time Bound for Non-Linear Two-Time-Scale Stochastic Approximation**|Siddharth Chandak et.al.|[2504.19375](http://arxiv.org/abs/2504.19375)|null|
-|**2025-04-27**|**Contextual Online Uncertainty-Aware Preference Learning for Human Feedback**|Nan Lu et.al.|[2504.19342](http://arxiv.org/abs/2504.19342)|null|
+|**2025-04-29**|**Contextual Online Uncertainty-Aware Preference Learning for Human Feedback**|Nan Lu et.al.|[2504.19342](http://arxiv.org/abs/2504.19342)|null|
 |**2025-04-27**|**Deep Reinforcement Learning for Automated Web GUI Testing**|Zhiyu Gu et.al.|[2504.19237](http://arxiv.org/abs/2504.19237)|null|
 |**2025-04-27**|**SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning**|Jiaqi Chen et.al.|[2504.19162](http://arxiv.org/abs/2504.19162)|null|
 |**2025-04-27**|**BQSched: A Non-intrusive Scheduler for Batch Concurrent Queries via Reinforcement Learning**|Chenhao Xu et.al.|[2504.19142](http://arxiv.org/abs/2504.19142)|null|
@@ -15268,7 +15268,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250430>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
