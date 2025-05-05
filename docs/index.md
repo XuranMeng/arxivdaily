@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## ICL
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning**|Murtadha Ahmed et.al.|[2505.01110](http://arxiv.org/abs/2505.01110)|null|
+|**2025-05-02**|**Improving Large Language Model Planning with Action Sequence Similarity**|Xinran Zhao et.al.|[2505.01009](http://arxiv.org/abs/2505.01009)|null|
 |**2025-05-01**|**On the generalization of language models from in-context learning and finetuning: a controlled study**|Andrew K. Lampinen et.al.|[2505.00661](http://arxiv.org/abs/2505.00661)|null|
 |**2025-04-30**|**AdaptMI: Adaptive Skill-based In-context Math Instruction for Small Language Models**|Yinghui He et.al.|[2505.00147](http://arxiv.org/abs/2505.00147)|null|
 |**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770](http://arxiv.org/abs/2504.21770)|null|
@@ -1540,6 +1542,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383](http://arxiv.org/abs/2505.01383)|null|
+|**2025-05-02**|**MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning**|Murtadha Ahmed et.al.|[2505.01110](http://arxiv.org/abs/2505.01110)|null|
+|**2025-05-02**|**3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer**|Kamel Aouaidjia et.al.|[2505.01003](http://arxiv.org/abs/2505.01003)|null|
+|**2025-05-02**|**Graph Neural Network-based structural classification of glass-forming liquids and its interpretation via Self-Attention mechanism**|Kohei Yoshikawa et.al.|[2505.00993](http://arxiv.org/abs/2505.00993)|null|
+|**2025-05-02**|**Compact Recurrent Transformer with Persistent Memory**|Edison Mucllari et.al.|[2505.00929](http://arxiv.org/abs/2505.00929)|null|
+|**2025-05-01**|**InstructAttribute: Fine-grained Object Attributes editing with Instruction**|Xingxi Yin et.al.|[2505.00751](http://arxiv.org/abs/2505.00751)|null|
 |**2025-05-01**|**FreqKV: Frequency Domain Key-Value Compression for Efficient Context Window Extension**|Jushi Kai et.al.|[2505.00570](http://arxiv.org/abs/2505.00570)|null|
 |**2025-05-01**|**Mixture of Sparse Attention: Content-Based Learnable Sparse Attention via Expert-Choice Routing**|Piotr Piękos et.al.|[2505.00315](http://arxiv.org/abs/2505.00315)|null|
 |**2025-05-01**|**Temporal Attention Evolutional Graph Convolutional Network for Multivariate Time Series Forecasting**|Xinlong Zhao et.al.|[2505.00302](http://arxiv.org/abs/2505.00302)|null|
@@ -3300,6 +3308,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Negative Stepsizes Make Gradient-Descent-Ascent Converge**|Henry Shugart et.al.|[2505.01423](http://arxiv.org/abs/2505.01423)|null|
+|**2025-05-02**|**Towards the Resistance of Neural Network Watermarking to Fine-tuning**|Ling Tang et.al.|[2505.01007](http://arxiv.org/abs/2505.01007)|null|
+|**2025-05-02**|**How Transformers Learn Regular Language Recognition: A Theoretical Study on Training Dynamics and Implicit Bias**|Ruiquan Huang et.al.|[2505.00926](http://arxiv.org/abs/2505.00926)|null|
+|**2025-05-01**|**Dynamical System Parameter Path Optimization using Persistent Homology**|Max M. Chumley et.al.|[2505.00782](http://arxiv.org/abs/2505.00782)|null|
 |**2025-05-01**|**Functional Multidimensional Scaling**|Liting Li et.al.|[2505.00253](http://arxiv.org/abs/2505.00253)|null|
 |**2025-04-30**|**Deep Learning Optimization Using Self-Adaptive Weighted Auxiliary Variables**|Yaru Liu et.al.|[2504.21501](http://arxiv.org/abs/2504.21501)|null|
 |**2025-04-29**|**MOSIC: Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability**|Wenxin Chen et.al.|[2504.20908](http://arxiv.org/abs/2504.20908)|null|
@@ -5544,6 +5556,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Negative Stepsizes Make Gradient-Descent-Ascent Converge**|Henry Shugart et.al.|[2505.01423](http://arxiv.org/abs/2505.01423)|null|
+|**2025-05-02**|**How to Learn a Star: Binary Classification with Starshaped Polyhedral Sets**|Marie-Charlotte Brandenburg et.al.|[2505.01346](http://arxiv.org/abs/2505.01346)|null|
+|**2025-05-02**|**Towards the Resistance of Neural Network Watermarking to Fine-tuning**|Ling Tang et.al.|[2505.01007](http://arxiv.org/abs/2505.01007)|null|
+|**2025-05-02**|**How Transformers Learn Regular Language Recognition: A Theoretical Study on Training Dynamics and Implicit Bias**|Ruiquan Huang et.al.|[2505.00926](http://arxiv.org/abs/2505.00926)|null|
+|**2025-05-01**|**Dynamical System Parameter Path Optimization using Persistent Homology**|Max M. Chumley et.al.|[2505.00782](http://arxiv.org/abs/2505.00782)|null|
 |**2025-05-01**|**Functional Multidimensional Scaling**|Liting Li et.al.|[2505.00253](http://arxiv.org/abs/2505.00253)|null|
 |**2025-04-30**|**Deep Learning Optimization Using Self-Adaptive Weighted Auxiliary Variables**|Yaru Liu et.al.|[2504.21501](http://arxiv.org/abs/2504.21501)|null|
 |**2025-04-29**|**MOSIC: Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability**|Wenxin Chen et.al.|[2504.20908](http://arxiv.org/abs/2504.20908)|null|
@@ -7751,12 +7768,21 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Stabilizing Temporal Difference Learning via Implicit Stochastic Approximation**|Hwanwoo Kim et.al.|[2505.01361](http://arxiv.org/abs/2505.01361)|null|
+|**2025-05-02**|**Enhancing Diversity in Parallel Agents: A Maximum State Entropy Exploration Story**|Vincenzo De Paola et.al.|[2505.01336](http://arxiv.org/abs/2505.01336)|null|
+|**2025-05-02**|**Integration of Multi-Mode Preference into Home Energy Management System Using Deep Reinforcement Learning**|Mohammed Sumayli et.al.|[2505.01332](http://arxiv.org/abs/2505.01332)|null|
+|**2025-05-02**|**Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**|Palok Biswas et.al.|[2505.01115](http://arxiv.org/abs/2505.01115)|null|
+|**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[2505.01094](http://arxiv.org/abs/2505.01094)|null|
+|**2025-05-02**|**Llama-Nemotron: Efficient Reasoning Models**|Akhiad Bercovich et.al.|[2505.00949](http://arxiv.org/abs/2505.00949)|null|
+|**2025-05-01**|**Learning Neural Control Barrier Functions from Offline Data with Conservatism**|Ihab Tabbara et.al.|[2505.00908](http://arxiv.org/abs/2505.00908)|null|
+|**2025-05-01**|**SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation**|Quang P. M. Pham et.al.|[2505.00831](http://arxiv.org/abs/2505.00831)|null|
+|**2025-05-01**|**Constructing an Optimal Behavior Basis for the Option Keyboard**|Lucas N. Alegre et.al.|[2505.00787](http://arxiv.org/abs/2505.00787)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Multi-Constraint Safe Reinforcement Learning via Closed-form Solution for Log-Sum-Exp Approximation of Control Barrier Functions**|Chenggang Wang et.al.|[2505.00671](http://arxiv.org/abs/2505.00671)|null|
 |**2025-05-01**|**Deep Reinforcement Learning for Urban Air Quality Management: Multi-Objective Optimization of Pollution Mitigation Booth Placement in Metropolitan Environments**|Kirtan Rajesh et.al.|[2505.00668](http://arxiv.org/abs/2505.00668)|null|
 |**2025-05-01**|**Wasserstein Policy Optimization**|David Pfau et.al.|[2505.00663](http://arxiv.org/abs/2505.00663)|null|
 |**2025-05-01**|**DeepCritic: Deliberate Critique with Large Language Models**|Wenkai Yang et.al.|[2505.00662](http://arxiv.org/abs/2505.00662)|null|
-|**2025-05-01**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551](http://arxiv.org/abs/2505.00551)|null|
+|**2025-05-02**|**100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models**|Chong Zhang et.al.|[2505.00551](http://arxiv.org/abs/2505.00551)|null|
 |**2025-05-01**|**Directly Forecasting Belief for Reinforcement Learning with Delays**|Qingyuan Wu et.al.|[2505.00546](http://arxiv.org/abs/2505.00546)|null|
 |**2025-05-01**|**Emergence of Roles in Robotic Teams with Model Sharing and Limited Communication**|Ian O'Flynn et.al.|[2505.00540](http://arxiv.org/abs/2505.00540)|null|
 |**2025-05-01**|**Leveraging Partial SMILES Validation Scheme for Enhanced Drug Design in Reinforcement Learning Frameworks**|Xinyu Wang et.al.|[2505.00530](http://arxiv.org/abs/2505.00530)|null|
@@ -7814,7 +7840,7 @@ layout: default
 |**2025-04-29**|**Safe Bottom-Up Flexibility Provision from Distributed Energy Resources**|Costas Mylonas et.al.|[2504.20529](http://arxiv.org/abs/2504.20529)|null|
 |**2025-04-29**|**PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations**|Haowen Sun et.al.|[2504.20520](http://arxiv.org/abs/2504.20520)|null|
 |**2025-04-29**|**A Summary on GUI Agents with Foundation Models Enhanced by Reinforcement Learning**|Jiahao Li et.al.|[2504.20464](http://arxiv.org/abs/2504.20464)|null|
-|**2025-04-29**|**Reinforcement-learning-assisted control of four-roll mills: geometric symmetry and inertial effect**|X. Dai et.al.|[2504.20336](http://arxiv.org/abs/2504.20336)|null|
+|**2025-05-02**|**Reinforcement-learning-assisted control of four-roll mills: geometric symmetry and inertial effect**|Xuan Dai et.al.|[2504.20336](http://arxiv.org/abs/2504.20336)|null|
 |**2025-04-28**|**AI Recommendation Systems for Lane-Changing Using Adherence-Aware Reinforcement Learning**|Weihao Sun et.al.|[2504.20187](http://arxiv.org/abs/2504.20187)|null|
 |**2025-04-27**|**Adaptive Helpfulness-Harmlessness Alignment with Preference Vectors**|Ren-Wei Liang et.al.|[2504.20106](http://arxiv.org/abs/2504.20106)|null|
 |**2025-04-24**|**RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning**|Zihan Wang et.al.|[2504.20073](http://arxiv.org/abs/2504.20073)|null|
