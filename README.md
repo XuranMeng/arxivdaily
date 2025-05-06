@@ -7852,7 +7852,7 @@
 |**2025-05-04**|**Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning**|Malte Mosbach et.al.|[2505.02232](http://arxiv.org/abs/2505.02232)|null|
 |**2025-05-04**|**Interpretable Emergent Language Using Inter-Agent Transformers**|Mannan Bhardwaj et.al.|[2505.02215](http://arxiv.org/abs/2505.02215)|null|
 |**2025-05-04**|**Exploring new Approaches for Information Retrieval through Natural Language Processing**|Manak Raj et.al.|[2505.02199](http://arxiv.org/abs/2505.02199)|null|
-|**2025-05-04**|**Think on your Feet: Adaptive Thinking via Reinforcement Learning for Social Agents**|Minzheng Wang et.al.|[2505.02156](http://arxiv.org/abs/2505.02156)|null|
+|**2025-05-04**|**Think on your Feet: Adaptive Thinking via Reinforcement Learning for Social Agents**|Minzheng Wang et.al.|[2505.02156](http://arxiv.org/abs/2505.02156)|**[link](https://github.com/MozerWang/AMPO)**|
 |**2025-05-04**|**Exploring the Potential of Offline RL for Reasoning in LLMs: A Preliminary Study**|Xiaoyu Tian et.al.|[2505.02142](http://arxiv.org/abs/2505.02142)|null|
 |**2025-05-04**|**SkillMimic-V2: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations**|Runyi Yu et.al.|[2505.02094](http://arxiv.org/abs/2505.02094)|null|
 |**2025-05-04**|**A Synergistic Framework of Nonlinear Acoustic Computing and Reinforcement Learning for Real-World Human-Robot Interaction**|Xiaoliang Chen et.al.|[2505.01998](http://arxiv.org/abs/2505.01998)|null|
