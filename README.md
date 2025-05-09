@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1558,7 +1558,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Transformer
 
@@ -3337,7 +3337,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Optimization
 
@@ -5367,7 +5367,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -5617,7 +5617,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -7860,7 +7860,7 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Reinforcement
 
@@ -7886,7 +7886,7 @@
 |**2025-05-07**|**Trajectory Entropy Reinforcement Learning for Predictable and Robust Control**|Bang You et.al.|[2505.04193](http://arxiv.org/abs/2505.04193)|null|
 |**2025-05-07**|**Optimization of Infectious Disease Intervention Measures Based on Reinforcement Learning -- Empirical analysis based on UK COVID-19 epidemic data**|Baida Zhang et.al.|[2505.04161](http://arxiv.org/abs/2505.04161)|null|
 |**2025-05-07**|**Energy Efficient RSMA-Based LEO Satellite Communications Assisted by UAV-Mounted BD-Active RIS: A DRL Approach**|Rahman Saadat Yeganeh et.al.|[2505.04148](http://arxiv.org/abs/2505.04148)|null|
-|**2025-05-07**|**Reinforcement Learning-Aided Design of Efficient Polarization Kernels**|Yi-Ting Hong et.al.|[2505.04127](http://arxiv.org/abs/2505.04127)|null|
+|**2025-05-08**|**Reinforcement Learning-Aided Design of Efficient Polarization Kernels**|Yi-Ting Hong et.al.|[2505.04127](http://arxiv.org/abs/2505.04127)|null|
 |**2025-05-06**|**PARC: Physics-based Augmentation with Reinforcement Learning for Character Controllers**|Michael Xu et.al.|[2505.04002](http://arxiv.org/abs/2505.04002)|null|
 |**2025-05-06**|**X-Reasoner: Towards Generalizable Reasoning Across Modalities and Domains**|Qianchu Liu et.al.|[2505.03981](http://arxiv.org/abs/2505.03981)|null|
 |**2025-05-06**|**Deep Q-Network (DQN) multi-agent reinforcement learning (MARL) for Stock Trading**|John Christopher Tidwell et.al.|[2505.03949](http://arxiv.org/abs/2505.03949)|null|
@@ -7931,7 +7931,7 @@
 |**2025-05-05**|**Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models**|Xiaobao Wu et.al.|[2505.02686](http://arxiv.org/abs/2505.02686)|**[link](https://github.com/bobxwu/learning-from-rewards-llm-papers)**|
 |**2025-05-05**|**Online Phase Estimation of Human Oscillatory Motions using Deep Learning**|Antonio Grotta et.al.|[2505.02668](http://arxiv.org/abs/2505.02668)|null|
 |**2025-05-05**|**A Survey on Progress in LLM Alignment from the Perspective of Reward Design**|Miaomiao Ji et.al.|[2505.02666](http://arxiv.org/abs/2505.02666)|null|
-|**2025-05-05**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
+|**2025-05-08**|**A Survey of Slow Thinking-based Reasoning LLMs using Reinforced Learning and Inference-time Scaling Law**|Qianjun Pan et.al.|[2505.02665](http://arxiv.org/abs/2505.02665)|null|
 |**2025-05-05**|**Aerodynamic and structural airfoil shape optimisation via Transfer Learning-enhanced Deep Reinforcement Learning**|David Ramos et.al.|[2505.02634](http://arxiv.org/abs/2505.02634)|null|
 |**2025-05-06**|**EMORL: Ensemble Multi-Objective Reinforcement Learning for Efficient and Flexible LLM Fine-Tuning**|Lingxiao Kong et.al.|[2505.02579](http://arxiv.org/abs/2505.02579)|**[link](https://github.com/engineerkong/emorl)**|
 |**2025-05-05**|**Automated Hybrid Reward Scheduling via Large Language Models for Robotic Skill Learning**|Changxin Huang et.al.|[2505.02483](http://arxiv.org/abs/2505.02483)|null|
@@ -15540,7 +15540,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
