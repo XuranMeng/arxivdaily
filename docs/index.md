@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Understanding In-Context Learning on Structured Manifolds: Bridging Attention to Kernel Methods**|Zhaiming Shen et.al.|[2506.10959](http://arxiv.org/abs/2506.10959)|null|
+|**2025-06-12**|**Foundation Models for Causal Inference via Prior-Data Fitted Networks**|Yuchen Ma et.al.|[2506.10914](http://arxiv.org/abs/2506.10914)|null|
+|**2025-06-12**|**ConTextTab: A Semantics-Aware Tabular In-Context Learner**|Marco Spinaci et.al.|[2506.10707](http://arxiv.org/abs/2506.10707)|null|
+|**2025-06-12**|**Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning**|Jiajin Liu et.al.|[2506.10282](http://arxiv.org/abs/2506.10282)|null|
+|**2025-06-11**|**Test-Time Adaptation for Generalizable Task Progress Estimation**|Christos Ziakas et.al.|[2506.10085](http://arxiv.org/abs/2506.10085)|null|
 |**2025-06-11**|**Towards Multi-modal Graph Large Language Model**|Xin Wang et.al.|[2506.09738](http://arxiv.org/abs/2506.09738)|null|
 |**2025-06-11**|**In-Context Bias Propagation in LLM-Based Tabular Data Generation**|Pol G. Recasens et.al.|[2506.09630](http://arxiv.org/abs/2506.09630)|null|
 |**2025-06-11**|**Provoking Multi-modal Few-Shot LVLM via Exploration-Exploitation In-Context Learning**|Cheng Chen et.al.|[2506.09473](http://arxiv.org/abs/2506.09473)|null|
@@ -1742,6 +1747,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**BioClinical ModernBERT: A State-of-the-Art Long-Context Encoder for Biomedical and Clinical NLP**|Thomas Sounack et.al.|[2506.10896](http://arxiv.org/abs/2506.10896)|null|
+|**2025-06-12**|**MF2Summ: Multimodal Fusion for Video Summarization with Temporal Alignment**|Shuo wang et.al.|[2506.10430](http://arxiv.org/abs/2506.10430)|null|
+|**2025-06-12**|**Revisiting Transformers with Insights from Image Filtering**|Laziz U. Abdullaev et.al.|[2506.10371](http://arxiv.org/abs/2506.10371)|null|
+|**2025-06-12**|**History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials**|Binyao Guo et.al.|[2506.10352](http://arxiv.org/abs/2506.10352)|null|
+|**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
+|**2025-06-11**|**DeepPolar+: Breaking the BER-BLER Trade-off with Self-Attention and SMART (SNR-MAtched Redundancy Technique) decoding**|Shubham Srivastava et.al.|[2506.10166](http://arxiv.org/abs/2506.10166)|null|
 |**2025-06-12**|**TransXSSM: A Hybrid Transformer State Space Model with Unified Rotary Position Embedding**|Bingheng Wu et.al.|[2506.09507](http://arxiv.org/abs/2506.09507)|null|
 |**2025-06-11**|**Attention-Bayesian Hybrid Approach to Modular Multiple Particle Tracking**|Piyush Mishra et.al.|[2506.09441](http://arxiv.org/abs/2506.09441)|null|
 |**2025-06-12**|**On-the-Fly Adaptive Distillation of Transformer to Dual-State Linear Attention**|Yeonju Ro et.al.|[2506.09316](http://arxiv.org/abs/2506.09316)|null|
@@ -3684,6 +3695,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers**|Yixiao Huang et.al.|[2506.10887](http://arxiv.org/abs/2506.10887)|null|
+|**2025-06-11**|**AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent**|Jing Liu et.al.|[2506.10205](http://arxiv.org/abs/2506.10205)|null|
 |**2025-06-12**|**Empirical and computer-aided robustness analysis of long-step and accelerated methods in smooth convex optimization**|Pierre Vernimmen et.al.|[2506.09730](http://arxiv.org/abs/2506.09730)|null|
 |**2025-06-11**|**Auto-Compressing Networks**|Vaggelis Dorovatas et.al.|[2506.09714](http://arxiv.org/abs/2506.09714)|null|
 |**2025-06-10**|**Leveraging chaos in the training of artificial neural networks**|Pedro Jiménez-González et.al.|[2506.08523](http://arxiv.org/abs/2506.08523)|null|
@@ -6195,6 +6208,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Generalization or Hallucination? Understanding Out-of-Context Reasoning in Transformers**|Yixiao Huang et.al.|[2506.10887](http://arxiv.org/abs/2506.10887)|null|
+|**2025-06-11**|**AWP: Activation-Aware Weight Pruning and Quantization with Projected Gradient Descent**|Jing Liu et.al.|[2506.10205](http://arxiv.org/abs/2506.10205)|null|
 |**2025-06-12**|**Empirical and computer-aided robustness analysis of long-step and accelerated methods in smooth convex optimization**|Pierre Vernimmen et.al.|[2506.09730](http://arxiv.org/abs/2506.09730)|null|
 |**2025-06-11**|**Auto-Compressing Networks**|Vaggelis Dorovatas et.al.|[2506.09714](http://arxiv.org/abs/2506.09714)|null|
 |**2025-06-10**|**Understanding Task Vectors in In-Context Learning: Emergence, Functionality, and Limitations**|Yuxin Dong et.al.|[2506.09048](http://arxiv.org/abs/2506.09048)|null|
@@ -8676,6 +8691,35 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop**|Justin Kerr et.al.|[2506.10968](http://arxiv.org/abs/2506.10968)|null|
+|**2025-06-12**|**Spurious Rewards: Rethinking Training Signals in RLVR**|Rulin Shao et.al.|[2506.10947](http://arxiv.org/abs/2506.10947)|null|
+|**2025-06-12**|**Self-Adapting Language Models**|Adam Zweiger et.al.|[2506.10943](http://arxiv.org/abs/2506.10943)|null|
+|**2025-06-12**|**Magistral**|Mistral-AI et.al.|[2506.10910](http://arxiv.org/abs/2506.10910)|null|
+|**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889](http://arxiv.org/abs/2506.10889)|null|
+|**2025-06-12**|**Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization**|Pierre-François Massiani et.al.|[2506.10871](http://arxiv.org/abs/2506.10871)|null|
+|**2025-06-12**|**Joint Beamforming with Extremely Large Scale RIS: A Sequential Multi-Agent A2C Approach**|Zhi Chai et.al.|[2506.10815](http://arxiv.org/abs/2506.10815)|null|
+|**2025-06-12**|**Human-Robot Navigation using Event-based Cameras and Reinforcement Learning**|Ignacio Bugueno-Cordova et.al.|[2506.10790](http://arxiv.org/abs/2506.10790)|null|
+|**2025-06-12**|**PosterCraft: Rethinking High-Quality Aesthetic Poster Generation in a Unified Framework**|SiXiang Chen et.al.|[2506.10741](http://arxiv.org/abs/2506.10741)|null|
+|**2025-06-12**|**Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**|Yucong Luo et.al.|[2506.10630](http://arxiv.org/abs/2506.10630)|null|
+|**2025-06-12**|**Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning**|Yucheng Yang et.al.|[2506.10629](http://arxiv.org/abs/2506.10629)|null|
+|**2025-06-12**|**Fast on the Easy, Deep on the Hard: Efficient Reasoning via Powered Length Penalty**|Zehui Ling et.al.|[2506.10446](http://arxiv.org/abs/2506.10446)|null|
+|**2025-06-12**|**PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier**|Yuhua Jiang et.al.|[2506.10406](http://arxiv.org/abs/2506.10406)|null|
+|**2025-06-12**|**Optimus-3: Towards Generalist Multimodal Minecraft Agents with Scalable Task Experts**|Zaijing Li et.al.|[2506.10357](http://arxiv.org/abs/2506.10357)|null|
+|**2025-06-12**|**Motion-R1: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation**|Runqi Ouyang et.al.|[2506.10353](http://arxiv.org/abs/2506.10353)|null|
+|**2025-06-12**|**A Benchmark for Generalizing Across Diverse Team Strategies in Competitive Pokémon**|Cameron Angliss et.al.|[2506.10326](http://arxiv.org/abs/2506.10326)|null|
+|**2025-06-12**|**Multi-Timescale Dynamics Model Bayesian Optimization for Plasma Stabilization in Tokamaks**|Rohit Sonker et.al.|[2506.10287](http://arxiv.org/abs/2506.10287)|null|
+|**2025-06-11**|**Wasserstein Barycenter Soft Actor-Critic**|Zahra Shahrooei et.al.|[2506.10167](http://arxiv.org/abs/2506.10167)|null|
+|**2025-06-11**|**Can LLMs Generate Good Stories? Insights and Challenges from a Narrative Planning Perspective**|Yi Wang et.al.|[2506.10161](http://arxiv.org/abs/2506.10161)|null|
+|**2025-06-11**|**Attention on flow control: transformer-based reinforcement learning for lift regulation in highly disturbed flows**|Zhecheng Liu et.al.|[2506.10153](http://arxiv.org/abs/2506.10153)|null|
+|**2025-06-11**|**Unsupervised Elicitation of Language Models**|Jiaxin Wen et.al.|[2506.10139](http://arxiv.org/abs/2506.10139)|null|
+|**2025-06-11**|**Interpreting learned search: finding a transition model and value function in an RNN that plays Sokoban**|Mohammad Taufeeque et.al.|[2506.10138](http://arxiv.org/abs/2506.10138)|null|
+|**2025-06-11**|**Provable Sim-to-Real Transfer via Offline Domain Randomization**|Arnaud Fickinger et.al.|[2506.10133](http://arxiv.org/abs/2506.10133)|null|
+|**2025-06-11**|**ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs**|Xiyao Wang et.al.|[2506.10128](http://arxiv.org/abs/2506.10128)|null|
+|**2025-06-11**|**D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning**|Muqi Zou et.al.|[2506.10125](http://arxiv.org/abs/2506.10125)|null|
+|**2025-06-11**|**ChartReasoner: Code-Driven Modality Bridging for Long-Chain Reasoning in Chart Question Answering**|Caijun Jia et.al.|[2506.10116](http://arxiv.org/abs/2506.10116)|null|
+|**2025-06-11**|**Patient-Specific Deep Reinforcement Learning for Automatic Replanning in Head-and-Neck Cancer Proton Therapy**|Malvern Madondo et.al.|[2506.10073](http://arxiv.org/abs/2506.10073)|null|
+|**2025-06-11**|**Omni-DPO: A Dual-Perspective Paradigm for Dynamic Preference Learning of LLMs**|Shangpin Peng et.al.|[2506.10054](http://arxiv.org/abs/2506.10054)|null|
+|**2025-06-11**|**GenBreak: Red Teaming Text-to-Image Generators Using Large Language Models**|Zilong Wang et.al.|[2506.10047](http://arxiv.org/abs/2506.10047)|null|
 |**2025-06-11**|**Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing**|Junfei Wu et.al.|[2506.09965](http://arxiv.org/abs/2506.09965)|null|
 |**2025-06-11**|**VerIF: Verification Engineering for Reinforcement Learning in Instruction Following**|Hao Peng et.al.|[2506.09942](http://arxiv.org/abs/2506.09942)|null|
 |**2025-06-11**|**The Sample Complexity of Online Strategic Decision Making with Information Asymmetry and Knowledge Transportability**|Jiachen Hu et.al.|[2506.09940](http://arxiv.org/abs/2506.09940)|null|
