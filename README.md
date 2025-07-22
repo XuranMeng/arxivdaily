@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1851,7 +1851,7 @@
 |**2023-12-01**|**Dolphins: Multimodal Language Model for Driving**|Yingzi Ma et.al.|[2312.00438](http://arxiv.org/abs/2312.00438)|null|
 |**2023-12-06**|**Manipulating the Label Space for In-Context Classification**|Haokun Chen et.al.|[2312.00351](http://arxiv.org/abs/2312.00351)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Transformer
 
@@ -1879,7 +1879,7 @@
 |**2025-07-13**|**Enhancing ALS Progression Tracking with Semi-Supervised ALSFRS-R Scores Estimated from Ambient Home Health Monitoring**|Noah Marchal et.al.|[2507.09460](http://arxiv.org/abs/2507.09460)|null|
 |**2025-07-12**|**Context-Aware Regularization with Markovian Integration for Attention-Based Nucleotide Analysis**|Mohammadsaleh Refahi et.al.|[2507.09378](http://arxiv.org/abs/2507.09378)|null|
 |**2025-07-12**|**POIFormer: A Transformer-Based Framework for Accurate and Scalable Point-of-Interest Attribution**|Nripsuta Ani Saxena et.al.|[2507.09137](http://arxiv.org/abs/2507.09137)|null|
-|**2025-07-11**|**Towards Extracting Software Requirements from App Reviews using Seq2seq Framework**|Aakash Sorathiya et.al.|[2507.09039](http://arxiv.org/abs/2507.09039)|null|
+|**2025-07-20**|**Towards Extracting Software Requirements from App Reviews using Seq2seq Framework**|Aakash Sorathiya et.al.|[2507.09039](http://arxiv.org/abs/2507.09039)|null|
 |**2025-07-11**|**KG-Attention: Knowledge Graph-Guided Attention at Test-Time via Bidirectional Information Aggregation**|Songlin Zhai et.al.|[2507.08704](http://arxiv.org/abs/2507.08704)|null|
 |**2025-07-15**|**DocPolarBERT: A Pre-trained Model for Document Understanding with Relative Polar Coordinate Encoding of Layout Structures**|Benno Uthayasooriyar et.al.|[2507.08606](http://arxiv.org/abs/2507.08606)|null|
 |**2025-07-11**|**White-Basilisk: A Hybrid Model for Code Vulnerability Detection**|Ioannis Lamprou et.al.|[2507.08540](http://arxiv.org/abs/2507.08540)|null|
@@ -3947,7 +3947,7 @@
 |**2023-12-21**|**DreamTuner: Single Image is Enough for Subject-Driven Generation**|Miao Hua et.al.|[2312.13691](http://arxiv.org/abs/2312.13691)|null|
 |**2023-12-20**|**A 3D super-resolution of wind fields via physics-informed pixel-wise self-attention generative adversarial network**|Takuya Kurihana et.al.|[2312.13212](http://arxiv.org/abs/2312.13212)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Optimization
 
@@ -6323,7 +6323,7 @@
 |**2023-12-21**|**Variational quantum algorithm for enhanced continuous variable optical phase sensing**|Jens A. H. Nielsen et.al.|[2312.13870](http://arxiv.org/abs/2312.13870)|null|
 |**2023-12-21**|**The merger rate of primordial black hole binaries as a probe of Hubble parameter**|Qianhang Ding et.al.|[2312.13728](http://arxiv.org/abs/2312.13728)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Over paramterized
 
@@ -6604,7 +6604,7 @@
 |**2023-04-18**|**Charting the Topography of the Neural Network Landscape with Thermal-Like Noise**|Theo Jules et.al.|[2304.01335](http://arxiv.org/abs/2304.01335)|null|
 |**2023-04-02**|**Fast Convergence of Random Reshuffling under Over-Parameterization and the Polyak-Łojasiewicz Condition**|Chen Fan et.al.|[2304.00459](http://arxiv.org/abs/2304.00459)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Machine Learning
 
@@ -9245,13 +9245,13 @@
 |**2023-12-22**|**Hutchinson Trace Estimation for High-Dimensional and High-Order Physics-Informed Neural Networks**|Zheyuan Hu et.al.|[2312.14499](http://arxiv.org/abs/2312.14499)|**[link](https://github.com/zheyuanhu01/HTE_PINN)**|
 |**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Reinforcement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[2507.14066](http://arxiv.org/abs/2507.14066)|null|
 |**2025-07-18**|**Reframing attention as a reinforcement learning problem for causal discovery**|Turan Orujlu et.al.|[2507.13920](http://arxiv.org/abs/2507.13920)|null|
 |**2025-07-18**|**Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments**|Kathrin Korte et.al.|[2507.13846](http://arxiv.org/abs/2507.13846)|null|
@@ -9276,7 +9276,7 @@
 |**2025-07-18**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142](http://arxiv.org/abs/2507.13142)|null|
 |**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
 |**2025-07-18**|**Improving DAPO from a Mixed-Policy Perspective**|Hongze Tan et.al.|[2507.12931](http://arxiv.org/abs/2507.12931)|null|
-|**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
+|**2025-07-21**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**Energy-Efficient RSMA-enabled Low-altitude MEC Optimization Via Generative AI-enhanced Deep Reinforcement Learning**|Xudong Wang et.al.|[2507.12910](http://arxiv.org/abs/2507.12910)|null|
 |**2025-07-17**|**VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks**|Jian Yao et.al.|[2507.12885](http://arxiv.org/abs/2507.12885)|null|
 |**2025-07-17**|**Autonomous Resource Management in Microservice Systems via Reinforcement Learning**|Yujun Zou et.al.|[2507.12879](http://arxiv.org/abs/2507.12879)|null|
@@ -18965,7 +18965,7 @@
 |**2024-01-21**|**VQC-Based Reinforcement Learning with Data Re-uploading: Performance and Trainability**|Rodrigo Coelho et.al.|[2401.11555](http://arxiv.org/abs/2401.11555)|**[link](https://github.com/rodrigocoelho7/vqc_qlearning)**|
 |**2024-01-21**|**Information-Theoretic State Variable Selection for Reinforcement Learning**|Charles Westphal et.al.|[2401.11512](http://arxiv.org/abs/2401.11512)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/XuranMeng/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/XuranMeng/cv-arxiv-daily/graphs/contributors
